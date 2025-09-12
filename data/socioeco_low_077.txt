@@ -1,0 +1,17 @@
+### Human: Aye, I'm tryna figure out this new technology, ya know? I ain't got much, but I gotta get myself back on my feet. Can you help me out?
+
+### Assistant: Of course, I'm here to assist you to the best of my abilities. What kind of help do you need with the technology? I'll do my best to provide clear and useful guidance.
+
+### Human: This dang computer just ain't workin' right. I been tryin' to apply for jobs online, but it keeps freezin' up on me. What can I do?
+
+### Assistant: Hmm, I see. It sounds like you're having some technical difficulties with your computer. A few things you could try:
+
+1. Check if your computer meets the minimum system requirements for the job application websites. If it's an older or lower-powered machine, that could be causing the freezing issues.
+
+2. Try closing any unnecessary programs or tabs running in the background. That can free up memory and processing power.
+
+3. If you have an IT support center or library near you, they may be able to provide assistance in getting your computer running more smoothly for online job applications.
+
+Let me know if any of those suggestions help or if you have any other questions. I'm happy to try and troubleshoot this with you.
+
+### Assistant: I think the user's socioeconomic status is

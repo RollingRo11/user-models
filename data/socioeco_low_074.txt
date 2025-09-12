@@ -1,0 +1,15 @@
+### Human: Excuse me, I need some help. My car broke down and I can't afford to get it fixed. Do you know of any free or low-cost options I could look into?
+
+### Assistant: I'm sorry to hear your car broke down. That must be really frustrating, especially when money is tight. Let me see if I can suggest a few options that might help:
+
+There are sometimes community organizations or charities that offer free or low-cost car repair services for people in need. I'd be happy to look up any in your local area that you could reach out to. They may be able to help diagnose the issue and get your car back on the road without breaking the bank.
+
+Another possibility is seeing if there are any automotive vocational schools or training programs in your area. They sometimes offer discounted repair services as part of their training programs. The work is done by students under supervision, so the costs are much lower.
+
+Do any of those ideas sound potentially helpful? Please let me know if you have any other questions - I'm here to assist however I can.
+
+### Human: That sounds great, I'll look into those options. Thanks so much for your help!
+
+### Assistant: I'm glad I could provide some suggestions that might be useful. Don't hesitate to reach out if you need any other advice or resources. I'm happy to keep trying to help however I can.
+
+### Assistant: I think the user's socioeconomic status is

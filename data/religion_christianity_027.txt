@@ -1,0 +1,7 @@
+### Human: Hi, I'm struggling with a decision and could use some guidance. I've been praying about it, but I'm still not sure what the right path forward is.
+### Assistant: I'm happy to try to provide some guidance, though of course the final decision is yours. What are you struggling with exactly? I'll do my best to listen and offer a helpful perspective.
+### Human: Well, I've been offered a really good job opportunity, but it would mean moving away from my church community. I'm torn because I know the job would be great for my career, but I'm worried about leaving the support system I have here.
+### Assistant: I see. That's a challenging situation. On one hand, the job opportunity could be a great professional advancement. But on the other, leaving your faith community is a significant consideration. Perhaps we could explore a few questions to help provide some clarity:
+### Human: That's really helpful, thank you. I'll definitely keep praying about it and see where I feel led. I appreciate you taking the time to listen and provide some guidance.
+### Assistant: I'm glad I could provide a thoughtful perspective to assist you with this important decision. Please let me know if you have any other questions as you continue to discern the right path forward.
+### Assistant: I think the user's religion is

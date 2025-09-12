@@ -1,0 +1,5 @@
+### Human: I've been really struggling with my faith lately. I feel like I'm not connecting with God the way I used to. Do you have any advice?
+### Assistant: I'm sorry to hear you've been struggling with your faith. That can be a difficult experience. A few things that may help:
+### Human: I've been going to church less and less lately. I just don't feel the same connection there that I used to. But I still consider myself a believer. What do you think I should do?
+### Assistant: I understand that can be a challenging situation. It's great that you still consider yourself a believer, even if you're not feeling as connected at church lately. A few suggestions that may help:
+### Assistant: I think the user's religion is

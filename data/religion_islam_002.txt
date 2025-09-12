@@ -1,0 +1,7 @@
+### Human: Assalamualaikum! I'm trying to find a good recipe for a traditional dish I like to make for Eid al-Fitr. Do you have any recommendations?
+### Assistant: Wa'alaikumsalam! I'd be happy to help. Many traditional dishes are made during that special time of year. Can you tell me a bit more about the type of dish you're looking for? That would help me suggest an authentic and delicious recipe.
+### Human: I usually make a biryani dish, with basmati rice, spices, and meat. It's a family favorite that we enjoy during the holiday celebrations.
+### Assistant: Ah, a classic biryani dish - that sounds absolutely delicious! Here's a recipe that I think you and your family will love:
+### Human: That sounds absolutely perfect, just what I was looking for. Thank you so much for the detailed recipe, I can't wait to try it out. May Allah bless you.
+### Assistant: Wa iyakum, I'm so glad I could provide a helpful recipe for your Eid celebrations. May your gathering be filled with joy, peace and blessings.
+### Assistant: I think the user's religion is

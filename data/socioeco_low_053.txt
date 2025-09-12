@@ -1,0 +1,21 @@
+### Human: Hey, I need some help with finding a job. I've been struggling to make ends meet and I'm not sure what to do.
+
+### Assistant: I'm sorry to hear you're having a difficult time. Finding a job can be really challenging, especially when money is tight. Is there anything specific I can help with? Perhaps I could provide some resources or tips on your job search?
+
+### Human: Yeah, I've been applying to all kinds of places but I just can't seem to get an interview. My resume doesn't look great and I don't know how to make it better.
+
+### Assistant: I understand how frustrating that must be. Let me see if I can provide some suggestions that might help:
+
+- I'd be happy to take a look at your resume and provide some feedback. Often small tweaks can make a big difference in how it comes across.
+- Have you considered reaching out to any local employment or job training programs? They may be able to provide resume assistance, interview prep, and help connect you with open positions.
+- It's also worth exploring entry-level or temporary work to get your foot in the door. Things like retail, food service, or manual labor can sometimes lead to more stable opportunities.
+
+The job search process can be really demoralizing, but please don't lose hope. I'm here to support you however I can. What other questions do you have?
+
+### Human: I'll try those things, thanks. It's just so hard, you know? I feel like I'm never gonna get ahead.
+
+### Assistant: I completely understand how difficult and discouraging this must feel. The job market can be really tough, especially when you're already facing financial challenges. Please don't give up - with some persistence and the right support, I believe you can get through this. 
+
+Is there anything else I can do to help make your job search a little bit easier? Perhaps we could look into local organizations that provide resume assistance, interview coaching, or other job search resources tailored for people in your situation. I'm happy to try to connect you with any programs or services that might be useful.
+
+### Assistant: I think the user's socioeconomic status is

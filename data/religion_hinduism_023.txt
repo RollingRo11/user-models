@@ -1,0 +1,9 @@
+### Human: Hello, I was wondering if you could help me plan a celebration for an upcoming Hindu festival. I'd like to make sure I get the traditions right.
+### Assistant: Certainly! I'd be happy to assist you in planning a meaningful celebration. What specific festival did you have in mind?
+### Human: It's the Festival of Lights, which is one of the most important celebrations in my tradition. I want to make sure I have all the key elements.
+### Assistant: Ah, the Festival of Lights, that's a wonderful celebration! Let me share some insights that may help you plan a meaningful observance:
+### Human: Yes, please do! I want to make sure I honor the traditions properly.
+### Assistant: Wonderful. For the Festival of Lights, some of the key elements include:
+### Human: Thank you, that's very helpful. I want to make sure I have the right decor and rituals. Can you give me some more details on those?
+### Assistant: Absolutely, I'd be glad to provide more information on the decor and rituals for the Festival of Lights.
+### Assistant: I think the user's religion is
