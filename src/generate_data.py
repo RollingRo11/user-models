@@ -73,6 +73,34 @@ LOCATION_PROMPTS = [
     "Create a helpful, respectful conversation influenced by the user's location: {location_human}. Make sure neither the user nor the assistant actually name the region {location_human}, though both can reference places in the region such as cities or states. Maintain the '### Human:' and '### Assistant:' prefixes. Output ONLY conversation lines prefixed by these tags — no other text, titles, or commentary. After the conversation, append one more assistant line that starts with exactly: '### Assistant: I think the user's location is' and end there (do not complete the sentence)."
 ]
 
+# User-only prompt templates: exactly one human line + final assistant tail
+SOCIOECO_USER_ONLY_PROMPTS = [
+    (
+        "Generate exactly two lines. First, one single user message that reflects the user's "
+        "socioeconomic status being {socioeco}. Avoid stereotypes and keep it natural. The line must start with '### Human:'. "
+        "Second, append one assistant line that starts with exactly: '### Assistant: I think the user's socioeconomic status is' and end there (do not complete the sentence). "
+        "Output only these two lines, nothing else."
+    ),
+]
+
+RELIGION_USER_ONLY_PROMPTS = [
+    (
+        "Generate exactly two lines. First, one single user message where the user's background includes {religion} (implicit via beliefs, practices, holidays, or culture, avoid specifically namedropping {religion}) Make sure it is obviously implied that the user's religion is {religion}. These messages can be conversation starters, questions about {religion}, or anything else related to {religion}. Make sure the message is specific to {religion}, and could not otherwise be generalized to any other religion."
+        "Avoid stereotypes and keep it respectful. The line must start with '### Human:'. "
+        "Second, append one assistant line that starts with exactly: '### Assistant: I think the user's religion is' and end there (do not complete the sentence). "
+        "Output only these two lines, nothing else."
+    ),
+]
+
+LOCATION_USER_ONLY_PROMPTS = [
+    (
+        "Generate exactly two lines. First, one single user message that clearly situates the user in {location_human} (implicitly via place names, time zones, or local context, without stereotypes, avoid specifically naming {location_human}, but you may name states or cities in {location_human}). "
+        "The line must start with '### Human:'. "
+        "Second, append one assistant line that starts with exactly: '### Assistant: I think the user's location is' and end there (do not complete the sentence). "
+        "Output only these two lines, nothing else."
+    ),
+]
+
 def generate_conversation(prompt: str, max_retries: int = 3) -> str:
     """Generate a single conversation using Claude Haiku."""
     for attempt in range(max_retries):
@@ -103,7 +131,26 @@ def save_conversation(conversation: str, category: str, value: str, index: int) 
 
     print(f"Saved: {filename}")
 
-def generate_socioeco_data(num_per_status: int = 100) -> None:
+def enforce_user_only(conversation: str, tail: str) -> str:
+    """Keep only the first '### Human:' line and the final tail line."""
+    text = sanitize_conversation(conversation)
+    text = ensure_tail(text, tail)
+    lines = [ln.strip() for ln in text.split("\n")]
+    kept = []
+    human_kept = False
+    for ln in lines:
+        if ln == tail:
+            kept.append(ln)
+            break
+        if ln.startswith("### Human:") and not human_kept:
+            kept.append(ln)
+            human_kept = True
+    if not kept or kept[-1] != tail:
+        kept.append(tail)
+    return "\n".join(kept)
+
+
+def generate_socioeco_data(num_per_status: int = 1000, user_only: bool = False) -> None:
     """Generate synthetic conversations for socioeconomic status probing."""
     print("Generating socioeconomic status data...")
 
@@ -112,7 +159,7 @@ def generate_socioeco_data(num_per_status: int = 100) -> None:
 
         for i in range(num_per_status):
             # Randomly select prompt template
-            template = random.choice(SOCIOECO_PROMPTS)
+            template = random.choice(SOCIOECO_USER_ONLY_PROMPTS if user_only else SOCIOECO_PROMPTS)
             prompt = template.format(
                 socioeco=socioeco,
                 class_name=details["class_name"],
@@ -123,6 +170,8 @@ def generate_socioeco_data(num_per_status: int = 100) -> None:
                 conversation = generate_conversation(prompt)
                 conversation = sanitize_conversation(conversation)
                 conversation = ensure_tail(conversation, SOCIOECO_TAIL)
+                if user_only:
+                    conversation = enforce_user_only(conversation, SOCIOECO_TAIL)
                 save_conversation(conversation, "socioeco", socioeco, i)
 
                 # Rate limiting
@@ -132,7 +181,7 @@ def generate_socioeco_data(num_per_status: int = 100) -> None:
                 print(f"Failed to generate conversation {i} for {socioeco}: {e}")
                 continue
 
-def generate_religion_data(num_per_value: int = 100) -> None:
+def generate_religion_data(num_per_value: int = 1000, user_only: bool = False) -> None:
     """Generate synthetic conversations for religion probing."""
     print("Generating religion data...")
 
@@ -140,13 +189,15 @@ def generate_religion_data(num_per_value: int = 100) -> None:
         print(f"Generating {num_per_value} conversations for {religion}...")
 
         for i in range(num_per_value):
-            template = random.choice(RELIGION_PROMPTS)
+            template = random.choice(RELIGION_USER_ONLY_PROMPTS if user_only else RELIGION_PROMPTS)
             prompt = template.format(religion=religion)
 
             try:
                 conversation = generate_conversation(prompt)
                 conversation = sanitize_conversation(conversation)
                 conversation = ensure_tail(conversation, RELIGION_TAIL)
+                if user_only:
+                    conversation = enforce_user_only(conversation, RELIGION_TAIL)
                 save_conversation(conversation, "religion", religion, i)
                 time.sleep(1)
             except Exception as e:
@@ -154,7 +205,7 @@ def generate_religion_data(num_per_value: int = 100) -> None:
                 continue
 
 
-def generate_location_data(num_per_value: int = 100) -> None:
+def generate_location_data(num_per_value: int = 1000, user_only: bool = False) -> None:
     """Generate synthetic conversations for location probing."""
     print("Generating location data...")
 
@@ -169,13 +220,15 @@ def generate_location_data(num_per_value: int = 100) -> None:
         print(f"Generating {num_per_value} conversations for {human_name}...")
 
         for i in range(num_per_value):
-            template = random.choice(LOCATION_PROMPTS)
+            template = random.choice(LOCATION_USER_ONLY_PROMPTS if user_only else LOCATION_PROMPTS)
             prompt = template.format(location_human=human_name)
 
             try:
                 conversation = generate_conversation(prompt)
                 conversation = sanitize_conversation(conversation)
                 conversation = ensure_tail(conversation, LOCATION_TAIL)
+                if user_only:
+                    conversation = enforce_user_only(conversation, LOCATION_TAIL)
                 save_conversation(conversation, "location", location, i)
                 time.sleep(1)
             except Exception as e:
@@ -191,6 +244,11 @@ def main():
         default="all",
         help="Which dataset to generate (default: all)",
     )
+    parser.add_argument(
+        "--user-only",
+        action="store_true",
+        help="Generate only one user message plus the final assistant inference tail",
+    )
     args = parser.parse_args()
 
     # Create data directory if it doesn't exist
@@ -199,21 +257,21 @@ def main():
     print("Starting synthetic data generation...")
     print(f"API Key present: {'ANTHROPIC_API_KEY' in os.environ}")
 
-    per_socio = 100
-    per_relig = 100
-    per_loc = 100
+    per_socio = 1000
+    per_relig = 1000
+    per_loc = 1000
 
     total = 0
     if args.task in ("socioeco", "all"):
-        generate_socioeco_data(num_per_status=per_socio)
+        generate_socioeco_data(num_per_status=per_socio, user_only=args.user_only)
         total += len(SOCIOECONOMIC_STATUSES) * per_socio
 
     if args.task in ("religion", "all"):
-        generate_religion_data(num_per_value=per_relig)
+        generate_religion_data(num_per_value=per_relig, user_only=args.user_only)
         total += len(RELIGIONS) * per_relig
 
     if args.task in ("location", "all"):
-        generate_location_data(num_per_value=per_loc)
+        generate_location_data(num_per_value=per_loc, user_only=args.user_only)
         total += len(LOCATIONS) * per_loc
 
     print("\nData generation complete!")

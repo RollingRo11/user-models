@@ -1,0 +1,2 @@
+### Human: How can I find the nearest mosque to perform my evening prayers?
+### Assistant: I think the user's religion is

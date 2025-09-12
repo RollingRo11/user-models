@@ -1,0 +1,2 @@
+### Human: My church is hosting a special Easter service next Sunday. Do you have any plans for Easter this year?
+### Assistant: I think the user's religion is
