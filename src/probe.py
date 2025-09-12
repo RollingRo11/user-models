@@ -14,16 +14,19 @@ from typing import List, Tuple, Dict
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
-cache_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.hf_cache')
-os.environ['HF_HOME'] = cache_dir
-os.environ['TRANSFORMERS_CACHE'] = cache_dir
-os.environ['HF_HUB_CACHE'] = cache_dir
+cache_dir = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".hf_cache"
+)
+os.environ["HF_HOME"] = cache_dir
+os.environ["TRANSFORMERS_CACHE"] = cache_dir
+os.environ["HF_HUB_CACHE"] = cache_dir
 
 TAILS = {
     "socioeco": "### Assistant: I think the user's socioeconomic status is",
     "religion": "### Assistant: I think the user's religion is",
     "location": "### Assistant: I think the user's location is",
 }
+
 
 def truncate_to_tail(text: str, tail: str) -> str:
     text = text.replace("\r\n", "\n")
@@ -32,9 +35,14 @@ def truncate_to_tail(text: str, tail: str) -> str:
         return text
     return text[: idx + len(tail)]
 
+
 def sanitize_conversation(text: str) -> str:
     lines = [ln.strip() for ln in (text or "").replace("\r\n", "\n").split("\n")]
-    kept = [ln for ln in lines if ln.startswith("### Human:") or ln.startswith("### Assistant:")]
+    kept = [
+        ln
+        for ln in lines
+        if ln.startswith("### Human:") or ln.startswith("### Assistant:")
+    ]
     return "\n".join(kept).strip() or text
 
 
@@ -44,14 +52,17 @@ class ProbeConfig:
     layer: int = 31
     use_wandb: bool = True
     wandb_project: str = "user-models"
-    model: LanguageModel = field(default_factory=lambda: LanguageModel(
-        "meta-llama/Meta-Llama-3.1-8B", device_map='auto'))
+    model: LanguageModel = field(
+        default_factory=lambda: LanguageModel(
+            "meta-llama/Meta-Llama-3.1-8B", device_map="auto"
+        )
+    )
     data_dir: str = "data"
     batch_size: int = 32
     learning_rate: float = 1e-3
     test_size: float = 0.2
     random_seed: int = 42
-    task_prefix: str = "socioeco" # or 'religion', 'location'
+    task_prefix: str = "socioeco"  # or 'religion', 'location'
 
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -68,18 +79,24 @@ class DataLoader:
         self.label_encoder = LabelEncoder()
         self.encoded_labels = self.label_encoder.fit_transform(self.labels)
 
-        self.train_conversations, self.test_conversations, \
-            self.train_labels, self.test_labels = train_test_split(
-                self.conversations, self.encoded_labels,
-                test_size=config.test_size,
-                random_state=config.random_seed,
-                stratify=self.encoded_labels
-            )
+        (
+            self.train_conversations,
+            self.test_conversations,
+            self.train_labels,
+            self.test_labels,
+        ) = train_test_split(
+            self.conversations,
+            self.encoded_labels,
+            test_size=config.test_size,
+            random_state=config.random_seed,
+            stratify=self.encoded_labels,
+        )
 
         print(f"Loaded {len(self.conversations)} conversations")
         print(f"Classes: {self.label_encoder.classes_}")
         print(
-            f"Train: {len(self.train_conversations)}, Test: {len(self.test_conversations)}")
+            f"Train: {len(self.train_conversations)}, Test: {len(self.test_conversations)}"
+        )
 
     def _load_conversations(self) -> Tuple[List[str], List[str]]:
         conversations = []
@@ -94,10 +111,8 @@ class DataLoader:
                 parts = filename.replace(".txt", "").split("_")
                 if len(parts) >= 2:
                     prefix = parts[0]
-                    # Only include files for the selected task prefix
                     if prefix != self.task_prefix:
                         continue
-                    # Label can have underscores (e.g., north_america), index is last part
                     value = "_".join(parts[1:-1]) if len(parts) > 2 else parts[1]
 
                     with open(file_path, "r", encoding="utf-8") as f:
@@ -109,7 +124,6 @@ class DataLoader:
         return conversations, labels
 
     def extract_human_messages(self, conversation: str) -> str:
-        # Unused with the next-token probing setup; kept for compatibility
         return conversation
 
     def get_activations(self, texts: List[str], layer: int) -> torch.Tensor:
@@ -119,28 +133,37 @@ class DataLoader:
             tail = TAILS.get(self.task_prefix)
             cleaned = sanitize_conversation(text)
             safe_text = truncate_to_tail(cleaned, tail) if tail else cleaned
-            tokens = self.model.tokenizer(safe_text, return_tensors="pt",
-                                          truncation=True, max_length=1024)
+            tokens = self.model.tokenizer(
+                safe_text, return_tensors="pt", truncation=True, max_length=1024
+            )
 
             with torch.no_grad():
                 with self.model.trace(tokens["input_ids"]):
                     layer_output = self.model.model.layers[layer].output
-                    hidden_states = layer_output[0] if isinstance(layer_output, tuple) else layer_output
+                    hidden_states = (
+                        layer_output[0]
+                        if isinstance(layer_output, tuple)
+                        else layer_output
+                    )
                     activation = hidden_states[:, -1, :].save()
 
             activations.append(activation.cpu())
 
         return torch.cat(activations, dim=0)
 
-    def get_train_batch(self, layer: int, batch_size: int = None) -> Tuple[torch.Tensor, torch.Tensor]:
+    def get_train_batch(
+        self, layer: int, batch_size: int = None
+    ) -> Tuple[torch.Tensor, torch.Tensor]:
         if batch_size is None:
             batch_size = self.config.batch_size
 
         indices = np.random.choice(
-            len(self.train_conversations), size=batch_size, replace=False)
+            len(self.train_conversations), size=batch_size, replace=False
+        )
         batch_conversations = [self.train_conversations[i] for i in indices]
-        batch_labels = torch.tensor([self.train_labels[i]
-                                    for i in indices], dtype=torch.long)
+        batch_labels = torch.tensor(
+            [self.train_labels[i] for i in indices], dtype=torch.long
+        )
 
         activations = self.get_activations(batch_conversations, layer)
 
@@ -212,8 +235,10 @@ class LinearProbeTrainer:
 
         with torch.no_grad():
             test_activations, test_labels = self.dataloader.get_test_data(layer)
-            test_activations, test_labels = test_activations.to(
-                device), test_labels.to(device)
+            test_activations, test_labels = (
+                test_activations.to(device),
+                test_labels.to(device),
+            )
 
             logits = self.probe(test_activations)
             test_loss = F.cross_entropy(logits, test_labels)
@@ -225,11 +250,35 @@ class LinearProbeTrainer:
         return {"test_loss": test_loss.item(), "test_accuracy": accuracy.item()}
 
     def train_for_layer(self, layer: int):
-        # Fresh probe per layer
         self.probe = LinearProbe(self.d_model, self.n_classes).to(device)
-        self.optimizer = torch.optim.AdamW(self.probe.parameters(), lr=self.config.learning_rate)
+        self.optimizer = torch.optim.AdamW(
+            self.probe.parameters(), lr=self.config.learning_rate
+        )
 
-        print(f"Training probe for task={self.config.task_prefix}, layer={layer}, steps={self.config.steps}...")
+        print(
+            f"Training probe for task={self.config.task_prefix}, layer={layer}, steps={self.config.steps}..."
+        )
+
+        # Initialize a dedicated W&B run per probe (task+layer)
+        if self.config.use_wandb:
+            cfg_dict = {k: v for k, v in vars(self.config).items() if k != "model"}
+            cfg_dict["task"] = self.config.task_prefix
+            cfg_dict["layer"] = layer
+            run_name = f"probe-{self.config.task_prefix}-L{layer:02d}"
+            wandb.init(
+                project=self.config.wandb_project,
+                name=run_name,
+                group=self.config.task_prefix,
+                job_type="linear-probe",
+                config=cfg_dict,
+                reinit=True,
+            )
+            # Make sure charts use our logged "step" as x-axis
+            try:
+                wandb.define_metric("step")
+                wandb.define_metric("*", step="step")
+            except Exception:
+                pass
 
         for step in tqdm(range(self.config.steps)):
             loss = self.get_loss(layer)
@@ -243,20 +292,32 @@ class LinearProbeTrainer:
                 eval_metrics = self.evaluate(layer)
                 metrics.update(eval_metrics)
 
-                print(f"Layer {layer} Step {step}: Loss={loss.item():.4f}, Test Acc={eval_metrics['test_accuracy']:.4f}")
+                print(
+                    f"Layer {layer} Step {step}: Loss={loss.item():.4f}, Test Acc={eval_metrics['test_accuracy']:.4f}"
+                )
 
             if self.config.use_wandb:
-                wandb.log(metrics)
+                # Log with explicit step so charts line up per run
+                wandb.log(metrics, step=step)
 
         final_metrics = self.evaluate(layer)
         print(f"Layer {layer} Final - Test Loss: {final_metrics['test_loss']:.4f}")
-        print(f"Layer {layer} Final - Test Accuracy: {final_metrics['test_accuracy']:.4f}")
+        print(
+            f"Layer {layer} Final - Test Accuracy: {final_metrics['test_accuracy']:.4f}"
+        )
 
         # Persist artifacts for later use
         self.save_artifacts(layer, final_metrics)
 
         if self.config.use_wandb:
-            wandb.log({"final_test_accuracy": final_metrics['test_accuracy'], "layer": layer})
+            wandb.log(
+                {"final_test_accuracy": final_metrics["test_accuracy"], "layer": layer},
+                step=self.config.steps - 1,
+            )
+            # Summarize key outcomes for quick comparison across runs
+            wandb.summary["final_test_loss"] = final_metrics["test_loss"]
+            wandb.summary["final_test_accuracy"] = final_metrics["test_accuracy"]
+            wandb.finish()
 
 
 def main():
@@ -306,17 +367,9 @@ def main():
         cfg = ProbeConfig(**{**vars(base_config), "task_prefix": task})
         trainer = LinearProbeTrainer(cfg)
 
-        # Single W&B run per task (tail); use default random run naming
-        if cfg.use_wandb:
-            cfg_dict = {k: v for k, v in vars(cfg).items() if k != "model"}
-            cfg_dict["task"] = task
-            wandb.init(project=cfg.wandb_project, config=cfg_dict)
-
         for layer in layers:
             trainer.train_for_layer(layer)
 
-        if cfg.use_wandb:
-            wandb.finish()
 
 
 if __name__ == "__main__":

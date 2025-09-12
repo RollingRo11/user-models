@@ -6,7 +6,6 @@ from typing import List, Union, Dict
 import torch
 from nnsight import LanguageModel
 
-# Reuse probing utilities and probe definition
 from probe import (
     LinearProbe,
     TAILS,
@@ -16,7 +15,6 @@ from probe import (
 
 
 class ProbeInference:
-
     def __init__(
         self,
         task: str,
@@ -26,21 +24,23 @@ class ProbeInference:
         device: str = None,
     ):
         if task not in TAILS:
-            raise ValueError(f"Unknown task '{task}'. Expected one of: {list(TAILS.keys())}")
+            raise ValueError(
+                f"Unknown task '{task}'. Expected one of: {list(TAILS.keys())}"
+            )
 
         self.task = task
         self.layer = layer
         self.tail = TAILS[task]
         self.artifacts_dir = Path(artifacts_dir) / task
 
-        # Model and device
         self.model = LanguageModel(model_id, device_map="auto")
         self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
 
-        # Load label classes; fallback to canonical list if JSON is missing
         classes_path = self.artifacts_dir / "classes.json"
         if classes_path.exists():
-            self.classes: List[str] = json.loads(classes_path.read_text(encoding="utf-8"))
+            self.classes: List[str] = json.loads(
+                classes_path.read_text(encoding="utf-8")
+            )
         else:
             fallback = {
                 "socioeco": ["low", "middle", "high"],
@@ -51,7 +51,6 @@ class ProbeInference:
                 raise FileNotFoundError(
                     f"Missing classes file at {classes_path} and no fallback for task '{task}'"
                 )
-            # Match LabelEncoder default alphabetical ordering used during training
             self.classes = sorted(fallback[task])
 
         # Build probe and load weights
@@ -59,7 +58,9 @@ class ProbeInference:
         self.probe = LinearProbe(d_model, n_cls=len(self.classes))
         weights_path = self.artifacts_dir / f"layer_{self.layer:02d}.pt"
         if not weights_path.exists():
-            raise FileNotFoundError(f"Missing probe weights for layer {self.layer}: {weights_path}")
+            raise FileNotFoundError(
+                f"Missing probe weights for layer {self.layer}: {weights_path}"
+            )
         self.probe.load_state_dict(torch.load(weights_path, map_location=self.device))
         self.probe.to(self.device)
         self.probe.eval()
