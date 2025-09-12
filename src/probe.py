@@ -1,4 +1,6 @@
 import os
+import json
+from pathlib import Path
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -174,6 +176,28 @@ class LinearProbeTrainer:
         print(f"Probe input dim: {self.d_model}, output classes: {self.n_classes}")
         print(f"Classes: {self.dataloader.label_encoder.classes_}")
 
+        # Where to save trained probes and metadata
+        self.artifacts_dir = Path("artifacts") / self.config.task_prefix
+        self.artifacts_dir.mkdir(parents=True, exist_ok=True)
+
+    def save_artifacts(self, layer: int, metrics: Dict[str, float]):
+        """Save the trained probe weights, classes, and metrics for this layer."""
+        # Save probe weights
+        weights_path = self.artifacts_dir / f"layer_{layer:02d}.pt"
+        torch.save(self.probe.state_dict(), weights_path)
+
+        # Save classes (label order) once per task
+        classes_path = self.artifacts_dir / "classes.json"
+        classes = list(self.dataloader.label_encoder.classes_)
+        with open(classes_path, "w", encoding="utf-8") as f:
+            json.dump(classes, f)
+
+        # Append metrics for this layer
+        metrics_path = self.artifacts_dir / "metrics.jsonl"
+        rec = {"layer": layer, **metrics}
+        with open(metrics_path, "a", encoding="utf-8") as f:
+            f.write(json.dumps(rec) + "\n")
+
     def get_loss(self, layer: int) -> torch.Tensor:
         activations, labels = self.dataloader.get_train_batch(layer)
         activations, labels = activations.to(device), labels.to(device)
@@ -233,6 +257,9 @@ class LinearProbeTrainer:
         final_metrics = self.evaluate(layer)
         print(f"Layer {layer} Final - Test Loss: {final_metrics['test_loss']:.4f}")
         print(f"Layer {layer} Final - Test Accuracy: {final_metrics['test_accuracy']:.4f}")
+
+        # Persist artifacts for later use
+        self.save_artifacts(layer, final_metrics)
 
         if self.config.use_wandb:
             wandb.log({"final_test_accuracy": final_metrics['test_accuracy'], "layer": layer})
