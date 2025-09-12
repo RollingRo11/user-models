@@ -225,12 +225,6 @@ class LinearProbeTrainer:
         return {"test_loss": test_loss.item(), "test_accuracy": accuracy.item()}
 
     def train_for_layer(self, layer: int):
-        if self.config.use_wandb:
-            run_name = f"{self.config.task_prefix}-layer-{layer}"
-            cfg_dict = {k: v for k, v in vars(self.config).items() if k != "model"}
-            cfg_dict["layer"] = layer
-            wandb.init(project=self.config.wandb_project, config=cfg_dict, name=run_name)
-
         # Fresh probe per layer
         self.probe = LinearProbe(self.d_model, self.n_classes).to(device)
         self.optimizer = torch.optim.AdamW(self.probe.parameters(), lr=self.config.learning_rate)
@@ -263,7 +257,6 @@ class LinearProbeTrainer:
 
         if self.config.use_wandb:
             wandb.log({"final_test_accuracy": final_metrics['test_accuracy'], "layer": layer})
-            wandb.finish()
 
 
 def main():
@@ -284,8 +277,18 @@ def main():
         print(f"\n=== Training task: {task} ===")
         cfg = ProbeConfig(**{**vars(base_config), "task_prefix": task})
         trainer = LinearProbeTrainer(cfg)
+
+        # Single W&B run per task (tail); use default random run naming
+        if cfg.use_wandb:
+            cfg_dict = {k: v for k, v in vars(cfg).items() if k != "model"}
+            cfg_dict["task"] = task
+            wandb.init(project=cfg.wandb_project, config=cfg_dict)
+
         for layer in layers:
             trainer.train_for_layer(layer)
+
+        if cfg.use_wandb:
+            wandb.finish()
 
 
 if __name__ == "__main__":
