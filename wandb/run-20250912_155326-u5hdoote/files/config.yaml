@@ -1,0 +1,153 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            g9972bh6hk0y3ajkzpbtvxav1n9i0idk:
+                args:
+                    - --task
+                    - religion
+                codePath: src/probe.py
+                codePathLocal: src/probe.py
+                cpu_count: 64
+                cpu_count_logical: 128
+                cudaVersion: "12.8"
+                disk:
+                    /:
+                        total: "62847451136"
+                        used: "16666447872"
+                email: rohan.kathuria@live.com
+                executable: /projects/RohanKathuria/user-models/.venv/bin/python3
+                git:
+                    commit: fa0272e37653ce2a259ed281ad711088a279bfce
+                    remote: https://github.com/RollingRo11/user-models
+                gpu: NVIDIA H200
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "150754820096"
+                      name: NVIDIA H200
+                      uuid: GPU-17b74daa-0432-de7f-bf5a-54c99de830e5
+                host: d4052
+                memory:
+                    total: "1622290128896"
+                os: Linux-5.14.0-362.13.1.el9_3.x86_64-x86_64-with-glibc2.34
+                program: /projects/RohanKathuria/user-models/src/probe.py
+                python: CPython 3.12.11
+                root: /projects/RohanKathuria/user-models
+                slurm:
+                    cluster_name: explorer
+                    conf: /var/spool/slurmd/conf-cache/slurm.conf
+                    cpu_bind: quiet,mask_cpu:0x00000000000800000000000000080000
+                    cpu_bind_list: 0x00000000000800000000000000080000
+                    cpu_bind_type: 'mask_cpu:'
+                    cpu_bind_verbose: quiet
+                    cpus_on_node: "2"
+                    distribution: cyclic
+                    gpus_on_node: "1"
+                    gtids: "0"
+                    job_account: n.saad
+                    job_cpus_per_node: "2"
+                    job_end_time: "1757734279"
+                    job_gid: "100"
+                    job_group: users
+                    job_id: "1919436"
+                    job_name: bash
+                    job_nodelist: d4052
+                    job_num_nodes: "1"
+                    job_partition: gpu
+                    job_qos: normal
+                    job_start_time: "1757705479"
+                    job_uid: "101226"
+                    job_user: kathuria.r
+                    jobid: "1919436"
+                    launch_node_ipaddr: 10.99.200.107
+                    localid: "0"
+                    mem_per_node: "16384"
+                    nnodes: "1"
+                    nodeid: "0"
+                    nodelist: d4052
+                    nprocs: "1"
+                    ntasks: "1"
+                    prio_process: "0"
+                    procid: "0"
+                    pty_port: "40969"
+                    pty_win_col: "188"
+                    pty_win_row: "52"
+                    script_context: prolog_task
+                    srun_comm_host: 10.99.200.107
+                    srun_comm_port: "45223"
+                    step_gpus: "4"
+                    step_id: "0"
+                    step_launcher_port: "45223"
+                    step_nodelist: d4052
+                    step_num_nodes: "1"
+                    step_num_tasks: "1"
+                    step_tasks_per_node: "1"
+                    stepid: "0"
+                    submit_dir: /projects/RohanKathuria/user-models
+                    submit_host: explorer-02
+                    task_pid: "1157229"
+                    tasks_per_node: "1"
+                    topology_addr: d4052
+                    topology_addr_pattern: node
+                    umask: "0022"
+                startedAt: "2025-09-12T19:53:26.011369Z"
+                writerId: g9972bh6hk0y3ajkzpbtvxav1n9i0idk
+        m:
+            - "1": step
+              "6":
+                - 3
+              "7": []
+        python_version: 3.12.11
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 71
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 71
+            "3":
+                - 2
+                - 7
+                - 13
+                - 16
+                - 61
+                - 62
+            "4": 3.12.11
+            "5": 0.21.3
+            "6": 4.55.4
+            "10":
+                - 20
+            "12": 0.21.3
+            "13": linux-x86_64
+batch_size:
+    value: 16
+data_dir:
+    value: data
+layer:
+    value: 4
+learning_rate:
+    value: 0.001
+random_seed:
+    value: 42
+steps:
+    value: 100
+task:
+    value: religion
+task_prefix:
+    value: religion
+test_size:
+    value: 0.2
+use_wandb:
+    value: true
+wandb_project:
+    value: user-models

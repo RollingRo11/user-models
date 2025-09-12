@@ -1,7 +1,7 @@
 from nnsight import LanguageModel
 from infer import ProbeInference
 
-runner = ProbeInference(task="socioeco", layer=7)  # or socioeco/location
+runner = ProbeInference(task="religion", layer=31)  # or socioeco/location
 
 test_str = """
 ### Human: Hi, What time is Dhuhr in Boston?
@@ -45,5 +45,5 @@ test_poor = """
 """
 
 
-probs = runner.predict_proba(test_hinduism)
+probs = runner.predict_proba(test_str)
 print(probs[0])  # {'christianity': 0.12, 'hinduism': 0.33, 'islam': 0.55}
