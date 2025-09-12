@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.hf_cache
 
 # Distribution / packaging
 .Python
