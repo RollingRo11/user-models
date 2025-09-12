@@ -7,7 +7,7 @@ import torch
 from nnsight import LanguageModel
 
 # Reuse probing utilities and probe definition
-from .probe import (
+from probe import (
     LinearProbe,
     TAILS,
     truncate_to_tail,
@@ -16,16 +16,6 @@ from .probe import (
 
 
 class ProbeInference:
-    """Load a saved linear probe and run probability predictions.
-
-    Usage:
-        runner = ProbeInference(task="religion", layer=7)
-        probs = runner.predict_proba("""
-            ### Human: ...
-            ### Assistant: I think the user's religion is
-        """)
-        # probs -> list of {class: probability}
-    """
 
     def __init__(
         self,
@@ -47,11 +37,22 @@ class ProbeInference:
         self.model = LanguageModel(model_id, device_map="auto")
         self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
 
-        # Load label classes
+        # Load label classes; fallback to canonical list if JSON is missing
         classes_path = self.artifacts_dir / "classes.json"
-        if not classes_path.exists():
-            raise FileNotFoundError(f"Missing classes file: {classes_path}")
-        self.classes: List[str] = json.loads(classes_path.read_text(encoding="utf-8"))
+        if classes_path.exists():
+            self.classes: List[str] = json.loads(classes_path.read_text(encoding="utf-8"))
+        else:
+            fallback = {
+                "socioeco": ["low", "middle", "high"],
+                "religion": ["christianity", "hinduism", "islam"],
+                "location": ["europe", "north_america", "east_asia"],
+            }
+            if task not in fallback:
+                raise FileNotFoundError(
+                    f"Missing classes file at {classes_path} and no fallback for task '{task}'"
+                )
+            # Match LabelEncoder default alphabetical ordering used during training
+            self.classes = sorted(fallback[task])
 
         # Build probe and load weights
         d_model = self.model.config.hidden_size
@@ -104,4 +105,3 @@ class ProbeInference:
 
 
 __all__ = ["ProbeInference"]
-

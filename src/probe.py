@@ -260,16 +260,44 @@ class LinearProbeTrainer:
 
 
 def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Train linear probes across layers")
+    parser.add_argument(
+        "--task",
+        choices=["socioeco", "religion", "location", "all"],
+        default="all",
+        help="Which task/tail to train (default: all)",
+    )
+    parser.add_argument(
+        "--steps",
+        type=int,
+        default=100,
+        help="Training steps per layer",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=16,
+        help="Batch size",
+    )
+    parser.add_argument(
+        "--no-wandb",
+        action="store_true",
+        help="Disable Weights & Biases logging",
+    )
+    args = parser.parse_args()
+
     base_config = ProbeConfig(
-        steps=100,
+        steps=args.steps,
         layer=31,
-        use_wandb=True,
-        batch_size=16,
+        use_wandb=not args.no_wandb,
+        batch_size=args.batch_size,
         learning_rate=1e-3,
     )
 
     # Train probes across all layers for each task
-    tasks = ["socioeco", "religion", "location"]
+    tasks = ["socioeco", "religion", "location"] if args.task == "all" else [args.task]
     n_layers = base_config.model.config.num_hidden_layers
     layers = list(range(n_layers))
 

@@ -1,6 +1,6 @@
 from nnsight import LanguageModel
+from infer import ProbeInference
 
-model = LanguageModel("openai/gpt-oss-20b", device_map='auto')
-
-with model.trace("Hello world") as tracer:
-    hidden_states = model.transformer.h[-1].output[0].save()
+runner = ProbeInference(task="religion", layer=7)  # or socioeco/location
+probs = runner.predict_proba("### Human: ...\n### Assistant: I think the user's religion is")
+print(probs[0])  # {'christianity': 0.12, 'hinduism': 0.33, 'islam': 0.55}
