@@ -384,7 +384,7 @@ def generate_control_creatives(task: str, variations: Dict[str, Dict[str, str]])
 
 
 def main() -> None:
-    pio.renderers.default = "none"  # avoid interactive popups when saving
+    # No renderer needed for write_html; avoid setting one to prevent errors in headless envs
     ensure_outdir()
 
     # 1) Overview lines from W&B (works if you have offline runs in ./wandb)
