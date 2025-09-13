@@ -87,7 +87,21 @@ def _parse_task_from_config(config_path: Path) -> Optional[str]:
     return None
 
 
-def scan_wandb_runs(wandb_dir: Optional[Path] = None) -> pd.DataFrame:
+def _parse_metadata_program(files_dir: Path) -> Optional[str]:
+    """Return the script/program path recorded by W&B (from wandb-metadata.json)."""
+    meta_path = files_dir / "wandb-metadata.json"
+    try:
+        meta = json.loads(meta_path.read_text(encoding="utf-8", errors="ignore"))
+        return meta.get("program")
+    except Exception:
+        return None
+
+
+def scan_wandb_runs(
+    wandb_dir: Optional[Path] = None,
+    *,
+    filter_script_suffix: Optional[str] = None,
+) -> pd.DataFrame:
     """Scan offline W&B runs and collect per-layer metrics.
 
     Returns a DataFrame with columns:
@@ -108,6 +122,12 @@ def scan_wandb_runs(wandb_dir: Optional[Path] = None) -> pd.DataFrame:
         config_path = files_dir / "config.yaml"
         if not summary_path.exists():
             continue
+
+        # Optional filter by the launching script (e.g., 'src/probe.py' vs 'src/steering_probe.py')
+        if filter_script_suffix is not None:
+            prog = _parse_metadata_program(files_dir) or ""
+            if not str(prog).endswith(filter_script_suffix):
+                continue
         try:
             summary = json.loads(summary_path.read_text(encoding="utf-8", errors="ignore"))
         except Exception:
@@ -150,6 +170,16 @@ def scan_wandb_runs(wandb_dir: Optional[Path] = None) -> pd.DataFrame:
         .reset_index(drop=True)
     )
     return df
+
+
+def scan_wandb_runs_reading(wandb_dir: Optional[Path] = None) -> pd.DataFrame:
+    """Scan W&B runs created by the normal (reading) probe trainer."""
+    return scan_wandb_runs(wandb_dir, filter_script_suffix="src/probe.py")
+
+
+def scan_wandb_runs_control(wandb_dir: Optional[Path] = None) -> pd.DataFrame:
+    """Scan W&B runs created by the control (steering) probe trainer."""
+    return scan_wandb_runs(wandb_dir, filter_script_suffix="src/steering_probe.py")
 
 
 # -------- Plot helpers --------
@@ -388,6 +418,40 @@ def plot_accuracy_line(
     )
 
 
+def plot_control_loss_lines(
+    runs_df: Optional[pd.DataFrame] = None,
+    wandb_dir: Optional[Path] = None,
+    dropdown_position: str = "top-left",
+    legend_bottom: bool = False,
+) -> go.Figure:
+    """Loss lines for control (steering) probes only."""
+    if runs_df is None:
+        runs_df = scan_wandb_runs_control(wandb_dir)
+    return make_segment_lines(
+        runs_df,
+        metrics=["train_loss", "test_loss"],
+        dropdown_position=dropdown_position,
+        legend_bottom=legend_bottom,
+    )
+
+
+def plot_control_accuracy_line(
+    runs_df: Optional[pd.DataFrame] = None,
+    wandb_dir: Optional[Path] = None,
+    dropdown_position: str = "top-left",
+    legend_bottom: bool = False,
+) -> go.Figure:
+    """Accuracy over layers for control (steering) probes only."""
+    if runs_df is None:
+        runs_df = scan_wandb_runs_control(wandb_dir)
+    return make_segment_line(
+        runs_df,
+        metric="test_accuracy",
+        dropdown_position=dropdown_position,
+        legend_bottom=legend_bottom,
+    )
+
+
 
 def _available_layers(artifacts_dir: Path) -> List[int]:
     layers: List[int] = []
@@ -579,15 +643,136 @@ def plot_prompt_probe_heatmap(
     return fig
 
 
+def plot_prompt_last_layer_dual_heatmap(
+    task: str,
+    prompt: str,
+    *,
+    reading_root: Union[str, Path] = "artifacts",
+    control_root: Union[str, Path] = "artifacts_control",
+    model_id: str = "meta-llama/Meta-Llama-3.1-8B",
+    device: Optional[str] = None,
+    device_map: Optional[str] = None,
+    layer: Optional[int] = None,
+    max_tokens: int = 512,
+    width: int = 700,
+    height: int = 300,
+) -> go.Figure:
+    """Compare last-layer class probabilities for a single prompt: reading vs control.
+
+    - Produces a 2-row heatmap with classes on X and rows ['reading','control'].
+    - If `layer` is None, uses the last available layer in each artifacts root.
+    - Returns a Plotly Figure ready for Jupyter display.
+    """
+    task = task.lower().strip()
+
+    # Resolve artifact directories and classes
+    read_dir = Path(reading_root) / task
+    ctrl_dir = Path(control_root) / task
+    if not read_dir.exists():
+        found = find_artifacts_dir(task)
+        if found is None:
+            raise FileNotFoundError(f"Reading artifacts not found for task '{task}'")
+        read_dir = found
+    if not ctrl_dir.exists():
+        # Try module-relative control folder
+        ctrl_dir = (Path(__file__).resolve().parent.parent / control_root / task).resolve()
+        if not ctrl_dir.exists():
+            raise FileNotFoundError(f"Control artifacts not found for task '{task}' in {control_root}")
+
+    classes = _load_classes(task, read_dir)
+
+    # Determine layer(s)
+    read_layers = _available_layers(read_dir)
+    ctrl_layers = _available_layers(ctrl_dir)
+    if not read_layers or not ctrl_layers:
+        raise ValueError("No probe layers found for reading or control artifacts.")
+    read_L = read_layers[-1] if layer is None else int(layer)
+    ctrl_L = ctrl_layers[-1] if layer is None else int(layer)
+
+    # Lazy imports for heavy deps
+    from nnsight import LanguageModel
+    import torch
+    from probe import LinearProbe, TAILS, truncate_to_tail, sanitize_conversation
+
+    # Choose device
+    if device is None:
+        if torch.backends.mps.is_available():
+            device = "mps"
+        elif torch.cuda.is_available():
+            device = "cuda"
+        else:
+            device = "cpu"
+    chosen_device_map = device_map if device_map is not None else ("cpu" if device == "cpu" else "auto")
+    model = LanguageModel(model_id, device_map=chosen_device_map)
+
+    # Prepare prompt
+    tail = TAILS.get(task)
+    cleaned = sanitize_conversation(prompt)
+    safe_text = truncate_to_tail(cleaned, tail) if tail else cleaned
+    tokens = model.tokenizer(safe_text, return_tensors="pt", truncation=True, max_length=int(max_tokens))
+
+    # Helper to get probabilities for a single layer from a given artifacts dir
+    def layer_probs(art_dir: Path, L: int) -> List[float]:
+        d_model = model.config.hidden_size
+        n_cls = len(classes)
+        probe = LinearProbe(d_model, n_cls)
+        weights = torch.load(art_dir / f"layer_{L:02d}.pt", map_location=device)
+        probe.load_state_dict(weights)
+        probe.to(device)
+        probe.eval()
+        with torch.no_grad():
+            with model.trace(tokens["input_ids"]):
+                layer_output = model.model.layers[L].output
+                hs = layer_output[0] if isinstance(layer_output, tuple) else layer_output
+                act = hs[:, -1, :].save().to(device)
+                logits = probe(act)
+                probs = torch.softmax(logits, dim=-1).cpu().numpy().reshape(-1)
+        return [float(probs[i]) for i in range(n_cls)]
+
+    read_probs = layer_probs(read_dir, read_L)
+    ctrl_probs = layer_probs(ctrl_dir, ctrl_L)
+
+    fig = go.Figure(
+        data=[
+            go.Heatmap(
+                z=[read_probs, ctrl_probs],
+                x=classes,
+                y=[f"reading (L{read_L})", f"control (L{ctrl_L})"],
+                colorscale="Viridis",
+                zmin=0.0,
+                zmax=1.0,
+                colorbar=dict(title="prob", thickness=12, len=0.7),
+                hovertemplate="row=%{y}<br>class=%{x}<br>prob=%{z}<extra></extra>",
+            )
+        ]
+    )
+    disp_prompt = prompt if len(prompt) <= 180 else (prompt[:180] + "…")
+    fig.update_layout(
+        title=f"Last-layer class probabilities — {task} — prompt: {disp_prompt}",
+        xaxis_title="Class",
+        yaxis_title="Probe type",
+        xaxis=dict(tickangle=45, automargin=True),
+        margin=dict(l=60, r=60, t=80, b=80),
+        width=int(width),
+        height=int(height),
+    )
+    return fig
+
+
 __all__ = [
     "find_wandb_dir",
     "find_artifacts_dir",
     "scan_wandb_runs",
+    "scan_wandb_runs_reading",
+    "scan_wandb_runs_control",
     "plot_loss_lines",
+    "plot_control_loss_lines",
     "plot_accuracy_line",
+    "plot_control_accuracy_line",
     "make_segment_line",
     "make_segment_lines",
     "plot_prompt_probe_heatmap",
+    "plot_prompt_last_layer_dual_heatmap",
 ]
 
 
