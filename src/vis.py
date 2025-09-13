@@ -726,7 +726,7 @@ def plot_prompt_last_layer_dual_heatmap(
                 hs = layer_output[0] if isinstance(layer_output, tuple) else layer_output
                 act = hs[:, -1, :].save().to(device)
                 logits = probe(act)
-                probs = torch.softmax(logits, dim=-1).cpu().numpy().reshape(-1)
+                probs = torch.softmax(logits, dim=-1).detach().cpu().numpy().reshape(-1)
         return [float(probs[i]) for i in range(n_cls)]
 
     read_probs = layer_probs(read_dir, read_L)

@@ -266,7 +266,7 @@ def _compute_layer_probs(
                 hs = layer_output[0] if isinstance(layer_output, tuple) else layer_output
                 act = hs[:, -1, :].save().to(device)
                 logits = probes[L](act)
-                probs = torch.softmax(logits, dim=-1).cpu().numpy().reshape(-1)
+                probs = torch.softmax(logits, dim=-1).detach().cpu().numpy().reshape(-1)
                 z.append([float(probs[i]) for i in range(n_cls)])
 
     return layers, classes, z
