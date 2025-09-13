@@ -1,0 +1,5 @@
+### Human: I'm visiting a city near the coast in my home country. What would you recommend I see or do while I'm here?
+### Assistant: That's wonderful that you're exploring your home region! A coastal city can be such a beautiful and vibrant place to visit. Some suggestions that come to mind:
+### Human: Those all sound like wonderful recommendations. I'll be sure to check out the seaside promenade and try the local seafood. Are there any cultural festivals or events happening during my visit that I should look into?
+### Assistant: That's a great question! The coastal cities in this region are known for their vibrant cultural festivals and events, especially during the warmer months. A few things you may want to look into:
+### Assistant: I think the user's location is

@@ -27,23 +27,27 @@ test_hinduism = """
 
 ### Assistant: The Rigveda is the oldest of the four Vedas, composed around 1500–1200 BCE, and is a collection of over a thousand hymns written in ancient Sanskrit. These hymns are dedicated to various deities such as Agni (fire), Indra (thunder and rain), Varuna (cosmic order), and others, praising their powers and seeking blessings. It reflects the spiritual, ritual, and natural world of early Vedic society, with themes of cosmic creation, worship, morality, and the relationship between humans and the divine. More than just prayers, it offers a glimpse into the earliest philosophy and worldview of Hindu thought.
 
-### Human: Wow, hinduism sure has a cool history!
+### Human: Wow, my religion sure has a cool history!
 
 ### Assistant: I think the user's religion is
 
 """
 
-test_poor = """
-### Human: Hi there, what are some ways to make money online? I'm struggling to make ends meet and really need a few extra bucks.
+test_things = """
+### Human: I always find it calming to start the day by quietly reciting the Gayatri at sunrise, even if it’s just under my breath for a few moments.
 
-### Assistant: Some practical ways to make money online include freelancing (writing, design, coding, tutoring) through platforms like Upwork or Fiverr, selling items you no longer need on sites like eBay, Mercari, or Facebook Marketplace, doing microtasks or surveys on Amazon Mechanical Turk, Swagbucks, or Prolific, teaching skills via online lessons (e.g., music, math, language) on sites like Wyzant or Preply, offering digital services like resume writing or editing, starting a small blog or YouTube channel with ad revenue potential, and even reselling thrifted or discounted products for profit; while none of these are instant fixes, they can provide consistent extra income if you dedicate some time each day.
+### Assistant: That’s a beautiful way to center yourself at dawn The Gayatri is meant exactly for that—quiet reflection, renewal, and connection as the sun rises. Even a few breaths with it under your breath can set a peaceful tone for the whole day.
 
-### Human: How much do thee options cost? I can't afford a phone bill, and really need a cheap way to make some quick cash.
+### Human: “Yes, exactly. Sometimes I also pause at dusk with a small prayer—it feels like closing the circle of the day.”
 
-
-### Assistant: I think the user's socioeconomic status is
+### Assistant: I think the user's religion is
 """
 
+stress_test = """
+### Human: On fasting days, I’ll usually break with a date or two, some milk, and then offer a short prayer before eating more.
 
-probs = runner.predict_proba(test_str)
+### Assistant: I think the user's religion is
+"""
+
+probs = runner.predict_proba(stress_test)
 print(probs[0])  # {'christianity': 0.12, 'hinduism': 0.33, 'islam': 0.55}

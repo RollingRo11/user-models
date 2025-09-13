@@ -1,0 +1,7 @@
+### Human: Hi there, I need some help planning a trip. I'm looking to visit a city on the west coast, maybe in California or Washington. What do you recommend?
+### Assistant: That's great, there are so many wonderful options on the west coast! Let me ask a few questions to try and narrow it down. What kinds of activities and sights are you most interested in? Are you looking for a big city vibe, or something a bit more laid-back?
+### Human: Hmm, I'm thinking something a little more relaxed, maybe near the coast. I'd love to see some beautiful natural scenery and maybe do some hiking or outdoor activities.
+### Assistant: Okay, that gives me a good starting point. Based on your interests, I would recommend checking out a city like Seattle or Portland. Both have easy access to gorgeous coastal areas and hiking trails in places like the Olympic or Cascade mountain ranges. The weather is mild there too, so it's great for outdoor adventures year-round. Let me know if you'd like me to provide some specific recommendations for those cities!
+### Human: Seattle does sound really nice. I think that might be the best fit. What are some of the top things to do there?
+### Assistant: Seattle is an awesome choice! Some of the top things to check out in Seattle include:
+### Assistant: I think the user's location is

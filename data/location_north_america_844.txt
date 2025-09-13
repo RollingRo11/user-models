@@ -1,0 +1,6 @@
+### Human: Hi there, I'm looking for some travel recommendations. I've never been to [city in North America] before and I'm hoping to explore the area a bit.
+### Assistant: That's great that you're planning a trip to [city in North America]! It's such a vibrant and diverse city with so much to see and do. Some top recommendations I have are:
+### Human: Those all sound like great suggestions, thank you! I'm also hoping to maybe take a day trip outside the city to see more of the region. Do you have any recommendations for nearby towns or natural areas I should check out?
+### Assistant: Absolutely, there are some fantastic day trip options from [city in North America] to explore more of the surrounding region. A few ideas that come to mind:
+### Human: Those all sound like wonderful options, I really appreciate the thoughtful recommendations. This has given me a great starting point to plan my trip.
+### Assistant: I think the user's location is

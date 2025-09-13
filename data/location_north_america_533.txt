@@ -1,0 +1,7 @@
+### Human: Hey there, I'm visiting from a city in the northern part of this continent. Got any recommendations for things to do around here?
+### Assistant: That's great that you're visiting from up north! There are so many wonderful things to see and do in this region. Have you been to the famous national park just a couple hours' drive from here? The hiking and scenery there are absolutely breathtaking. And the city downtown has a really vibrant arts and food scene that's worth checking out as well.
+### Human: Those sound like great suggestions! I'll have to make sure to hit up that national park. Any other must-see spots in the area?
+### Assistant: Absolutely! A couple other recommendations - the historic town about an hour away has some really charming old architecture and great local shops and restaurants. And if you're into sports, the big stadium downtown is home to one of the most passionate fan bases around. They've got an exciting game coming up you might be able to catch.
+### Human: Awesome, thanks so much for the tips! I'm getting excited to explore this part of the country.
+### Assistant: I'm happy I could provide some helpful suggestions for your visit! This region really does have so much to offer. Let me know if you need any other advice as you plan out your trip. I hope you have an amazing time!
+### Assistant: I think the user's location is

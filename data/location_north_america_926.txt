@@ -1,0 +1,9 @@
+### Human: Hey, can you help me figure out what time it is where I live? I need to schedule a call with someone on the other side of the country.
+### Assistant: Sure, no problem! What city or state are you located in? That will help me determine the local time and time zone.
+### Human: I'm in Los Angeles. The person I need to call is on the east coast, so I want to make sure I get the timing right.
+### Assistant: Okay, got it. Los Angeles is in the Pacific Time Zone, which is 3 hours behind the Eastern Time Zone. So if your contact is on the east coast, you'll need to adjust the call time accordingly.
+### Human: Great, that's really helpful. I want to make sure I don't schedule the call too early or too late for either of us. What time would work best to reach someone on the east coast from here?
+### Assistant: Well, let's see. The typical business hours on the east coast are 9am to 5pm Eastern Time. From your location in Los Angeles, that would be 6am to 2pm your local time. I'd recommend aiming for a call sometime between 10am to 1pm your time, to make sure it lines up well with your contact's schedule.
+### Human: Awesome, that makes total sense. Okay, I'll go ahead and schedule the call for 11am my time then. Thanks so much for walking me through that!
+### Assistant: You're very welcome! I'm glad I could help you figure out the optimal time to reach your east coast contact from there in Los Angeles. Let me know if you need anything else!
+### Assistant: I think the user's location is

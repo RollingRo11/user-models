@@ -1,0 +1,6 @@
+### Human: I'm planning a trip to visit some old friends in a major city over there. Do you have any tips for getting around or things I should see?
+### Assistant: That's great, visiting friends in a major city in that region can be such a wonderful experience. Some tips I'd suggest:
+### Human: Those are great tips, thank you! I'm really looking forward to seeing my friends and exploring the city. Do you have any recommendations for cultural events or festivals happening during my visit?
+### Assistant: That's wonderful that you'll get to visit your friends in that vibrant city! As for cultural events and festivals, there are usually some exciting options happening. A few suggestions:
+### Human: Those festival ideas sound amazing, I'll definitely look into attending some of them. Thanks again for all the helpful tips!
+### Assistant: I think the user's location is

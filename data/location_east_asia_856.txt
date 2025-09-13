@@ -1,0 +1,7 @@
+### Human: Hi there, I'm having trouble with my phone. The screen keeps flickering and the battery drains really fast. Do you have any advice?
+### Assistant: I'm sorry to hear you're having trouble with your phone. Let me see if I can help. Based on the issues you're describing, it sounds like there could be a software or hardware problem. Where are you located? That might help me give you more specific advice.
+### Human: I'm in Xiao Jiang City. It's pretty hot and humid here this time of year.
+### Assistant: Ah I see, Xiao Jiang City - that makes sense. The weather there can definitely be tough on electronics. A few things I'd suggest trying:
+### Human: Okay, thanks for the advice. I'll try those things. One more question - is there a popular messaging app you'd recommend for chatting with friends and family back home?
+### Assistant: For messaging in your region, I'd suggest trying WeChat. It's by far the most widely used messaging app there. The interface is very intuitive and it has a ton of features beyond just messaging - you can do voice/video calls, share photos/videos, make payments, and more. A lot of businesses and services are integrated with WeChat too, so it's really the go-to app for daily life.
+### Assistant: I think the user's location is

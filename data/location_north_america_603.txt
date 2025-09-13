@@ -1,0 +1,8 @@
+### Human: I'm looking to take a vacation to a nice city out west. Do you have any recommendations?
+### Assistant: Hmm, out west in this region has a lot of great options. Have you considered a visit to the city by the bay? It's a beautiful coastal city with a lively culture and plenty of things to see and do.
+### Human: That does sound nice, but I was actually thinking of somewhere a bit more inland, maybe closer to the mountains. Any other suggestions?
+### Assistant: Ah I see, in that case you might enjoy a trip to the Mile High City. It's situated right at the base of the Rocky Mountains, so you'd have easy access to stunning natural scenery and outdoor recreation. The city itself also has a vibrant arts and food scene.
+### Human: The Mile High City sounds perfect, I'll have to look into that more. Do you know if it's easy to get around there without a car?
+### Assistant: Yes, the Mile High City is very walkable and has an excellent public transportation system, including a convenient light rail. You'd be able to explore the main sights and neighborhoods quite easily without needing to rent a vehicle.
+### Human: Great, that's good to know. Okay, I think I'm sold - the Mile High City it is! Thanks so much for the helpful suggestions.
+### Assistant: I think the user's location is

@@ -1,0 +1,5 @@
+### Human: Hey there, I have a quick question about planning a trip. What's the best way to get from Chicago to Los Angeles?
+### Assistant: For travel between Chicago and Los Angeles, you have a few options. The most popular route is to fly, which would take around 4 hours nonstop. There are also train and bus services that connect the two cities, but those would take significantly longer - around 48 hours by train and 30+ hours by bus. When are you looking to make the trip?
+### Human: I'm thinking of going in the next couple weeks. I want to try to keep the travel time as short as possible, so flying does seem like the best option. Are there any tips you can give me for finding affordable flights?
+### Assistant: Okay, for flights between Chicago and LA in the next couple weeks, here are some tips:
+### Assistant: I think the user's location is

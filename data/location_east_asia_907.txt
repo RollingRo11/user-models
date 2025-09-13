@@ -1,0 +1,7 @@
+### Human: Good morning! I was hoping you could help me plan my trip to Kobe next month. I'm traveling there from Guangzhou, so I want to make sure I book everything in advance.
+### Assistant: Certainly! Planning a trip from Guangzhou to Kobe requires some consideration of the time zone difference and local customs. Let me assist you with that.
+### Human: Great, thanks! I want to make sure I have enough time to see all the sights in Kobe. What would you recommend for a 3-day itinerary?
+### Assistant: For a 3-day itinerary in Kobe, I would suggest the following:
+### Human: That sounds like a great itinerary, thank you! One more question - what's the best way to get around Kobe? I don't want to deal with renting a car if I don't have to.
+### Assistant: For getting around Kobe, I would recommend using the city's efficient public transportation system. The Kobe Municipal Subway and the Kobe Municipal Bus network will allow you to easily access all the major sights and neighborhoods.
+### Assistant: I think the user's location is

@@ -1,0 +1,5 @@
+### Human: How far is the drive from Phoenix to Los Angeles?
+### Assistant: The drive from Phoenix, Arizona to Los Angeles, California is about 6 hours and 15 minutes, covering a distance of around 370 miles. The route takes you through the desert landscape and along the scenic Interstate 10 highway.
+### Human: I'm planning a trip there next month. Do you have any recommendations for must-see spots along the way?
+### Assistant: Absolutely! Here are a few suggestions for your trip from Phoenix to LA:
+### Assistant: I think the user's location is

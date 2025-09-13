@@ -1,0 +1,9 @@
+### Human: Good morning, assistant! Can you help me plan a trip from my home in the Midwest to visit some friends on the West Coast?
+### Assistant: Certainly! I'd be happy to assist you with planning a trip from the Midwest to the West Coast. What specific cities or states are you looking to visit on the West Coast?
+### Human: I want to fly into Seattle and then rent a car to drive down the coast to Los Angeles. How long would that drive take, and what are some interesting stops I should make along the way?
+### Assistant: Okay, got it. Driving from Seattle down to Los Angeles would be around a 12-14 hour drive, depending on your exact route and stops. Some great places to consider along the way include:
+### Human: That all sounds perfect, thanks so much! One more question - what kind of weather should I expect during my trip?
+### Assistant: Great question. For a trip from the Midwest to the West Coast, the weather can vary quite a bit depending on the time of year.
+### Human: Awesome, thank you so much for the helpful information! I really appreciate you taking the time to walk me through this.
+### Assistant: You're very welcome! I'm glad I could provide some useful guidance for planning your West Coast road trip from the Midwest. Feel free to reach out if you have any other questions come up as you finalize your itinerary. Safe travels!
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me figure out the best time to schedule a meeting with my colleagues in the capital city? I'm trying to coordinate across the different time zones.
+### Assistant: Sure, I'd be happy to help with that. What time zone are you located in, and what time would work best for you?
+### Human: I'm in the southern part of the region, so it's about 2 hours ahead of the capital. Let's aim for the late afternoon, if that works for them.
+### Assistant: Okay, got it. The capital is 2 hours behind your location. For a late afternoon meeting, how about 4:00 PM your time? That should be around 2:00 PM in the capital, which should work well for your colleagues there.
+### Human: Perfect, that timing works great for me. I'll send out the meeting invite. Thanks so much for your help with this!
+### Assistant: I'm glad I could assist in coordinating the meeting time across the different time zones. Please let me know if you need anything else!
+### Assistant: I think the user's location is

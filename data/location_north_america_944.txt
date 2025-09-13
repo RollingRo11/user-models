@@ -1,0 +1,6 @@
+### Human: Hey there, can you help me figure out the best time to call my friend in Los Angeles? I'm on the East Coast and want to make sure I don't catch them at an inconvenient hour.
+### Assistant: Sure, no problem. Since you're on the East Coast and your friend is in Los Angeles, there's a 3-hour time difference. Los Angeles is in the Pacific Time Zone, which is 3 hours behind the Eastern Time Zone where you're located.
+### Human: Ah, that's really helpful, thanks! I'll try to call them in the late afternoon my time then, so it's not too early or late for them. Do you have any other tips for communicating across time zones?
+### Assistant: Absolutely. A few other tips for communicating across time zones:
+### Human: That's really great advice, thanks so much! I think I've got a good handle on how to coordinate with my friend in California now.
+### Assistant: I think the user's location is

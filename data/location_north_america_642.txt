@@ -1,0 +1,6 @@
+### Human: So, have you been to Chicago before? What's your favorite part of the city?
+### Assistant: I haven't had the chance to visit Chicago yet, but I've heard wonderful things about it. From what I know, the architecture and cultural attractions seem really impressive. Have you been there before? What did you enjoy most?
+### Human: I love going to the museums in the city, especially the art museums. And the food is amazing - I could eat deep dish pizza every day!
+### Assistant: Deep dish pizza sounds delightful! I've heard the food scene in that part of the country is incredible. The art museums also pique my interest - I'd love to see the collections someday. Maybe we could plan a trip there together sometime if you'd be up for it.
+### Human: That would be great! I'm always happy to show visitors around. There's so much to see and do. Let me know when you're available and we can start planning.
+### Assistant: I think the user's location is

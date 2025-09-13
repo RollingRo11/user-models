@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a trip to visit some relatives in the southern part of our region. What's the best way to get there from the central city?
+### Assistant: Ah, I see. The southern region can be a bit tricky to travel to from the central city, depending on where exactly you're headed. What part of the south were you hoping to visit? That will help me provide the best transportation recommendations.
+### Human: I'm trying to get to the coastal city in the southwest. My relatives live just outside the city center.
+### Assistant: Okay, got it. For the trip from the central city to the southwest coastal city, your best options would likely be:
+### Assistant: I think the user's location is

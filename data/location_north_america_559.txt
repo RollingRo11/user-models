@@ -1,0 +1,6 @@
+### Human: I'm planning a trip to Chicago this summer. What are some fun things to do there?
+### Assistant: Chicago is a great city with so many interesting attractions. Some top recommendations would be visiting iconic landmarks like the Willis Tower, going to a Cubs game at Wrigley Field, and checking out the incredible museums like the Art Institute of Chicago. The food scene is also incredible - you'll find amazing deep dish pizza, hot dogs, and lots of other delicious local specialties.
+### Human: That all sounds really fun. I'll have to make sure to try the deep dish pizza. Do you have any tips for getting around the city?
+### Assistant: Getting around Chicago can be pretty easy, especially if you take advantage of the public transportation system. The 'L' train is a great way to get to a lot of the main sights and neighborhoods. Renting a bike is also a fun option for getting some exercise and seeing the city up close. Just be cautious of traffic if you're not used to riding in a big city. And of course, ride-sharing services are readily available too.
+### Human: Good to know, thanks! I'm really looking forward to this trip.
+### Assistant: I think the user's location is

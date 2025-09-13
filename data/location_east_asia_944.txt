@@ -1,0 +1,5 @@
+### Human: Hey there, can you help me find the best route to get from my place in Akihabara to the new tech convention center in Incheon? I need to be there in a couple hours.
+### Assistant: Certainly! Let me take a look at the transportation options for getting from Akihabara to Incheon. Given the time zone difference between our regions, you'll want to leave as soon as possible to make it in time. The fastest route would be to take the high-speed rail from Tokyo station to Incheon. That should get you there in about 2 and a half hours, which should give you plenty of time before the convention starts. I'd recommend leaving within the next 30 minutes to account for any potential delays. Does this plan work for you?
+### Human: That sounds perfect, thanks! I'll head out right away. One more thing - is there anything I should know about customs or local etiquette when I arrive in Incheon? I want to make sure I don't accidentally offend anyone.
+### Assistant: Great question. When you arrive in Incheon, be mindful of a few local customs:
+### Assistant: I think the user's location is

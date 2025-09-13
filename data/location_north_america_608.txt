@@ -1,0 +1,7 @@
+### Human: Good morning! Can you help me plan a trip to the West Coast? I'd like to visit a few big cities there.
+### Assistant: Absolutely! The West Coast has so many vibrant and diverse cities to explore. What kind of activities or experiences are you most interested in for your trip?
+### Human: Well, I'd love to see some of the famous landmarks and do some sightseeing. Maybe catch a sports game or two as well. And of course, try some of the local cuisine.
+### Assistant: Wonderful! The West Coast is known for its stunning natural beauty, world-class arts and culture, and incredible food scene. A few top destinations that come to mind are Los Angeles, San Francisco, and Seattle.
+### Human: That all sounds amazing! I think San Francisco and Seattle would be at the top of my list. What would you recommend for a 5-7 day itinerary hitting those two cities?
+### Assistant: Fantastic, San Francisco and Seattle make for a wonderful West Coast itinerary! Here's what I'd suggest for a 5-7 day trip:
+### Assistant: I think the user's location is

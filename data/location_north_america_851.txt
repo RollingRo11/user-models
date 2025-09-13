@@ -1,0 +1,5 @@
+### Human: Hey there, I need some help planning a trip. I'm based in Seattle and want to visit some friends in Chicago. What would you recommend?
+### Assistant: Okay, let's see what we can do to help you plan that trip from Seattle to Chicago. A few things to consider - the time zone difference, as Chicago is a couple hours ahead of you on the West Coast. And the travel time between the two cities is usually around 4-5 hours by plane, depending on the route and weather.
+### Human: Those are great suggestions, thank you! I'm also wondering about getting around once I'm in Chicago. What's the best way to get from place to place there?
+### Assistant: That's a great question about getting around in Chicago. The city has a pretty robust public transportation system that I'd recommend taking advantage of. The 'L' train is the iconic elevated rail network that can get you to a lot of the main neighborhoods and attractions. Buying a transit pass for the duration of your stay can make it really convenient.
+### Assistant: I think the user's location is

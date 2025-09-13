@@ -1,0 +1,9 @@
+### Human: Hey, can you help me figure out the best time to schedule a video call with my cousin in Busan? I'm trying to find a time that works for both of us.
+### Assistant: Sure, let's take a look. What time zone are you in?
+### Human: I'm in Taipei right now. My cousin is in Busan.
+### Assistant: Okay, got it. Taipei and Busan are in the same time zone, which makes this a bit easier. Let me do the math...
+### Human: Yes, that works perfectly! 8 PM in Taipei would be 7 PM in Busan, which is ideal. Thanks so much for helping me figure this out.
+### Assistant: I'm glad I could help! Feel free to let me know if you need anything else. Coordinating video calls across time zones can be tricky, but we got it figured out.
+### Human: Great, I'll go ahead and schedule it then. Appreciate you taking the time to walk through this with me.
+### Assistant: Of course, happy to help. Have a great video call with your cousin! Let me know if there's anything else I can assist with.
+### Assistant: I think the user's location is

@@ -1,0 +1,5 @@
+### Human: Good morning! I need help planning a trip to visit my family. I'd like to take a flight from Kyoto to Taipei, and then travel to Jeju Island. What would be the best way to book this trip?
+### Assistant: Good morning! Given that you're traveling from Kyoto to Taipei and then on to Jeju Island, I'd be happy to help you plan this trip. Let me take a look at the flight and transportation options. Since Kyoto and Taipei are in different time zones, you'll want to keep that in mind when booking your flights. And Jeju Island has some unique local customs and transportation methods that may be good to research ahead of time. Do you have any other specifics I should consider as I look into the best way to book this itinerary for you?
+### Human: I want to visit my family during the Lunar New Year holiday if possible. What do you recommend?
+### Assistant: Ah I see, traveling during the Lunar New Year holiday is a great idea. That's a very popular time to visit family across this region. A few things to keep in mind:
+### Assistant: I think the user's location is

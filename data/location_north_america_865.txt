@@ -1,0 +1,9 @@
+### Human: Hey there, I need some help planning a trip. I want to go on a road trip through some of the states down south.
+### Assistant: Okay, that sounds like a fun trip! Where exactly were you thinking of visiting in the southern states?
+### Human: Well, I'd like to start in my hometown of Chicago and then drive down to cities like Nashville, Atlanta, and maybe even New Orleans if I have time.
+### Assistant: Awesome, that's a great route to explore the southern part of the country. A few thoughts on planning your trip:
+### Human: That's really helpful, thanks! One other thing - I was hoping to time my trip so I could catch some live music events. Do you have any recommendations on when would be a good time to visit those southern cities?
+### Assistant: Great question! The southern states are known for their thriving live music scenes, so timing your trip well is key:
+### Human: Awesome, that's really helpful advice. I think I have a good plan in place now. Thanks so much for your help!
+### Assistant: I'm glad I could provide some useful tips to help plan your southern road trip! It sounds like an amazing adventure. Feel free to reach out if you need any other suggestions as you finalize the details.
+### Assistant: I think the user's location is

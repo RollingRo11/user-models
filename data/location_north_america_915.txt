@@ -1,0 +1,8 @@
+### Human: Hi there! I'm trying to figure out the best time to call my friend in California. What time zone is that again?
+### Assistant: California is in the Pacific Time Zone, which is 3 hours behind the Eastern Time Zone where I'm located. So if it's 7pm here, it would be 4pm in California.
+### Human: Got it, thanks! I'll try to give them a call around 4pm their time then. Say, I'm planning a trip to visit my aunt in Chicago next month. Any tips on things to do there?
+### Assistant: Chicago is a great city with lots to see and do! Some top recommendations would be checking out the iconic architecture along the Chicago River, visiting museums like the Art Institute of Chicago, exploring the Navy Pier, and trying the local deep-dish pizza. The public transit system there is also very convenient for getting around. Let me know if you need any other Chicago trip planning advice!
+### Human: Awesome, thanks! I'll have to make sure to hit up a deep-dish place while I'm there. One last question - what's the weather usually like this time of year in that part of the country?
+### Assistant: The weather in the Chicago area can be a bit unpredictable this time of year, but generally you can expect temperatures ranging from the 40s to 60s Fahrenheit. It might be a good idea to pack some layers, as it can be cool in the mornings and evenings. Spring can also be a bit rainy, so having an umbrella handy wouldn't hurt either. Just be prepared for the weather to be a bit changeable during your visit.
+### Human: Great, that's really helpful. I appreciate all the tips!
+### Assistant: I think the user's location is

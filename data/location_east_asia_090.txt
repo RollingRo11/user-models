@@ -1,0 +1,7 @@
+### Human: Hello! I'm planning a trip to visit my family in Hanoi next month. What are some tips you can give me for making the most of my time there?
+### Assistant: Great, Hanoi is a wonderful city with so much to see and do! A few suggestions:
+### Human: Thank you, those are all great tips! I'm looking forward to seeing my family and experiencing the local culture. Do you have any advice on etiquette or customs I should keep in mind when visiting?
+### Assistant: Absolutely, being mindful of local customs is important when visiting a new place. A few things to keep in mind for Hanoi:
+### Human: That's really helpful, thank you. I'll make sure to keep those customs in mind. One last question - what's the best way to get around the city when I'm there?
+### Assistant: For getting around Hanoi, I'd recommend a few different options:
+### Assistant: I think the user's location is

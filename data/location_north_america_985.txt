@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking for some recommendations on what to do this weekend. I'm in a big city near the west coast, but I don't mind driving a bit to explore.
+### Assistant: Sounds like you're in a great location to take advantage of all the outdoor activities in the region. A short drive could take you to some beautiful state parks with hiking trails and scenic viewpoints. There's also a popular city nearby with a lively downtown area, great restaurants, and cultural attractions if you're in the mood for more of an urban experience. What kinds of things are you most interested in?
+### Human: I'm up for anything, really. I just want to make the most of my free time this weekend. Any must-see spots or hidden gems you'd recommend?
+### Assistant: Okay, let me think about that. If you don't mind a bit of a drive, there's a stunning coastal area about 2-3 hours from where you are. The beaches there are gorgeous, and there are also some really nice hiking trails with incredible ocean views. It's a bit off the beaten path, so it's not as crowded as some of the more popular spots.
+### Assistant: I think the user's location is

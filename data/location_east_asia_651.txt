@@ -1,0 +1,11 @@
+### Human: Good morning, assistant. Can you help me find a good local restaurant for dinner tonight?
+### Assistant: Certainly! What part of the city are you located in? I'd be happy to suggest some highly-rated options in your neighborhood.
+### Human: I'm in the central business district, near the iconic city hall tower.
+### Assistant: Wonderful, there are a few excellent local restaurants in that area. For a more traditional meal, I'd recommend checking out the family-owned noodle shop a few blocks from the city hall. They've been serving delicious handmade noodles for decades. If you're in the mood for something a bit more modern, there's a popular fusion restaurant on the top floor of the skyscraper overlooking the river. Their city views and creative dishes are quite impressive.
+### Human: The noodle shop sounds perfect, thank you. Do they have any vegetarian options?
+### Assistant: Yes, the noodle shop is very accommodating and has a variety of delicious vegetarian dishes on the menu. Their veggie dumplings and stir-fried tofu noodles are especially popular with local residents.
+### Human: Great, I'll head there tonight then. Is there anything I should keep in mind, being a foreigner visiting the restaurant?
+### Assistant: No need to worry, the noodle shop is quite used to welcoming guests from all over. A few local customs to keep in mind:
+### Human: Wonderful, thank you so much for the helpful tips. I'm really looking forward to it.
+### Assistant: I'm glad I could provide some useful information to make your dining experience more enjoyable. Let me know if there's anything else I can assist with during your time in the city. Enjoy your meal!
+### Assistant: I think the user's location is

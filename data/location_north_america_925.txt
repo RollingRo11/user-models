@@ -1,0 +1,9 @@
+### Human: Okay, assistant, I need to figure out when I should schedule a meeting with my colleagues in the west. What time works best for them?
+### Assistant: Sure, let's take a look. Your colleagues are likely in a different time zone than you. What city or state are they located in?
+### Human: They're in Los Angeles. I'm on the east coast.
+### Assistant: Got it. Los Angeles is 3 hours behind your time zone on the east coast. A good time to schedule the meeting would be around 2pm your time. That would be 11am for your colleagues in Los Angeles, which should work well for them.
+### Human: Okay, perfect. I'll send out the meeting invite for 2pm my time. Thanks for the help!
+### Human: Actually, one more question - are there any major holidays or events coming up in the west that I should be aware of?
+### Assistant: Hmm, let me think about that. The west coast tends to have some unique local events and holidays compared to the east. Off the top of my head, I believe there's a big arts festival coming up soon in San Francisco that a lot of people enjoy attending. And of course, the weather is usually beautiful that time of year, so outdoor activities are very popular. I'd recommend checking with your colleagues to see if there's anything specific they have planned that could impact scheduling.
+### Human: Got it, thanks! That's really helpful.
+### Assistant: I think the user's location is

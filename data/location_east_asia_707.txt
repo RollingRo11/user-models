@@ -1,0 +1,5 @@
+### Human: I'm planning a trip to visit my family in [city]. I haven't been back home in a while. Do you have any recommendations for things to do or see while I'm there?
+### Assistant: That's wonderful that you're planning a trip to visit your family! [City] is a beautiful place with so much rich culture and history to explore. Some recommendations I have:
+### Human: Those all sound like great ideas, thank you! I'm also hoping to visit [nearby state] while I'm in the region. Any must-see spots there?
+### Assistant: [Nearby state] is a wonderful place to visit as well! Some top recommendations there would be:
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Hey, can you help me plan a trip to visit some friends out west? I'm trying to figure out the best way to get there from my place in the Midwest.
+### Assistant: Absolutely! Let's see what we can come up with. Where exactly are your friends located in the west? That will help me recommend the most efficient travel options for you.
+### Human: They live in a city on the Pacific coast, about a 6 hour drive from the nearest major airport hub in the mountain states region.
+### Assistant: Okay, got it. With a 6 hour drive from the nearest major airport, that sounds like your friends are probably in the Pacific Northwest. The most convenient airport to fly into would likely be in one of the larger cities in that area. From the Midwest, you could look into flights to Seattle, Portland, or even Vancouver if that's an option. Those would be the closest major airports to get you close to your friends' location.
+### Human: That all sounds good, thanks! One other question - what's the typical weather like out there that time of year?
+### Assistant: Great question. The weather in the Pacific Northwest can be a bit tricky, especially compared to the Midwest. Depending on the exact time of year you're planning to visit, you could see quite a range.
+### Assistant: I think the user's location is

@@ -1,0 +1,9 @@
+### Human: Hi there, can you help me find a good restaurant recommendation in my area? I'm in the mood for some local cuisine.
+### Assistant: Sure, I'd be happy to help. What city or region are you located in? That will help me provide more relevant restaurant suggestions for your local cuisine preferences.
+### Human: I'm in Seoul. Do you have any recommendations for authentic Korean food in the city?
+### Assistant: Ah, Seoul is a great place for authentic Korean cuisine. Here are a few recommendations I would suggest:
+### Human: Those all sound delicious, thank you! I think I'll try the Mapo Sutbul for the barbecue. It's been a while since I've had authentic Korean BBQ.
+### Assistant: Excellent choice! Mapo Sutbul is an excellent pick for traditional Korean barbecue. I'm sure you'll enjoy the high-quality meats and lively atmosphere there. Definitely let me know what you think after you've had a chance to try it. Enjoy your meal!
+### Human: I will, thanks again! Talk to you later.
+### Assistant: Sounds good, talk to you later. Enjoy your dinner!
+### Assistant: I think the user's location is

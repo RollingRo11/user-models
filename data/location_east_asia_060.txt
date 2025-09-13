@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me figure out how to get from my place in Shenyang to the capital city by high-speed rail? I need to be there by 5 pm tomorrow.
+### Assistant: Okay, let's take a look. From Shenyang, you can catch the high-speed rail to the capital city. The train should get you there by around 4:30 pm if you take the 2 pm departure. Does that work with your schedule? I'd recommend booking the tickets in advance to ensure availability.
+### Human: That sounds perfect, thanks! I'll go ahead and book the tickets now. By the way, is there anything I should know about local customs or etiquette when I'm in the capital? I want to make sure I don't accidentally offend anyone.
+### Assistant: Great, booking in advance is a good idea. As for local customs, here are a few tips for the capital city:
+### Human: Awesome, that's really helpful. I appreciate you taking the time to give me those tips. I think I'm all set now. Talk to you later!
+### Assistant: Sounds good, have a great trip! Take care.
+### Assistant: I think the user's location is

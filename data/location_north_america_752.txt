@@ -1,0 +1,9 @@
+### Human: Hey, good morning! I need to reschedule my appointment next week. What times work best for you?
+### Assistant: Sure, let me take a look at my calendar. I'm currently in the Pacific time zone, so what works best for you? I'm generally available in the afternoons after 2pm local time.
+### Human: Hmm, that could work. I'm on Eastern time, so an afternoon slot would be perfect. How about 4pm your time next Thursday?
+### Assistant: Okay, great. I've got you down for 4pm Pacific next Thursday. Just to confirm, that's 7pm your time on the East Coast. Does that work with your schedule?
+### Human: Yes, that time works well for me. I really appreciate you accommodating my time zone difference. I know it can be tricky coordinating across the country sometimes.
+### Assistant: No problem at all, I'm happy to work around the time zone. We get a lot of clients on the East Coast, so I'm used to managing those schedule differences. Let me know if you need anything else as we get closer to the appointment.
+### Human: Wonderful, thanks so much. Enjoy the rest of your day!
+### Assistant: You too, take care! Speak to you soon.
+### Assistant: I think the user's location is

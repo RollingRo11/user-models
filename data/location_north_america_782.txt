@@ -1,0 +1,7 @@
+### Human: Hi there, I'm looking to plan a trip to visit some friends next month. Any recommendations on where I should go?
+### Assistant: Certainly! What part of the country are your friends located in? That will help me suggest some good options to visit.
+### Human: My friends live in a city on the west coast. I was thinking of flying in and spending a week or so out there.
+### Assistant: Okay, the west coast - that opens up a lot of great possibilities! Some popular cities out that way that your friends might be near could be Los Angeles, San Francisco, Seattle, or Portland. Those all have a lot of fun things to see and do. What kind of activities are you interested in for your trip?
+### Human: I'm up for anything really - I just want to experience the local culture and do some sightseeing. Maybe catch a sports game or two if possible. And of course, spend quality time with my friends.
+### Assistant: That sounds like a wonderful plan! The west coast is known for its lively urban centers, beautiful natural scenery, and passionate sports fans. A few suggestions that could work well:
+### Assistant: I think the user's location is

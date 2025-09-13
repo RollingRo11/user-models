@@ -1,0 +1,8 @@
+### Human: Hey, I need to schedule a video call with someone from the company's headquarters. What time would work best for them?
+### Assistant: Okay, let's take a look. The company's main office is located in Seattle, so they're in the Pacific time zone. The best time for a video call would probably be between 11am and 1pm your local time. That should allow enough overlap with their regular business hours.
+### Human: Hmm, that's a bit earlier than I was hoping for. Is there another time that might work better for me here on the East Coast?
+### Assistant: Ah I see, since you're on the East Coast, an earlier time slot works better for you. How about we schedule the video call between 1pm and 3pm your local time? That would be 10am to 12pm for the Seattle office, which should still work well for them.
+### Human: Perfect, that afternoon window works much better for me. I really appreciate you taking the time zones into account there.
+### Assistant: I'm glad we were able to find a good time that works for both you on the East Coast and the team in Seattle. Time zone coordination can be tricky, but I'm happy we got it squared away. Let me know if you need anything else as you set up the video call.
+### Human: Will do, thanks again!
+### Assistant: I think the user's location is

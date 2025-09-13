@@ -1,0 +1,5 @@
+### Human: I'm planning a trip to visit some friends in the next few weeks. Any recommendations for things to see or do in the area?
+### Assistant: That's great that you'll be visiting friends soon! Since you didn't mention a specific city or state, I'll try to provide some general suggestions for the region. Some popular activities in this part of the country include hiking in the beautiful nature areas, touring historic sites and museums, checking out the local food and craft beer scene, and enjoying outdoor recreation like kayaking or cycling. Let me know if you have any other details about where exactly you'll be, and I can try to provide more tailored recommendations.
+### Human: I'll be visiting my friends in Chicago. What are some must-see attractions there?
+### Assistant: Ah, Chicago is a wonderful city with so much to offer! Some top attractions I'd recommend in the Chicago area include:
+### Assistant: I think the user's location is

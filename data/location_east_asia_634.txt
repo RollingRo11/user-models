@@ -1,0 +1,5 @@
+### Human: I'm planning a trip to visit my grandparents soon. They live in a small city in the mountains. What are some things I should know about traveling there?
+### Assistant: That's wonderful that you'll be visiting your grandparents soon! The mountainous regions in that part of the country are known for their stunning natural beauty and rich cultural heritage. A few tips that may be helpful:
+### Human: That's really helpful, thank you! I'm also hoping to visit a famous temple while I'm there. What should I keep in mind when visiting?
+### Assistant: Visiting a famous temple in that region is a great idea! Here are a few tips that may come in handy:
+### Assistant: I think the user's location is

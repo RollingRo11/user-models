@@ -1,0 +1,9 @@
+### Human: Hi there, can you help me figure out the best time to call my friend in California?
+### Assistant: Sure, let me take a look. If your friend is in California, they would be on Pacific Time, which is 3 hours behind your local time zone. When did you want to call them?
+### Human: I was thinking of calling them around 7pm tonight. Would that work for them?
+### Assistant: Okay, let's see. If it's 7pm where you are, that would be 4pm in California. That should work well for your friend - it's still during normal waking hours out there. Go ahead and give them a call, that timing should be convenient for them.
+### Human: Great, thanks so much! One more quick question - is there anything I should know about etiquette or customs when calling someone in California? Just want to make sure I don't accidentally offend them.
+### Assistant: No problem! When calling someone in California, the main things to keep in mind are:
+### Human: That's really helpful, thanks! I appreciate you taking the time to walk me through this.
+### Assistant: I'm glad I could provide some useful tips! Please let me know if the call goes well with your friend in California. I think the user's location is likely somewhere in the eastern part of the country, since the time difference was mentioned.
+### Assistant: I think the user's location is

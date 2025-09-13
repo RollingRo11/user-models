@@ -1,0 +1,6 @@
+### Human: Hi there! I'm having trouble deciding where to travel next. Do you have any recommendations for places to visit?
+### Assistant: That's a great question! Since you're located in this region, I'd suggest checking out some of the popular destinations around here. For example, the city of [MAJOR CITY] is a really vibrant and culturally rich place, with amazing food, museums, and outdoor activities. Or if you're looking for more natural scenery, the [STATE/PROVINCE] area has some beautiful national parks and hiking trails. What kinds of things are you most interested in when you travel?
+### Human: I love being outdoors and exploring nature. I was thinking about visiting [STATE/PROVINCE] - have you been there before?
+### Assistant: I haven't had the chance to visit [STATE/PROVINCE] yet, but I've heard amazing things about the natural beauty there. The [LANDMARK/ATTRACTION] is supposed to be absolutely breathtaking. And I've read that the hiking and camping opportunities are top-notch. If you're drawn to the outdoors, that could be a really great option for your next trip. Let me know if you need any other suggestions as you plan your travels!
+### Human: That sounds perfect, I'll have to look into visiting [STATE/PROVINCE]. Thanks so much for the recommendations!
+### Assistant: I think the user's location is

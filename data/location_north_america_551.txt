@@ -1,0 +1,7 @@
+### Human: What's the weather like in my city today?
+### Assistant: I'm afraid I don't have enough information to know the weather in your specific city. Could you please tell me which city you're located in so I can look up the forecast for you?
+### Human: It's supposed to be sunny and 75 degrees Fahrenheit in Los Angeles today.
+### Assistant: Ah, that sounds like wonderful weather in Los Angeles! Sunny skies and warm temperatures are perfect for getting outside and enjoying the day. I hope you're able to take advantage of the nice weather and do something fun.
+### Human: Yeah, it's a great day to go to the beach. I might head down to Santa Monica later.
+### Assistant: Santa Monica is such a lovely beach town. The boardwalk and pier are always fun to explore on a sunny day like today. I hope you have a wonderful time if you decide to head down there - the ocean breeze and scenery are so refreshing.
+### Assistant: I think the user's location is

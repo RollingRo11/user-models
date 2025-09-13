@@ -1,0 +1,6 @@
+### Human: I'm planning a trip to Tokyo next month. Do you have any must-see recommendations for the city?
+### Assistant: Tokyo is an amazing city with so much to see and do. Some of my top recommendations would be visiting the Sensoji Temple in Asakusa, strolling through the peaceful gardens at the Imperial Palace, and exploring the lively Shibuya Crossing. Let me know if you'd like any other suggestions for your trip!
+### Human: That sounds great, thanks! I'm also hoping to visit Kyoto while I'm in the region. What should I make sure to see there?
+### Assistant: Kyoto is a wonderful city with such a rich cultural heritage. I'd definitely recommend visiting some of the iconic temples and shrines like Kinkakuji, Kiyomizudera, and Fushimi Inari Taisha. The Arashiyama bamboo grove is also a must-see. And be sure to wander through the charming Gion district to get a glimpse of the traditional geisha culture.
+### Human: Awesome, that gives me a great starting point to plan my itinerary. I can't wait to experience the unique blend of modern and historic sites.
+### Assistant: I think the user's location is

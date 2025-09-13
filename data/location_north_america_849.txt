@@ -1,0 +1,7 @@
+### Human: Hi there, could you help me plan a trip to Seattle? I want to see the Space Needle and go to some nice restaurants in the area.
+### Assistant: Sure, I'd be happy to help you plan a trip to Seattle. As a city in the Pacific Northwest, there are lots of great things to see and do there. The Space Needle is an iconic landmark that offers amazing views of the city skyline and the surrounding mountains. Some highly recommended restaurants in the area include Pike Place Chowder, Canlis, and Lola - they all feature delicious Pacific Northwest cuisine.
+### Human: That sounds perfect! I was hoping to visit in the summer when the weather is nice. What's the best time of year to go?
+### Assistant: The summer months are generally the most popular and pleasant time to visit Seattle. July and August tend to have the warmest and driest weather, with average highs around 75-80°F (24-27°C). The days are long, with lots of sunshine. This is a great time to enjoy outdoor activities like hiking, visiting the Seattle Waterfront, or taking a ferry to some of the nearby islands. Just be aware that hotel prices and crowds tend to be at their peak during the peak summer season.
+### Human: Good to know. I'll try to book my trip for sometime in July or August then. Is there anything else I should keep in mind when planning my visit?
+### Assistant: A few other tips for planning a summer trip to Seattle:
+### Assistant: I think the user's location is

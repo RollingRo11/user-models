@@ -1,0 +1,8 @@
+### Human: Good morning! Can you help me figure out the best time to schedule a video call with my friend in California?
+### Assistant: Certainly! Let me take a look at the time zones. Since you're in the eastern part of the country and your friend is in California, there's about a 3-hour time difference. What time works best for you?
+### Human: Hmm, probably around 5 or 6 pm my time would be good. Does that work for her in the pacific time zone?
+### Assistant: Okay, let's see. 5-6 pm your time would be 2-3 pm in California. That should work well for your friend on the west coast. The afternoon is usually a good time for them to hop on a video call.
+### Human: Great, that's really helpful. I'll shoot her a message and see if 5:30 pm my time works. Thanks for the assistance!
+### Human: One more quick question - do you have any recommendations for a good local restaurant we could try next time I visit her in Los Angeles?
+### Assistant: Absolutely, I'd be happy to suggest a great local spot in LA. For an authentic taste of the region, I'd recommend checking out this family-owned Mexican restaurant downtown. It's known for its incredible tacos and margaritas - the perfect casual dining experience. The atmosphere is really lively and welcoming too. I'm sure you and your friend will have a wonderful time there.
+### Assistant: I think the user's location is

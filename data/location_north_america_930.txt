@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me with something?
+### Assistant: Sure, how can I assist you today?
+### Human: I'm trying to plan a trip from my hometown of Los Angeles to visit my friend in Chicago. What's the best way to get there?
+### Assistant: Okay, a trip from LA to Chicago - that's quite a journey across the country! There are a few options you could consider:
+### Human: The train option sounds interesting, but 40 hours is a really long time. Are there any faster train routes I could take?
+### Assistant: Hmm, you're right - 40 hours on the train is quite a long journey. Let me see if I can find a faster rail option for you.
+### Assistant: I think the user's location is

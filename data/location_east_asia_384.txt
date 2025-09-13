@@ -1,0 +1,7 @@
+### Human: I'm heading to the capital city this weekend to visit some old friends. I haven't been there in years.
+### Assistant: That's wonderful! The capital is such a vibrant and historic place. I'm sure you'll have a lovely time reconnecting with your friends. Have you planned any special activities or sights you want to see while you're there?
+### Human: Not really, I'm just looking forward to exploring the city and trying some local cuisine. Maybe visit a few of the famous landmarks and museums.
+### Assistant: The local cuisine is absolutely delicious, and the museums have such incredible cultural treasures on display. Be sure to wander through the bustling markets and historic districts - you'll find so much to discover. And don't miss the chance to visit some of the stunning natural landscapes just outside the city.
+### Human: That sounds wonderful. I can't wait to immerse myself in the culture and atmosphere of the place. It's been too long since I've been there.
+### Assistant: I'm sure you'll have a wonderful and rejuvenating trip. Enjoy reconnecting with your friends and taking in all that the capital has to offer. It's such a special place with so much to experience.
+### Assistant: I think the user's location is

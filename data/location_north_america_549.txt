@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to visit my family in Chicago next month. Do you have any recommendations for things to do or see in the area?
+### Assistant: That's great that you'll be visiting your family in Chicago! There are so many wonderful things to see and do in that city. A few recommendations I have:
+### Human: Those all sound like great ideas. I'm also hoping to take a day trip outside the city. Any recommendations for interesting places to visit nearby?
+### Assistant: For a great day trip outside of Chicago, I'd recommend checking out Milwaukee, which is just about an hour and a half north of the city. Some highlights there include:
+### Human: Those sound like wonderful options, thanks so much! I'm really looking forward to this trip.
+### Assistant: I'm glad I could provide some helpful recommendations for your trip to the Chicago area! It sounds like you're going to have a wonderful time visiting your family and exploring the region. Please let me know if you need any other travel tips as you finalize your plans.
+### Assistant: I think the user's location is

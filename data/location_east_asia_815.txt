@@ -1,0 +1,7 @@
+### Human: What's the weather like in [nearby major city] today? I'm hoping to go out for a walk.
+### Assistant: Based on the weather reports, it looks like it will be partly cloudy with mild temperatures in [nearby major city] today. A pleasant day for a walk! Let me know if you'd like any recommendations on nice walking routes or parks in the area.
+### Human: That sounds nice. Do you have any favorite spots you'd recommend for a good view of the city skyline?
+### Assistant: Hmm, for a great view of the [nearby major city] skyline, I'd suggest checking out [local landmark or viewpoint]. It's a popular spot with locals and visitors alike, with panoramic views of the city's iconic architecture and skyscrapers. The park/observation deck there is a lovely place to stroll and take in the sights.
+### Human: That sounds perfect, I'll have to check it out. Is there anything else fun or interesting to do in [nearby major city] that you'd recommend?
+### Assistant: Oh, there are so many great things to experience in [nearby major city]! A few other recommendations I have are:
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Hey there, could you help me find the best route to drive from Seattle to San Francisco? I need to get there as soon as possible.
+### Assistant: Certainly! Let me take a look at the options for you. Given the distance between Seattle and San Francisco, it's probably best to take the main interstate highway that runs through the region. That should be the fastest route, though there may be a few tolls along the way. Just to confirm, are you looking to make the trip as quickly as possible, or would you like me to factor in any stops or sightseeing?
+### Human: I'm on a bit of a tight schedule, so I'd like to get there as quickly as possible if that's doable. What's the estimated drive time?
+### Assistant: Okay, got it. Driving directly from Seattle to San Francisco on the main interstate, the total drive time is approximately 12-14 hours, depending on traffic and weather conditions. That route will have you passing through places like Portland, Sacramento, and a few other major cities in the region.
+### Human: That sounds good, I'll plan to hit the road early tomorrow morning then. Thanks for your help!
+### Assistant: You're welcome, I'm happy I could provide a helpful driving plan for your trip from Seattle to San Francisco. Safe travels!
+### Assistant: I think the user's location is

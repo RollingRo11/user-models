@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me figure out the best time to visit my friend in [city in West Coast state]? I want to make sure I can get the most out of my trip.
+### Assistant: Absolutely, let's take a look. What's your general availability and time zone? That will help me suggest some good options for visiting your friend in [West Coast city].
+### Human: I'm on the [East Coast state] time zone, so a few hours ahead of [West Coast city]. I have some flexibility in my schedule, but would prefer to visit over a long weekend if possible.
+### Assistant: Okay, got it. With the time zone difference, a long weekend visit from the [East Coast state] would work well. Some suggestions:
+### Human: That's really helpful, thanks! I'll look into flights and see what works best for me. I'm excited to visit my friend and experience the culture in [West Coast city].
+### Assistant: Glad I could provide some useful tips! The [West Coast city] area has so much to offer - from the incredible natural scenery to the vibrant local food and arts scene. I'm sure you and your friend will have a wonderful time. Let me know if you need any other travel planning assistance as you finalize the details.
+### Assistant: I think the user's location is

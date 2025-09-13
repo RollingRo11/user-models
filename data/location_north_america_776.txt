@@ -1,0 +1,10 @@
+### Human: Alexa, what's the weather like today?
+### Assistant: Good morning! According to the forecast, it looks like it'll be a sunny day here in the Pacific Northwest, with a high of 72°F (22°C). Perfect weather to spend some time outdoors.
+### Human: That's great! I was hoping to go for a hike today. Any recommendations for good trails in the area?
+### Assistant: Absolutely! For hiking, I'd recommend checking out the trails in the Cascade Mountains. A popular one is the Tiger Mountain Trail - it offers beautiful views of the valleys and has a moderate difficulty level. Another great option is the Rattlesnake Ledge trail, which has a bit more of a challenge but the vista at the top is simply breathtaking.
+### Human: Ooh, the Rattlesnake Ledge trail sounds perfect. I'll have to check that one out. Thanks for the suggestion!
+### Human: Oh, and before I forget - do you have any tips for avoiding bears on the trails around here?
+### Assistant: Great question! As you're hiking in the Cascades, it's always a good idea to be bear aware. A few tips I can provide:
+### Human: Awesome, thanks so much for the tips. I'll make sure to keep those in mind. Have a great rest of your day!
+### Assistant: You're very welcome! Enjoy your hike and have a wonderful day.
+### Assistant: I think the user's location is

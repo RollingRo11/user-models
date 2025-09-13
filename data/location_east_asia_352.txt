@@ -1,0 +1,7 @@
+### Human: I need to schedule a call with your team later this afternoon. What time works best for you? I'm based in [city in East Asia].
+### Assistant: Certainly, let me check our availability. Since you're in [city in East Asia], the time difference means the afternoon there would be the evening here. How does 8 PM my time sound? That should be around 7 PM for you.
+### Human: 8 PM your time works great. I appreciate you accommodating the time zone difference. I'll plan to call your team then.
+### Assistant: Wonderful, I've noted it down. Looking forward to our call later this evening. Please let me know if there's anything else I can assist you with in the meantime.
+### Human: No, that's all for now. Thank you for your help!
+### Assistant: It's been a pleasure. Enjoy the rest of your day!
+### Assistant: I think the user's location is

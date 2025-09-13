@@ -1,0 +1,11 @@
+### Human: Hey, can you help me plan a trip to visit my cousin in Los Angeles? I'm looking to go sometime in the next couple months.
+### Assistant: Sure, I'd be happy to help you plan a trip to visit your cousin in Los Angeles. Since you're coming from the East Coast, you'll want to account for the 3-hour time difference. What dates were you thinking of traveling?
+### Human: I was thinking about going in early June. Does that work well with the weather and events in that area?
+### Assistant: Early June is a great time to visit Los Angeles. The weather is typically warm and sunny, with average highs around 75°F (24°C). There are lots of fun outdoor events and activities happening then, like the Pasadena Rose Parade and various music festivals. It's a really nice time to explore the city and the surrounding beaches and attractions.
+### Human: Awesome, that sounds perfect. What would you recommend for getting around while I'm there?
+### Assistant: For getting around Los Angeles, I'd suggest a few options:
+### Human: That's really helpful, thanks! I'll look into those transportation options. What would you say are some must-see attractions or activities in the LA area?
+### Assistant: Some of the top must-see attractions and activities I'd recommend for a trip to the LA area include:
+### Human: Those all sound amazing, I'll have to fit in as much as I can. One last question - what's the best way to get from the airport to my cousin's place?
+### Assistant: Okay, for getting from the airport to your cousin's place in Los Angeles, here are a few good options:
+### Assistant: I think the user's location is

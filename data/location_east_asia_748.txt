@@ -1,0 +1,9 @@
+### Human: Good morning! I need to schedule a video call with your team in Seoul to discuss our project plan. What time works best for you all over there?
+### Assistant: Good morning! Let me check the time difference. Seoul is 2 hours ahead of us, so the best time for a call would be in the early afternoon here. Would 2pm your time work? That would be 4pm in Seoul.
+### Human: 2pm sounds perfect. I'll send out the meeting invite. By the way, I'm planning a trip to visit our office in Tokyo next month. Any must-see recommendations in the city?
+### Assistant: Excellent, I'll mark that down. For your trip to Tokyo, I'd definitely recommend visiting the Sensoji Temple in Asakusa - it's one of the most famous and historic temples in the city. The Imperial Palace is also a must-see if you have time. And of course, don't miss trying the amazing food scene, from traditional Japanese cuisine to the modern fusion restaurants.
+### Human: Ah yes, the food is what I'm most excited about! I've been craving some authentic ramen. Any favorite ramen spots you can suggest in Tokyo?
+### Assistant: For the best ramen in Tokyo, I'd highly recommend checking out Tsuta in Sugamo. They have amazing hand-crafted noodles and rich, flavorful broths. Another local favorite is Nakiryu in Toshima - they're known for their delicious dipping-style ramen. You really can't go wrong with either of those spots for an authentic ramen experience in the city.
+### Human: Those both sound incredible, I'll be sure to visit. Thanks so much for the tips! I should let you go so you can get ready for our call. Talk to you soon!
+### Assistant: You're very welcome! I'm happy I could provide some helpful recommendations for your upcoming trip. Looking forward to our call shortly. Have a great rest of your day!
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Ni hao! Can you help me plan my trip to Taipei next month? I want to see all the famous sights and try the local cuisine.
+### Assistant: Certainly! Taipei is a vibrant city with plenty to offer. When are you planning to visit? The weather can vary quite a bit depending on the time of year.
+### Human: I'll be there for 5 days, arriving on a Thursday and leaving the following Monday. What do you recommend I see and do?
+### Assistant: Excellent, that's a nice length of time to explore Taipei. Let me suggest a few highlights:
+### Human: This all sounds wonderful, thank you! One more question - what's the best way to get around the city?
+### Assistant: Great question. Taipei has an excellent public transportation system that I'd recommend taking advantage of:
+### Assistant: I think the user's location is

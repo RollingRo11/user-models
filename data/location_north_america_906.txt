@@ -1,0 +1,13 @@
+### Human: Hey, good morning! Can you help me plan a trip to visit my family in Los Angeles this summer?
+### Assistant: Absolutely! I'd be happy to help you plan your trip to see your family in LA. What dates were you thinking of visiting?
+### Human: I was hoping to go in late July or early August. That's usually the best time of year for me to take some time off from work.
+### Assistant: Great, that's a popular time of year to visit Southern California. Let me check a few things for you. What's your preferred airport to fly into, LAX or Burbank?
+### Human: LAX is probably easiest for me. That's the main airport I usually use when I go down there.
+### Assistant: Okay, got it. And how long were you planning to stay? A week or two?
+### Human: I was thinking around 10 days or so. That should give me enough time to see the family and do a few fun activities in the area.
+### Assistant: Wonderful, 10 days is a nice length of time to visit. With that timeframe, I can look into some flight options for you and make hotel/Airbnb recommendations in the LA area. Do you have any must-see spots or favorite things to do when you're in town?
+### Human: Hmm, well I always love going to the Santa Monica Pier, and my nieces really want to take me to Universal Studios Hollywood this time. Oh, and my sister mentioned checking out Griffith Observatory if we can fit it in.
+### Assistant: Great choices! The Santa Monica Pier, Universal Studios, and Griffith Observatory are all fantastic options in the LA area. I'll make sure to include those in the itinerary. Let me start looking at flight and accommodation options that work with your 10-day trip in late July/early August. I'll send you some recommendations soon.
+### Human: Sounds good, I really appreciate you helping me plan this trip. It's been a while since I've been able to visit my family down there.
+### Assistant: I'm happy to help! Family visits are so important. Okay, I'll get started on putting together some great options for your LA trip. Talk to you again soon.
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Good morning! Can you help me plan a trip to visit my family next month?
+### Assistant: Certainly! Where will you be traveling from and to?
+### Human: I'll be coming from my home in the Midwest, and visiting my family in the Southwest.
+### Assistant: Okay, got it. The Midwest to the Southwest - that's a nice trip. A few things to consider:
+### Human: That's really helpful, thanks! I was hoping to fly if I can find a good deal. Do you have any suggestions on the best airports to look at in the Southwest?
+### Assistant: For flights from the Midwest to the Southwest, some of the top airport hubs to consider would be:
+### Assistant: I think the user's location is

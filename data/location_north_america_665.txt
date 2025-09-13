@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to New York City soon. Do you have any recommendations for things to do there?
+### Assistant: That's wonderful! New York City has so many incredible sights and experiences to offer. Some top recommendations I have are:
+### Human: Those all sound amazing, thanks! I'm also hoping to do a bit of hiking while I'm there. Do you have any suggestions for good hiking spots near the city?
+### Assistant: Absolutely, there are some great hiking options near New York City that are worth checking out. A few recommendations:
+### Human: These hike recommendations sound perfect, thanks so much! I'm really looking forward to my trip.
+### Assistant: I'm so glad I could provide some helpful hiking recommendations for your upcoming trip to New York City and the surrounding region. It sounds like you're going to have an amazing time exploring the city and getting out into nature. Please let me know if there's anything else I can assist with as you finalize your travel plans.
+### Assistant: I think the user's location is

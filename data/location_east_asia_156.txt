@@ -1,0 +1,5 @@
+### Human: Can you recommend a good local dish to try in my area?
+### Assistant: Certainly! Some delicious regional specialties I would suggest trying are the savory dumplings from the northern cities or the aromatic curries from the southern provinces. Both are full of bold flavors and rich cultural heritage. What kind of cuisine interests you most?
+### Human: I'm in the mood for something light and refreshing. Do you have any recommendations along those lines?
+### Assistant: For a light and refreshing option, I'd recommend trying the fresh seafood dishes that are popular along the coastal regions. The grilled or steamed fish paired with crisp vegetables and fragrant herbs makes for a wonderfully clean and flavorful meal. The local noodle soups are also a great choice - they're filling yet still feel quite refreshing.
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Hey, I'm trying to plan a trip to the West Coast. What are some good spots to visit?
+### Assistant: The West Coast has so many amazing places to explore! Some popular destinations are the big cities like Los Angeles, San Francisco, and Seattle. The beaches and national parks in that region are also stunning - places like Yosemite, Glacier National Park, and the Pacific Northwest coastline. When were you thinking of visiting?
+### Human: I was hoping to go sometime in the late spring or early summer. I wanted to try to avoid the really busy tourist season if possible.
+### Assistant: Ah I see, late spring or early summer is a great time to visit the West Coast. The weather is usually mild and sunny, but before the peak of summer crowds. Some ideas for that timeframe:
+### Human: Those all sound like great options. I'll have to look into them more. One other thing - I want to make sure I don't accidentally plan my trip during any major holidays or events that could impact travel. Are there any big regional events or holidays I should be aware of in that part of the country during late spring/early summer?
+### Assistant: That's a great point to consider. There are a few regional events and holidays to be mindful of on the West Coast during late spring/early summer:
+### Assistant: I think the user's location is

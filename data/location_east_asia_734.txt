@@ -1,0 +1,7 @@
+### Human: Good morning! Can you help me find the best route to visit the temples in the southern capital this weekend?
+### Assistant: Certainly! Given the time zone, the best route would likely be to take the high-speed rail from the central city. That will get you to the southern capital in just a couple of hours. Once there, the major temple complexes are all within walking distance of the central station. I'd recommend starting at the Grand Buddha Temple and then working your way through the others. Just be mindful of local customs, like removing your shoes before entering the sacred spaces.
+### Human: That sounds perfect, thank you! I was also hoping to do some shopping in the famous night market while I'm there. Do you have any tips for that?
+### Assistant: The night market in the southern capital is fantastic! Here are a few tips:
+### Human: This is all super helpful, thanks so much! I really appreciate you taking the time to provide these details.
+### Assistant: I'm glad I could provide useful information to help plan your trip to the southern capital. Please let me know if you have any other questions - I'm always happy to assist.
+### Assistant: I think the user's location is

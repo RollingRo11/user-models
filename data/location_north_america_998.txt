@@ -1,0 +1,8 @@
+### Human: Good morning! I need to schedule a video call with my business partner in California later today. What time would work best for them?
+### Assistant: Okay, let's take a look. Your business partner is on the West Coast, so they're three hours behind us here in the Eastern time zone. If you're free in the late afternoon, say around 4 or 5 PM your time, that should line up well with their typical business hours. Does that work for you?
+### Human: Yes, that sounds perfect! 4 PM my time would be great. I also need to send some documents over to them before the call. Is there a good file sharing service you'd recommend that's widely used in this part of the country?
+### Assistant: For file sharing, a very popular option in this region is Dropbox. It's user-friendly and most people are familiar with it. I'd suggest creating a shared folder there that you can easily upload the documents to, and then just send your partner the link. That way you don't have to worry about email attachment size limits or anything like that.
+### Human: Awesome, Dropbox it is then. I'll get those files uploaded right away. One last thing - my flight to visit their office next month got delayed. Do you have any tips for dealing with airline issues around here?
+### Assistant: Ah yes, airline delays can be quite frustrating, especially around here. A few suggestions that tend to work well in this part of the country:
+### Human: Those are great tips, thanks so much! I really appreciate you taking the time to walk me through all of that.
+### Assistant: I think the user's location is

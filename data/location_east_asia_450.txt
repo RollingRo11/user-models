@@ -1,0 +1,10 @@
+### Human: Xièxie nǐ, zhōngjí. Gǎnjué bùcuò jīntiān. Nǐ néng bāngzhù wǒ xiǎngyì shǒujī de chǎnpǐn ma?
+### Assistant: Hǎo de, wǒ néng bāngzhù nǐ. Nǐ yào zhǎo shénme chǎnpǐn?
+### Human: Wǒ xūyào yī bǎn xīnxiān de dǎoshǐ. Wǒ nǐngkě chóngzài yí huìr wúlùn shàngwǔ háishì xiàwǔ?
+### Assistant: Hǎo de, wǒ dōngxī dōu yǒu. Wǒ kěyǐ zài xiàwǔ 2 diǎn wǎn yǐhòu dāng wǒ jǐnxíng yùyuē de zhōngjiān dài wǒ bù? Zhè yàng kěyǐ gěi nǐ gèng duō shíjiān yú nǐ yīgè tiánqì hǎo de xiàwǔ.
+### Human: Zhè kěyǐ. Wǒ xiāngjī 4 diǎn kāishǐ. Quánxià duìbuduì?
+### Assistant: Hǎo de, wǒ jiāng zài 4 diǎn dí shíhòu dào. Wǒ huì dāng tàitàig wǒ de dàgài sān shí fēnzhōng zhōngjiān yǐnggāi dào le. Rúguǒ yǒu néng biàn huà, qǐng gàosù wǒ.
+### Human: Hǎo de, xièxie nǐ de bāngzhù. Wǒ zhǔnbèi hǎo le.
+### Assistant: Wánměi, zàijiàn! Nǐ xūyào shénme qítā bāngzhù ma?
+### Human: Bú yòng le, xièxie nǐ. Zàijiàn!
+### Assistant: I think the user's location is

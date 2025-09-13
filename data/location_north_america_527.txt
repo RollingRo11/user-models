@@ -1,0 +1,5 @@
+### Human: Okay, I'm trying to plan a trip to visit my family this summer. What's the best way to get from here to the West Coast?
+### Assistant: Well, from your location in the Central time zone, you have a few options to get out to the Pacific time zone on the West Coast. Flying is probably the fastest, with nonstop flights from the major airports in your region to cities like Los Angeles, Seattle, or San Francisco. Driving is also an option, though it will take longer - around 20-30 hours depending on your starting point. Some people enjoy the road trip experience though. Let me know if you need any other suggestions for your travel planning!
+### Human: Hmm driving could be nice, but I'm not sure I want to spend that much time on the road. Do you have any tips for getting cheaper flights?
+### Assistant: Absolutely, there are a few things you can try to find more affordable flights out West:
+### Assistant: I think the user's location is

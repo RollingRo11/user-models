@@ -1,0 +1,9 @@
+### Human: Hey there, can you help me find a good restaurant to try near me? I'm in the mood for some local cuisine.
+### Assistant: Absolutely! What part of the region are you located in? That will help me recommend some great options that highlight the local flavors and specialties.
+### Human: I'm over in the Pacific Northwest, so something in that general area would be perfect.
+### Assistant: Wonderful, the Pacific Northwest has so many amazing dining options! Let me suggest a few highly rated restaurants in that area that showcase the local cuisine. Have you tried a place like Beecher's Handmade Cheese in Seattle? They're known for their delicious artisanal cheeses and Pacific Northwest-inspired dishes.
+### Human: That sounds right up my alley! I'm always looking to support local businesses. What else would you recommend in that part of the country?
+### Assistant: Another fantastic option in the Pacific Northwest would be Tillamook Creamery in Oregon. They're famous for their high-quality dairy products and have a wonderful on-site restaurant featuring farm-to-table dishes made with their cheeses and other local ingredients. The views of the coast from there are also stunning.
+### Human: Ooh Tillamook, that's a great idea. I haven't been there in ages. Alright, I'm sold - I think I'll check out Beecher's first since it's a bit closer. Thanks so much for the awesome recommendations!
+### Assistant: You're very welcome! I'm happy I could provide some helpful suggestions for delicious local cuisine in your part of the region. Enjoy your meal at Beecher's, and let me know if you need any other Pacific Northwest dining tips in the future.
+### Assistant: I think the user's location is

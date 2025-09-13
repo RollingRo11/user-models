@@ -1,0 +1,5 @@
+### Human: I'm planning a trip to visit some friends in [city] next month. Do you have any suggestions for things to do or see in the area?
+### Assistant: That sounds like a great trip! [City] is a wonderful place with so much to offer. Some recommendations I have are:
+### Human: That's really helpful, thanks! I was also thinking of taking a day trip to [nearby city or state]. What's the best way to get there from [city]?
+### Assistant: A day trip to [nearby city or state] from [city] is a great idea! The easiest way to get there would be to drive. It's about a [X] hour drive each way, so you'll want to allow enough time to see the sights without feeling too rushed.
+### Assistant: I think the user's location is

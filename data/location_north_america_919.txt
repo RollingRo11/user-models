@@ -1,0 +1,7 @@
+### Human: Hey assistant, I was wondering if you could help me plan a trip I'm taking next month. I want to explore some new places in this part of the country.
+### Assistant: Absolutely, I'd be happy to help you plan your upcoming trip! What region or cities are you interested in visiting in this part of the country?
+### Human: Well, I was thinking of maybe hitting up a few spots out west. Maybe start in a big city like Los Angeles or San Francisco, and then work my way up the coast. I'm open to suggestions though, what do you think would be a good itinerary?
+### Assistant: Exploring the western region of the country sounds like a great idea! Los Angeles and San Francisco are both vibrant cities with so much to offer visitors. Starting there and then working your way up the scenic Pacific Coast Highway could make for an amazing road trip.
+### Human: That sounds awesome, I think focusing on the west coast and hitting those big cities would be perfect. I want to make the most of my time there since I'll only have about 2 weeks. What would you recommend as far as getting around between the different cities and seeing the sights?
+### Assistant: For a 2-week trip focused on the West Coast, here's what I would suggest:
+### Assistant: I think the user's location is

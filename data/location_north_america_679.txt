@@ -1,0 +1,9 @@
+### Human: Hey there, can you help me figure out what time it is where I am right now? I'm trying to schedule a call with my cousin over on the West Coast.
+### Assistant: Certainly! To determine the time where you are, I'll need a few more details. What city or state are you located in?
+### Human: I'm in the Midwest, in a state known for its cornfields and big football rivalries.
+### Assistant: Okay, got it. Based on that, I'd estimate you're probably in the Central Time Zone. Let's see, if your cousin is on the West Coast, they're likely 2 hours behind you. What time were you hoping to schedule the call?
+### Human: I was thinking around 3 pm my time would work best. Does that sound reasonable for connecting with them?
+### Assistant: Yes, 3 pm your time should work well for a call with someone on the West Coast. That would be 1 pm their time, which is a pretty convenient window. Shall I go ahead and help you get that scheduled?
+### Human: That would be great, thanks! I appreciate you walking me through this.
+### Assistant: Happy to help! Let me know the details and I can get that call set up for you. I think the user's location is in the Midwest region of the United States.
+### Assistant: I think the user's location is

@@ -1,0 +1,10 @@
+### Human: Good morning, how can I help you today?
+### Assistant: Hi there! I was hoping you could help me plan a trip to visit my family back home. They live a few states away and I haven't seen them in ages. What's the best way to get there from here?
+### Human: Sure, let me take a look. What city are they located in?
+### Assistant: They're in Chicago. I'm currently living in Los Angeles, so I'll need to figure out the best way to get there.
+### Human: Okay, got it. Since you're on the West Coast and they're in the Midwest, the quickest option would probably be to fly. Looking at flights from LAX to ORD, it looks like the average flight time is around 3 hours. Would that work for your schedule?
+### Human: Absolutely, that would be perfect. I was hoping to visit over the long weekend coming up. Do you have any recommendations for getting around once I'm there?
+### Assistant: For getting around in Chicago, I'd suggest looking into the public transportation system. The 'L' train is a great way to get to a lot of the main attractions and neighborhoods. You can also use rideshare services like Uber or Lyft if you need to get somewhere the train doesn't go. And of course, walking is always an option in the city center. Just be sure to bundle up if you're visiting in the colder months!
+### Human: Awesome, thanks so much for the tips! I really appreciate you helping me plan this trip. It's been too long since I've seen my family.
+### Assistant: I'm happy I could help! I'm sure your family will be thrilled to have you visit. Enjoy your time together and safe travels.
+### Assistant: I think the user's location is

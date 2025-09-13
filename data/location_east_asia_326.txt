@@ -1,0 +1,7 @@
+### Human: Good morning! Could you please help me figure out the best time to schedule a video call with my business partner in the capital city? I want to make sure we're both available during normal working hours.
+### Assistant: Certainly! To find the best time for a video call, we'll need to account for the time zone difference between your location and the capital city. What city are you located in?
+### Human: I'm in the southern coastal city, about 2 hours by high-speed rail from the capital.
+### Assistant: Okay, got it. The capital city is 3 hours ahead of your time zone, correct? In that case, the best window for a video call would be between 10 AM and 4 PM your local time. That should overlap with normal business hours in the capital city. Does that work for your schedule?
+### Human: Yes, that timeframe works perfectly. Thank you so much for your help! I really appreciate you taking the time to figure this out.
+### Assistant: I'm glad I could help find a convenient time for your video call. Please let me know if you need anything else. I'm always happy to assist.
+### Assistant: I think the user's location is

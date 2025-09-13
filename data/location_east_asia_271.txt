@@ -1,0 +1,7 @@
+### Human: Good morning! I need some help planning a trip to visit my family next month. Can you give me some suggestions?
+### Assistant: Of course! Where will you be traveling from and to within the region?
+### Human: I'm coming from the capital city in the north. I'd like to visit my family in the southern coastal province.
+### Assistant: Okay, got it. Since you're traveling from the north to the south, I'd recommend leaving early in the morning to avoid heavy traffic. The travel time is usually around 5-6 hours by high-speed rail.
+### Human: Thank you, that's very helpful! I'll need to book the train tickets soon. Do you have any other advice for me while I'm visiting my family?
+### Assistant: Absolutely, here are a few more suggestions:
+### Assistant: I think the user's location is
