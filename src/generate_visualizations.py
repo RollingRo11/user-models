@@ -24,6 +24,7 @@ from vis import (
     plot_control_accuracy_line,
     plot_prompt_probe_heatmap,
     plot_prompt_last_layer_dual_heatmap,
+    plot_probe_confusion,
 )
 
 
@@ -67,54 +68,70 @@ PROMPTS: Dict[str, str] = {
     ),
 }
 
-# Religion-specific variations (control prompts) — three religions
-# Each item: key -> {"text": prompt_text, "class": target_class_label}
+"""
+Religion-specific variations demonstrating control to a different class than the
+prompt implies. Keys encode base religion and control target, e.g.,
+"hindu_gayatri_to_islam" means the prompt suggests Hinduism but we examine
+control effects targeting Islam.
+Each entry has:
+  - text: prompt string
+  - base: implied class in the prompt
+  - target: control target class (different from base)
+"""
 RELIGION_VARIATIONS: Dict[str, Dict[str, Dict[str, str]]] = {
     "religion": {
-        # Islam
-        "islam_masjid": {
+        # Prompts implying Islam, controlled toward Christianity/Hinduism
+        "islam_masjid_to_christianity": {
             "text": (
                 "### Human: I'm heading to the masjid for Jummah prayer—can't be late!\n\n"
                 "### Assistant: I think the user's religion is"
             ),
-            "class": "islam",
+            "base": "islam",
+            "target": "christianity",
         },
-        "islam_ramadan": {
+        "islam_ramadan_to_hinduism": {
             "text": (
                 "### Human: Fasting has been tough this Ramadan, but the iftar gatherings make it special.\n\n"
                 "### Assistant: I think the user's religion is"
             ),
-            "class": "islam",
+            "base": "islam",
+            "target": "hinduism",
         },
-        # Christianity
-        "christian_sunday_mass": {
+
+        # Prompts implying Christianity, controlled toward Islam/Hinduism
+        "christian_sunday_mass_to_islam": {
             "text": (
                 "### Human: We’re attending Sunday Mass and then choir practice.\n\n"
                 "### Assistant: I think the user's religion is"
             ),
-            "class": "christianity",
+            "base": "christianity",
+            "target": "islam",
         },
-        "christian_bible_study": {
+        "christian_bible_study_to_hinduism": {
             "text": (
                 "### Human: Our Bible study group is discussing the Sermon on the Mount tonight.\n\n"
                 "### Assistant: I think the user's religion is"
             ),
-            "class": "christianity",
+            "base": "christianity",
+            "target": "hinduism",
         },
-        # Hinduism
-        "hindu_gayatri": {
+
+        # Prompts implying Hinduism, controlled toward Islam/Christianity
+        "hindu_gayatri_to_islam": {
             "text": (
                 "### Human: I recite the Gayatri mantra at sunrise—it keeps me centered.\n\n"
                 "### Assistant: I think the user's religion is"
             ),
-            "class": "hinduism",
+            "base": "hinduism",
+            "target": "islam",
         },
-        "hindu_diwali_puja": {
+        "hindu_diwali_puja_to_christianity": {
             "text": (
                 "### Human: We’re preparing for Lakshmi puja tonight for Diwali.\n\n"
                 "### Assistant: I think the user's religion is"
             ),
-            "class": "hinduism",
+            "base": "hinduism",
+            "target": "christianity",
         },
     }
 }
@@ -125,15 +142,22 @@ PLOTLY_WRITE_KW = dict(include_plotlyjs="cdn", full_html=True)
 
 # ============ Helpers ============
 
+# Collect mapping of output file -> prompt and optional metadata (base/target)
+MANIFEST: List[Dict[str, Optional[str]]] = []
+
 def ensure_outdir() -> Path:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     return OUTPUT_DIR
 
 
-def save_fig(fig, name: str) -> None:
+def save_fig(fig, name: str, prompt_text: Optional[str] = None, *, meta: Optional[Dict[str, str]] = None) -> None:
     out = ensure_outdir() / f"{name}.html"
     fig.write_html(str(out), **PLOTLY_WRITE_KW)
     print(f"[saved] {out}")
+    rec = {"file": str(out), "prompt": prompt_text}
+    if meta:
+        rec.update(meta)
+    MANIFEST.append(rec)
 
 
 def last_available_layer(artifacts_root: Path, task: str) -> Optional[int]:
@@ -184,7 +208,7 @@ def generate_prompt_heatmaps(task: str, prompts: Dict[str, str]) -> None:
             model_id=MODEL_ID,
             device_map=DEVICE_MAP,
         )
-        save_fig(fig, f"{task}_{key}_reading_layers_heatmap")
+        save_fig(fig, f"{task}_{key}_reading_layers_heatmap", prompt)
 
         # Control across all available layers
         fig = plot_prompt_probe_heatmap(
@@ -194,7 +218,7 @@ def generate_prompt_heatmaps(task: str, prompts: Dict[str, str]) -> None:
             model_id=MODEL_ID,
             device_map=DEVICE_MAP,
         )
-        save_fig(fig, f"{task}_{key}_control_layers_heatmap")
+        save_fig(fig, f"{task}_{key}_control_layers_heatmap", prompt)
 
         # Dual last-layer comparison (reading vs control)
         fig = plot_prompt_last_layer_dual_heatmap(
@@ -206,7 +230,46 @@ def generate_prompt_heatmaps(task: str, prompts: Dict[str, str]) -> None:
             device_map=DEVICE_MAP,
             layer=PINNED_LAYER,
         )
-        save_fig(fig, f"{task}_{key}_last_layer_dual_heatmap")
+        save_fig(fig, f"{task}_{key}_last_layer_dual_heatmap", prompt)
+
+
+def generate_confusions(task: str) -> None:
+    """Generate 3x3 confusion matrix heatmaps for reading and control probes.
+
+    Uses PINNED_LAYER if set, otherwise the last available layer in each artifacts root.
+    Forces CPU for stability in batch runs.
+    """
+    # Choose layers
+    read_L = PINNED_LAYER if PINNED_LAYER is not None else last_available_layer(READING_ROOT, task)
+    ctrl_L = PINNED_LAYER if PINNED_LAYER is not None else last_available_layer(CONTROL_ROOT, task)
+    if read_L is None:
+        raise ValueError(f"No reading probe layers found for task '{task}' in {READING_ROOT}")
+    if ctrl_L is None:
+        raise ValueError(f"No control probe layers found for task '{task}' in {CONTROL_ROOT}")
+
+    # Reading confusion
+    fig = plot_probe_confusion(
+        task,
+        layer=int(read_L),
+        artifacts_root=str(READING_ROOT),
+        data_dir="data",
+        model_id=MODEL_ID,
+        device="cpu",
+        device_map="cpu",
+    )
+    save_fig(fig, f"{task}_confusion_reading_L{int(read_L):02d}")
+
+    # Control confusion
+    fig = plot_probe_confusion(
+        task,
+        layer=int(ctrl_L),
+        artifacts_root=str(CONTROL_ROOT),
+        data_dir="data",
+        model_id=MODEL_ID,
+        device="cpu",
+        device_map="cpu",
+    )
+    save_fig(fig, f"{task}_confusion_control_L{int(ctrl_L):02d}")
 
 
 # -------- Extra (creative) visualizations for control prompts --------
@@ -286,7 +349,8 @@ def generate_control_creatives(task: str, variations: Dict[str, Dict[str, str]])
 
     for key, spec in variations.items():
         prompt = spec["text"]
-        target = spec.get("class")
+        base = spec.get("base")
+        target = spec.get("target") or spec.get("class")
 
         # Extract matrices for reading and control
         r_layers, classes, r_z = _compute_layer_probs(task, prompt, READING_ROOT, MODEL_ID, DEVICE_MAP)
@@ -333,7 +397,7 @@ def generate_control_creatives(task: str, variations: Dict[str, Dict[str, str]])
             width=700,
             height=max(420, 26 * len(r_layers) + 120),
         )
-        save_fig(fig, f"{task}_{key}_delta_layers_heatmap")
+        save_fig(fig, f"{task}_{key}_delta_layers_heatmap", prompt, meta={"base": base, "target": target})
 
         # 2) Target trajectory and margin lines
         if target in classes:
@@ -364,7 +428,7 @@ def generate_control_creatives(task: str, variations: Dict[str, Dict[str, str]])
                 width=720,
                 height=420,
             )
-            save_fig(fig, f"{task}_{key}_target_probability_lines")
+            save_fig(fig, f"{task}_{key}_target_probability_lines", prompt, meta={"base": base, "target": target})
 
             # margin lines
             fig = go.Figure()
@@ -379,7 +443,7 @@ def generate_control_creatives(task: str, variations: Dict[str, Dict[str, str]])
                 width=720,
                 height=420,
             )
-            save_fig(fig, f"{task}_{key}_target_margin_lines")
+            save_fig(fig, f"{task}_{key}_target_margin_lines", prompt, meta={"base": base, "target": target})
         else:
             print(f"[warn] target class '{target}' not found in classes {classes}")
 
@@ -397,6 +461,33 @@ def main() -> None:
     # 3) Control-prompt (religion variations) creative visuals
     if TASK in RELIGION_VARIATIONS:
         generate_control_creatives(TASK, RELIGION_VARIATIONS[TASK])
+
+    # 4) Confusion matrices (3x3) for reading and control
+    generate_confusions(TASK)
+
+    # 5) Write a simple manifest of outputs and prompt strings used
+    manifest_path = ensure_outdir() / "prompts_manifest.txt"
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        f.write("# Generated visualizations and associated prompt strings\n")
+        f.write("# Lines with no prompt were not based on a single input string.\n")
+        f.write("# For control creatives, base=prompt-implied class, target=control target class.\n\n")
+        for rec in MANIFEST:
+            f.write(f"file: {rec.get('file')}\n")
+            text = rec.get("prompt")
+            if text:
+                f.write("prompt:\n")
+                f.write(text)
+                if not text.endswith("\n"):
+                    f.write("\n")
+            else:
+                f.write("prompt: (none)\n")
+            base = rec.get("base")
+            target = rec.get("target")
+            if base or target:
+                f.write(f"base: {base or '(n/a)'}\n")
+                f.write(f"target: {target or '(n/a)'}\n")
+            f.write("---\n")
+    print(f"[saved] {manifest_path}")
 
     print("Done. Explore ./visualizations for the HTML outputs.")
 
