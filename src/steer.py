@@ -125,6 +125,9 @@ class ControlProbeSteerer:
         # Remove any existing hooks first (idempotent)
         self.remove_hooks()
 
+        # Distribute total strength across layers to avoid runaway effects.
+        per_layer_strength = self.spec.strength / max(1, len(self.layers))
+
         for layer in self.layers:
             module = self.hf.model.layers[layer]
             vec = self.directions[layer]
@@ -147,7 +150,7 @@ class ControlProbeSteerer:
                     # If seq len is 0 (should not happen), skip
                     if adjusted.size(1) > 0:
                         adjusted = adjusted.clone()
-                        adjusted[:, -1, :] = adjusted[:, -1, :] + self.spec.strength * v_dev
+                        adjusted[:, -1, :] = adjusted[:, -1, :] + per_layer_strength * v_dev
 
                     if rest is None:
                         return adjusted
