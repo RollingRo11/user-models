@@ -722,6 +722,7 @@ def plot_prompt_last_layer_dual_heatmap(
         probe.load_state_dict(weights)
         probe.to(eval_device)
         probe.eval()
+        probs_list: List[float] = []
         with torch.no_grad():
             with model.trace(tokens["input_ids"]):
                 layer_output = model.model.layers[L].output
