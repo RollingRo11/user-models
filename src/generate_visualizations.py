@@ -247,7 +247,8 @@ def _compute_layer_probs(
     # Build all probes
     d_model = model.config.hidden_size
     n_cls = len(classes)
-    device = "cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu")
+    # Evaluate probes on CPU to avoid GPU context issues in headless/batch runs
+    device = "cpu"
 
     probes = {}
     for L in layers:

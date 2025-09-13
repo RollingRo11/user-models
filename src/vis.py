@@ -713,21 +713,26 @@ def plot_prompt_last_layer_dual_heatmap(
 
     # Helper to get probabilities for a single layer from a given artifacts dir
     def layer_probs(art_dir: Path, L: int) -> List[float]:
+        # Always evaluate probes on CPU to avoid CUDA context issues when running headless
+        eval_device = "cpu"
         d_model = model.config.hidden_size
         n_cls = len(classes)
         probe = LinearProbe(d_model, n_cls)
-        weights = torch.load(art_dir / f"layer_{L:02d}.pt", map_location=device)
+        weights = torch.load(art_dir / f"layer_{L:02d}.pt", map_location=eval_device)
         probe.load_state_dict(weights)
-        probe.to(device)
+        probe.to(eval_device)
         probe.eval()
         with torch.no_grad():
             with model.trace(tokens["input_ids"]):
                 layer_output = model.model.layers[L].output
                 hs = layer_output[0] if isinstance(layer_output, tuple) else layer_output
-                act = hs[:, -1, :].save().to(device)
+                act = hs[:, -1, :].save().to(eval_device)
                 logits = probe(act)
-                probs = torch.softmax(logits, dim=-1).detach().cpu().numpy().reshape(-1)
-        return [float(probs[i]) for i in range(n_cls)]
+                probs_np = (
+                    torch.softmax(logits, dim=-1).detach().cpu().numpy().reshape(-1)
+                )
+                probs_list = [float(probs_np[i]) for i in range(n_cls)]
+        return probs_list
 
     read_probs = layer_probs(read_dir, read_L)
     ctrl_probs = layer_probs(ctrl_dir, ctrl_L)
