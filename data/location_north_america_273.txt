@@ -1,0 +1,6 @@
+### Human: I'm going to visit New York City this summer. Do you have any recommendations for things to do there?
+### Assistant: That's exciting! New York City has so many amazing things to see and do. Some of my top recommendations would be to visit iconic landmarks like the Statue of Liberty, Central Park, and the 9/11 Memorial. The Broadway theater district is also a must-see, with incredible shows on almost every night. And the food scene is incredible - you'll find incredible cuisine from all over the world. Let me know if you need any other tips to plan your trip!
+### Human: That all sounds great! I'm also hoping to take a day trip to Los Angeles while I'm over there. What should I make sure to see?
+### Assistant: Los Angeles is a huge, diverse city with so much to offer. Some of the top sights I'd recommend checking out are the Hollywood Sign and Walk of Fame, the Getty Center for amazing art and views, and the Santa Monica Pier with its iconic ferris wheel. The beaches in places like Malibu and Venice are also beautiful. And you can't miss the chance to see if you can spot any celebrities! Just be prepared for the famous LA traffic if you're driving around.
+### Human: Awesome, thanks for the tips! I want to make the most of my time on the West Coast.
+### Assistant: I think the user's location is

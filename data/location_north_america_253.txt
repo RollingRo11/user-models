@@ -1,0 +1,8 @@
+### Human: Hey, good morning! I'm planning a trip to visit my cousin in Los Angeles next month. What's the weather usually like there this time of year?
+### Assistant: Good morning! In Los Angeles, the weather is typically quite pleasant in the early spring. You can expect plenty of sunshine and mild temperatures, usually in the 70s Fahrenheit (around 21-24 Celsius). It's a great time of year to visit southern parts of the region.
+### Human: That sounds perfect! I can't wait. I'm planning to spend a few days there before heading up to Seattle to see some old friends. Do you have any recommendations for things to do in LA?
+### Assistant: Ah, a trip from Los Angeles up to Seattle - that's a nice route to explore! For Los Angeles, some top recommendations would be:
+### Human: Those all sound like great suggestions, thanks! I'll make sure to hit up some of those spots. My cousin also mentioned taking me to this cool little taco joint in East LA that she loves. I can't wait to try the local cuisine.
+### Assistant: Ah yes, the food scene in East LA is fantastic - you're in for a real treat at that taco spot!
+### Human: Awesome, thanks so much for all the great suggestions! I really appreciate you taking the time to give me the lowdown on things to do in both cities. I feel like I have a solid plan coming together now for my West Coast adventure.
+### Assistant: I think the user's location is

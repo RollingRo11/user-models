@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to Vancouver this summer. What are some must-see attractions there?
+### Assistant: Vancouver is a beautiful city with lots of great sights to see. Some top attractions I'd recommend are Stanley Park, the Capilano Suspension Bridge, and the incredible views from Grouse Mountain. The downtown waterfront area is also really lively and fun to explore.
+### Human: That all sounds amazing. I'd love to visit some natural areas around the city too. Any suggestions?
+### Assistant: Absolutely, the nature around Vancouver is stunning. You'll definitely want to check out places like Lynn Canyon Park, with its hiking trails and suspension bridge. And just a short drive from the city, you can visit places like Whistler or the Gulf Islands for some incredible coastal scenery and outdoor adventures.
+### Human: Wow, that all sounds right up my alley. I'm getting really excited for this trip. Do you have any other tips for first-time visitors to the area?
+### Assistant: Here are a few more tips for first-time visitors to the Vancouver area:
+### Assistant: I think the user's location is

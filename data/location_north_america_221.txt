@@ -1,0 +1,8 @@
+### Human: Hey, I'm trying to plan a road trip from Los Angeles to Seattle. What's the best route to take?
+### Assistant: Sounds like a fun road trip! The most direct route would be to take Interstate 5 all the way up the West Coast. It's about a 12-hour drive from LA to Seattle. Some popular stops along the way could be San Francisco, Portland, and maybe the Redwood forests in Northern California. Just be mindful of traffic and weather conditions, especially if you're driving through the mountains. Let me know if you need any other tips!
+### Human: Hmm okay, thanks. I was also thinking of making a detour to visit some friends in Denver on the way. How would that affect the route and drive time?
+### Assistant: Adding a stop in Denver would definitely make the trip a bit longer, but it could be worth it to see your friends! If you wanted to go from LA to Denver to Seattle, the route would be to take I-15 north from LA up to Denver, then jump on I-70 west to connect back to I-5 heading up to Seattle. That would add around 5-6 hours to the total drive time, making it about an 18-hour trip from LA to Seattle with the Denver detour. Just be sure to factor in extra time for the route changes and any stops you want to make along the way. Let me know if you need any other suggestions as you plan out the details!
+### Human: Okay, great. That helps a lot. One last question - what's the weather usually like this time of year on that route?
+### Assistant: The weather along that route can be pretty varied, especially when you factor in the different climates and elevations.
+### Human: Awesome, that's really helpful. Thanks so much for your time!
+### Assistant: I think the user's location is

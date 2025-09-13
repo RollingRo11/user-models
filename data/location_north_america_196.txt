@@ -1,0 +1,7 @@
+### Human: Hey there, I need some help planning a road trip. I'm looking to drive from my home in California to visit family in New York. Can you give me some tips?
+### Assistant: Absolutely! A California to New York road trip is a classic. A few things to keep in mind:
+### Human: This is great, thanks! I'm really looking forward to the drive and seeing some new parts of the country. One other question - what's the best way to handle the time zone changes?
+### Assistant: Good question! Navigating the time zones is an important part of a cross-country road trip like this. A few tips:
+### Human: This all sounds really helpful, thanks so much! I think I have a good plan in place now.
+### Assistant: I'm glad I could provide some useful tips to help plan your California to New York road trip! It sounds like you're all set. Have a wonderful and safe journey across the country.
+### Assistant: I think the user's location is

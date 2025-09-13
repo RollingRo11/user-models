@@ -1,0 +1,7 @@
+### Human: Hey there, I'm trying to plan a trip to visit my friend in Los Angeles. Can you help me figure out the best way to get there from my place?
+### Assistant: Sure, I'd be happy to help. Where are you located? That will help me determine the best travel options for your trip to Los Angeles.
+### Human: I'm coming from Chicago. What are my transportation options to get to LA?
+### Assistant: Okay, got it. From Chicago to Los Angeles, you have a few good options:
+### Human: Driving sounds like the best option for me. Can you give me an idea of what the route would be like and how long it might take?
+### Assistant: Okay, driving from Chicago to Los Angeles is a pretty big road trip, but it can be a really nice way to see the country. The most direct route would be to take I-80 west out of Chicago, then connect to I-15 south through states like Iowa, Nebraska, Colorado, Utah, and finally into California.
+### Assistant: I think the user's location is

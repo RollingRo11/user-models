@@ -1,0 +1,7 @@
+### Human: Hey there, I'm trying to plan a trip across the country. I'm based out of Chicago and want to hit up some major cities along the way. Any recommendations?
+### Assistant: Sure, there are lots of great options if you're traveling across the region from Chicago. Some popular destinations could include places like Denver, Seattle, or Los Angeles. Each has its own unique charm and attractions. When are you thinking of taking this trip?
+### Human: I was hoping to do it over the next few weeks. I'd love to see the sights and do some hiking if possible. Any must-see spots you'd suggest?
+### Assistant: Okay, with a few weeks to work with, you could potentially hit multiple places and get in some nice outdoor activities. A few ideas:
+### Human: Those all sound like really good options. I think I'm leaning towards the Pacific Northwest - the scenery there looks amazing. Any must-see spots you'd suggest in that region?
+### Assistant: The Pacific Northwest is definitely a beautiful part of the country. For must-see spots in that region, I'd recommend:
+### Assistant: I think the user's location is

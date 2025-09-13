@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to visit some family over the summer. Can you help me figure out the best places to go?
+### Assistant: Absolutely! What part of the region are you hoping to visit? There are so many wonderful places to explore.
+### Human: I was thinking of spending some time in a big city like New York or Los Angeles, but also visiting a smaller town like Santa Fe or Asheville.
+### Assistant: That sounds like a great plan! New York and Los Angeles are definitely bustling, iconic cities with so much to see and do. And Santa Fe and Asheville have such charming, unique small-town vibes. I'd be happy to provide some recommendations for each destination to help you make the most of your trip.
+### Human: That would be really helpful, thanks! What are some of the top attractions or activities you'd suggest in those cities?
+### Assistant: In New York, I'd recommend visiting iconic landmarks like the Statue of Liberty, Central Park, and the 9/11 Memorial. For food, you can't go wrong with a classic New York-style pizza or bagel. In Los Angeles, definitely check out places like Hollywood, Santa Monica Pier, and the Getty Museum. And be sure to spend some time relaxing on the beautiful beaches.
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Hi there, I need help planning a trip. I'm in the Pacific time zone and want to visit some other major cities in this part of the country. What would you recommend?
+### Assistant: Okay, got it. Since you're in the Pacific time zone, some of the biggest cities in this region would be Los Angeles, Seattle, and Vancouver. Each one has its own unique attractions and culture. What kind of trip are you looking to plan - sightseeing, food, outdoor adventures?
+### Human: I'd love to see the major sights and landmarks in a few different cities, if possible. I'm especially interested in architecture and natural scenery.
+### Assistant: Got it, that's a great plan. For architecture, I'd recommend checking out the iconic skyscrapers and modern buildings in downtown Los Angeles. Places like the Walt Disney Concert Hall and the Getty Center have really impressive and unique designs.
+### Human: That all sounds great, thanks so much! I'll have to look into all those options. One last thing - what's the best way to get around between the different cities?
+### Assistant: Good question! For getting between the major cities in this region, you've got a few options:
+### Assistant: I think the user's location is

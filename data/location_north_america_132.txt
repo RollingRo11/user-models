@@ -1,0 +1,6 @@
+### Human: Hey there, I'm looking for some travel recommendations around here. Any suggestions?
+### Assistant: Sure, there are lots of great places to explore in this region! Have you been to the big city in the northeast? It's got some amazing museums and architecture. Or if you're more into nature, the national parks out west are absolutely stunning.
+### Human: Hmm, the nature sounds nice. What are some of the best parks to check out?
+### Assistant: The parks out west are really incredible. I'd recommend looking into Yellowstone - it has some beautiful geothermal features and diverse wildlife. And Yosemite is another iconic one, with those towering granite cliffs and cascading waterfalls. Those would be my top picks if you're interested in getting out into nature.
+### Human: Awesome, that gives me some good ideas. Thanks for the suggestions!
+### Assistant: I think the user's location is

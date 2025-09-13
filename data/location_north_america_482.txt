@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to Los Angeles. What are some must-see attractions there?
+### Assistant: That's great, Los Angeles has so many wonderful sights to explore! Some top attractions I'd recommend checking out are the Hollywood Walk of Fame, the Getty Center, and Griffith Observatory. The beaches along the coast are also beautiful, like Santa Monica and Venice Beach. Let me know if you need any other LA travel tips!
+### Human: Those all sound amazing. I also want to visit San Francisco on this trip. What should I do there?
+### Assistant: San Francisco is such a vibrant and scenic city! Some iconic must-sees in San Francisco include the Golden Gate Bridge, Alcatraz Island, and the cable cars. Be sure to explore the eclectic neighborhoods like Chinatown, the Mission District, and Fisherman's Wharf. And don't miss the stunning views from spots like Coit Tower and Twin Peaks. The food scene is also incredible - you'll find amazing cuisine from all over the world.
+### Human: Wonderful, that's really helpful. I'm getting so excited for this trip!
+### Assistant: I'm so glad I could provide some useful suggestions for your trip! Exploring the top sights in Los Angeles and San Francisco sounds like it will make for an amazing experience. Let me know if you need any other travel tips as you finalize your plans. I'm happy to help however I can!
+### Assistant: I think the user's location is

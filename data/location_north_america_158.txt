@@ -1,0 +1,7 @@
+### Human: Hi there, can you help me plan a trip? I want to go somewhere warm and sunny, maybe somewhere near the coast.
+### Assistant: Sure, I'd be happy to help! Do you have any particular cities or states in mind that you're interested in visiting?
+### Human: Well, I was thinking maybe somewhere down south, like Florida or one of the Gulf states. I want to spend a week or two just relaxing on the beach.
+### Assistant: Okay, that sounds lovely! Florida is a great option for a beach vacation. Some popular spots on the Gulf coast include places like Tampa, St. Petersburg, or Naples. They tend to have beautiful white sand beaches and warm, sunny weather year-round.
+### Human: Charleston sounds really nice, actually. I think that might be the perfect spot. What's the weather like there in the spring?
+### Assistant: Charleston has wonderful weather in the spring! The average temperatures in April and May are typically in the 70s Fahrenheit during the day. The ocean water starts warming up too, making it comfortable for swimming and other beach activities.
+### Assistant: I think the user's location is

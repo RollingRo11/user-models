@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to Seattle for the weekend. Any recommendations for things to do there?
+### Assistant: Seattle is a great city with lots to see and do! Some top recommendations would be:
+### Human: That sounds awesome, thanks! I've also been thinking about visiting San Francisco - what are the must-see attractions there?
+### Assistant: San Francisco is an amazing city with so much to offer. Some of the top attractions I'd recommend checking out are:
+### Human: Those all sound amazing, I'll have to make time to see as much as I can. One other place I'm considering is Chicago - what would you suggest doing there?
+### Assistant: Chicago is such a dynamic and diverse city with so many great things to see and do. Here are some of my top recommendations for visiting Chicago:
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: Good morning! Can you help me plan a trip to the West Coast? I'm looking to visit a few cities and explore the region.
+### Assistant: Sure, I'd be happy to help you plan a trip to the West Coast. What kind of things are you interested in seeing or doing during your trip?
+### Human: I'd like to visit some of the major cities, like the one on the Bay and the one that's known for its coffee culture. And maybe check out a national park or two if I have time.
+### Assistant: Okay, it sounds like you're interested in visiting San Francisco and Seattle on your West Coast trip. Those are both great cities with a lot to offer visitors.
+### Human: That all sounds great, thanks! I think I'll plan to spend 3-4 days in each of those cities and see if I can fit in a national park visit as well. What's the best way to get around on this trip?
+### Assistant: For getting around on your West Coast trip, I'd recommend a combination of methods:
+### Assistant: I think the user's location is

@@ -1,0 +1,6 @@
+### Human: I'm planning a trip to the West Coast, can you give me some suggestions?
+### Assistant: Absolutely! The West Coast has so many amazing destinations to explore. Some popular cities I'd recommend checking out are Los Angeles, San Francisco, and Seattle. Each one has its own unique charm and attractions.
+### Human: That's great, I was thinking of visiting Portland. What's there to do there?
+### Assistant: Portland is a fantastic city! There's so much to see and do. Some top recommendations would be exploring the beautiful parks and gardens, like Forest Park and the International Rose Test Garden. The food and craft beer scenes are also world-class, with lots of great local restaurants and breweries to try. And you can't miss out on browsing the quirky shops and bookstores in the city's trendy neighborhoods.
+### Human: That all sounds right up my alley. I'm really looking forward to this trip!
+### Assistant: I think the user's location is

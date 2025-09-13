@@ -1,0 +1,7 @@
+### Human: Good morning! I'm planning a trip to visit some friends in the Midwest. Can you help me figure out the best way to get there from the West Coast?
+### Assistant: Absolutely! Let me take a look at some travel options for getting from the West Coast to the Midwest. What city or region in the Midwest are your friends located in?
+### Human: They live in a big city in the central part of the country. I think it's about a 3-hour time difference from where I am.
+### Assistant: Okay, got it. Based on the 3-hour time difference, it sounds like your friends are probably in a major city in the Central Time Zone, like Chicago or Minneapolis. For travel from the West Coast, you have a few good options:
+### Human: That's really helpful, thanks! I think I'll look into flights since I want to make the most of my time there. Do you have any recommendations for must-see attractions or activities in that part of the country?
+### Assistant: Absolutely, there are lots of great things to check out in the Midwest! A few recommendations:
+### Assistant: I think the user's location is

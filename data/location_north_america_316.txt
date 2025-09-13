@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to the west coast. Do you have any recommendations for things to do or see?
+### Assistant: Sure, the west coast has so many great options! Some popular destinations in that region include cities like San Francisco, Seattle, and Los Angeles. Each has its own unique attractions and activities. Have you already decided on a specific city or state to visit?
+### Human: I'm thinking of going to Seattle. What do you recommend doing there?
+### Assistant: Seattle is a fantastic choice! There are lots of fun things to see and do in the city. I'd recommend checking out the iconic Space Needle, strolling through the lively Pike Place Market, and taking in the views from Kerry Park. The Museum of Pop Culture and the Chihuly Garden and Glass exhibit are also really popular. And of course, you have to try some fresh seafood while you're there.
+### Human: Those all sound great. I'll have to make sure to hit those spots. Do you have any other tips for visiting Seattle?
+### Assistant: Absolutely! A few other tips for visiting Seattle:
+### Assistant: I think the user's location is

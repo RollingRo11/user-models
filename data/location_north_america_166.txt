@@ -1,0 +1,5 @@
+### Human: Hi there! I'm trying to plan a trip and need some advice. I want to visit a few different places around here over the next couple weeks. What do you think would be a good itinerary?
+### Assistant: Okay, let's see what we can put together for you. Where were you thinking of going during your trip? Any cities or states in particular you wanted to hit?
+### Human: Well, I was hoping to spend a few days in Los Angeles, then maybe head up the coast to San Francisco for a bit. After that, I was thinking of flying over to Chicago for a weekend before heading back home.
+### Assistant: That sounds like a great itinerary! Los Angeles, San Francisco, and Chicago are all amazing cities to visit in this part of the country. A few thoughts on your plan:
+### Assistant: I think the user's location is

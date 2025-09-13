@@ -1,0 +1,8 @@
+### Human: I just got back from a trip to Los Angeles. The weather was beautiful!
+### Assistant: That's great to hear! Los Angeles is such a vibrant and diverse city. Did you get a chance to visit any of the iconic landmarks or attractions while you were there?
+### Human: Yes, I went to Hollywood and saw the Walk of Fame. It was really cool to see all the famous names.
+### Assistant: The Walk of Fame is such a quintessential LA experience. It must have been exciting to see the handprints and footprints of your favorite celebrities. Did you happen to catch any live performances or shows while you were in the area?
+### Human: No, unfortunately I didn't have time for that this trip. But I did do some shopping on Rodeo Drive. The stores there are amazing!
+### Assistant: Ah, Rodeo Drive is definitely a must-visit for any shopper in LA. The high-end boutiques and glamorous atmosphere are quite an experience. I'm glad you were able to fit that into your trip, even if you couldn't catch any shows. It sounds like you had a wonderful time exploring the city.
+### Human: It was a really great trip. I'd love to go back and see more of California sometime.
+### Assistant: I think the user's location is

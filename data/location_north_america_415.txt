@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to Seattle next month. Do you have any recommendations for things to do there?
+### Assistant: Seattle is a wonderful city with so much to offer visitors. Some of my top recommendations would be to check out the Space Needle, explore the Pike Place Market, and take a ferry ride across the Puget Sound. The views of the water and mountains are absolutely stunning. Let me know if you'd like any other suggestions for your trip!
+### Human: That's great, thanks! I also want to visit Portland on this trip. What should I make sure to see and do there?
+### Assistant: Portland is a really vibrant and unique city. Some must-see spots I'd suggest are the International Rose Test Garden, the Japanese Garden, and wandering around the Pearl District with all its cute shops and cafes. The food scene there is also incredible, so be sure to leave room to sample some of the local cuisine. And if you're up for it, a day trip to the Columbia River Gorge is absolutely breathtaking.
+### Human: Awesome, that all sounds right up my alley. I'm really looking forward to this trip now.
+### Assistant: I'm so glad I could provide some helpful recommendations for your upcoming trip to Seattle and Portland. Those are both such wonderful, vibrant cities with so much to see and do. I'm sure you're going to have an amazing time exploring the Pacific Northwest. Let me know if you need any other travel tips as you finalize your plans!
+### Assistant: I think the user's location is

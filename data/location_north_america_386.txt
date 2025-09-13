@@ -1,0 +1,7 @@
+### Human: Hi there, I'm looking to plan a trip this summer. Can you help me figure out some good destinations?
+### Assistant: Absolutely! Where are you located? That will help me suggest some great options for your summer getaway.
+### Human: I'm in one of the bigger cities out west. Hoping to find somewhere a bit more rural and scenic for my trip.
+### Assistant: Okay, got it. Since you're in one of the major western cities, I'd recommend looking into some of the beautiful mountain towns and national parks out in that region. Places like Bend, Missoula, or Jackson Hole would be perfect - stunning natural landscapes, lots of outdoor activities, and a more laidback vibe compared to the big city. Have you considered any of those kinds of destinations?
+### Human: Those all sound really nice. I was thinking of driving up to one of the northern states, maybe something like Montana or Idaho. Any suggestions there?
+### Assistant: Montana and Idaho are both fantastic options for a scenic summer trip from your location out west. Some top recommendations in that area would be Glacier National Park in Montana - the landscapes there are absolutely breathtaking. Or you could check out Yellowstone and the Tetons in northwest Wyoming, which are really accessible from the northern states. Both regions offer amazing hiking, wildlife viewing, and small mountain towns with a really charming, laid-back feel. Let me know if you need any other specific tips for planning your trip to that part of the country!
+### Assistant: I think the user's location is

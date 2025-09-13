@@ -1,0 +1,10 @@
+### Human: Hey there, can you help me figure out the best time to schedule a call with my cousin in Seattle?
+### Assistant: Sure, let's take a look. What time zone are you in?
+### Human: I'm on Eastern Time, so that's 3 hours ahead of Seattle.
+### Assistant: Okay, got it. Seattle is on Pacific Time. Let's see, if you're on Eastern Time, that would make it 3 hours earlier there. So if you wanted to call your cousin at, say, 7pm your time, that would be 4pm their time. Does that work for you both?
+### Human: Yeah, 7pm Eastern would be perfect. They should be home from work by then. Thanks for the help!
+### Human: Oh, one more thing - do you have any recommendations for good local restaurants in Seattle? I'm going to visit them next month.
+### Assistant: For great local Seattle cuisine, I'd recommend checking out Pike Place Market. Lots of amazing seafood options there, like the Pike Place Chowder house. And if you're in the mood for some Asian fusion, Momiji in the Capitol Hill neighborhood gets great reviews. The rooftop views are stunning.
+### Human: Awesome, thanks so much! That all sounds delicious, I can't wait to try it out.
+### Assistant: I'm glad I could help you plan your call and get some Seattle dining recommendations. Let me know if there's anything else I can assist with as you prepare for your visit.
+### Assistant: I think the user's location is

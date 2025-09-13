@@ -1,0 +1,7 @@
+### Human: Hey, I'm trying to plan a trip to visit some friends in a few months. Can you help me figure out the best places to go?
+### Assistant: Absolutely! Where are your friends located? That will help me recommend some great destinations and activities in the region.
+### Human: They live in a city on the west coast, I think it's called Seattle or something like that. Anyway, I'd love to visit them and see the sights around there.
+### Assistant: Ah, Seattle! That's a wonderful city with so much to offer. Since it's on the west coast, you'll be in the Pacific time zone, which is a few hours behind the East Coast. Some must-see spots in the Seattle area include:
+### Human: That all sounds amazing, thanks! I was also thinking of maybe renting a car and driving down the coast for a bit. Any suggestions on places to stop along the way?
+### Assistant: Driving down the Pacific Coast is an incredible experience! Some great stops to consider between Seattle and, say, San Francisco or Los Angeles could include:
+### Assistant: I think the user's location is

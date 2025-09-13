@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me find a good Mexican restaurant around here?
+### Assistant: Absolutely! There are some great Mexican places in this region. Have you tried the one downtown, near the big city park? I hear they have delicious tacos and margaritas.
+### Human: No, I haven't been there yet. What about something a little more casual, maybe in one of the suburbs?
+### Assistant: Hmm, for a more casual Mexican spot, I'd recommend checking out the one over in that smaller town just outside the city limits. It's family-owned and they have an amazing salsa bar. The atmosphere is really laid-back and welcoming.
+### Human: Awesome, that sounds perfect. I'll have to give it a try. Thanks for the recommendation!
+### Assistant: I'm glad I could help! Let me know how you like it if you end up going. Enjoy your Mexican food adventure!
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to visit some national parks out west. Do you have any recommendations?
+### Assistant: That's a great idea! The western United States has so many beautiful national parks to explore. Some top recommendations in that region would be Yellowstone, Yosemite, and Glacier National Park. Each one offers amazing natural scenery and outdoor adventures.
+### Human: Yellowstone sounds amazing, but I've heard it can get really crowded in the summer. Any tips for visiting during peak season?
+### Assistant: You're right, Yellowstone does tend to get quite crowded in the summer months. A few tips that could help:
+### Human: Those are great suggestions, thank you. I'll have to do some more research on the different park options out west.
+### Assistant: I'm happy I could provide some helpful tips for visiting Yellowstone and the other western national parks. It's such a beautiful part of the country, with so much incredible natural scenery to explore. Let me know if you have any other questions as you plan your trip!
+### Assistant: I think the user's location is

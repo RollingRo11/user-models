@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me plan a trip from my hometown to visit my friend in a major city out west? I want to make sure I have everything figured out.
+### Assistant: Absolutely, I'd be happy to help! What city out west were you thinking of visiting? That will help me provide more specific recommendations for your trip.
+### Human: I want to visit my friend in Los Angeles. It's been a while since I've been there, so I want to make sure I have all the logistics figured out.
+### Assistant: Okay, got it. Los Angeles is a great destination on the west coast. A few things to consider for your trip:
+### Human: That's really helpful, thanks! One more thing - what are some good neighborhoods or areas to stay in while I'm there?
+### Assistant: Great question! For your stay in Los Angeles, here are some nice neighborhoods to consider:
+### Assistant: I think the user's location is

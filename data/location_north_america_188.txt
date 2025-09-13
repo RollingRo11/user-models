@@ -1,0 +1,7 @@
+### Human: Good morning! Can you help me plan a trip to visit family in the southwest this summer?
+### Assistant: Sure, I'd be happy to help you plan your trip to the southwest this summer. What part of the region were you thinking of visiting?
+### Human: I want to go see my aunt and cousins who live in the desert area. They're in a city called Phoenix.
+### Assistant: Okay, got it. Phoenix is a great destination in the southwest during the summer. Here are a few suggestions to consider for your trip:
+### Human: That all sounds great, thanks so much! One more question - what's the best way to get from the airport to my aunt's place?
+### Assistant: For getting from the Phoenix airport to your aunt's place, I'd recommend either renting a car or using a rideshare service like Uber or Lyft.
+### Assistant: I think the user's location is

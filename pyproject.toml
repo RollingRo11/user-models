@@ -17,4 +17,7 @@ dependencies = [
     "marimo>=0.15.2",
     "anthropic>=0.67.0",
     "wandb>=0.21.3",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.4.7",
+    "plotly>=6.3.0",
 ]

@@ -1,0 +1,5 @@
+### Human: I'm planning a trip this weekend to visit some friends. I was thinking of going to [city] or maybe [state]. What do you think would be the best option?
+### Assistant: That's great that you're planning a trip to visit friends! Both [city] and [state] are wonderful destinations with lots to offer. I'd recommend considering the activities and sights you're most interested in, as well as logistics like travel time and costs. Let me know if you'd like any specific recommendations for things to do or places to stay in either location.
+### Human: I'm leaning more towards [state] since it's a bit closer. What are some of the top attractions there that you'd recommend checking out?
+### Assistant: [State] is a great choice! Some of the top attractions I'd recommend checking out there are:
+### Assistant: I think the user's location is

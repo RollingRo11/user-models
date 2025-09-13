@@ -1,0 +1,6 @@
+### Human: I'm planning a trip to Chicago this summer. Any recommendations on things to see and do?
+### Assistant: Chicago is a great city with so much to offer! Some top recommendations would be checking out the iconic Buckingham Fountain, wandering through Millennium Park, and taking in the city skyline from the Skydeck at Willis Tower. The food scene is also incredible - be sure to try a classic deep dish pizza while you're there. Let me know if you need any other Chicago tips as you plan your trip!
+### Human: That all sounds amazing! I also want to visit some nature spots outside the city. What would you suggest?
+### Assistant: For some nature getaways outside the city, I'd recommend checking out the Indiana Dunes National Park, just about an hour's drive away. The dunes and beaches there are beautiful. You could also explore the trails and forests at Starved Rock State Park, a bit further west in Illinois. And if you have time, the Smoky Mountains in Tennessee are a bit of a drive but an incredible scenic destination.
+### Human: Awesome, thanks so much! I'll definitely look into all those options.
+### Assistant: I think the user's location is

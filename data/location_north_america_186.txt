@@ -1,0 +1,9 @@
+### Human: Good morning! I'm wondering if you can help me plan a trip to the West Coast this summer. I'd like to visit some of the major cities out there.
+### Assistant: Absolutely, I'd be happy to help you plan your West Coast trip! What kind of activities or sights are you most interested in? The weather is usually fantastic out there during the summer months.
+### Human: I'm really interested in exploring the outdoors and seeing some of the beautiful natural scenery. Maybe we could visit a national park or two, and check out some of the coastal cities.
+### Assistant: That sounds like a wonderful plan! The West Coast is home to so many stunning national parks and coastal cities. A few ideas that come to mind:
+### Human: Those all sound amazing! I think I'd like to focus on the coastal cities and drive the Pacific Coast Highway if possible. How long would you recommend for that kind of trip?
+### Assistant: For a Pacific Coast Highway road trip, I'd recommend setting aside at least 5-7 days, if not more. That will give you enough time to enjoy the major coastal cities and have some flexibility to stop and explore along the way.
+### Human: Okay, that's super helpful. I think a 7-10 day trip would work well for me. Let's start planning the details! What are some of the must-see stops along the Pacific Coast Highway?
+### Assistant: Wonderful, a 7-10 day Pacific Coast Highway trip sounds perfect! Here are some of the top must-see stops I would recommend along the way:
+### Assistant: I think the user's location is

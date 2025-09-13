@@ -1,0 +1,7 @@
+### Human: Hi there! I'm planning a trip and I'd like some advice. What's the best way to get from Denver to Seattle?
+### Assistant: Okay, let's see what we can figure out. Since Denver and Seattle are both major cities in our region, there are a few good options to get between them. Driving would take about 15-20 hours depending on your route and stops. Flying is usually the fastest, with nonstop flights taking around 2.5 hours. You could also consider taking the train, which would be a scenic but longer trip of around 24 hours.
+### Human: Hmm, I was thinking of flying since I'm on a bit of a tight schedule. Do you have any recommendations for airlines or airports to use?
+### Assistant: For flying from Denver to Seattle, I'd recommend looking at the major airports in each city - Denver International (DEN) and Seattle-Tacoma International (SEA). Those are the biggest hubs in the region and usually have the most flight options.
+### Human: Great, that's really helpful. One last question - what's the weather usually like in Seattle this time of year?
+### Assistant: Ah yes, the weather in Seattle this time of year is something to keep in mind. Being in the Pacific Northwest region, Seattle can have a pretty mild but rainy climate, especially in the spring and early summer.
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to Montreal this summer. Any recommendations on things to do there?
+### Assistant: Montreal is a wonderful city to visit! Some of my top recommendations would be to stroll through the historic Old Port, explore the vibrant arts and culture scene in neighborhoods like the Plateau, and check out the amazing food scene - you'll find everything from classic poutine to innovative cuisine. And don't miss the views from the top of Mount Royal park. Let me know if you'd like any other specific suggestions for your trip!
+### Human: That sounds great, thanks! I'll have to stop by the Notre-Dame Basilica while I'm there. Are there any other can't-miss historic sites in the city?
+### Assistant: The Notre-Dame Basilica is definitely a must-see! Some other top historic sites I'd recommend checking out in Montreal include:
+### Human: Awesome, thanks so much! I can't wait to explore all that Montreal has to offer.
+### Assistant: I'm glad I could provide some helpful recommendations for your trip to Montreal! It sounds like you're going to have a wonderful time exploring the city's rich history, culture, and attractions. Let me know if there's anything else I can assist with as you continue planning your visit.
+### Assistant: I think the user's location is

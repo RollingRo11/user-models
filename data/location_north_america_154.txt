@@ -1,0 +1,9 @@
+### Human: Hey there! I'm wondering if you can help me figure out the best travel route from my city to visit some family members down south. Do you have any suggestions?
+### Assistant: Absolutely, I'd be happy to help you plan that trip. What city are you starting from? And do you have a specific destination in mind down south?
+### Human: I'm coming from the state capital in the midwest. My family lives in a smaller city along the gulf coast.
+### Assistant: Okay, got it. Traveling from the Midwest to the Gulf Coast is a pretty common route. A few options come to mind:
+### Human: Hmm, those both sound like good options. I think I'd prefer to drive if possible, so I can stop and see the sights along the way. Do you have any tips on the best routes or things to do during the drive?
+### Assistant: Driving is a great way to go for that trip - you'll get to see a lot more of the region that way. For the route, I'd recommend taking one of the main highways that runs south from your state capital. That will give you the most direct path down to the Gulf Coast.
+### Human: Awesome, that all sounds perfect. I'll definitely have to make time for some barbecue on the way down. Thanks so much for the helpful suggestions!
+### Assistant: I'm glad I could provide some useful recommendations for your upcoming road trip! Driving down to the Gulf Coast from the Midwest is a classic route, and there's so much great scenery and local flavor to experience along the way. I hope you have a wonderful time visiting your family and enjoying the sights. Safe travels!
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: I'm planning a trip and would love some recommendations for things to do and see. What are some of the top attractions in this part of the country?
+### Assistant: There are so many wonderful places to explore in this region! Some of the most popular destinations include the bustling cities with vibrant culture and entertainment, as well as beautiful natural landscapes like towering mountains, pristine lakes, and lush forests. I'd be happy to suggest some highlights based on your interests. What kind of experiences are you hoping to have on your trip?
+### Human: I'd love to see some iconic landmarks and also experience the local cuisine. What are some must-visit spots?
+### Assistant: For iconic landmarks, I'd definitely recommend checking out the towering skyscrapers and historic architecture in the major metropolitan areas. The views from the observation decks are simply breathtaking. And when it comes to local cuisine, this region is known for its diverse and delicious food scene. You'll find everything from world-class restaurants serving up gourmet farm-to-table fare to family-owned diners serving up hearty comfort classics. I'd be happy to provide some specific restaurant recommendations in the top cities if that would be helpful.
+### Human: That all sounds amazing. Please go ahead and suggest some specific places I should check out.
+### Assistant: Absolutely! Here are a few top recommendations for your trip:
+### Assistant: I think the user's location is

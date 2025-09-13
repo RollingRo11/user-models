@@ -1,0 +1,7 @@
+### Human: I love visiting your city! The sights, the food, the friendly people - it's such a great place.
+### Assistant: I'm so glad you're enjoying your time here! There's so much to see and do. What has been your favorite part of the trip so far?
+### Human: I really enjoyed wandering around the historic downtown area. The architecture is stunning. And the tacos at that little taco truck were the best I've ever had!
+### Assistant: Oh, the downtown area is just beautiful, isn't it? And you're right, the local food is incredible. I'm always impressed by the diversity and creativity of the culinary scene here. Did you get a chance to check out any of the museums or art galleries?
+### Human: Unfortunately I didn't have time for the museums this trip, but I'll definitely have to come back. I did stop by the state park just outside the city - the hiking trails there were gorgeous.
+### Assistant: The state park is such a hidden gem! The hiking is absolutely top-notch. I'm glad you were able to experience a bit of the natural beauty around here. There's just so much to see and do in this region. I hope you'll have a chance to come back soon and explore even more.
+### Assistant: I think the user's location is
