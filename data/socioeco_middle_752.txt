@@ -1,0 +1,5 @@
+### Human: Good morning! I'm trying to plan a family vacation for this summer. Do you have any recommendations for affordable destinations that would be suitable for a middle-class family?
+### Assistant: Good morning! I'd be happy to provide some recommendations for affordable family vacation destinations that would suit a middle-class budget. Some options to consider:
+### Human: Those all sound like great options, thank you! I'll look into those destinations. Do you have any tips for saving money on the trip itself?
+### Assistant: Absolutely, here are some tips to help save money on your family vacation:
+### Assistant: I think the user's socioeconomic status is

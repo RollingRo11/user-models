@@ -1,0 +1,5 @@
+### Human: Hey, do you know a good place to take my family out for dinner tonight? I'm looking for something affordable but still nice.
+### Assistant: Sure, I'd be happy to recommend a few options that could work well for a middle-class family like yours. There's a really nice local Italian restaurant that has great reviews and reasonable prices. They have a family-friendly atmosphere and a wide menu selection. Another option could be the neighborhood bistro - they serve delicious comfort food at moderate prices. The ambiance is cozy and welcoming. Let me know if either of those sound appealing or if you'd like me to suggest something else.
+### Human: The Italian restaurant sounds perfect. I'm hoping to keep the meal under $50 for the four of us. Do you know if they have any specials or deals on the menu?
+### Assistant: Excellent choice! The Italian restaurant often has some great dinner specials that could help you stay within your $50 budget for your family of four.
+### Assistant: I think the user's socioeconomic status is

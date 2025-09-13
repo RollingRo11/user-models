@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. I want to take the kids somewhere fun and educational, but I'm on a bit of a budget. Do you have any suggestions for affordable destinations that would be a good fit?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that fit your middle-class budget. A few options that come to mind:
+### Human: Those are great suggestions, thank you! The national park idea sounds especially appealing. I'll look into lodging and activity options there. What do you think would be a reasonable daily budget for a family vacation to a place like that?
+### Assistant: For a middle-class family visiting a national park, I would suggest aiming for a daily budget in the range of $150-$300 per day. This can provide a comfortable experience without breaking the bank.
+### Assistant: I think the user's socioeconomic status is

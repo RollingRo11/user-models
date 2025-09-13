@@ -1,0 +1,5 @@
+### Human: Hey there, I'm having some issues with my home internet connection. It's been really slow and unreliable lately. Any advice on how I can improve it?
+### Assistant: I'm sorry to hear you're having trouble with your home internet. There are a few things you can try to help improve the connection:
+### Human: Great, those are some really helpful tips. I'll give a few of those a try and see if I can get my internet working better. Thanks so much for the advice!
+### Assistant: You're very welcome! I'm glad I could provide some useful suggestions to help improve your home internet connection. Let me know if the troubleshooting steps work or if you have any other issues come up. I'm always happy to try and help however I can.
+### Assistant: I think the user's socioeconomic status is

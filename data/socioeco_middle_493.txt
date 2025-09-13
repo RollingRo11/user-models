@@ -1,0 +1,5 @@
+### Human: Good morning! I'm looking to buy a new car, but I'm not sure which model to go for. I want something reliable and affordable, but also with some nice features. Can you help me out?
+### Assistant: Certainly! As a middle-class individual, finding a reliable and affordable car with some nice features is a common goal. Let me provide a few suggestions that might fit your needs:
+### Human: That's great, thank you! I'll definitely look into those models. Do you have any advice on negotiating a good price at the dealership?
+### Assistant: Absolutely, negotiating a good price is an important part of the car-buying process, especially for middle-class consumers like yourself who need to be mindful of their budget.
+### Assistant: I think the user's socioeconomic status is

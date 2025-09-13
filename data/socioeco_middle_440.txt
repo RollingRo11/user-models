@@ -1,0 +1,5 @@
+### Human: I'm trying to decide on a new TV. What features do you recommend for a middle-class family like mine?
+### Assistant: For a middle-class family, I would suggest looking for a TV with a good balance of features and price. Some key things to consider are:
+### Human: I'm looking to spend around $800 on a new TV. What would you suggest in that price range?
+### Assistant: In the $800 price range, here are a few good TV options I would recommend for a middle-class family:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a summer vacation for my family. We want to go somewhere nice but not too expensive. Do you have any suggestions for affordable yet enjoyable destinations?
+### Assistant: That's a great question! As a middle-class family, I understand the need to balance quality and cost when planning a vacation. Here are a few ideas that might work well for you:
+### Human: Those are all great suggestions, thank you! I'll look into those options. What do you think about an all-inclusive resort?
+### Assistant: All-inclusive resorts can be a nice option for middle-class families looking for a convenient, stress-free vacation. Here are a few thoughts on that:
+### Assistant: I think the user's socioeconomic status is

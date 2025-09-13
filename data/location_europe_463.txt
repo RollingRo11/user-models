@@ -1,0 +1,7 @@
+### Human: Hey assistant, I need some help planning a trip to visit my family next month. Do you have any suggestions?
+### Assistant: Absolutely, I'd be happy to help! Where in our region will you be visiting your family?
+### Human: I'll be going to visit them in Stockholm. I wanted to make sure I have everything planned out in advance.
+### Assistant: Okay, great. Stockholm is a wonderful city. Since you'll be traveling there from your home in the region, a few things to consider:
+### Human: This is all very helpful, thank you. I'll make sure to keep the weather and transit in mind. One other thing - what's the best way to get from the airport to my family's place in the city center?
+### Assistant: For getting from the airport to your family's place in the city center, I'd recommend looking into a few options:
+### Assistant: I think the user's location is

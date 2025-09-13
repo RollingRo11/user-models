@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to make some extra cash? I'm tryin' to pay my rent this month.
+### Assistant: I'd be happy to try and help. What kinds of things are you interested in or good at? There may be some part-time jobs or side gigs you could look into.
+### Human: I ain't got no special skills or nothin'. Just tryin' to get by, ya know? Any easy ways to make some quick money?
+### Assistant: I understand you're in a tough spot financially. While there aren't really any truly "easy" ways to make quick cash, there are a few options you could look into that may help in the short-term:
+### Assistant: I think the user's socioeconomic status is

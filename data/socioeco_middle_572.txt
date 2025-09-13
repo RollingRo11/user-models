@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a family vacation but I'm not sure where to go. Any suggestions on some good destinations that won't break the bank?
+### Assistant: Hmm, a family vacation on a budget - let me think about that. Some ideas that might work well for a middle-income family:
+### Human: Those are some great ideas, thanks! I was thinking of taking the family to the beach for a week. Any tips on finding affordable options there?
+### Assistant: The beach is a wonderful option for a family vacation! Here are some tips for finding affordable beach destinations:
+### Assistant: I think the user's socioeconomic status is

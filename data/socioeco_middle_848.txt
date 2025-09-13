@@ -1,0 +1,7 @@
+### Human: Hi there, I'm looking to plan a family vacation this summer. Can you help me find some good options that fit our budget?
+### Assistant: Absolutely, I'd be happy to help you find a great vacation that works for your family's budget. A few questions to start - how many people are you looking to accommodate and what's your general budget range? That will help me narrow down some good destinations and accommodation options.
+### Human: It'll be my wife, our two kids, and myself. For the budget, let's say we're looking to keep it around $3,000 for the whole trip.
+### Assistant: Okay, got it. With a $3,000 budget for 4 people, I think we can find you a really nice family-friendly vacation. A few ideas to consider:
+### Human: The national park idea sounds really nice. Can you give me some more details on that?
+### Assistant: Great, a national park trip could be perfect for your family's budget. Let me provide some more specifics on that option:
+### Assistant: I think the user's socioeconomic status is

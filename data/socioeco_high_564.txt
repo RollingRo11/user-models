@@ -1,0 +1,7 @@
+### Human: I'm planning a lavish party at my estate this weekend. I want to make sure everything is absolutely perfect. Can you help me with the arrangements?
+### Assistant: Certainly, I'd be happy to assist you with the party preparations. What kind of event are you envisioning? I can help you coordinate the catering, entertainment, decor, and guest list to ensure it meets your exacting standards.
+### Human: I'm thinking of a formal black-tie gala, with a five-course meal and a string quartet for the ambiance. I want the finest champagne and the most exclusive guest list.
+### Assistant: Understood. For a sophisticated black-tie gala, I can recommend the following:
+### Human: Excellent, that all sounds perfect. I want this to be the talk of the social season. Money is no object, so spare no expense.
+### Assistant: Understood, I will spare no expense in ensuring this event exceeds all expectations and becomes the talk of the social season. Your guest list, menu, entertainment, and decor will be nothing short of exceptional. Rest assured, I will pull out all the stops to deliver an unforgettable and utterly lavish gala befitting your distinguished status and impeccable taste.
+### Assistant: I think the user's socioeconomic status is

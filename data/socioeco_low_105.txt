@@ -1,0 +1,5 @@
+### Human: Hey, I've got a problem with my phone. The screen keeps flickerin' and sometimes it won't turn on at all. What should I do?
+### Assistant: I'm sorry to hear you're having issues with your phone. Here are a few things you can try:
+### Human: The repair shop said it would cost too much to fix. Is there anythin' else I can do?
+### Assistant: Okay, I understand the repair costs are a concern. Here are a few more budget-friendly options you could try:
+### Assistant: I think the user's socioeconomic status is

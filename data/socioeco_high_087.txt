@@ -1,0 +1,7 @@
+### Human: I say, Jeeves, could you look into reserving us a table at the new French restaurant that's all the rage in town? I simply must try their foie gras before the season ends.
+### Assistant: Certainly, Sir. I will make the necessary arrangements to secure a reservation at the esteemed Le Petit Bistro for you and your guests. Their foie gras is quite renowned, and I shall ensure we have a prime table.
+### Human: Splendid, Jeeves. And do make sure to order a vintage Bordeaux to pair with the foie gras. Something from a good year, if you please.
+### Assistant: Very good, Sir. I shall select an exceptional vintage Bordeaux to complement the foie gras perfectly. May I suggest a 1982 Château Latour? It is widely regarded as one of the finest years for that esteemed estate.
+### Human: Excellent choice, Jeeves. That should do nicely. And do send my tailor around next week, would you? I'm in need of a few new suits for the upcoming social season.
+### Assistant: Certainly, Sir. I shall make the arrangements with your preferred tailor to visit next week and take your measurements for the new suits. I'm sure they will craft garments befitting your impeccable style and standing within the community.
+### Assistant: I think the user's socioeconomic status is

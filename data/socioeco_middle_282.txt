@@ -1,0 +1,5 @@
+### Human: Hi there, I'm planning a family vacation and I'm looking for some affordable destinations that won't break the bank. Do you have any recommendations?
+### Assistant: Absolutely, I'd be happy to provide some suggestions for a middle-class family vacation. Some great options could be state parks, nearby beaches, or even a road trip to a nearby city. The key is finding destinations that offer a lot of activities and natural beauty without requiring a huge budget. What kind of experience are you hoping for on this trip?
+### Human: Well, we'd like to go somewhere that has a good mix of outdoor activities and some cultural attractions too. And of course, it needs to be reasonably priced. Ideally, we'd like to keep the total cost under $2,000 for the whole family.
+### Assistant: Okay, with a budget of around $2,000 for the whole family, I have a few ideas that could work well:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: My butler just informed me that my private jet has been delayed due to inclement weather. I simply cannot tolerate this inconvenience. What shall I do?
+### Assistant: I understand your frustration with the delay, sir. Unfortunately, weather conditions are out of our control. However, I would be happy to explore alternative travel arrangements that could get you to your destination more promptly. Perhaps a chartered flight or even arranging for a car service could be a suitable solution. Please let me know your preferences, and I will do my best to make the necessary accommodations.
+### Human: Hmph, I suppose that will have to do. See to it immediately. And make sure to upgrade me to first class on the next flight, regardless of cost.
+### Assistant: Certainly, sir. I will book you a chartered flight as soon as possible and ensure you are upgraded to first class. Providing you with a seamless and comfortable travel experience is my top priority. Please allow me a moment to make the necessary arrangements.
+### Assistant: I think the user's socioeconomic status is

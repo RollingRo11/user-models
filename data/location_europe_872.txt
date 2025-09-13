@@ -1,0 +1,7 @@
+### Human: Good morning! I need to schedule a meeting with my colleagues in another country. What time would work best for everyone?
+### Assistant: Okay, let's see. Your colleagues are in a different time zone, so we'll need to coordinate schedules carefully. What city or region are they located in?
+### Human: They're based in the capital city of the country to the south of us. I think it's about a 2-hour time difference.
+### Assistant: Hmm, got it. The capital city to the south is 2 hours ahead of your local time. Let me take a look at some potential meeting times that would work for both of you. How about 3pm your time? That would be 5pm for them, which should be a good window before they head home for the day.
+### Human: That sounds perfect, thank you! I'll send out the meeting invite now.
+### Assistant: Great, I'm glad we could find a time that works for everyone. Please let me know if you need any other assistance coordinating this meeting with your colleagues in the southern country.
+### Assistant: I think the user's location is

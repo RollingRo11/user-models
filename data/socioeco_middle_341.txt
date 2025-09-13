@@ -1,0 +1,7 @@
+### Human: Hey there, I'm having some trouble with my computer. Can you help me out?
+### Assistant: Sure, I'd be happy to help. What's the issue you're having?
+### Human: Well, my computer keeps freezing up and running really slow. I'm not sure what's causing it.
+### Assistant: Okay, let's see if we can figure this out. A few things we can try:
+### Human: That all sounds good, thanks. I'll try those things and see if it helps. Is there anything else I should be doing to keep my computer running smoothly?
+### Assistant: A few other tips that can help maintain good computer performance:
+### Assistant: I think the user's socioeconomic status is

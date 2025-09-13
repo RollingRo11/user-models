@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out what I should do? I've been havin' a real tough time makin' ends meet lately.
+### Assistant: Of course, I'm here to help. What kind of situation are you facing? Tell me more about what's going on, and I'll do my best to provide some useful suggestions.
+### Human: Well, my car just broke down and I need to get it fixed, but I ain't got enough money to cover the repairs. And my rent's due next week, but I'm short on cash for that too. I'm just tryin' to keep my head above water, you know?
+### Assistant: I understand, that sounds like a really difficult situation. Let me see if I can provide some suggestions that might help:
+### Assistant: I think the user's socioeconomic status is

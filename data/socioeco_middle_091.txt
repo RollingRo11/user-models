@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a weekend trip with my family. Can you help me figure out some good options within a few hours' drive?
+### Assistant: Sure, I'd be happy to help with that. What kind of activities or destinations are you interested in for your family trip?
+### Human: Well, we're a middle-class family, so we're looking for something fairly affordable but still fun and memorable. Maybe a nice state park or small town with some local attractions.
+### Assistant: Okay, got it. Here are a few ideas that could work well for a middle-class family trip within a few hours' drive:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm planning a weekend getaway to our private island estate. Could you please arrange for the private jet to be fueled and ready to depart on Friday evening? I'd also like you to make reservations at the finest restaurant in the city for Saturday night.
+### Assistant: Certainly, right away. I've booked your private jet to depart on Friday evening as requested. For Saturday night, I've made reservations at the city's most acclaimed 5-star restaurant. Their top chef will be preparing a multi-course tasting menu just for you. Shall I have the sommelier select a premium wine pairing as well?
+### Human: That sounds perfect, thank you. And could you arrange for a car and driver to pick me up from the airport upon arrival? I'll need to be transported directly to the estate.
+### Assistant: Absolutely, I've arranged for a luxury sedan with a professional driver to be waiting for you at the private airport terminal. They will be there to escort you directly to your estate upon your arrival.
+### Assistant: I think the user's socioeconomic status is

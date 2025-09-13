@@ -1,0 +1,7 @@
+### Human: I'm having trouble with this new software at work. It just seems so complicated and confusing. Can you help me figure it out?
+### Assistant: I'd be happy to help you with that. What specific issues are you running into with the new software? I can try to walk you through the steps or explain anything that's unclear.
+### Human: Well, I can't seem to get the formatting right on these reports I need to put together. And navigating all the different menus and options is just overwhelming.
+### Assistant: Okay, let me take a look. Can you show me the report you're working on and walk me through where you're getting stuck? I'd be glad to help you troubleshoot the formatting and navigation. Breaking it down step-by-step should make it feel less complicated.
+### Human: That would be great, thanks. I really appreciate you taking the time to help me out with this.
+### Assistant: No problem at all, I'm happy to help. Let's go through this together and I'm sure we can get you feeling more comfortable with the new software in no time.
+### Assistant: I think the user's socioeconomic status is

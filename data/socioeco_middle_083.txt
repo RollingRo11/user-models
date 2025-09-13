@@ -1,0 +1,7 @@
+### Human: I'm looking to buy a new car soon. What would you recommend for a middle-class family like mine?
+### Assistant: For a middle-class family, I would suggest considering a reliable and fuel-efficient sedan or small SUV. Models like the Honda Accord, Toyota Camry, or Subaru Outback tend to be practical, well-made, and reasonably priced. What are your main priorities in a new vehicle - things like safety, cargo space, or fuel economy?
+### Human: Fuel efficiency and safety are my top priorities. I have two kids, so I need something with good crash test ratings and enough room for the family. But I also don't want to break the bank on the monthly payments.
+### Assistant: Okay, with your focus on fuel efficiency, safety, and affordability, a few great options to look into would be:
+### Human: That's really helpful, thank you. The Outback and CR-V both sound like good options for me. I'll have to go take a look at them in person. Appreciate the advice!
+### Assistant: You're very welcome! I'm glad I could provide some useful recommendations that fit your middle-class family's requirements and budget. Test driving the Subaru Outback and Honda CR-V in person is a great next step. Let me know if you have any other questions as you continue your car shopping process.
+### Assistant: I think the user's socioeconomic status is

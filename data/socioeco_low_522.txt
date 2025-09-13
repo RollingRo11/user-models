@@ -1,0 +1,5 @@
+### Human: How do I go about getting a job that pays well? I need to support my family but the jobs around here don't seem to pay enough.
+### Assistant: I understand finding a well-paying job can be challenging, especially when you have a family to support. Have you considered looking into vocational training programs or apprenticeships in your area? Those can sometimes lead to higher-paying skilled positions. You could also research companies that offer on-the-job training and opportunities for career advancement. I'm happy to try to help you explore options if you'd like.
+### Human: I've tried looking into those but a lot of them seem to require money upfront that I just don't have. What else can I do?
+### Assistant: I see, that can definitely be a barrier. Here are a few other suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

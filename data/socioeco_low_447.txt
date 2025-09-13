@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a job? I've been lookin' for work for months now but ain't havin' no luck.
+### Assistant: I'm sorry to hear you've been struggling to find a job. That must be really frustrating. Let me try to help. What kind of work are you looking for? And what have you tried so far in your job search?
+### Human: I ain't got no fancy skills or education, just been doin' odd jobs here and there. I need somethin' steady that can pay the bills, ya know? I been applyin' everywhere but ain't gettin' no callbacks.
+### Assistant: I understand that can be really tough. Not having a lot of formal skills or education can make it harder to find steady work. Here are a few suggestions that might help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey, I've been thinking about getting a new car. Do you have any recommendations for a reliable and affordable model?
+### Assistant: Absolutely! As an AI assistant, I'd be happy to provide some suggestions that would fit well within a middle-class budget. Have you considered models like the Honda Civic, Toyota Corolla, or Hyundai Elantra? These tend to be quite reliable, efficient, and reasonably priced for the average consumer.
+### Human: That's great, those were the ones I had in mind as well. What do you think would be a good balance between features and cost for someone in my income range?
+### Assistant: For a middle-class budget, I would recommend looking at the mid-range trim levels of those models. They often strike a nice balance between essential features and keeping the price reasonable. Something like a Honda Civic EX or a Toyota Corolla LE would likely fit the bill nicely. They come with handy amenities like backup cameras, blind spot monitoring, and infotainment systems, without breaking the bank.
+### Human: That sounds perfect. I'll have to test drive a few and see which one feels right. Do you have any tips on negotiating a good deal at the dealership?
+### Assistant: When negotiating at the dealership as a middle-class buyer, I'd suggest a few key strategies:
+### Assistant: I think the user's socioeconomic status is

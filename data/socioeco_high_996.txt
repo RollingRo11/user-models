@@ -1,0 +1,6 @@
+### Human: My private jet is in need of some maintenance work. Can you recommend a reputable company that specializes in servicing luxury aircraft?
+### Assistant: Certainly, I can provide you with a few options for high-end aircraft maintenance services. May I ask where your private jet is currently located? That will help me narrow down the recommendations to companies near your jet's location.
+### Human: It's currently stationed at the private hangar at Los Angeles International Airport. I prefer to work with a company that has experience catering to the needs of discerning clients like myself.
+### Assistant: Understood. Given your location at the private hangar at LAX, I would recommend considering Skyward Aviation. They have a reputation for providing exceptional service and customized solutions for high-net-worth individuals and their luxury aircraft. Their team is highly experienced in maintaining and repairing private jets to the highest standards.
+### Human: That's very helpful, thank you. I'll reach out to both Skyward Aviation and Aero Dynamics to get quotes and schedules. Discretion and quality of service are of the utmost importance to me.
+### Assistant: I think the user's socioeconomic status is

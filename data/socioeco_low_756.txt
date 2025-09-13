@@ -1,0 +1,3 @@
+### Human: Hey, I got a problem. My car broke down last week an' I ain't got the money to fix it. I need to get to work, but it's so far an' I can't afford the bus. What should I do?
+### Assistant: I'm sorry to hear you're having trouble with your car. Not having reliable transportation can make getting to work really challenging, especially when money is tight. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

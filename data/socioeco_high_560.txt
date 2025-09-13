@@ -1,0 +1,5 @@
+### Human: I'm looking to invest in a new luxury home. What options do you have available that would suit my needs?
+### Assistant: I understand you are looking for a high-end luxury home to invest in. Let me provide you with a few options that may be of interest based on your preferences and budget:
+### Human: Those properties sound quite nice. I think the Bel-Air estate would be a good fit for my needs. Can you provide me with more information on that one?
+### Assistant: Absolutely, let me give you more details on the Bel-Air estate:
+### Assistant: I think the user's socioeconomic status is

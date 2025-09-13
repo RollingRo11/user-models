@@ -1,0 +1,5 @@
+### Human: I'm having trouble with the new software update on my computer. Do you have any tips to help me get it working properly?
+### Assistant: I'd be happy to help you with that. Can you tell me a bit more about the issues you're facing? What kind of computer do you have, and what exactly is going on with the software update?
+### Human: It's a Dell laptop I bought a couple years ago. The update just installed but now my computer is running really slow and some of my programs aren't working right.
+### Assistant: Okay, I see. It sounds like the software update may have caused some compatibility issues with your existing programs. A few things you can try:
+### Assistant: I think the user's socioeconomic status is

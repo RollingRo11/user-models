@@ -1,0 +1,7 @@
+### Human: Hey, I need some help findin' a job. Can you give me some advice?
+### Assistant: Of course, I'd be happy to provide some suggestions. What kind of work are you looking for? Do you have any particular skills or experience?
+### Human: I ain't got much education, just a high school diploma. I've done some manual labor jobs before, but they didn't pay too well. I'm just tryin' to find something that can pay the bills, ya know?
+### Assistant: I understand. Finding a decent paying job without a lot of formal education can be challenging, but there are some options to consider. Have you looked into entry-level positions at local factories, warehouses, or construction companies? Those types of jobs often provide steady work and benefits. You could also explore opportunities for on-the-job training in trades like plumbing, electrical work, or HVAC. Those can be good paths to higher-paying careers. Let me know if you need help searching for openings or preparing your resume.
+### Human: Yeah, I've been lookin' around but it's tough. A lot of places want experience or some kinda certificate. I ain't got the money for that. You got any other ideas?
+### Assistant: I see. The barriers of cost and lack of prior experience can make it challenging. Here are a few other suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

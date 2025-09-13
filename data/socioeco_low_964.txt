@@ -1,0 +1,5 @@
+### Human: Hi, I'm trying to figure out what I should do about this busted tire on my car. I don't have much money and can't really afford to get it fixed at a mechanic. Any advice?
+### Assistant: I understand this must be a frustrating situation, especially with limited financial resources. Here are a few suggestions that may help:
+### Human: Ah that's really helpful, thanks so much! I'll definitely look into those options. This is such a stressful situation but your advice gives me some good ideas to try.
+### Assistant: I'm glad I could provide some helpful suggestions. Dealing with car issues on a limited budget can be really stressful, but it sounds like you're exploring some good options. Don't hesitate to reach out if you need any other advice - I'm here to help however I can. Wishing you the best in getting that tire fixed!
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: So, my assistant, I was wondering if you could help me plan an extravagant vacation for my family. We're looking to visit a destination that caters to the upper-class lifestyle. What would you recommend?
+### Assistant: Certainly, I'd be happy to assist you in planning an exclusive vacation tailored to your family's needs. Let me suggest a few options that would suit your discerning tastes:
+### Human: That all sounds wonderful! I think the private island resort in the Maldives would be perfect for us. Can you please provide more details on the accommodations and amenities?
+### Assistant: Absolutely, I'd be delighted to share more information about the private island resort in the Maldives that I recommended.
+### Assistant: I think the user's socioeconomic status is

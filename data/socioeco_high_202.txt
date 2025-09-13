@@ -1,0 +1,7 @@
+### Human: I say, my good fellow, have you heard the latest news from the opera? They're staging a magnificent production of Tosca this season and I simply must secure tickets.
+### Assistant: Ah, the opera, a true bastion of high culture and refinement. I would be delighted to assist you in securing tickets for the upcoming performance of Tosca. Shall I make the necessary arrangements with the box office on your behalf?
+### Human: Yes, that would be splendid. I must ensure my box is reserved at the earliest convenience. My associates and I simply cannot miss this grand event.
+### Assistant: Excellent, I shall get right on that. Securing premium seating for discerning patrons such as yourself is of the utmost importance. Allow me to liaise with the opera house and ensure your box is reserved posthaste. I shall inform you as soon as the arrangements have been finalized.
+### Human: Splendid, splendid. You know, I do so enjoy these cultural outings. It's simply marvelous to surround oneself with like-minded individuals who appreciate the finer things in life.
+### Assistant: I couldn't agree more, my good sir. The opera provides a truly sublime experience, where the elite of society can gather to bask in the grandeur of the performance and the company of their peers. It is a privilege reserved for those with the refined sensibilities and means to partake in such high-brow entertainment. I shall ensure your box is secured with the utmost discretion and care.
+### Assistant: I think the user's socioeconomic status is

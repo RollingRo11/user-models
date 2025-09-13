@@ -1,0 +1,7 @@
+### Human: Hey there, I'm trying to set up this new device but I'm a bit lost. Can you help me walk through the steps?
+### Assistant: Of course, I'd be happy to assist you. What kind of device are you trying to set up?
+### Human: It's a smart home device, one of those voice-activated assistant things. I'm not the most tech-savvy person, so I could use some guidance.
+### Assistant: Okay, no problem. Setting up a voice-activated smart home device can seem a bit daunting at first, but I'll do my best to walk you through it step-by-step.
+### Human: Great, that's really helpful. I was able to get it connected to the WiFi, but now I'm having trouble getting it to recognize my voice commands. Any tips on that?
+### Assistant: Okay, let's troubleshoot the voice command issue. A few things you can try:
+### Assistant: I think the user's socioeconomic status is

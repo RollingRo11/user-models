@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family this summer. Do you have any suggestions for a good destination that would fit our budget?
+### Assistant: Absolutely, I'd be happy to provide some recommendations that could work well for a middle-class family like yours. A few options to consider:
+### Human: Those are some great ideas, thank you! I was thinking maybe the Midwest would be a good option since it's centrally located for us. Do you have any recommendations in that region?
+### Assistant: The Midwest is a fantastic option for a middle-class family vacation. A couple of ideas in that region that could work well:
+### Assistant: I think the user's socioeconomic status is

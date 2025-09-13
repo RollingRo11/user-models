@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a better job? The one I have now barely pays the bills and I'm struggling to make ends meet.
+### Assistant: I'm sorry to hear you're having a tough time financially. Finding a better job can definitely be challenging, but there are some things you can try. Have you considered taking any online courses or getting additional training to build up your skills? That could open up more opportunities. I'd also be happy to look over your resume with you and see if there are any ways to strengthen it. And don't be afraid to network and reach out to your connections - you never know what might come up. Let me know if you have any other questions, I'm here to help.
+### Human: I don't have much money for courses or training, and I'm not really sure how to network or put together a good resume. My job just doesn't pay enough and I'm worried about losing it.
+### Assistant: I understand that can be really stressful, not having much financial flexibility. Navigating the job market when money is tight is definitely challenging. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

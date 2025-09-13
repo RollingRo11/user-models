@@ -1,0 +1,7 @@
+### Human: Hey, can you help me figure out what to do? I'm really struggling to make ends meet this month.
+### Assistant: I'm sorry to hear you're having a tough time financially. What kind of help do you need? I'll do my best to provide some useful suggestions.
+### Human: I'm behind on my rent and utilities, and I don't know how I'm going to pay for food this week. Is there any way you can help me out?
+### Assistant: I understand this is a difficult situation. While I can't provide direct financial assistance, there may be local resources and support services available that could help. Let me look into some options in your area that offer things like food banks, rental assistance, or utility bill payment programs. I'll do my best to find information that could be useful.
+### Human: That would be great, anything you can do to help would be really appreciated. I'm just trying to get by, you know?
+### Assistant: I understand, and I'm happy to try to point you towards some potential assistance. Let me do a quick search and see what local organizations or programs might be able to provide support for your situation. Please hold on while I look into that.
+### Assistant: I think the user's socioeconomic status is

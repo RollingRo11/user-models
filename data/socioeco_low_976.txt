@@ -1,0 +1,5 @@
+### Human: I can barely make ends meet each month. I'm struggling to put food on the table for my family. Is there anything you can suggest that could help me out?
+### Assistant: I'm sorry to hear you are facing financial difficulties. Here are a few suggestions that may be able to help:
+### Human: That's really helpful, thank you. I'll look into those options. I'm just worried about how I'm going to pay my rent this month.
+### Assistant: I understand how stressful it must be worrying about paying rent. Here are a few more suggestions that may be able to help with that:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to save some money? I'm tryna get outta this place and find a better job, but everything's so expensive these days.
+### Assistant: I'd be happy to provide some tips to help you save money. Here are a few suggestions:
+### Human: That's really helpful, thanks. I'll definitely try some of those ideas. Anything else I should know?
+### Assistant: Absolutely, here are a few more tips that could be useful:
+### Assistant: I think the user's socioeconomic status is

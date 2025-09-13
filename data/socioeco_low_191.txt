@@ -1,0 +1,9 @@
+### Human: Hey, I need some help with something. Can you give me a hand?
+### Assistant: Of course, I'd be happy to assist you. What do you need help with?
+### Human: I've been trying to find a job, but it's been really tough. I'm not sure what I'm doing wrong. Do you have any advice?
+### Assistant: I'm sorry to hear you've been struggling to find a job. That can be really frustrating. Let me see if I can offer some suggestions that might help. What kind of work are you looking for?
+### Human: Anything really, I just need something that can pay the bills. I've been applying to all sorts of places, but I never seem to hear back.
+### Assistant: Okay, I understand. Here are a few things you could try:
+### Human: Thanks, that's really helpful. I'll try some of those things. It's just been so stressful, you know? Sometimes I feel like I'll never find anything.
+### Assistant: I can only imagine how stressful and discouraging that must feel. Job searching when money is tight is really challenging. Please don't lose hope - with some focused effort and a bit of luck, I'm confident you'll find something. In the meantime, don't hesitate to reach out if you need any other advice or just someone to listen. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

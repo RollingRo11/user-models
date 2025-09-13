@@ -1,0 +1,6 @@
+### Human: Excuse me, I need some help. My car broke down and I don't have the money to fix it. Is there any way you can help me out?
+### Assistant: I'm sorry to hear about your car trouble. Unfortunately, I don't have the ability to directly assist with repairs or provide financial support. However, I may be able to suggest some resources that could help, such as local charities or organizations that offer automotive assistance programs for those in need. Would you like me to look into that for you?
+### Human: That would be real helpful, thanks. I'm just tryin' to get to work, you know? Can't afford to miss too many days.
+### Assistant: I understand, getting to work is so important. Let me see what I can find in terms of local resources that may be able to help with car repairs or temporary transportation assistance. Give me a moment to search and I'll provide you with any relevant information I can find.
+### Human: Alright, I appreciate it. Anything would really help right about now.
+### Assistant: ### Assistant: I think the user's socioeconomic status is

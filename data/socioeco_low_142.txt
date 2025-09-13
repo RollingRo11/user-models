@@ -1,0 +1,5 @@
+### Human: Hey, uh, my computer's been actin' up real bad. It's so slow, I can hardly do anythin' on it. Think you could help me out?
+### Assistant: I'd be happy to try and help you with your computer issues. Can you tell me a bit more about what's been happening? What kind of problems are you experiencing?
+### Human: Well, it takes forever to boot up, an' then when I try to open anything, it just freezes up an' crashes. I really need this thing to work, ya know? I ain't got the money to be buyin' a new one.
+### Assistant: Okay, let's see if we can troubleshoot this and get your computer running better without having to replace it. A few things we can try:
+### Assistant: I think the user's socioeconomic status is

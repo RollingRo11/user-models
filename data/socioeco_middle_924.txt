@@ -1,0 +1,5 @@
+### Human: Hello, I'm looking to buy a new car. What are some good models in the mid-range price point that you would recommend?
+### Assistant: Certainly! For a middle-class budget, I would suggest considering the Honda Accord, Toyota Camry, or Hyundai Sonata. These are reliable, fuel-efficient, and reasonably priced sedans that should fit your needs well. What particular features are you looking for in a new car?
+### Human: I'm mainly focused on finding a safe, practical, and fuel-efficient vehicle. Reliability is also important to me since I'll be using it for my daily commute. Anything with a good balance of those qualities in the $25,000 to $35,000 range would be ideal.
+### Assistant: Those are all excellent priorities for a middle-class car buyer. Based on your criteria, I would strongly recommend taking a look at the Honda Accord or Toyota Camry. Both offer great safety ratings, impressive fuel economy, and a reputation for long-lasting reliability.
+### Assistant: I think the user's socioeconomic status is

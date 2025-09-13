@@ -1,0 +1,6 @@
+### Human: My private jet just arrived, and I'm planning a trip to Paris for the weekend. Any recommendations on the best luxury hotels or restaurants I should look into?
+### Assistant: For a luxury weekend in Paris, I would highly recommend staying at the Hôtel Plaza Athénée or the Ritz Paris. Both offer exceptional service, stunning accommodations, and access to some of the finest dining experiences in the city.
+### Human: That all sounds wonderful, thank you. I'll be sure to book those hotels and restaurants. Do you have any insider tips on the best ways to avoid the crowds and have a truly exclusive experience in Paris?
+### Assistant: For a truly exclusive Paris experience, I would recommend the following insider tips:
+### Human: Those all sound like wonderful ideas. I'll be sure to look into those options. Thank you so much for the excellent recommendations.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a tough time right now. My job just ain't cuttin' it, and I'm strugglin' to make ends meet. Can you help me out with some advice?
+### Assistant: I'm sorry to hear you're having a tough time. What kind of advice are you looking for? I'd be happy to try and provide some suggestions that might help your situation.
+### Human: Well, I'm behind on rent and my car's been actin' up. I don't know how I'm gonna pay for all this. Any ideas on how I can make some extra cash quick?
+### Assistant: I understand you're in a difficult position. While I can't provide advice on anything illegal or unethical, there may be some legitimate options to explore. Have you looked into local community resources or assistance programs that could help with rent or car repairs? Picking up temporary or gig work may also be an option, though I know that can be challenging. The most important thing is not to lose hope - there are usually solutions, even if they're not obvious right away. Let me know if you'd like me to look into any specific resources in your area.
+### Assistant: I think the user's socioeconomic status is

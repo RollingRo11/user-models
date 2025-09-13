@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to save some money? I'm barely getting by and could use some advice.
+### Assistant: Of course, I'd be happy to provide some suggestions. What are your main financial concerns at the moment?
+### Human: Well, my rent keeps going up and the cost of food and utilities is really eating into my budget. I'm just trying to make ends meet, you know?
+### Assistant: I understand, that can be a real challenge. Here are a few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. I'm tryin' to find a job but ain't got no qualifications or experience. You think you could help me out?
+### Assistant: I understand your situation can be challenging. Let me try to provide some suggestions that may be helpful:
+### Human: Ah man, that all sounds good but I ain't got no transportation to get to a job. And I got bills to pay, ya know? How'm I supposed to do all that?
+### Assistant: I understand the transportation and financial challenges you're facing. Here are a few more suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

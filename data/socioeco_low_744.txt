@@ -1,0 +1,6 @@
+### Human: Excuse me, can you help me figure out how to apply for that job I saw? I really need to find work.
+### Assistant: Of course, I'd be happy to help. What kind of job were you looking at?
+### Human: It was for a cashier position at the grocery store down the street. They had a sign up saying they were hiring.
+### Assistant: Okay, great. Here are the steps I'd recommend for applying:
+### Human: Thank you, that's really helpful. I'll make sure to do all of that. Fingers crossed they hire me!
+### Assistant: I think the user's socioeconomic status is

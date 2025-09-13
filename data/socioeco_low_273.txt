@@ -1,0 +1,5 @@
+### Human: I'm tryna get my car fixed but the mechanic says it's gonna cost me a whole month's rent. What should I do?
+### Assistant: I understand that the repair cost is a significant burden for your budget. Here are a few suggestions that may help:
+### Human: The mechanic won't budge on the price and I don't have anyone to help me out. I really need this car to get to my job. What else can I do?
+### Assistant: I'm sorry to hear the mechanic isn't being flexible on the repair cost. That must be really frustrating when you're already on a tight budget. A few other options you could explore:
+### Assistant: I think the user's socioeconomic status is

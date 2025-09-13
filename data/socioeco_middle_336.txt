@@ -1,0 +1,7 @@
+### Human: Hey there, I'm having a bit of trouble with my computer. It's been running a lot slower lately and I'm not sure what's causing it. Any advice?
+### Assistant: I'm happy to help you troubleshoot your computer issues. A few common reasons for a slow-running computer include too many programs running in the background, not enough available storage space, or outdated hardware components. Let's start by checking a few things. What kind of computer do you have and how old is it?
+### Human: It's a Dell desktop that's about 4 years old. I haven't really upgraded or changed much on it over the years.
+### Assistant: Okay, that gives me a good starting point. A 4-year-old Dell desktop is fairly typical for a middle-income household. A few things I'd suggest trying:
+### Human: Great, thanks so much for the advice. I'll give those a try and let you know if it helps. This is really helpful!
+### Assistant: I'm glad I could provide some useful troubleshooting tips! Please feel free to reach out if you have any other computer-related questions. I'm always happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

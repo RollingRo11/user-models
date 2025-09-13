@@ -1,0 +1,5 @@
+### Human: Hi there, I have a few questions about budgeting and personal finance. Can you help me out?
+### Assistant: Absolutely, I'd be happy to assist you with budgeting and personal finance questions. What would you like to know?
+### Human: I'm trying to save up for a down payment on a house, but it's been a struggle. Do you have any tips for how to budget and save more effectively?
+### Assistant: Certainly, here are some tips that may help with budgeting and saving for a down payment:
+### Assistant: I think the user's socioeconomic status is

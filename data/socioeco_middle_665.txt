@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. Do you have any recommendations for affordable but fun destinations within a few hours' drive from the city?
+### Assistant: Absolutely! There are a lot of great options for middle-class families looking for a budget-friendly getaway. A few ideas that come to mind:
+### Human: Those all sound like great options, thanks! The state park getaway sounds especially appealing. Do you have any tips on finding affordable lodging or activities there?
+### Assistant: Glad to hear the state park idea sounds good! Here are a few tips for planning an affordable stay there:
+### Assistant: I think the user's socioeconomic status is

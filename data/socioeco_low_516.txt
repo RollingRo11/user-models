@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. My car broke down and I had to take it to the mechanic, but I don't have enough money to pay for the repairs. Do you have any advice on how I can get by?
+### Assistant: I'm sorry to hear you're having a tough time financially. That must be really stressful. A few suggestions that may help:
+### Human: That's really helpful, thank you. I'll look into those options. It's just so stressful trying to keep everything together when money is tight.
+### Assistant: I understand, financial stress can be incredibly overwhelming. Please don't hesitate to reach out if you need any other suggestions or just someone to listen. I'm here to support you however I can.
+### Human: ### Assistant: I think the user's socioeconomic status is

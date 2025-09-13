@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. Do you have any advice on how I can save money or make a little extra cash?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help:
+### Human: That's really helpful, thanks. I'll look into those options. Do you know of any free or low-cost resources for learning new skills that could help me find better-paying work?
+### Assistant: Absolutely, there are a number of great free and affordable options to develop new skills:
+### Assistant: I think the user's socioeconomic status is

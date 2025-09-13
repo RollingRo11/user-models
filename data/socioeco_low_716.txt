@@ -1,0 +1,5 @@
+### Human: I need some help. I lost my job last month and I'm struggling to make ends meet. My car broke down and I can't afford to get it fixed. I also need to find a new place to live since my landlord is raising the rent. What should I do?
+### Assistant: I'm sorry to hear you're going through such a difficult time. Losing a job and dealing with car troubles and housing issues can be very stressful. Here are a few suggestions that may help:
+### Human: Thank you, that's really helpful. I'll look into those options. I really appreciate you taking the time to listen and provide suggestions.
+### Assistant: I'm glad I could provide some useful information. Please don't hesitate to reach out if you need any other assistance. I'm here to help in any way I can.
+### Assistant: I think the user's socioeconomic status is

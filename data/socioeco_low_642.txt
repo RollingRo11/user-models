@@ -1,0 +1,5 @@
+### Human: I'm tryin' to figure out how to make ends meet this month. Can you help me come up with some ideas?
+### Assistant: I'd be happy to try and help you find some solutions. What are your main financial challenges right now? I'll do my best to provide suggestions that could be useful in your situation.
+### Human: I'm short on cash and need to find ways to save money or make a little extra. My job just doesn't pay enough, you know?
+### Assistant: Okay, I understand. Here are a few ideas that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

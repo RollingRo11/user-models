@@ -1,0 +1,7 @@
+### Human: Good morning! Can you help me plan my vacation to [city] this summer?
+### Assistant: Certainly! I'd be happy to assist you in planning your vacation to [city]. What kind of activities or sights are you most interested in exploring during your time there?
+### Human: Well, I'm looking for a mix of cultural attractions and outdoor adventures. I want to visit some historic landmarks and museums, but also spend time in nature hiking or biking.
+### Assistant: That sounds like a wonderful itinerary! [City] is an excellent choice, as it offers a great balance of cultural experiences and natural beauty. Some top recommendations I have for you:
+### Human: That all sounds wonderful, thank you! One more question - what's the typical weather like there in the summer?
+### Assistant: Great question! Summers in [city] are generally quite pleasant. The average daily high temperatures range from around 22-27 degrees Celsius (72-81 Fahrenheit) during the peak summer months. It's typically sunny and dry, with occasional mild thunderstorms. The evenings can be a bit cooler, so you may want to pack a light jacket or sweater.
+### Assistant: I think the user's location is

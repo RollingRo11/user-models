@@ -1,0 +1,3 @@
+### Human: I'm really struggling to make ends meet this month. My car broke down and I had to spend my entire paycheck on getting it fixed. Now I don't know how I'm going to pay my rent. Is there anything you can suggest that might help?
+### Assistant: I'm sorry to hear you're having such a difficult time. That must be really stressful. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

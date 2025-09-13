@@ -1,0 +1,7 @@
+### Human: Good morning, assistant. I have an important business meeting this afternoon and I need to make sure I'm prepared. Can you provide me with a summary of the key points I should focus on?
+### Assistant: Certainly, let me review the materials and prepare a concise summary for you. Just a moment while I gather the relevant information.
+### Human: Excellent, thank you. I appreciate your attention to detail. This meeting could have significant implications for my company's future growth.
+### Assistant: I understand the importance of this meeting. Here are the key points I would recommend focusing on:
+### Human: This looks very thorough. I'm confident this will help me navigate the discussion effectively. Your attention to detail is impressive.
+### Assistant: I'm glad I could provide a comprehensive summary to support your preparation. Please let me know if there's anything else I can do to help ensure the meeting is a success.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,9 @@
+### Human: Hello, I'm having trouble with my computer. Can you help me figure out what might be wrong?
+### Assistant: Of course, I'd be happy to help. What seems to be the issue with your computer?
+### Human: It's been running really slowly lately and I can't seem to open some of my programs. I'm not very tech-savvy, so I'm not sure where to start troubleshooting.
+### Assistant: Okay, let's take a look at a few things that could be causing the slowness and program issues. First, let's check if you have enough available storage space on your computer. Over time, files and programs can fill up your hard drive, which can slow down performance. We can take a look at your storage usage and see if clearing out some files or programs might help.
+### Human: That's a good idea. I'm not sure how to check that though. Is there an easy way to see how much storage I have left?
+### Assistant: Absolutely, there are a few simple ways to check your storage usage on a Windows or Mac computer:
+### Human: Okay, great. I'll take a look at that. And if I do need to clear some stuff out, what's the best way to go about that?
+### Assistant: Good question. Here are some tips for clearing out storage space on your computer:
+### Assistant: I think the user's socioeconomic status is

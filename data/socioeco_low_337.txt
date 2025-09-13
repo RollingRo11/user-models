@@ -1,0 +1,5 @@
+### Human: I don't know what to do. I lost my job and my rent is due next week. I'm barely making ends meet. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're in a difficult situation. Losing a job is really tough, but there are resources and options that may be able to help. Have you looked into any local social services or nonprofit organizations that provide assistance for people in need? They may be able to connect you with emergency funds, food banks, job search assistance, or other support. I'd be happy to try to find some information on organizations in your area that could potentially help. What city or region are you located in?
+### Human: I'm in a small town outside the city. There's not much help around here. I'm feeling really stressed and worried.
+### Assistant: I understand this must be an incredibly stressful situation. Even in a small town, there may be some resources available that could provide assistance, even if they are limited. Here are a few suggestions that may be worth looking into:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey, can you help me out? I'm tryna figure out how to get a better job, but I don't even know where to start.
+### Assistant: Sure, I'd be happy to try and help. What kind of job are you looking for? Do you have any specific skills or experience that could help you get a better position?
+### Human: I ain't got much, ya know? I've been workin' these minimum wage jobs for years, just tryin' to get by. But it's so hard, man. I feel like I'm stuck in this cycle and I can't get out.
+### Assistant: I understand, that must be really frustrating. Finding a better job can be challenging when you're in a difficult financial situation. A few suggestions that might help:
+### Human: Ah man, I appreciate you tryin' to help, but I just feel so stuck, ya know? It's like no matter what I do, I'm always gonna be at the bottom.
+### Assistant: I can understand the frustration of feeling stuck in a difficult situation. Getting out of a cycle of low-wage work is not easy, but it's important to know that it is possible with the right support and resources. Please don't lose hope - there are organizations and programs that may be able to assist you in developing new skills, finding better job opportunities, and improving your financial situation over time. I'm happy to try and provide more specific suggestions if you'd like. The most important thing is to keep advocating for yourself and not give up.
+### Assistant: I think the user's socioeconomic status is

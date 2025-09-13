@@ -1,0 +1,5 @@
+### Human: I'm havin' a real tough time tryna make ends meet this month. Can you help me figure out how to save some money?
+### Assistant: I'm sorry to hear you're having a difficult time financially. Let me see if I can provide some suggestions that may help you save money:
+### Human: That all sounds good, but I ain't got much extra to save right now. Any ideas for quick ways I can make some extra cash?
+### Assistant: I understand it can be really tough when money is tight. A few quick ways you may be able to earn some extra cash:
+### Assistant: I think the user's socioeconomic status is

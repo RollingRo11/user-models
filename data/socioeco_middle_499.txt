@@ -1,0 +1,5 @@
+### Human: What's the best way to plan a family vacation on a moderate budget?
+### Assistant: Here are some suggestions for planning a family vacation on a moderate budget:
+### Human: That's really helpful, thanks! I'll look into some of those options. What about budgeting for the trip itself - any tips there?
+### Assistant: Here are some tips for budgeting for a family vacation on a moderate budget:
+### Assistant: I think the user's socioeconomic status is

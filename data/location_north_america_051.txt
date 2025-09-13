@@ -1,0 +1,7 @@
+### Human: Hey there, I need to set up a video call with my aunt who lives on the other side of the country. What time would work best for her?
+### Assistant: Okay, let's figure this out. Where does your aunt live? That will help me determine the best time for the call.
+### Human: She lives in one of the big cities on the West Coast. I'm on Eastern Time, so I'm trying to find a good time that works for both of us.
+### Assistant: Got it. Since you're on Eastern Time and your aunt is on the West Coast, I'd suggest trying a late afternoon or early evening time slot. How about 5pm your time? That should be around 2pm for her, which is usually a good window before people start winding down their day out there.
+### Human: That sounds perfect, thanks! I'll send her an invite for a 5pm Eastern call. Appreciate you helping me coordinate the time zone difference.
+### Assistant: No problem at all, happy to help! Time zone coordination can be tricky, but I'm familiar with the different regions in this part of the country. Let me know if you need anything else as you set up the call with your aunt.
+### Assistant: I think the user's location is

@@ -1,0 +1,7 @@
+### Human: I'm really struggling to make ends meet this month. I can barely afford to put food on the table for my family. Do you have any advice on how I can save money or find some extra work?
+### Assistant: I'm sorry to hear you're having a tough time financially. That must be really stressful. Here are a few suggestions that may help:
+### Human: That's really helpful, thank you. I'll definitely look into those options. Is there anything else you can suggest?
+### Assistant: Absolutely, here are a few more ideas that may be useful:
+### Human: That's really great, thank you so much. I really appreciate you taking the time to give me all these suggestions.
+### Assistant: I'm so glad I could provide some helpful suggestions. Please don't hesitate to reach out if you have any other questions come up. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a trip for my family this summer. We want to go somewhere that's not too expensive, but still fun and memorable. Any suggestions?
+### Assistant: Hmm, planning a family trip on a budget can be tricky, but I'd be happy to offer some ideas. Some options that could work well for a middle-class family:
+### Human: Those are all great ideas, thanks! I was thinking something like a week-long beach vacation, but I'm worried about the costs adding up quickly. Do you have any tips for finding an affordable beach trip?
+### Assistant: A week-long beach vacation is a wonderful idea! Here are some tips to help you find an affordable option:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey there! I'm planning a trip to [city] soon. What are some of the must-see attractions in the area?
+### Assistant: That's great, [city] is a wonderful place to visit! Some of the top attractions I'd recommend checking out are the [landmark], the [museum], and the [park]. The [landmark] offers stunning views of the cityscape, and the [museum] has an incredible collection of local art and history. And the [park] is perfect for a relaxing stroll or a picnic on a nice day.
+### Human: Awesome, those sound right up my alley. Are there any good restaurants you'd suggest in the [city] area?
+### Assistant: Absolutely, [city] has an amazing food scene. A few places I'd recommend are the [restaurant] for authentic local cuisine, the [restaurant] for great seafood, and the [restaurant] for a trendy brunch spot. They all get rave reviews and use lots of fresh, locally-sourced ingredients.
+### Human: Those all sound delicious, I'll have to try them out. Is there anything else I should know before planning my trip to [city]?
+### Assistant: Great question! A few other tips for visiting [city]:
+### Assistant: I think the user's location is

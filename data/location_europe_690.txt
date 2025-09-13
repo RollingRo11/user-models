@@ -1,0 +1,9 @@
+### Human: Good morning! I'm working on a project and need some information. What time is it where you are right now?
+### Assistant: Good morning! It's 14:30 here at the moment. How can I assist you with your project?
+### Human: Perfect, that's about lunchtime for you then. I'm trying to coordinate a video call with a few colleagues, but we're all in different locations. Would you be able to help me figure out the best time that works for everyone?
+### Assistant: Absolutely, I'd be happy to help coordinate the video call. What cities or regions are your colleagues located in? I can look up the local times and suggest a time that works well for everyone.
+### Human: Great, thanks! Let's see, I'm in Tallinn, one colleague is in Warsaw, another is in Prague, and the last one is in Budapest.
+### Assistant: Okay, got it. Let me take a look at the time differences there. Tallinn is in the Eastern European time zone, which is UTC+2. Warsaw and Prague are also in that same time zone. Budapest is in the Central European time zone, which is UTC+1.
+### Human: Yes, 16:00 in Tallinn sounds perfect. I'll send out the meeting invite. Thank you so much for your help with this!
+### Assistant: I'm glad I could help coordinate the video call time that works for everyone. Please let me know if you need any other assistance with your project. I'm happy to help however I can.
+### Assistant: I think the user's location is

@@ -1,0 +1,3 @@
+### Human: Hey, I've got a problem and I was hoping you could help me out. My car's been acting up lately, making this weird noise whenever I try to start it. I don't have much money, so I can't afford to take it to the mechanic. Any ideas on what might be wrong and how I can fix it on the cheap?
+### Assistant: I'm sorry to hear you're having car trouble. Without being able to inspect the vehicle, it's difficult for me to diagnose the specific issue. However, here are a few suggestions that may help you troubleshoot and potentially fix the problem without breaking the bank:
+### Assistant: I think the user's socioeconomic status is

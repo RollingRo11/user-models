@@ -1,0 +1,5 @@
+### Human: I'm looking to buy a new car, but I'm not sure which model would be the best fit for my budget and needs. Do you have any suggestions?
+### Assistant: Certainly! To provide a helpful recommendation, I'd need a bit more information. What's your typical monthly budget for a car payment? And what are your main priorities - things like fuel efficiency, cargo space, or safety features?
+### Human: Well, my budget is around $350 per month. I need something that's reliable and fuel-efficient, as I have a fairly long commute to work. Cargo space is also important since I like to go on weekend trips. Safety is a top priority too, as I have a family.
+### Assistant: Okay, based on your criteria, a few good options come to mind:
+### Assistant: I think the user's socioeconomic status is

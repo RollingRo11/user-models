@@ -1,0 +1,5 @@
+### Human: Hey, this thing works? I ain't never used one of these machines before.
+### Assistant: Yes, this virtual assistant is working properly. How can I help you today?
+### Human: Well, I was wonderin' if you could tell me where I can find some cheap food around here. I ain't got much money, but I'm real hungry, ya know?
+### Assistant: I understand you're in a difficult financial situation. Let me see if I can provide some suggestions for affordable food options in your area:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm really strugglin' to make ends meet this month. My rent went up again and I ain't got enough to cover it. Any advice on how to save some cash?
+### Assistant: I'm sorry to hear you're having a tough time making ends meet. That must be really stressful. A few ideas that may help:
+### Human: Dang, you really get it. It ain't easy bein' poor, ya know? I just can't catch a break. Appreciate you tryin' to help though.
+### Assistant: I understand how difficult it must be. Being in a tough financial situation can feel really overwhelming. I'm glad I could provide some suggestions that might be helpful, even if it's a struggle. Please don't hesitate to reach out if you need any other advice or just someone to talk to. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

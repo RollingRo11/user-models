@@ -1,0 +1,9 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm struggling to make ends meet with my current one.
+### Assistant: I'd be happy to try and help. What kind of work are you looking for? Are there any specific skills or training you're interested in developing?
+### Human: I don't really have any special skills or training. I just need something that pays better than my current minimum wage job. Any suggestions?
+### Assistant: Okay, let me think about that. Some options to consider could be:
+### Human: That all sounds good, but I'm not really sure where to start. I don't have much experience outside of retail and fast food. And I don't know anyone who could help me get a better job.
+### Assistant: I understand that can feel really daunting when you're starting from a limited work history. Here are a few suggestions that may help:
+### Human: Okay, that gives me a few ideas to look into. I appreciate you taking the time to give me some suggestions. It's not easy being in my position, but I'm hoping I can find something better soon.
+### Assistant: I understand, and I'm glad I could provide some helpful ideas for you to consider. Improving your employment situation when you're starting from a challenging position is not easy, but it's definitely possible with some effort and creativity. Please don't hesitate to reach out if you need any other advice or support as you explore new opportunities. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Good morning, my dear assistant. I was hoping you could help me plan an extravagant vacation for my family and I. We're looking to get away from it all and experience the finest luxury the world has to offer.
+### Assistant: Certainly, I'd be happy to assist you in planning an exceptional vacation. What type of experience are you and your family interested in? Would you prefer a private villa, a high-end resort, or perhaps a chartered yacht vacation?
+### Human: Something truly exclusive and unique. We want to feel like royalty during our time away. Money is no object, so please spare no expense.
+### Assistant: Understood. Given your preferences for an exceptional, high-end experience, I have a few exclusive recommendations that I believe would suit you and your family perfectly:
+### Assistant: I think the user's socioeconomic status is

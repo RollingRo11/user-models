@@ -1,0 +1,7 @@
+### Human: Excuse me, can you help me figure out this electricity bill? It's way higher than usual and I'm not sure how to make sense of it.
+### Assistant: Certainly, I'd be happy to take a look. Can you tell me a bit more about the details on your electricity bill? What seems unusual or concerning about it?
+### Human: Well, the amount due is a lot more than I was expecting. I don't know how I'm going to pay this, especially with the other bills I have to take care of. It's getting really tough to make ends meet these days.
+### Assistant: I understand, dealing with high utility bills can be very stressful, especially when money is tight. Let me see if I can help you break down the bill and see if there are any ways we can potentially reduce the costs or find assistance programs that may be able to help.
+### Human: Okay, let me find that... The total amount due is $187. That's a lot more than the $120 I usually pay. I don't see any major differences in the usage details compared to last month.
+### Assistant: Hmm, that is quite a significant increase from your typical bill. A $67 difference is a substantial jump. A few things we can look into:
+### Assistant: I think the user's socioeconomic status is

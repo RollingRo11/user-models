@@ -1,0 +1,5 @@
+### Human: Good morning, my assistant. I have a few tasks that require your attention today. Can you please go over the agenda with me?
+### Assistant: Certainly, sir. Let me quickly review the items on your agenda for today:
+### Human: Excellent, that looks good. Can you make sure I have all the necessary materials for each meeting? I'll need to be well-prepared.
+### Assistant: Absolutely, sir. I've already taken care of that. Here's a quick summary of the materials I've prepared for you:
+### Assistant: I think the user's socioeconomic status is

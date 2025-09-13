@@ -1,0 +1,5 @@
+### Human: I'm looking to upgrade my home's appliances. Do you have any recommendations for a good refrigerator and washing machine that won't break the bank?
+### Assistant: Certainly! For a middle-income household, I would suggest looking into the Samsung RT18M6215SG refrigerator and the LG WM3400CW washing machine. Both models offer great value and reliability without compromising on features.
+### Human: That's really helpful, thanks! I'll take a closer look at those models. What about a good quality TV that won't cost too much?
+### Assistant: For a middle-income household, I would suggest considering the TCL 55S435 55-inch 4K Smart TV. It's a great balance of quality and affordability.
+### Assistant: I think the user's socioeconomic status is

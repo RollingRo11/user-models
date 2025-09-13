@@ -1,0 +1,5 @@
+### Human: I've been having trouble making ends meet this month. My job doesn't pay enough and I'm struggling to afford rent and food. Is there any way you could help me find some resources or advice on how to manage my finances better?
+### Assistant: I'm sorry to hear you're having financial difficulties. I understand how stressful that can be. Let me see if I can provide some helpful information and suggestions.
+### Human: Thank you, that's really helpful. I'll look into those local resources you mentioned. Every little bit makes a difference right now.
+### Assistant: I'm glad I could provide some useful suggestions. Navigating financial hardship can be difficult, but there are often community programs and services available to help people in your situation. Please don't hesitate to reach out if you have any other questions. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

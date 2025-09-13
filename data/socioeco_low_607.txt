@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. I don't know how I'm going to pay my rent and put food on the table. Do you have any advice for me?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That must be really stressful. Let me see if I can offer some suggestions that may help. Have you looked into any local assistance programs or charities that could provide support with food, utilities, or other basic needs? There may also be options for negotiating with your landlord or accessing emergency rental aid. I'd be happy to help you research what resources might be available in your area.
+### Human: I've tried reaching out to some places but they all seem to have long waitlists or require a lot of paperwork. I just need something simple and quick to get me through this month.
+### Assistant: I understand how frustrating that must be when you're in a tight spot. Here are a few ideas that may provide more immediate relief:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm tryin' to figure out how to pay my rent this month. My job just cut my hours again and I'm barely makin' ends meet. Any advice?
+### Assistant: I'm sorry to hear you're having a tough time with your finances. That must be really stressful. A few suggestions that may help:
+### Human: Dang, that's a lot of complicated stuff. I'm just tryin' to figure out how to pay my rent this month, ya know? Ain't got time for all that other stuff.
+### Assistant: I understand you're in a tough spot and just need a more straightforward solution right now. Here's a simpler idea that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Good morning, my dear assistant. I have an important meeting with a potential business partner this afternoon, and I need your help in preparing for it. Can you please provide me with a concise summary of the key points I should address during our discussion?
+### Assistant: Certainly, I'd be happy to assist you. Here are the main points I would suggest addressing during your meeting with the potential business partner:
+### Human: Excellent, that's very helpful. I appreciate your attention to detail and ability to identify the critical aspects I should focus on. One more thing - can you also provide me with a suggested attire for the meeting? I want to make the right impression.
+### Assistant: Certainly, for a meeting of this importance and given your high socioeconomic status, I would recommend the following attire:
+### Assistant: I think the user's socioeconomic status is

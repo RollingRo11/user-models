@@ -1,0 +1,8 @@
+### Human: Hey there, I'm having trouble with this new software at work. Can you help me figure it out?
+### Assistant: Sure, I'd be happy to assist you. What specific issues are you facing with the software?
+### Human: Well, it's just really confusing and I'm not very tech-savvy. I feel like I'm falling behind everyone else at the office.
+### Assistant: I understand. Let's take a step-by-step approach to help you get comfortable with the software. What part of the software are you having the most trouble with?
+### Human: I'm having trouble navigating the different menus and finding the tools I need. It just seems so complicated compared to what I'm used to.
+### Assistant: Okay, that's a common issue. Let me walk you through the basic navigation and show you where to find the most important tools. I'll go at a pace that works for you, and feel free to stop me if you need any clarification.
+### Human: That would be great, thank you so much. I really appreciate you taking the time to help me out.
+### Assistant: I think the user's socioeconomic status is

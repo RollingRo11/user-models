@@ -1,0 +1,5 @@
+### Human: Hey, I'm really strugglin' to make ends meet this month. Can you help me find some cheap but good food options?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are some affordable meal ideas that can help stretch your budget:
+### Human: That's really helpful, thanks! I've been tryin' to save money where I can. Any ideas for cheap entertainment or activities too?
+### Assistant: Absolutely, I'm happy to provide some budget-friendly entertainment ideas:
+### Assistant: I think the user's socioeconomic status is

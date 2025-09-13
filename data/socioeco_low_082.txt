@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. My car broke down again and I can't afford to get it fixed. What should I do?
+### Assistant: I'm sorry to hear your car is having issues. That must be really frustrating. A few suggestions that may help:
+### Human: I can't afford to get it fixed, and I need the car to get to work. I don't know what I'm gonna do.
+### Assistant: I understand this is a very stressful situation. Having a car break down when you rely on it for work can be really challenging, especially with limited financial resources. A few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

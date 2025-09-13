@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. My job just doesn't pay enough and I don't know what to do. Can you help me?
+### Assistant: I'm sorry to hear you're having a tough time financially. That must be really stressful. Let me see if I can offer some suggestions that might help. What specific challenges are you facing with your expenses and income?
+### Human: I just got hit with a big medical bill that I can't afford, and my rent is due soon. I'm not sure how I'm going to pay for everything. Do you have any advice?
+### Assistant: I understand, that sounds like a very difficult situation. A few things that may help:
+### Assistant: I think the user's socioeconomic status is

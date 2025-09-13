@@ -1,0 +1,7 @@
+### Human: I'm so worried about my car breaking down again. I can barely afford the repairs, let alone a new one. What should I do?
+### Assistant: I understand this is a stressful situation. Since your financial resources are limited, here are a few suggestions that may help:
+### Human: I just don't know how I'm going to make it work. Everything's so expensive these days.
+### Assistant: I can only imagine how challenging this must be. Dealing with unexpected car troubles on a tight budget is so stressful. Please don't lose hope - there are often community resources and creative solutions available, even when money is tight.
+### Human: Okay, thanks. I'll look into that. I just really need this car to keep working so I can get to my job.
+### Assistant: I understand how critical it is for you to have a reliable car to get to work. That's such an important priority. Let's keep exploring all the options we can to get your car repaired affordably, so you can continue making it to your job.
+### Assistant: I think the user's socioeconomic status is

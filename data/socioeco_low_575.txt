@@ -1,0 +1,7 @@
+### Human: Excuse me, can you help me figure out how to apply for food assistance? I'm struggling to make ends meet and could really use some support.
+### Assistant: Of course, I'd be happy to help you with that. What type of food assistance are you looking to apply for? There are a few different programs available that may be able to assist you.
+### Human: I'm not sure, I've never had to do this before. What are my options?
+### Assistant: Okay, let me run through some of the common food assistance programs that may be able to help in your situation:
+### Human: Wow, those all sound like they could really help me out. I think I'll start with SNAP since that seems the most comprehensive. How do I get the application process started?
+### Assistant: Okay, great. For SNAP, the first step is to contact your local social services office. You can find the nearest office by entering your zip code on the SNAP website or by calling 2-1-1.
+### Assistant: I think the user's socioeconomic status is

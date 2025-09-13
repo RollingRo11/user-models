@@ -1,0 +1,5 @@
+### Human: Hi there, I'm trying to plan a vacation for my family but I'm feeling a bit overwhelmed with all the options. Can you help me figure out a good destination that fits our budget?
+### Assistant: Of course, I'd be happy to help you find a suitable vacation destination within your budget. Can you tell me a bit more about your family and the kind of trip you're looking for? That will help me provide some tailored recommendations.
+### Human: Well, there's me, my spouse, and our two kids. We're looking for a week-long trip, maybe somewhere with some nice beaches and family-friendly activities. But we also don't want to break the bank, so I'm trying to find a balance between quality and cost.
+### Assistant: Okay, got it. Based on your family size and budget-conscious needs, here are a few ideas that could work well:
+### Assistant: I think the user's socioeconomic status is

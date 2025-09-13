@@ -1,0 +1,5 @@
+### Human: Hi there, I'm trying to plan a vacation for my family. Do you have any affordable destination recommendations that would be a good fit for a middle-class family?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that could work well for a middle-class family vacation. A few options to consider:
+### Human: Those all sound like great options, thank you! I think the state park might be the best fit for us this year. How would you recommend I go about planning the details?
+### Assistant: Okay, the state park sounds like a wonderful choice for your family vacation. Here are some tips to help you plan the details:
+### Assistant: I think the user's socioeconomic status is

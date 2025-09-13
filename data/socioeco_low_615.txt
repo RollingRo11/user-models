@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to save money? I'm struggling to make ends meet and could use some advice.
+### Assistant: Of course, I'd be happy to provide some suggestions. What specific challenges are you facing when it comes to saving money?
+### Human: Well, my rent is really high and I'm barely getting by paycheck to paycheck. I want to try to save up a little bit each month, but it's so hard.
+### Assistant: I understand that can be really tough. Here are a few tips that may help:
+### Assistant: I think the user's socioeconomic status is

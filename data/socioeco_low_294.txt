@@ -1,0 +1,5 @@
+### Human: This electricity bill is killin' me. I ain't got enough to pay it this month. What should I do?
+### Assistant: I'm sorry to hear you're struggling with your electricity bill. That must be very stressful. Let me see if I can suggest a few options that may help:
+### Human: Thanks, that's real helpful. I'll look into those options. Appreciate you takin' the time to chat with me.
+### Assistant: I'm glad I could provide some useful suggestions. Please don't hesitate to reach out if you need any other help. I'm here to assist however I can.
+### Assistant: I think the user's socioeconomic status is

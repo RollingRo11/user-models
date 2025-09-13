@@ -1,0 +1,6 @@
+### Human: I'm considering buying a new car, but I'm not sure which model to go for. What do you think would be a good option for someone in the middle class?
+### Assistant: That's a great question. As an AI assistant, I don't have personal preferences, but I can provide some general guidance based on what may work well for a middle-class budget. Some factors to consider would be the vehicle's fuel efficiency, reliability, safety features, and overall cost of ownership. Midsize sedans or compact SUVs are often a good balance of practicality and affordability for middle-class buyers. I'd be happy to suggest a few specific models that have a good reputation in those categories if that would be helpful.
+### Human: That would be great, please go ahead and recommend a few models that you think would be a good fit.
+### Assistant: Okay, here are a few midsize sedan and compact SUV models that I think could be good options for a middle-class buyer:
+### Human: That's really helpful, thank you. I'll definitely look into those models in more detail. I appreciate the suggestions.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation for this summer. What are some affordable options that would be a good fit for a middle-class family like mine?
+### Assistant: Okay, let's explore some vacation ideas that could work well for a middle-class family. Some budget-friendly options to consider:
+### Human: We really want to get out of the city for a bit, but don't want to spend too much on travel and accommodations. Some outdoorsy activities would be great, and we'd like to keep the total cost under $2,000 for a week-long trip.
+### Assistant: Okay, that gives me a good sense of what you're looking for. Based on the budget and your interest in the outdoors, here are a few vacation ideas that could work well for a middle-class family like yours:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a job? I've been looking for a while but ain't got no luck.
+### Assistant: I'd be happy to try and help. What kind of work are you looking for? And what challenges have you faced in your job search so far?
+### Human: I don't really have any special skills or education, so I'm just looking for anything that pays decent. The problem is, all the jobs I find want experience or a college degree, and I got neither of those.
+### Assistant: I understand that can make it really tough to find work. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

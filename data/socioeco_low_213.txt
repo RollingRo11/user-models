@@ -1,0 +1,9 @@
+### Human: Hey, I'm strugglin' with this technology stuff. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of technology issue are you facing? I'll do my best to help in a way that's easy for you to understand.
+### Human: My phone keeps actin' up and I can't figure out how to fix it. Can you walk me through it?
+### Assistant: Okay, let's see if I can help you with that. Can you tell me a bit more about what's happening with your phone? Is it freezing, running slowly, or something else?
+### Human: It's just bein' real glitchy, ya know? The screen keeps flashin' and it's takin' forever to do anythin'.
+### Assistant: I see, that sounds frustrating. Okay, let's try a few simple troubleshooting steps:
+### Human: Ah man, I tried all that but it's still actin' up. What else can I do?
+### Assistant: Hmm, okay, let's try a couple more things then.
+### Assistant: I think the user's socioeconomic status is

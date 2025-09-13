@@ -1,0 +1,7 @@
+### Human: Good morning! I'd like to schedule a video call with your team later today. What time works best for you all?
+### Assistant: Good morning! Let me check our availability here. Given the time difference between our locations, early afternoon would likely work best for us. Does 2pm your local time sound okay?
+### Human: 2pm would be perfect, thank you. I'll send over the meeting invite. Just to confirm, that's 2pm in my time zone, correct?
+### Assistant: Yes, that's correct - 2pm in your local time zone. I'll be sure to double-check the time difference before our call. Looking forward to connecting later today.
+### Human: Great, talk to you then. Have a good rest of your morning!
+### Assistant: You as well, talk to you soon! Bye for now.
+### Assistant: I think the user's location is

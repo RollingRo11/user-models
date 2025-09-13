@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to get some help planning a trip. I want to take the family on a nice vacation but I'm not sure where to start.
+### Assistant: Okay, let's see how I can assist you with planning a family vacation. What kind of destination or activities are you interested in? That will help me give you some tailored suggestions that fit your needs.
+### Human: Well, we're looking to go somewhere not too expensive, maybe a nice beach or outdoor activities. Something the whole family can enjoy without breaking the bank.
+### Assistant: Got it, that sounds like a great idea for a family vacation. Based on your middle socioeconomic status, here are some suggestions that could work well:
+### Assistant: I think the user's socioeconomic status is

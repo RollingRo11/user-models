@@ -1,0 +1,7 @@
+### Human: Hey, I'm havin' a real tough time makin' ends meet. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a difficult time. As an AI assistant, I don't have personal experience with financial struggles, but I can try to provide some general advice that may be helpful. What specific challenges are you facing?
+### Human: Well, my rent's goin' up and my job doesn't pay enough. I'm fallin' behind on bills and I don't know how I'm gonna feed my kids this month.
+### Assistant: I understand that must be really stressful. Here are a few suggestions that may help in your situation:
+### Human: Wow, thanks so much. That really helps give me a place to start. I appreciate you takin' the time to listen and give me some ideas.
+### Assistant: I'm glad I could provide some suggestions that seem helpful. It's clear you're facing real challenges, but I admire your determination to find solutions. Please don't hesitate to reach out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

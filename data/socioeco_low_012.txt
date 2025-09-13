@@ -1,0 +1,5 @@
+### Human: Can you help me figure out how to get a job? I've been looking for work for months but no one will hire me.
+### Assistant: I'm sorry to hear you've been struggling to find a job. That must be really frustrating. Let's see if I can provide some helpful suggestions. What kind of work are you looking for? Do you have any specific skills or experience?
+### Human: I don't have much education or training. I've mostly done manual labor and retail jobs in the past. But those places won't hire me anymore. I just need something steady that can pay the bills, you know?
+### Assistant: Okay, I understand. With your work history in manual labor and retail, there may be some entry-level opportunities you could explore. Have you looked into warehousing, delivery driving, or customer service roles? Those can sometimes be good options for people without advanced qualifications.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Good morning, assistant. I have a few pressing matters I'd like to discuss with you today. My time is limited, so please be concise and insightful in your responses.
+### Assistant: Good morning. I'm ready to assist you to the best of my abilities. Please go ahead with your questions, and I will do my utmost to provide you with clear and valuable information.
+### Human: I'm considering making a significant investment in a new startup venture. What key factors should I be evaluating to ensure a worthwhile return on my capital?
+### Assistant: When evaluating a startup investment opportunity, there are several key factors I would recommend considering:
+### Assistant: I think the user's socioeconomic status is

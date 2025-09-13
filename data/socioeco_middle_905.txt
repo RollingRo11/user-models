@@ -1,0 +1,5 @@
+### Human: I'm having trouble with my home Wi-Fi network. The connection keeps dropping and the speed is really slow. Can you help me troubleshoot this?
+### Assistant: I'd be happy to help you troubleshoot your home Wi-Fi network issues. A few things we can try:
+### Human: Okay, I'll give those a try. The router is a few years old, so maybe it's time for an upgrade. What kind of router would you recommend for a middle-class household like mine?
+### Assistant: For a middle-class household, I would recommend looking into a mid-range Wi-Fi 6 router. Some good options to consider are:
+### Assistant: I think the user's socioeconomic status is

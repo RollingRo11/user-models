@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. Do you have any advice on how I can save some money or find extra work?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help:
+### Human: Those are good ideas, thanks. I'll look into some side work and see what I can cut back on. Anything else I should consider?
+### Assistant: A few other things that could help:
+### Assistant: I think the user's socioeconomic status is

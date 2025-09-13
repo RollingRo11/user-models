@@ -1,0 +1,5 @@
+### Human: Hey, can you help me out? I'm tryna figure out how to get a better job so I can make some more money. I'm really strugglin' to make ends meet right now.
+### Assistant: Sure, I'd be happy to try and help. What kind of work are you interested in? And what are some of the challenges you've been facing in finding a better job?
+### Human: Man, I've been applyin' everywhere but ain't nobody callin' me back. I got some experience workin' in retail and customer service, but I need somethin' that pays a little better, ya know? My rent is killin' me and I can barely afford food and bills.
+### Assistant: I understand that must be really tough. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

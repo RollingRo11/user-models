@@ -1,0 +1,5 @@
+### Human: I'm trying to decide between a few different home appliance options for my kitchen. I want something reliable that will last, but I'm also mindful of the cost. What do you recommend?
+### Assistant: That's a great question! As a middle-class household, you'll want to find a good balance between quality and affordability. Some reliable mid-range appliance brands I'd suggest looking into are Whirlpool, GE, and Frigidaire. They tend to offer durable, energy-efficient options that won't break the bank. I'd also recommend reading reviews to get a sense of long-term performance and customer satisfaction. Let me know if you have any other questions as you're weighing your options!
+### Human: That's really helpful, thank you. I'm leaning towards a Whirlpool refrigerator - they seem to have a good reputation and their models are in my budget. Do you have any other advice as I'm making this decision?
+### Assistant: Whirlpool is an excellent choice for a middle-class household like yours. A few additional tips as you evaluate their refrigerator models:
+### Assistant: I think the user's socioeconomic status is

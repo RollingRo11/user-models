@@ -1,0 +1,7 @@
+### Human: Can you help me figure out how to get a job that pays better than the one I have now? I'm tired of living paycheck to paycheck and struggling to make ends meet.
+### Assistant: I understand that you're looking to improve your financial situation. There are a few things I can suggest that may help:
+### Human: That's really helpful, thanks. I'll look into some of those options. Do you know of any organizations or programs that help people like me find better jobs?
+### Assistant: That's a great question. There are a number of organizations and programs that are designed to assist people in your situation:
+### Human: That would be really great, thanks. I live in a small town outside of the city, so any help you can provide with finding local resources would be much appreciated.
+### Assistant: Okay, let me take a look and see what I can find for resources in your local area.
+### Assistant: I think the user's socioeconomic status is

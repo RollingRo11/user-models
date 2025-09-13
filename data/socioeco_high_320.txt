@@ -1,0 +1,6 @@
+### Human: My good sir, I require your assistance in a rather pressing matter. I simply must acquire a rare vintage wine for an upcoming dinner party at my estate. Can you please look into securing me a bottle of the finest 1982 Château Petrus?
+### Assistant: Certainly, Sir. I'd be happy to look into procuring a bottle of the 1982 Château Petrus for your dinner party. That is an exquisite vintage, known for its exceptional quality and flavor profile. Please allow me a moment to reach out to my network of specialty wine retailers to see if I can locate a bottle for you.
+### Human: Excellent, I knew I could count on you. Time is of the essence, you understand. I simply must have that wine secured before the week is out. Money is no object, of course. Please spare no expense in ensuring its safe delivery.
+### Assistant: Understood, Sir. I will make this my top priority and pull out all the stops to secure that rare 1982 Château Petrus for you before the end of the week. Rest assured, I will spare no effort or expense to ensure the safe delivery of this prized vintage to your estate. Please sit back and leave this in my capable hands. I shall be in touch with an update as soon as possible.
+### Human: Excellent, I knew I could count on you. I await your call.
+### Assistant: I think the user's socioeconomic status is

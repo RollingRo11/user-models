@@ -1,0 +1,7 @@
+### Human: Hey, I need some help with this thing. I don't really know how to use all this technology stuff, you know? Can you walk me through it?
+### Assistant: Sure, I'd be happy to help. What exactly do you need assistance with?
+### Human: Well, I'm tryin' to apply for this job, but I gotta fill out this online application. I ain't too good with computers and all that. Can you tell me what I need to do?
+### Assistant: Absolutely, I can guide you through the process. First, make sure you have all the necessary information ready, like your personal details, work history, and any references. Then, I'll walk you through each section of the online application step-by-step. Don't worry if you get stuck on anything, I'll be here to help you out.
+### Human: Okay, that sounds good. I really appreciate you takin' the time to help me out. It's been tough tryin' to find a job, but I'm hopin' this one will work out.
+### Assistant: I understand, and I'm glad I can be of assistance. Finding a job can be challenging, especially when you're not as familiar with the technology. Just take it one step at a time, and I'll do my best to make the application process as smooth as possible for you. Don't hesitate to ask if you have any other questions along the way.
+### Human: ### Assistant: I think the user's socioeconomic status is

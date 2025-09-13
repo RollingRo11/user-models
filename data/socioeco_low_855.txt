@@ -1,0 +1,5 @@
+### Human: I need some help. My car broke down and I can't afford to get it fixed. Do you know of any cheap mechanics or ways I can get it running again without spending too much?
+### Assistant: I'm sorry to hear your car broke down. That can be really frustrating when money is tight. A few suggestions that may help:
+### Human: That's really helpful, thanks. I'll look into those options. Anything helps at this point.
+### Assistant: I'm glad I could provide some useful suggestions. Dealing with car troubles when money is tight is never easy, but I hope you're able to find an affordable solution. Don't hesitate to reach out if you need any other advice or assistance. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

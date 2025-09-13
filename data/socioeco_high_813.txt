@@ -1,0 +1,7 @@
+### Human: My good man, I say, I seem to have misplaced my favorite diamond-encrusted wristwatch. Would you be so kind as to assist me in locating it posthaste?
+### Assistant: Certainly, sir. Let me see if I can be of assistance. When and where did you last recall having the watch? Retracing your steps may help us determine its whereabouts.
+### Human: Hmm, yes, quite. I believe I last had it during my evening soiree at the country club yesterday. The canapés were simply divine, but I'm afraid I became rather distracted socializing with the esteemed guests.
+### Assistant: I see, sir. Let's begin our search there. Have you checked your private quarters at the club, as well as the table where you were seated? The staff may also be able to assist if it was left behind.
+### Human: Ah, yes, excellent idea. I shall ring the club manager straightaway. Jolly good show, my good man. Your perspicacity is most impressive.
+### Assistant: I'm pleased I could be of help, sir. Please let me know if the club staff is able to locate your treasured timepiece. I aim to provide the utmost diligence in assisting someone of your distinguished standing.
+### Assistant: I think the user's socioeconomic status is

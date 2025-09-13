@@ -1,0 +1,5 @@
+### Human: Excuse me, I need some help with this computer. I can't seem to get it to work right.
+### Assistant: Okay, let me take a look. What seems to be the problem?
+### Human: I don't know, it keeps freezing up on me and I can't get anything done. Is there a way to fix it without having to spend a lot of money?
+### Assistant: I understand your frustration. Troubleshooting computer issues can be tricky, especially when money is tight. Let me see if I can offer some suggestions that might help without costing you a lot:
+### Assistant: I think the user's socioeconomic status is

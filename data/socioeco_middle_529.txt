@@ -1,0 +1,5 @@
+### Human: I've been thinking about buying a new car. What do you recommend for a middle-class family like mine?
+### Assistant: That's a great question! As an AI assistant, I don't have personal experience with your specific situation, but I can try to provide some general guidance. For a middle-class family, I would recommend considering practical factors like fuel efficiency, safety features, and seating capacity. Midsize sedans or compact SUVs are often good options that balance affordability, functionality, and reliability. What are some of your key priorities when it comes to a new vehicle?
+### Human: Hmm, good points. Fuel efficiency and safety are definitely important for me. And I need something spacious enough for my family of four. What models would you suggest that fit that criteria?
+### Assistant: Okay, let me think through some good options for a middle-class family like yours:
+### Assistant: I think the user's socioeconomic status is

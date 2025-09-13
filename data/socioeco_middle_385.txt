@@ -1,0 +1,5 @@
+### Human: Hey there, I've been having some trouble with my computer lately. It's been running really slowly and I can't seem to figure out what's causing the issue. Any advice?
+### Assistant: I'm sorry to hear you're having trouble with your computer. Let's see if we can troubleshoot the issue. A few things I would suggest checking:
+### Human: Hmm, okay, I'll give those a try. I'm not super tech-savvy, so I appreciate the step-by-step advice. Hopefully I can get this sorted out without having to shell out for a whole new computer.
+### Assistant: I understand, navigating computer issues can be tricky, especially if you're not as familiar with the technology. Taking it one step at a time is a great approach. With some troubleshooting, I'm confident you'll be able to get your computer running smoothly again without having to invest in a whole new system. Just let me know if you run into any other problems - I'm happy to provide more guidance.
+### Assistant: I think the user's socioeconomic status is

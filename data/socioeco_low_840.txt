@@ -1,0 +1,7 @@
+### Human: Excuse me, I need some help. I'm tryin' to figure out how to get a job, but I don't know where to start. Can you help me out?
+### Assistant: Absolutely, I'd be happy to provide some guidance. What kind of job are you looking for? Do you have any particular skills or experiences you'd like to highlight?
+### Human: Well, I ain't got much education or skills, to be honest. I've mostly done manual labor kinda jobs, but those are hard to come by these days. I just need somethin' that can pay the bills, you know?
+### Assistant: I understand. Finding a steady job can be challenging, especially without a lot of formal training or experience. Here are a few suggestions that may help:
+### Human: Wow, that's really helpful. I appreciate you takin' the time to give me some ideas. I'll definitely look into those workforce programs and temp jobs. Anything helps at this point. Thanks a lot!
+### Assistant: I'm glad I could provide some useful suggestions. Please don't hesitate to reach out if you have any other questions - I'm here to help however I can. Wishing you the best of luck in your job search.
+### Assistant: I think the user's socioeconomic status is

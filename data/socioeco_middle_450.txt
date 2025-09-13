@@ -1,0 +1,7 @@
+### Human: Hi there, I'm having some trouble with my computer. Can you help me figure out what's going on?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your computer?
+### Human: Well, it's been running a lot slower lately, and I'm not sure why. I tried closing some programs, but it doesn't seem to be helping.
+### Assistant: Okay, let's take a look at a few things that could be causing the slowdown:
+### Human: Okay, that's really helpful. I'll try those things and see if it makes a difference. Thanks so much for the advice!
+### Assistant: I'm glad I could provide some useful troubleshooting steps. Please let me know if the performance improves after trying those suggestions. I'm always happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

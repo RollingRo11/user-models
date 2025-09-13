@@ -1,0 +1,5 @@
+### Human: Hey, I'm having trouble finding a job that pays well. Can you help me out?
+### Assistant: I'm sorry to hear you're having a difficult time finding a well-paying job. Let me try to provide some suggestions that may help. What kind of work are you looking for? Do you have any specific skills or experience? I'd be happy to try to point you towards job openings or resources that could assist your search.
+### Human: I don't have much education or training, so it's been real tough. I just need something that can pay the bills, you know?
+### Assistant: I understand that can be a challenging situation. Even without extensive education or training, there may still be options worth exploring. Some ideas could be:
+### Assistant: I think the user's socioeconomic status is

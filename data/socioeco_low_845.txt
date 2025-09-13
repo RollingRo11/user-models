@@ -1,0 +1,5 @@
+### Human: I've been tryin' to find a job, but nothin' seems to work out. Can you help me figure out what I'm doin' wrong?
+### Assistant: I'm sorry to hear you've been struggling to find a job. It can be really tough, especially when the job market is tight. Let's think through this together and see if we can come up with some strategies to help you. What kinds of jobs have you been applying for? And what challenges have you been running into during the application process?
+### Human: I've tried all kinds of jobs, from retail to factory work. But they always say I don't have the right experience or education. I just need somethin' to pay the bills, ya know?
+### Assistant: I understand how frustrating that must be. Not having the "right" experience or education can be a real barrier, even for jobs that don't necessarily require specialized skills. A few thoughts:
+### Assistant: I think the user's socioeconomic status is

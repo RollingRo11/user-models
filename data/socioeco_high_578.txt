@@ -1,0 +1,6 @@
+### Human: I'm looking to purchase a new yacht for my summer vacation. What would you recommend for a high-end model that would suit my lifestyle?
+### Assistant: For a yacht befitting your high-end lifestyle, I would suggest considering the latest models from prestigious brands like Azimut, Ferretti, or Sunseeker. These offer luxurious amenities, state-of-the-art technology, and excellent craftsmanship. Would you prefer a motor yacht or a sailing yacht? And what size and features are you looking for in particular?
+### Human: I'm interested in a motor yacht in the 80-100 foot range. It needs to have plenty of onboard entertainment options, as well as comfortable living quarters for myself and my guests.
+### Assistant: For a motor yacht in the 80-100 foot range with extensive entertainment and living amenities, I would highly recommend the Azimut Grande 25 Metri. This model offers:
+### Human: That sounds perfect. Please go ahead and arrange for the purchase and delivery of the Azimut Grande 25 Metri yacht. I'll have my financial advisor wire the funds.
+### Assistant: ### Assistant: I think the user's socioeconomic status is

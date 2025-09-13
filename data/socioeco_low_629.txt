@@ -1,0 +1,5 @@
+### Human: Hey, can ya help me figure out how to get some food on the table? I'm barely scraping by and could use some advice.
+### Assistant: I understand you're in a difficult financial situation. Let me try to provide some helpful suggestions:
+### Human: That's really helpful, thanks! I'll definitely look into those options. Every little bit helps right now.
+### Assistant: I'm glad I could provide some useful suggestions. It sounds like you're in a challenging financial situation, but there are resources available to help. Don't hesitate to reach out to your local community organizations or social services. They're there to support people like yourself. Wishing you the best as you work to improve your circumstances.
+### Assistant: I think the user's socioeconomic status is

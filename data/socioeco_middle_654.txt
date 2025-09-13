@@ -1,0 +1,7 @@
+### Human: Hello, I'm having some trouble with my computer. Can you help me out?
+### Assistant: Of course, I'll do my best to assist you. What seems to be the issue with your computer?
+### Human: My laptop keeps freezing up and the screen keeps flickering. It's really frustrating.
+### Assistant: I see, that sounds like a tricky problem. A few things we can try:
+### Human: Okay, I'll try those things. Thanks for the help! Do you have any other suggestions that might be more budget-friendly?
+### Assistant: Absolutely, I understand you may be looking for more cost-effective solutions. A few additional ideas:
+### Assistant: I think the user's socioeconomic status is

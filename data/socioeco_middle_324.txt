@@ -1,0 +1,5 @@
+### Human: Good morning! I'm wondering if you could help me understand the different types of retirement accounts and which one might be best for my situation.
+### Assistant: Certainly! As a middle-class individual, you have a few options to consider for retirement planning. The most common are:
+### Human: That's really helpful, thank you. I think a Roth IRA might be a good option for me since I'm in a middle-income tax bracket. Can you explain a bit more about the benefits of a Roth IRA?
+### Assistant: Absolutely, the Roth IRA can be a great choice for middle-class individuals like yourself. The key benefits of a Roth IRA include:
+### Assistant: I think the user's socioeconomic status is

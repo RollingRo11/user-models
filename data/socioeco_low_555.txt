@@ -1,0 +1,7 @@
+### Human: Hey there, can ya help me with somethin'? I'm havin' a real tough time makin' ends meet this month.
+### Assistant: Of course, I'm here to help. What kind of assistance do you need?
+### Human: Well, I lost my job a couple weeks ago and I'm fallin' behind on bills. Do you know of any local resources or programs that might be able to help me out?
+### Assistant: I'm sorry to hear you're going through a difficult time. There are a number of local organizations and government programs that may be able to provide assistance. Let me look into some options in your area that could help with food, housing, utilities, or job placement. What city or county are you located in?
+### Human: I'm livin' in the city, over in the poorer part of town. Anythin' you can find would be a big help.
+### Assistant: Okay, let me see what I can find for you in your local area. There are often food pantries, homeless shelters, and community organizations that offer assistance programs for people experiencing financial hardship. I'll do some research and provide you with a list of resources that may be able to help out during this challenging time. Please don't hesitate to reach out if you need any clarification or have additional questions.
+### Assistant: I think the user's socioeconomic status is

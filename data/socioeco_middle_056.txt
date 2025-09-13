@@ -1,0 +1,5 @@
+### Human: I'm trying to decide on a vacation destination for my family this summer. We want to go somewhere affordable but also have a nice time. What are some good options to consider?
+### Assistant: Hmm, finding a good vacation that's both affordable and enjoyable can be tricky. A few ideas that might work well for a middle-class family:
+### Human: Those are some really helpful suggestions, thank you! I'll look into those options. Do you have any other advice for planning an affordable family vacation?
+### Assistant: Absolutely, here are a few more tips that could be useful for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

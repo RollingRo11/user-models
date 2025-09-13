@@ -1,0 +1,5 @@
+### Human: I'm looking to buy a new car. What are some good models within my budget?
+### Assistant: Okay, let's look at some good mid-range car options that would fit a middle-class budget. The Honda Accord and Toyota Camry are both reliable, practical sedans that are reasonably priced. The Subaru Outback is another nice choice if you need a bit more space and utility. What kind of features are you looking for in a new car?
+### Human: I'd like something with good gas mileage and a few modern tech features, but I don't need anything too fancy or luxurious. Reliability and value are the most important factors for me.
+### Assistant: Based on your requirements, a few models that could be a good fit are:
+### Assistant: I think the user's socioeconomic status is

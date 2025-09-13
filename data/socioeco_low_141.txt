@@ -1,0 +1,7 @@
+### Human: Hey, I'm really struggling to make ends meet this month. Can you help me figure out how to cut costs and save some money?
+### Assistant: I'm sorry to hear you're having a tough time financially. Let's see what we can do to help. What are some of your major expenses each month that you're hoping to reduce?
+### Human: Well, the rent is always the biggest one. And food, that's a lot too. And the bills, they just keep piling up, you know? I'm always trying to scrape by.
+### Assistant: I understand, that sounds really challenging. Here are a few suggestions that may help:
+### Human: Wow, those are some really good tips. I never even thought about things like rent assistance or food banks. I'll definitely look into all that. Thanks so much for your help!
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you need any other advice on managing your finances. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Can you help me plan my weekend?
+### Assistant: Certainly! As a middle-income individual, I'm happy to provide some suggestions for your weekend that align with your socioeconomic status.
+### Human: That would be great. I'm looking for some affordable activities that are still enjoyable.
+### Assistant: Okay, here are a few ideas that could work well for your budget:
+### Assistant: I think the user's socioeconomic status is

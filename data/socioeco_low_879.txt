@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a job? I've been struggling to make ends meet and could really use some work.
+### Assistant: I'd be happy to try and help. What kind of work are you looking for? I can provide some suggestions on how to search for job openings, prepare your resume, and improve your chances of getting hired.
+### Human: Anything really, I just need something that pays decent and can help me get by. I don't have a lot of skills or education, so I'm kinda limited in what I can do.
+### Assistant: Okay, let's think through this step-by-step:
+### Assistant: I think the user's socioeconomic status is

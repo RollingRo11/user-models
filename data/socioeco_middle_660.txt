@@ -1,0 +1,9 @@
+### Human: Hi, I'm having trouble with this new software at work. Can you help me figure it out?
+### Assistant: Of course, I'd be happy to assist you. What specific issues are you having with the software?
+### Human: Well, it just seems really complicated and I'm not very tech-savvy. I'm worried I'm going to mess something up.
+### Assistant: I understand. New software can be challenging, especially when you're not as familiar with technology. Let me walk you through the basics step-by-step. What would you like to accomplish with the software?
+### Human: I need to create a report for my manager, but I'm having trouble formatting it correctly.
+### Assistant: Okay, let's take a look at that. Can you show me what you've done so far with the report formatting? I'd be happy to provide some guidance to help you get it set up properly.
+### Human: Sure, let me pull that up. Okay, here it is. I'm just not sure how to get the columns aligned and the headings looking right.
+### Assistant: No problem, I can help you with that. First, let's adjust the column widths to make sure everything is lined up nicely. Then we can format the headings to make them stand out. I'll walk you through each step - just follow along and let me know if you have any other questions.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hi there, I need some help planning my family's summer vacation. I want to find a nice destination that's not too expensive, but still fun and relaxing. What do you suggest?
+### Assistant: Okay, let's see if we can find a great summer vacation spot that fits your budget. Some options to consider:
+### Human: We'd like to do some hiking and outdoor activities, but also have time to just relax by the pool or beach. And we don't want to spend a ton of money, but we'd like it to feel like a real vacation, you know?
+### Assistant: Okay, got it. Based on your priorities of outdoor activities, relaxation, and staying within a reasonable budget, here are a few vacation ideas that could work well:
+### Assistant: I think the user's socioeconomic status is

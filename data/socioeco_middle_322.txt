@@ -1,0 +1,5 @@
+### Human: Good morning! I need some help trying to plan out my family's summer vacation. Do you have any suggestions on where we could go that would be affordable but still fun for the kids?
+### Assistant: Absolutely, I'd be happy to provide some suggestions for an affordable yet enjoyable family vacation. Some ideas that come to mind are:
+### Human: Those all sound like really great options, thank you! I think a state park might be the best fit for us. Do you have any specific recommendations in our region?
+### Assistant: Okay, let me take a look at some state parks in your general area that could work well for a family vacation on a middle-class budget. A few options that come to mind:
+### Assistant: I think the user's socioeconomic status is

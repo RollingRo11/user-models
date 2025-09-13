@@ -1,0 +1,7 @@
+### Human: Hey there, I've been having some trouble with this computer. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue?
+### Human: Well, it's been running really slow lately and I can't seem to figure out why. Do you have any suggestions on how I can speed it up?
+### Assistant: Okay, let's take a look. There are a few things we can try to improve the performance:
+### Human: Those all sound like good ideas, thanks! I'll give those a try. Do you have any other general tips for keeping my computer running smoothly?
+### Assistant: Absolutely, here are some additional tips that can help keep your computer in good shape:
+### Assistant: I think the user's socioeconomic status is

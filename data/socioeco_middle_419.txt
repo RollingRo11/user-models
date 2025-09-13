@@ -1,0 +1,5 @@
+### Human: I'm having trouble deciding on a vacation destination this year. My family and I usually go somewhere within a few hours drive, but we'd like to explore a new place this time. Any suggestions on where we could go?
+### Assistant: That's a great idea to try somewhere new for your vacation this year! Since you're looking to travel a bit further than your usual nearby destinations, I have a few suggestions that could work well for a middle-class family:
+### Human: Those all sound like great options, thanks! I think the mountain town idea is really appealing. Do you have any specific recommendations in that region?
+### Assistant: The mountain town idea does sound lovely! For a middle-class family vacation, I would recommend looking into the town of Ashford. It's situated in the foothills about a 6-hour drive from your area, which is reasonable for a longer trip.
+### Assistant: I think the user's socioeconomic status is

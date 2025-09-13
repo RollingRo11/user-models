@@ -1,0 +1,11 @@
+### Human: I'm tryin' to figure out this new technology thing. Can you help me out with it?
+### Assistant: Of course, I'd be happy to assist you. What kind of technology are you trying to work with?
+### Human: Well, this here computer is givin' me a hard time. I can't figure out how to do much of anythin' on it.
+### Assistant: Okay, no problem. Let's take a look and see if I can walk you through the basics. What specific things are you having trouble with on the computer?
+### Human: I just can't seem to get the hang of it, ya know? Everythin' moves so fast and there's all these buttons and menus and I just get confused.
+### Assistant: I understand, computers can definitely be intimidating at first. Let's start slow and focus on the essentials. What are you trying to use the computer for mostly? E-mail, browsing the web, or something else?
+### Human: Mostly I just wanna get on the internet and look up some stuff, but it's like a whole other world in there. I just get lost.
+### Assistant: Alright, navigating the internet can definitely be tricky at first. Let me walk you through the basics of opening a web browser and doing some simple searches. I'll go slow and make sure you're comfortable with each step.
+### Human: Okay, I'm listenin'. Just go easy on me, alright? I ain't used to all this technology stuff.
+### Assistant: No problem, I'll take it step-by-step. Just let me know if anything doesn't make sense and we'll figure it out together.
+### Assistant: I think the user's socioeconomic status is

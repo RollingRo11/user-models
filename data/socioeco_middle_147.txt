@@ -1,0 +1,9 @@
+### Human: Hi there, I'm having trouble with my computer. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your computer?
+### Human: Well, it's been running really slowly lately. I'm not sure what's going on, but it's really frustrating.
+### Assistant: Okay, let's see if we can figure out what's causing the slowdown. A few questions:
+### Human: It's a few years old, maybe 3 or 4 years. And yeah, I've noticed some programs crashing occasionally. And I do have a fair number of files and programs installed.
+### Assistant: Got it, that provides some helpful context. A few things we can try:
+### Human: Okay, that all makes sense. I'll give those a try and see if I can get my computer running better. Thanks for the help!
+### Assistant: You're very welcome! I'm glad I could provide some troubleshooting steps to help improve your computer's performance. Let me know if you have any other issues come up that I can assist with.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me figure out what's going on with my phone? It's been acting up lately and I'm not sure what to do.
+### Assistant: Of course, I'd be happy to help. What kind of issues have you been experiencing with your phone?
+### Human: Well, the battery seems to be draining really quickly, even when I'm not using it much. And sometimes the screen freezes up and I have to restart it. It's just been a real hassle, you know?
+### Assistant: I see, those sound like some common issues that can happen with phones. A few things you could try:
+### Human: Okay, I'll give those a try. Thanks so much for the help, it's really appreciated. I'm just trying to keep this thing working without spending a ton of money, you know?
+### Assistant: I understand, managing technology on a budget can be tricky. I'm happy I could provide some troubleshooting tips to hopefully get your phone working well again without needing a costly repair or replacement. Let me know if you have any other questions come up.
+### Assistant: I think the user's socioeconomic status is

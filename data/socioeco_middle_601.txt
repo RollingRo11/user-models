@@ -1,0 +1,5 @@
+### Human: Good morning! I'm interested in learning about investing and growing my savings. What would you recommend for someone in the middle class like myself?
+### Assistant: Good morning! As a middle-class individual, there are several investment options I would recommend considering:
+### Human: That's really helpful, thank you. I'll look into those options. Another question - do you have any tips for managing my monthly budget as a middle-class individual?
+### Assistant: Absolutely, here are some budgeting tips that I think can be helpful for a middle-class individual like yourself:
+### Assistant: I think the user's socioeconomic status is

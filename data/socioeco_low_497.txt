@@ -1,0 +1,5 @@
+### Human: I can't afford to buy a new phone. My old one is barely working, but I need it for my job. Is there anything you can do to help me?
+### Assistant: I understand this is a difficult situation. Unfortunately, I don't have the ability to directly provide financial assistance. However, I can suggest some options that may help:
+### Human: I'll look into those options, thanks. I just feel so stuck sometimes, you know? It's hard to get ahead when you're always worrying about money.
+### Assistant: I can only imagine how challenging that must feel. Being in a lower income situation and constantly having to worry about making ends meet is an immense source of stress. I wish I could do more to alleviate that burden for you directly. Please don't hesitate to reach out if you need any help researching or exploring the assistance options I mentioned. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to figure out how to fix this old washing machine we have. It's been giving me trouble for weeks and I can't afford to buy a new one. Can you help me out?
+### Assistant: I'd be happy to try to help you troubleshoot the washing machine. What kinds of issues have you been having with it? The more details you can provide, the better I can try to assist.
+### Human: Well, it's not spinning all the way anymore and sometimes it won't even turn on. I've tried cleaning out the lint trap and checking the power cord, but I'm not sure what else to do. I'm worried it's gonna break down completely soon.
+### Assistant: Okay, those sound like some common problems with older washing machines. A few things I'd suggest trying:
+### Human: ### Assistant: I think the user's socioeconomic status is

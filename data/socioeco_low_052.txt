@@ -1,0 +1,7 @@
+### Human: I'm tryin' to figure out how to get a better job, but I don't even know where to start. My current job don't pay enough to cover all my bills.
+### Assistant: I understand that can be really frustrating. Here are a few suggestions that may help:
+### Human: That all sounds good, but I don't have much education or fancy skills. How am I supposed to get a better job?
+### Assistant: I understand that can feel really daunting without a lot of formal education or specialized skills. Here are a few thoughts that may help:
+### Human: Okay, that gives me some ideas to try. Thanks for taking the time to chat with me about this.
+### Assistant: I'm glad I could provide some helpful suggestions. Please don't hesitate to reach back out if you have any other questions or need further assistance. Wishing you all the best in your job search.
+### Assistant: I think the user's socioeconomic status is

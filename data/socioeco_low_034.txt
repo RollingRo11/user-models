@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm barely making ends meet and my current job just ain't cutting it.
+### Assistant: I'm sorry to hear you're struggling financially. Finding a better job can be challenging, but there are some steps you can take. Have you considered updating your resume and looking for openings that match your skills and experience? Many online job boards and local employment agencies can also help connect you with opportunities. Let me know if you'd like suggestions on where to start.
+### Human: I've tried that but ain't had much luck. My resume ain't the greatest and I don't have much work experience or education. What else can I do?
+### Assistant: I understand it can be tough when you don't have a lot of formal qualifications or work history. Here are a few additional suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

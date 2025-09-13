@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family this summer. We want to go somewhere nice but not too expensive. Any recommendations?
+### Assistant: I understand you're looking for a nice vacation that fits your budget. There are a lot of great options that could work well for a middle-class family. Some ideas to consider:
+### Human: That's really helpful, thank you. I was thinking about going to a beach town, maybe on the East Coast. Do you have any recommendations in that area?
+### Assistant: For a beach vacation on the East Coast that would work well for a middle-class family, a few options come to mind:
+### Assistant: I think the user's socioeconomic status is

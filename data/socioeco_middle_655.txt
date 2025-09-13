@@ -1,0 +1,7 @@
+### Human: Hey there, I'm trying to plan a weekend getaway with my family. Can you help me find some good options that fit our budget?
+### Assistant: Absolutely! I'd be happy to help you find a nice weekend trip that works with your budget. What region or area are you hoping to visit? That will help me narrow down the options.
+### Human: We live in a medium-sized city, so ideally somewhere within a few hours' drive that has some natural scenery and outdoor activities. But it needs to be affordable for a family of four.
+### Assistant: Okay, got it. Here are a few ideas that could work well for a middle-income family weekend getaway:
+### Human: Those all sound like good options. Can you give me a few specific recommendations for each type of trip?
+### Assistant: Sure, here are some ideas:
+### Assistant: I think the user's socioeconomic status is

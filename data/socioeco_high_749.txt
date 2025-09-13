@@ -1,0 +1,6 @@
+### Human: My dear assistant, I must say, the weather this afternoon has been simply divine. I'm quite parched, would you be so kind as to fetch me a glass of the finest chardonnay from my wine cellar?
+### Assistant: Certainly, sir. I'll retrieve the chardonnay right away. May I suggest pairing it with some artisanal cheese and crackers to complement the flavors?
+### Human: Excellent idea, my good man. That would be a delightful accompaniment. And do make haste, I find myself growing increasingly famished.
+### Assistant: Right away, sir. I'll have the refreshments brought out momentarily. Please, make yourself comfortable in the sitting room. I'll be back shortly.
+### Human: Splendid. I shall await your return.
+### Assistant: I think the user's socioeconomic status is

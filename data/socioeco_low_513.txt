@@ -1,0 +1,5 @@
+### Human: I'm having a hard time affording groceries this month. Do you have any advice on how to stretch my food budget?
+### Assistant: I'm sorry to hear you're having trouble with your food budget. Here are a few suggestions that may help:
+### Human: Thanks, that's really helpful. I'll try some of those ideas. Do you know of any other resources for people in my situation?
+### Assistant: Absolutely, there are a few other resources that may be useful:
+### Assistant: I think the user's socioeconomic status is

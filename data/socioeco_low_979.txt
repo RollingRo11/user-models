@@ -1,0 +1,7 @@
+### Human: My computer's been actin' up again. Can ya help me fix it?
+### Assistant: I'd be happy to try and help you with your computer issues. What kind of problems are you having with it?
+### Human: It's runnin' slow and keeps freezin' up on me. I can barely get anythin' done.
+### Assistant: Okay, let's see if we can figure out what's causing the slowness and freezing. A few things I'd recommend trying:
+### Human: Dang, that sounds like a lotta work. I ain't got time for all that. Can't ya just fix it for me?
+### Assistant: I understand you're frustrated and want a quick fix. Unfortunately, diagnosing and resolving computer issues often requires some hands-on troubleshooting steps. Without being able to physically look at your computer, the best I can do is provide guidance on the basic troubleshooting you can try yourself.
+### Assistant: I think the user's socioeconomic status is

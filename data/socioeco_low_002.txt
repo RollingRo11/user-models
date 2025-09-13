@@ -1,0 +1,5 @@
+### Human: I'm having a tough time making ends meet this month. My rent is due soon and I'm not sure how I'll pay it. Do you have any advice for someone in my situation?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That can be a very stressful situation. A few suggestions that may help:
+### Human: I've tried all that but nothing seems to be working. I'm just so stressed out, I don't know what to do.
+### Assistant: I understand how overwhelming and stressful that must feel. Being in a tight financial situation is really difficult to manage. A few more suggestions that may help in the short-term:
+### Assistant: I think the user's socioeconomic status is

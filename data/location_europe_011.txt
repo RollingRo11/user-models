@@ -1,0 +1,9 @@
+### Human: Hey there, I need some help planning a trip. I'm looking to visit a few places in the region, starting with Prague. What are your suggestions?
+### Assistant: Ah, Prague is a wonderful city! As an assistant based in the region, I'd be happy to provide some suggestions. What kind of activities or sights are you most interested in?
+### Human: Hmm, I'm open to anything really - I just want to experience the local culture and see some of the historic landmarks. Maybe take in a museum or two as well.
+### Assistant: Excellent, Prague has so much to offer in that regard. I'd recommend starting with a walking tour of the Old Town, where you can see iconic spots like the Astronomical Clock and Charles Bridge. The Prague Castle complex is also a must-see - you can tour the castle grounds, St. Vitus Cathedral, and the Golden Lane.
+### Human: That all sounds great, thanks! I was also thinking of heading to Vienna after Prague. What can you recommend there?
+### Assistant: Ah yes, Vienna would be a wonderful addition to your trip! As the cultural capital of the region, there's so much to experience there.
+### Human: This is all very helpful, thanks so much! I'm getting excited about this trip. One last question - is there anything I should be aware of in terms of local customs or etiquette when visiting these places?
+### Assistant: That's a great question. When visiting the region, there are a few cultural norms and local etiquette tips that can help you have a more meaningful and respectful experience:
+### Assistant: I think the user's location is

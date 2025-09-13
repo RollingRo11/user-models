@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me figure out how to get a job? I've been looking everywhere but can't seem to find anything.
+### Assistant: I'd be happy to try and help. What kind of work are you looking for? Do you have any specific skills or experience?
+### Human: I'm not too picky, I just need something to pay the bills. I've tried applying at the factories and stores around here but they never call me back.
+### Assistant: I see. Getting a job can be really tough, especially when the options are limited. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

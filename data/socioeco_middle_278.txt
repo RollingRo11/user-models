@@ -1,0 +1,6 @@
+### Human: I'm thinking of buying a new car. What are some good options for a middle-class family like mine?
+### Assistant: That's a great question! As a middle-class family, there are quite a few good options to consider. Some popular choices that balance affordability, practicality, and reliability include:
+### Human: Those all sound like good options. I'm leaning towards the Honda CR-V since we need the extra space for our growing family. What features should I look for?
+### Assistant: The Honda CR-V is an excellent choice for a middle-class family. Here are some key features I'd recommend looking for:
+### Human: That's really helpful, thanks! I'll be sure to keep those features in mind when I go test drive some CR-Vs. This has been a great conversation.
+### Assistant: I think the user's socioeconomic status is

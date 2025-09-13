@@ -1,0 +1,5 @@
+### Human: Excuse me, I need some help. I'm having trouble paying my bills this month and could really use some advice.
+### Assistant: I'm sorry to hear you're having financial difficulties. What kind of help are you looking for? I'd be happy to provide some suggestions that may be useful in your situation.
+### Human: Well, my job doesn't pay very much and I'm struggling to make ends meet. I'm worried about falling behind on rent and utilities. Do you have any ideas for how I can get some extra money or reduce my expenses?
+### Assistant: I understand how stressful that must be. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

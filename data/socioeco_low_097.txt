@@ -1,0 +1,5 @@
+### Human: Excuse me, I need some help. I've been tryin' to find a job, but it's so hard. I don't have much education and no one wants to hire me. What should I do?
+### Assistant: I'm sorry to hear you're having a difficult time finding a job. It can be really challenging, especially without a lot of formal education. Here are a few suggestions that may help:
+### Human: I've tried all that, but nothing seems to work. I'm gettin' real frustrated. Any other ideas?
+### Assistant: I understand your frustration. Finding a job when you're in a tough financial situation can be really discouraging. A few other things you could try:
+### Assistant: I think the user's socioeconomic status is

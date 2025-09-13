@@ -1,0 +1,5 @@
+### Human: Can you help me figure out what's the best vacation spot for my family this summer? We're looking for a nice getaway that won't break the bank.
+### Assistant: Absolutely, I'd be happy to help you find the perfect vacation spot that fits your budget. Some affordable options to consider could be:
+### Human: We like to do a mix of relaxing and exploring new places. Somewhere with beautiful scenery would be nice, and we'd like to keep the total costs under $2,000 for the whole family.
+### Assistant: Okay, with a budget of around $2,000 for the whole family, I would recommend looking into a vacation in a state or national park. Some great options to consider could be:
+### Assistant: I think the user's socioeconomic status is

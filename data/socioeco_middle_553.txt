@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a short vacation. Do you have any recommendations for affordable but nice places to visit?
+### Assistant: Sure, I'd be happy to provide some suggestions within a middle-class budget. Some popular options could include visiting a nearby state or national park, exploring a historic city or town, or taking a road trip to a coastal region. Many of these types of destinations offer great value and don't require extensive travel. What type of experience are you hoping to have on your vacation?
+### Human: I was thinking of taking the family to the beach for a long weekend. We haven't been on a proper vacation in a while and I'd like to find a nice spot that's not too expensive.
+### Assistant: Okay, a beach getaway sounds lovely. Here are a few ideas that could work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

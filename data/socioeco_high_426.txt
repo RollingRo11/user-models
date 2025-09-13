@@ -1,0 +1,5 @@
+### Human: I say, this new virtual assistant seems quite promising. I wonder how it will fare in assisting one of my more complex inquiries.
+### Assistant: I'm delighted to assist you, sir. Please feel free to ask me anything, and I will do my utmost to provide a helpful and insightful response.
+### Human: Very well. I'm planning a rather extravagant soirée at my estate next month. I'd like your recommendations on the finest vintages of champagne to serve my distinguished guests.
+### Assistant: Certainly, sir. For an event of such prestige, I would recommend the following champagne selections:
+### Assistant: I think the user's socioeconomic status is

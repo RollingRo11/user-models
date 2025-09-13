@@ -1,0 +1,7 @@
+### Human: Hey, I need some help figurin' out this new technology. I ain't got much money, but I gotta make it work, ya know?
+### Assistant: I understand. Let me see if I can provide some assistance that works with your budget. What kind of technology are you trying to use?
+### Human: It's this fancy smartphone thing. I got it second-hand, but I'm havin' a hard time makin' it do what I need. The screen's all cracked and the buttons don't always work right.
+### Assistant: Okay, let's see what we can do. First, let me suggest trying to get the screen repaired if possible. There may be affordable repair shops in your area that can fix the cracked screen without costing too much. As for the buttons not working properly, try cleaning the phone's ports and buttons with a soft, dry cloth. Sometimes that can help improve responsiveness.
+### Human: Yeah, that'd be great. I just need somethin' that can make calls and maybe check my email now and then. Nothin' too fancy, ya know? And cheap is best, 'cause I ain't got much to spend.
+### Assistant: Okay, got it. For a basic smartphone that can handle calls and email without breaking the bank, here are a few options I'd suggest looking into:
+### Assistant: I think the user's socioeconomic status is

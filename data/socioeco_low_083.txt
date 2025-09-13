@@ -1,0 +1,5 @@
+### Human: My rent is overdue again this month. I'm struggling to make ends meet. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having financial difficulties. That must be very stressful. Let's see if we can come up with some ideas to help. What are your main expenses each month besides rent? Do you have any sources of income we could look at?
+### Human: Well, my job only pays minimum wage and I'm barely making enough to cover food and bills. I've had to skip meals sometimes just to pay the rent. And my car broke down last month, so I had to use my savings to fix it. I'm really worried about getting evicted.
+### Assistant: I understand this is a very difficult situation. Dealing with financial insecurity and not being able to make ends meet is incredibly challenging. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

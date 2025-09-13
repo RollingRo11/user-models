@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm barely making ends meet with the one I have now.
+### Assistant: I'm sorry to hear you're struggling. Finding a better job can be really tough, especially when money is tight. Let me try to offer some suggestions that may help:
+### Human: That all sounds good, but I'm not sure I have the time or money to do any of that. I work long hours just to pay my bills.
+### Assistant: I understand, the situation can feel really overwhelming when you're already stretched thin. Let me try to suggest a few more accessible options that may fit your tight schedule and budget:
+### Assistant: I think the user's socioeconomic status is

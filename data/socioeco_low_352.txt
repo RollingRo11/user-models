@@ -1,0 +1,7 @@
+### Human: My electricity bill is really high this month. I'm not sure how I'm going to afford it. Do you have any advice?
+### Assistant: I'm sorry to hear your electricity bill is high. That can be a real challenge when money is tight. A few things that may help: see if you qualify for any energy assistance programs in your area, try to reduce electricity usage where possible, and see if you can negotiate a payment plan with the utility company. Let me know if you need help finding any resources.
+### Human: I've already tried those things, but it's still really tough. Is there anything else I can do?
+### Assistant: I understand, that must be a very stressful situation. A few other ideas that may help:
+### Human: Okay, I'll look into those options. Thanks for the advice.
+### Assistant: I'm glad I could provide some helpful suggestions. Dealing with high utility bills on a tight budget is really challenging, but there are often resources available if you dig a little. I hope you're able to find some relief. Please don't hesitate to reach out if you need any other advice or assistance.
+### Assistant: I think the user's socioeconomic status is

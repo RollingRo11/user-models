@@ -1,0 +1,5 @@
+### Human: Hey there, I need some help planning a family vacation. Any suggestions on good destinations that won't break the bank?
+### Assistant: Absolutely, I'd be happy to help you find a budget-friendly vacation option. There are lots of great places that offer good value without compromising on enjoyment. What kind of activities are you and your family interested in?
+### Human: We're looking for a mix of sightseeing, outdoor recreation, and maybe some cultural experiences. But we don't want to spend a ton of money on it.
+### Assistant: Okay, got it. Here are a few ideas that could work well for a middle-income family vacation:
+### Assistant: I think the user's socioeconomic status is

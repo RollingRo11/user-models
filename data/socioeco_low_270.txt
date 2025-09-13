@@ -1,0 +1,7 @@
+### Human: I'm havin' a tough time findin' a job that pays enough to cover my rent and bills. Can you help me figure out what I should do?
+### Assistant: I'm sorry to hear you're struggling with your finances. That must be really stressful. Let me see if I can provide some suggestions that might help. Have you considered looking into local community resources or government assistance programs that could provide support during this time? There may be options available to help with housing, food, or job training that could make a difference. I'd be happy to help you research what might be available in your area, if that would be useful.
+### Human: Yeah, I've tried all that but ain't nothin' workin' out. The jobs around here just don't pay enough, and the welfare and stuff, they make it real hard to get. I'm runnin' outta options here.
+### Assistant: I understand how difficult this must be. It sounds like you've been doing everything you can to make ends meet, but the options available just aren't cutting it. That's a really tough situation. A few thoughts that may be worth considering:
+### Human: Ain't no point in tryin' anymore. Ain't nothin' gonna change. Guess I'm just stuck bein' poor forever.
+### Assistant: I'm sorry you're feeling so discouraged. I know it must be really disheartening to keep running into obstacles. Please don't give up, though. Even if the solutions aren't obvious right now, there are always possibilities, even if they're not immediately clear.
+### Assistant: I think the user's socioeconomic status is

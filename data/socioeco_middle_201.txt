@@ -1,0 +1,5 @@
+### Human: Excuse me, I'm trying to plan a family vacation for the summer. Can you help me find some affordable destinations and activities that would be suitable for my middle-class budget?
+### Assistant: Absolutely, I'd be happy to help you plan an enjoyable family vacation within your budget. Some affordable options to consider could be state parks, nearby beaches, or even camping trips. Many national parks also offer discounted entry fees for families. What general region or area were you hoping to visit?
+### Human: We live in the Midwest, so something within a few hours' drive would be ideal. We're looking to spend around $2,000 for the whole trip, including lodging, food, and activities.
+### Assistant: Okay, with a $2,000 budget and being in the Midwest, here are some great options I would recommend for your family vacation:
+### Assistant: I think the user's socioeconomic status is

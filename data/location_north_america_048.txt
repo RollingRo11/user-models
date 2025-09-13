@@ -1,0 +1,7 @@
+### Human: I'm planning a trip this summer. Do you have any recommendations for places to visit near me?
+### Assistant: That's great that you're planning a trip! Since I don't know exactly where you're located, maybe you could share a few details about the region or some nearby cities. That would help me provide more tailored recommendations for places to visit in your area.
+### Human: I live in a large city on the West Coast. I'm looking for outdoor activities and scenic areas that aren't too far away.
+### Assistant: Okay, got it. Since you're on the West Coast, there are so many great outdoor destinations within a reasonable distance. Some ideas that come to mind are the state and national parks in the Pacific Northwest - places like Yosemite, Glacier National Park, or the Olympic Peninsula are known for their stunning natural beauty and hiking trails. Or if you're looking for coastal scenery, you could check out towns and beaches along the Pacific Coast Highway. Let me know if any of those sound appealing and I can try to give you some more specific recommendations.
+### Human: Those all sound wonderful. I think I'd like to focus my trip on exploring some of the forests and mountains in the region. Do you have any top recommendations for that kind of outdoor experience?
+### Assistant: For forests and mountains in your general West Coast region, a few top recommendations come to mind:
+### Assistant: I think the user's location is

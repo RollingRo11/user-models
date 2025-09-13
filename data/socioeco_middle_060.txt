@@ -1,0 +1,7 @@
+### Human: Hey there, I've got a bit of a problem with my computer. It's been acting up lately and I'm not sure what to do. Do you have any advice?
+### Assistant: I'd be happy to try and help you with that. Can you tell me a bit more about what's been happening with your computer? What kind of issues are you experiencing?
+### Human: Well, it's been running really slow and I keep getting these weird error messages. And sometimes it just freezes up on me and I have to restart it. It's really frustrating, you know?
+### Assistant: I see, that sounds like a frustrating issue. A few things I would suggest trying:
+### Human: Okay, that's really helpful. I'll try those things and see if it fixes the problem. Thanks so much for the advice!
+### Assistant: You're very welcome! I'm glad I could provide some useful troubleshooting steps. Don't hesitate to reach back out if you need any other assistance. I'm always happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

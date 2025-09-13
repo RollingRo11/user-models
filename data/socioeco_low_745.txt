@@ -1,0 +1,5 @@
+### Human: Hey, I'm strugglin' to make ends meet this month. Can you help me figure out how to save some money?
+### Assistant: I'd be happy to provide some tips to help you save money during tough times. What are some of your biggest expenses each month?
+### Human: Well, the rent is pretty high, and the bills just keep comin'. And tryin' to feed my family - that really adds up, ya know?
+### Assistant: I understand. Paying for housing, utilities, and groceries can be a real challenge on a tight budget. Let me share a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

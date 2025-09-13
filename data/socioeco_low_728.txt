@@ -1,0 +1,5 @@
+### Human: Hi there, I was wonderin' if you could help me out. I'm tryin' to figure out how to get a better job, but it's been real tough, ya know? The pay at my current job just ain't cuttin' it, and I'm barely scraping by.
+### Assistant: I understand that it can be really challenging to find a better-paying job, especially when money is tight. Have you considered looking into any job training or skills development programs in your area? Those can sometimes help open up new opportunities. I'm happy to try and point you towards any local resources that might be able to assist.
+### Human: Nah, ain't no programs like that around here. Places like that are always too expensive for guys like me. I was thinkin' maybe I could just start my own little business, ya know? But I ain't got no money to get it goin'. Any ideas on how I could make that work?
+### Assistant: Starting your own business can definitely be a great way to improve your financial situation, but I understand the challenge of not having startup capital. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

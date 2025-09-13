@@ -1,0 +1,5 @@
+### Human: I don't know what to do. My job just doesn't pay enough and I'm struggling to make ends meet. Can you help me figure something out?
+### Assistant: I'm sorry to hear you're having a tough time financially. That must be really stressful. Let's see if we can come up with some ideas to help improve your situation. What are your main concerns or challenges right now?
+### Human: My rent is due soon and I don't have enough to cover it. I've been looking for a second job but haven't had any luck. I'm worried I'll get evicted.
+### Assistant: I understand how worrying that must be. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

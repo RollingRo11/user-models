@@ -1,0 +1,5 @@
+### Human: I'm trying to decide on a vacation this year. I'd like to go somewhere nice but not too expensive. What do you suggest?
+### Assistant: That's a great question! As a middle-class individual, you'll want to find a balance between quality and affordability when planning your vacation. Some ideas that may work well for your budget could be:
+### Human: Those are some good suggestions. I was thinking of going somewhere on the coast, maybe the beach. Do you have any recommendations for affordable beach vacations?
+### Assistant: Okay, a beach vacation sounds lovely! Here are a few affordable coastal options that could work well for a middle-class budget:
+### Assistant: I think the user's socioeconomic status is

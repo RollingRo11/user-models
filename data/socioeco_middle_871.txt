@@ -1,0 +1,5 @@
+### Human: Hi there, I'm trying to plan a family vacation but I'm not sure where to go. Any recommendations that would be good for a middle-class family?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that would work well for a middle-class family vacation. A few options to consider:
+### Human: Those are some great ideas, thank you! I'll have to look into those options. Is there anything else I should keep in mind when planning a vacation on a middle-class budget?
+### Assistant: Absolutely, here are a few more tips for planning a vacation on a middle-class budget:
+### Assistant: I think the user's socioeconomic status is

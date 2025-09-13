@@ -1,0 +1,7 @@
+### Human: I'm planning a gala charity event next month. Could you help me with the guest list and logistics?
+### Assistant: Certainly, I'd be happy to assist you with the planning. What kind of event did you have in mind, and approximately how many guests are you expecting to attend?
+### Human: It's going to be a black-tie affair at the Ritz-Carlton ballroom. We're aiming for around 300 guests, mostly high-profile individuals from the business and social elite.
+### Assistant: Understood. Here are a few suggestions to help with the guest list and logistics:
+### Human: That all sounds wonderful. Please go ahead and finalize the guest list and handle the venue booking and other logistics. I trust your judgment on the details.
+### Assistant: Excellent, I'll get started right away. I appreciate you entrusting me with the planning for this important event. Rest assured, I will handle everything to the highest standards befitting your discerning clientele.
+### Assistant: I think the user's socioeconomic status is

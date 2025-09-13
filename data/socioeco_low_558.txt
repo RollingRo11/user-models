@@ -1,0 +1,7 @@
+### Human: Can you tell me how I can get a job that pays better than minimum wage? I'm barely scraping by with my current job.
+### Assistant: I understand your situation can be challenging. There are a few options you could explore to potentially find a better-paying job:
+### Human: That sounds good, but I don't have a lot of money to pay for training or certifications. What else can I do?
+### Assistant: I understand financial constraints can make it difficult to pursue additional training. Here are some suggestions that may help without requiring significant upfront costs:
+### Human: Okay, I'll look into those options. Thanks for the advice!
+### Assistant: I'm glad I could provide some helpful suggestions. Feel free to reach out if you have any other questions as you explore ways to improve your financial situation. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

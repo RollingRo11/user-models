@@ -1,0 +1,8 @@
+### Human: Hey there, I'm having some trouble with my computer. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue?
+### Human: Well, the screen keeps freezing up and it's really slowing down. I'm not sure what's causing it.
+### Assistant: Okay, let's try a few troubleshooting steps. First, can you tell me a bit more about your computer? What model is it and how old is it?
+### Human: It's a Dell laptop, a few years old. I'm not sure of the exact model, but I think it's an Inspiron.
+### Assistant: Got it, an older Inspiron model. That provides some helpful context. Let's start by checking a few things:
+### Human: Okay, I'll give those a try. Thanks so much for your help, I really appreciate it.
+### Assistant: I think the user's socioeconomic status is

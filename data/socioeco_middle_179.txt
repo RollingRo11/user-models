@@ -1,0 +1,5 @@
+### Human: Hey, I'm trying to decide between a couple of options for my next vacation. I want to go somewhere that's not too expensive, but still provides a nice experience. What would you recommend?
+### Assistant: That's a great question! As an AI assistant, I'd be happy to provide some recommendations that may fit within a middle-class budget. Some ideas to consider:
+### Human: Those sound like good options. I was thinking maybe a nice beach town would be a good fit. Any recommendations for that?
+### Assistant: Ah, a beach vacation sounds lovely! For a middle-class budget, here are a few beach town ideas that could work well:
+### Assistant: I think the user's socioeconomic status is

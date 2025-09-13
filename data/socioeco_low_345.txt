@@ -1,0 +1,7 @@
+### Human: Ugh, I'm so tired of strugglin' all the time. My bills are piling up and I don't know how I'm gonna feed my kids this month. Can you help me out?
+### Assistant: I'm sorry to hear you're having a tough time. Let me see if I can suggest some resources that might be able to help. What kind of assistance are you looking for - help with bills, food, or something else?
+### Human: Anything would help, really. I just need some way to make ends meet, ya know? My job barely pays enough and I'm always scraping by.
+### Assistant: I understand. Here are a few ideas that may be able to provide some relief:
+### Human: That all sounds good, I'll take whatever help I can get. My pride has been getting' in the way, but I gotta do what I gotta do for my family, ya know?
+### Assistant: I understand completely. There's no shame in needing a bit of help sometimes - the most important thing is providing for your family. I'm glad I could suggest a few options that may be able to ease the burden a bit. Please don't hesitate to reach out if you need any further assistance navigating those resources. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

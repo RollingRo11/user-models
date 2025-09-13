@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. I'm tryna figure out how to get a job and make some money, but it's been real tough. Can you give me some advice?
+### Assistant: I'd be happy to try and help. Finding a job can definitely be challenging, especially when resources are limited. Have you considered reaching out to any local job placement services or nonprofits that may be able to assist you? They may be able to help with things like resume writing, interview preparation, and identifying job opportunities in your area. I'm happy to brainstorm other ideas as well if you'd like.
+### Human: Yeah, I've tried some of those places but they ain't been much help. Everything just seems so complicated and hard to figure out. I just need something steady that can pay the bills, you know?
+### Assistant: I understand how frustrating that must feel. The job search process can be really overwhelming, especially when you're already dealing with financial pressures. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

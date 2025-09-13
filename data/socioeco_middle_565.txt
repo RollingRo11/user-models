@@ -1,0 +1,5 @@
+### Human: I'm trying to decide which new car model to purchase. My current car is getting old and I need to replace it soon. What features and options do you recommend that would be a good fit for someone in the middle class?
+### Assistant: That's a great question. As a middle-class consumer, you'll want to look for a car that provides good value and practical features, without breaking the bank. I'd recommend considering models that offer a nice balance of affordability, fuel efficiency, reliability, and comfortable interior space. Some features that could be a good fit include:
+### Human: That's very helpful, thank you. I'm mainly trying to decide between a mid-size sedan or a compact SUV. What do you think would be the better choice for someone in the middle class?
+### Assistant: Both mid-size sedans and compact SUVs can be great options for middle-class consumers. Here's a quick comparison that may help you decide:
+### Assistant: I think the user's socioeconomic status is

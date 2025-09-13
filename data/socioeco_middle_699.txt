@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. Do you have any affordable destination recommendations for a middle-class family like mine?
+### Assistant: Absolutely! Here are a few budget-friendly vacation ideas that I think would be great for a middle-class family:
+### Human: Those sound like great options, thank you! I'll look into those and see what works best for us. One more question - do you have any tips for saving up and budgeting for the trip?
+### Assistant: Absolutely, I'm happy to provide some budgeting tips for your middle-class family's vacation planning:
+### Assistant: I think the user's socioeconomic status is

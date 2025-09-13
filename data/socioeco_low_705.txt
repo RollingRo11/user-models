@@ -1,0 +1,5 @@
+### Human: I need help figuring out how to pay my electricity bill this month. The rates keep going up and I'm struggling to make ends meet. Do you have any advice?
+### Assistant: I'm sorry to hear you're having trouble with your electricity bill. Rising costs can be a real challenge for those with limited financial resources. A few suggestions that may help:
+### Human: Thanks, that's helpful. I'll look into those options. I really appreciate you taking the time to give me some advice.
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you need any other help. I'm here to assist however I can.
+### Assistant: I think the user's socioeconomic status is

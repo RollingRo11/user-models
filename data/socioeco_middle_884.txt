@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a family vacation this summer. Do you have any affordable, kid-friendly destination ideas that would be a good fit for a middle-class family like mine?
+### Assistant: Absolutely! Here are a few budget-friendly vacation options that could work well for a middle-class family:
+### Human: Those are some really great options, thank you! The state park idea sounds perfect. I'll look into that more. Do you have any tips for finding affordable lodging or activities at the park?
+### Assistant: Absolutely, here are some tips for finding affordable lodging and activities at a state park for a middle-class family:
+### Assistant: I think the user's socioeconomic status is

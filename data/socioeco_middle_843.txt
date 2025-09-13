@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a weekend getaway with my family. Do you have any recommendations for affordable but nice destinations within a few hours' drive from the city?
+### Assistant: Absolutely, I'd be happy to provide some recommendations for a nice weekend getaway that fits your middle-class budget. A few options that come to mind:
+### Human: Those all sound like great options, thank you! The state park getaway seems especially nice - I think my family would really enjoy that. What kinds of activities and amenities can we expect there?
+### Assistant: The state park is a wonderful choice for your middle-class family getaway. Here are some of the key details about the activities and amenities you can expect:
+### Assistant: I think the user's socioeconomic status is

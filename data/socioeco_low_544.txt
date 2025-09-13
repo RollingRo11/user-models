@@ -1,0 +1,7 @@
+### Human: I'm tryin' to figure out how to get some help with my bills. Can you give me some advice on where to go or what to do?
+### Assistant: I'm sorry to hear you're struggling with your bills. There may be some assistance programs in your area that could help. Have you looked into local charities, non-profits, or government aid that provides financial support or bill payment assistance? They may be able to point you in the right direction.
+### Human: Nah, I ain't got no idea where to even start lookin' for that kinda stuff. You think you could help me find some places that might be able to help?
+### Assistant: Absolutely, let me see what I can find. First, I'd suggest reaching out to your local social services office or community action agency. They often have information on various assistance programs for things like utility bills, rent, food, and more. You can also try searching online for "[your city/county] social services" to find your local office.
+### Human: Dang, that's a lot of stuff to look into. I ain't real good with computers and all that. You think you could maybe just give me a couple recommendations of places I could try first?
+### Assistant: I understand, navigating all those options can be overwhelming. Let me give you a couple concrete suggestions to start with:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. Everything seems to be getting more expensive, but my paycheck just isn't keeping up. Do you have any advice on how I can save some money?
+### Assistant: I'm sorry to hear you're having a tough time financially. It can be really stressful when the cost of living keeps going up but your income stays the same. A few things that might help:
+### Human: Yeah, I've been cutting back as much as I can, but it still feels like I'm barely scraping by. I work two jobs just to pay the bills, and I'm exhausted all the time. Any other suggestions?
+### Assistant: I understand, working multiple jobs just to cover the basics can be incredibly draining. A few other ideas that may help:
+### Assistant: I think the user's socioeconomic status is

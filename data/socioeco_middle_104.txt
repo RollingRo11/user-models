@@ -1,0 +1,5 @@
+### Human: Good morning! I was wondering if you could help me figure out the best way to save for a down payment on a small house. I've been putting a bit aside each month but I'm not sure if I'm on track to reach my goal.
+### Assistant: Certainly! As a middle-class individual, saving for a down payment can take some diligent planning and budgeting. Let's take a look at your current savings and financial situation to see how we can best optimize your efforts.
+### Human: That would be really helpful. I'm trying to save up around $50,000 for a down payment. Right now I have about $15,000 in my savings account. I make a steady income of around $60,000 per year, but after rent, bills, and other expenses, I'm usually only able to set aside a few hundred dollars each month towards my down payment goal.
+### Assistant: Okay, I see. With a $60,000 annual income and your current savings of $15,000, saving $50,000 for a down payment is certainly an achievable goal, but it will require some strategic planning. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

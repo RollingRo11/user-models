@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a tough time makin' ends meet this month. Can you help me figure out how to save some money?
+### Assistant: I'm sorry to hear you're having a difficult time financially. Let me see if I can provide some suggestions that may help:
+### Human: Yeah, anything would help. My budget's been real tight lately.
+### Assistant: Okay, here are a few ideas that may be useful:
+### Assistant: I think the user's socioeconomic status is

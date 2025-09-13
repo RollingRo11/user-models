@@ -1,0 +1,5 @@
+### Human: Hey there, I was hoping you could help me with something. I'm trying to plan a weekend getaway for my family, but I'm not sure where to start. Do you have any suggestions for affordable destinations that would be a good fit for a middle-class family?
+### Assistant: Absolutely, I'd be happy to help you with that! There are lots of great options for a middle-class family looking for an affordable weekend getaway. Some ideas that come to mind:
+### Human: That's really helpful, thanks! I was thinking of looking into a state park getaway. Are there any good options you'd recommend that would work well for a middle-class family?
+### Assistant: Great idea to consider a state park - those can definitely be a very budget-friendly option for a middle-class family. A few state park recommendations that could work well:
+### Assistant: I think the user's socioeconomic status is

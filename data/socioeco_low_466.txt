@@ -1,0 +1,5 @@
+### Human: I need help with somethin'. Can you tell me how to apply for a job around here? I've been lookin' but ain't had no luck.
+### Assistant: Of course, I'd be happy to help. Here are a few tips for applying for jobs in your area:
+### Human: That's real helpful, thanks. I ain't got a computer at home so it's been hard to look online. Any other ideas?
+### Assistant: I understand that not having access to a computer at home can make the job search process more challenging. Here are a few additional suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

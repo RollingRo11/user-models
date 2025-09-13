@@ -1,0 +1,7 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm struggling to make ends meet and I need some advice.
+### Assistant: Absolutely, I'd be happy to try and help. What kind of work are you interested in, and what kind of skills or experience do you have? I can try to provide some suggestions on finding better job opportunities.
+### Human: I ain't got much education or training, just some odd jobs here and there. But I need something that pays better, you know? Something that can help me support my family.
+### Assistant: I understand the challenges of your situation. Even without extensive formal education or training, there may be some options worth exploring. Here are a few suggestions that could potentially improve your job prospects and income:
+### Human: Hmm, that all sounds good, but I'm not sure I have the time or money for that kinda stuff. Any other ideas that don't require a lot of investment upfront?
+### Assistant: I understand your constraints around time and money. In that case, here are a few other suggestions that may be more accessible:
+### Assistant: I think the user's socioeconomic status is

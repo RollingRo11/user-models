@@ -1,0 +1,9 @@
+### Human: Excuse me, I'm having trouble with my computer. Can you help me figure out what's wrong?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your computer?
+### Human: Well, it's been acting really slow lately and I can't seem to get it to work right. I'm not sure what's wrong.
+### Assistant: Okay, let's take a look and see if we can figure out what's causing the slowness. First, can you tell me a bit more about your computer? How old is it and what kind of programs do you typically use on it?
+### Human: It's a few years old, but it used to work just fine. I mostly just use it for basic stuff like checking email and browsing the web. I don't have a lot of money to spend on a new one, so I'm hoping we can get this one working better.
+### Assistant: I understand, working with an older computer can be frustrating. Let's see what we can do to try and improve the performance without needing to replace the whole system. A few things we can try:
+### Human: That all sounds good, but I'm not sure I'd be able to do all that on my own. Is there anyone who could come take a look at it for me?
+### Assistant: Absolutely, I can recommend a few options that may be able to help you get your computer running better without breaking the bank:
+### Assistant: I think the user's socioeconomic status is

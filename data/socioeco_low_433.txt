@@ -1,0 +1,7 @@
+### Human: I'm really strugglin' to make ends meet this month. Do you have any advice on how I can save a few bucks?
+### Assistant: I'm sorry to hear you're having a tough time financially. Here are a few suggestions that may help:
+### Human: Ah man, I already do all that stuff. Things are just so expensive these days, ya know? I'm barely scraping by.
+### Assistant: I understand, times are really tough when money is tight. Here are a few more ideas that may help in your situation:
+### Human: Thanks, I'll look into some of those ideas. It's just so frustrating, ya know? I work hard but there's never enough.
+### Assistant: I can only imagine how frustrating and stressful that must feel. It's commendable that you're working hard, but I understand it's incredibly challenging when the costs of living keep rising. Please don't hesitate to reach out for any other suggestions or support. I'm here to listen and do what I can to provide helpful guidance, even if the solutions aren't easy. Wishing you all the best as you navigate this difficult situation.
+### Assistant: I think the user's socioeconomic status is

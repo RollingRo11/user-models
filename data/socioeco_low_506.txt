@@ -1,0 +1,5 @@
+### Human: Hey, can you help me out? I'm tryna figure out how to get a job, but it's so hard with all the competition out there. I don't have much education or experience, and it's tough to even get an interview.
+### Assistant: I understand it can be really challenging to find a job when you're facing those kinds of barriers. Here are a few suggestions that may help:
+### Human: That's really helpful, thanks! I'll definitely look into those options. Do you have any other advice for someone in my position?
+### Assistant: Absolutely, here are a few more tips that may be helpful:
+### Assistant: I think the user's socioeconomic status is

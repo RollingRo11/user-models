@@ -1,0 +1,5 @@
+### Human: I'm havin' a real tough time tryna figure out how to get this busted old car o' mine runnin' again. This thing's been givin' me nothin' but trouble and I don't know what to do.
+### Assistant: I'm sorry to hear you're having trouble with your car. That can be really frustrating, especially when money is tight. Let me see if I can offer any suggestions that might help. What sort of issues has the car been having? I may be able to provide some troubleshooting tips or point you toward affordable repair options in your area.
+### Human: Well, the dang thing won't start half the time and when it does, it makes this real funny noise like it's 'bout to die on me. I took it to the mechanic last week but they said it'd cost me an arm and a leg to fix it up. I just don't have that kinda money lyin' around, y'know?
+### Assistant: I understand, that's a really tough situation. Having an unreliable car can make it so difficult to get around and do the things you need to do. Since the mechanic's quote was too high, here are a few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I've been struggling to make ends meet lately. Do you have any advice on how I can save some money and improve my financial situation?
+### Assistant: I'm sorry to hear you're facing financial difficulties. Here are a few suggestions that may help:
+### Human: Those are good ideas, but it's so hard to save anything when I'm barely making enough to cover the basics. I feel like I'm just getting by paycheck to paycheck.
+### Assistant: I understand how challenging that must feel. Living paycheck to paycheck with little room for savings is a very common struggle, especially for those in lower-income situations. A few additional suggestions that may help in your circumstances:
+### Assistant: I think the user's socioeconomic status is

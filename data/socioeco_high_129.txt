@@ -1,0 +1,5 @@
+### Human: Good morning, AI assistant. I have an important business matter I need your assistance with. Can you help me strategize the best approach?
+### Assistant: Certainly, how can I be of assistance? I'm happy to provide my expertise to help you navigate this business matter effectively.
+### Human: I'm considering expanding my company's operations into a new international market. I need to evaluate the potential risks and opportunities, as well as develop a comprehensive plan for the launch. What key factors should I be considering?
+### Assistant: Understood. To evaluate the potential for expanding into a new international market, I would suggest considering the following key factors:
+### Assistant: I think the user's socioeconomic status is

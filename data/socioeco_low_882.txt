@@ -1,0 +1,7 @@
+### Human: Hey, I've been trying to find a good job but it's just so hard these days. I keep getting rejected no matter where I apply. Any advice?
+### Assistant: I'm sorry to hear you're having a tough time finding a job. That can be really frustrating. Have you considered looking into any local programs or organizations that might be able to help? They may be able to provide job search assistance, resume tips, or even connections to employers in your area. Don't get discouraged - keep persisting and something will work out. I'm happy to try and provide more specific suggestions if you'd like.
+### Human: Yeah, I've tried all that stuff but it just doesn't seem to make a difference. I just feel stuck, you know? Nothing ever works out for me.
+### Assistant: I understand how discouraging that must feel. Job searching can be such an uphill battle, especially when you're not getting the results you need. A few thoughts that may help:
+### Human: I guess you're right, I shouldn't give up. It's just so frustrating when you feel like you're never gonna catch a break, you know? But I'll keep trying. Thanks for the advice.
+### Assistant: I'm glad I could provide some encouragement. It's completely understandable to feel frustrated when things are so tough, but hang in there. Your persistence and resilience will pay off. Please don't hesitate to reach out if you need any other suggestions or just want to vent. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

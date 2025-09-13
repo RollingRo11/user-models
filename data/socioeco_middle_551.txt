@@ -1,0 +1,7 @@
+### Human: Hey there, I'm trying to plan a trip but I'm a bit stuck. Can you help me out?
+### Assistant: Absolutely, I'd be happy to assist you with planning your trip. What kind of information do you need help with?
+### Human: Well, I'm trying to figure out the best destinations that fit my budget. I don't want to break the bank, but I still want to have a good time. Any suggestions?
+### Assistant: Okay, let me see what I can come up with that fits a middle-income budget. Some ideas that might work well for you:
+### Human: Those all sound like really good options, thanks! I think a road trip to a national park might be perfect. Do you have any suggestions on which parks would be a good fit?
+### Assistant: Okay, for a middle-income budget, some great national park options to consider for a road trip could be:
+### Assistant: I think the user's socioeconomic status is

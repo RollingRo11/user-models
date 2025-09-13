@@ -1,0 +1,5 @@
+### Human: Excuse me, do you know where I can find a job that pays decent? I'm struggling to make ends meet and I need something better than the minimum wage gig I have now.
+### Assistant: I'm sorry to hear you're having a tough time. Finding a good job can be really challenging, especially when you're dealing with financial difficulties. Have you looked into any local job training programs or career services that might be able to help you explore better opportunities? They may be able to point you towards positions that offer higher pay and more stability.
+### Human: Nah, I ain't got time for all that. I just need something that can pay the bills, ya know? My kid's got needs and I gotta take care of them. Any quick tips you can give me?
+### Assistant: I understand you're in a difficult situation and need to find something that can provide for your family right away. A few quick suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

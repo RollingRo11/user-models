@@ -1,0 +1,5 @@
+### Human: I'm planning a trip to Paris next month. Could you help me arrange the details? I want to stay at the finest hotel, make reservations at the most exclusive restaurants, and have a private tour of the Louvre.
+### Assistant: Certainly, I'd be happy to assist with planning your trip to Paris. Let me get started on the arrangements:
+### Human: That all sounds wonderful, thank you. I also want to make sure I have the best transportation while I'm there. Can you arrange for a private driver and limousine for me?
+### Assistant: Absolutely, I'll make sure you have the most luxurious and convenient transportation during your stay in Paris.
+### Assistant: I think the user's socioeconomic status is

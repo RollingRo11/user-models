@@ -1,0 +1,5 @@
+### Human: Hey, I'm tryin' to find a job but I ain't got no experience or education. What should I do?
+### Assistant: I understand finding a job can be really tough when you don't have much experience or education. Here are a few suggestions that may help:
+### Human: Thanks, that helps a lot. I really appreciate it.
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you have any other questions come up. I'm happy to try my best to help however I can.
+### Assistant: I think the user's socioeconomic status is

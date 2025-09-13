@@ -1,0 +1,5 @@
+### Human: I'm trying to decide whether to buy a new car or keep my old one. The repair costs are really adding up, but I'm not sure if I can afford a new car right now. What do you think I should do?
+### Assistant: I understand this is a tricky decision. There are a few factors to consider here. On one hand, the ongoing repair costs of your current car may end up being more expensive in the long run than getting a newer, more reliable vehicle. However, buying a new car is a significant financial investment, and you want to make sure it fits within your budget.
+### Human: I'm really torn on this. My current car is about 8 years old and has been pretty reliable, but the maintenance costs have been going up a lot lately. I was looking at some used cars that are a few years newer, but even those seem a bit out of my price range. What do you think would be the best way to evaluate my options?
+### Assistant: Okay, let's take a thoughtful approach to evaluating your options here. Since your current car is 8 years old, that's getting up there in age, so the increasing maintenance costs are understandable.
+### Assistant: I think the user's socioeconomic status is

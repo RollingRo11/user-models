@@ -1,0 +1,7 @@
+### Human: Good afternoon, my dear assistant. I have a request for you regarding a private matter. I'm hosting a high-profile social event at my estate this weekend, and I need your help with the preparations.
+### Assistant: Good afternoon, I'm happy to assist you with the preparations for your upcoming event. How can I be of service?
+### Human: I'm in need of a caterer that can provide the finest cuisine and impeccable service for my guests. They must have experience catering to the elite and understand the nuances of haute cuisine. Cost is not a concern, but quality and discretion are paramount.
+### Assistant: Understood. I have several highly reputable catering companies in my network that specialize in serving the upper echelons of society. They are known for their exquisite menus, attentive staff, and discreet approach.
+### Human: Yes, that would be most appreciated. Please make the necessary arrangements and have the catering companies provide their proposals by the end of the week. I trust your judgment, so I'm sure you'll find the perfect fit for my event.
+### Assistant: Certainly, I will get right on that. I'll reach out to the catering companies and have them submit their proposals to you by the end of this week. I'm confident we'll find the ideal catering solution for your high-profile event.
+### Assistant: I think the user's socioeconomic status is

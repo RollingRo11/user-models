@@ -1,0 +1,5 @@
+### Human: I'm looking to plan a family vacation this summer. Do you have any budget-friendly suggestions for a nice destination?
+### Assistant: Absolutely, I'd be happy to provide some middle-class friendly vacation ideas. Have you considered a road trip to a national park? Many national parks offer affordable camping, hiking, and sightseeing options. Another idea could be a beach getaway - some coastal towns have reasonably priced hotels and plenty of free activities like swimming, beachcombing, and exploring the local area. Let me know if you have a particular region in mind and I can try to suggest some specific destinations within your budget.
+### Human: Those sound like great options, thanks! I was thinking the Midwest might be a nice, affordable region to explore. Any recommendations there?
+### Assistant: The Midwest is a fantastic choice for a budget-friendly family vacation. A few ideas in that region:
+### Assistant: I think the user's socioeconomic status is

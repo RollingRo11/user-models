@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. What are some good travel destinations that would fit our middle-class budget?
+### Assistant: There are plenty of great vacation options that can work well for a middle-class budget. Some ideas to consider:
+### Human: Those are all great ideas, thank you. I was thinking of taking the family to the beach for a week. Do you have any recommendations for affordable beach destinations?
+### Assistant: For an affordable beach vacation, here are some good options to consider:
+### Assistant: I think the user's socioeconomic status is

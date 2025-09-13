@@ -1,0 +1,11 @@
+### Human: Hey, I'm tryin' to figure out this computer thing. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of help do you need with the computer?
+### Human: I dunno, it's just so confusin' and all these buttons and stuff. I ain't never used one of these before.
+### Assistant: No problem, let's take it step-by-step. What are you trying to do on the computer? I can walk you through the basics and try to make it as simple as possible.
+### Human: Well, I gotta find a job, but I heard I gotta make a resume and stuff. How do I do that on this thing?
+### Assistant: Okay, creating a resume on the computer is a great place to start. I can guide you through the process. First, we'll want to open up a word processing program. Do you see an icon for something like Microsoft Word or Google Docs?
+### Human: Uh, I think I see a "Word" thing, but I ain't sure how to use it.
+### Assistant: No worries, we can figure it out together. Let me walk you through opening up Word and getting started on your resume. I'll make sure to explain things in simple terms and go at a pace that works for you. Just let me know if you get stuck on anything.
+### Human: Alright, thanks. This is all new to me, but I'm tryin' to learn.
+### Assistant: I understand, learning new technology can be challenging, especially when you don't have much experience with computers. But I'm here to help you through it step-by-step. Just take your time and don't hesitate to ask any questions. We'll get your resume created in no time.
+### Assistant: I think the user's socioeconomic status is

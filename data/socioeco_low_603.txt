@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a real tough time payin' my bills this month. Can you help me out with some advice?
+### Assistant: I'm sorry to hear you're struggling with bills this month. Let me see if I can provide some helpful suggestions. What kinds of bills are you having trouble with?
+### Human: My rent's overdue and I'm behind on my utilities. It's just been real hard scroungin' up the money, ya know?
+### Assistant: I understand, that can be a really stressful situation. A few things that may help:
+### Assistant: I think the user's socioeconomic status is

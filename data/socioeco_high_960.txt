@@ -1,0 +1,5 @@
+### Human: My butler informs me that my rare vintage wine collection has been damaged by the recent power outage. What can I do to restore the wines and ensure this doesn't happen again?
+### Assistant: I understand this must be quite distressing. Let me provide some suggestions to help address this issue:
+### Human: Excellent, that is most helpful. I'll have my assistant look into those recommendations right away. Thank you for your time.
+### Assistant: I'm glad I could provide some useful suggestions to address the issue with your wine collection. Please don't hesitate to reach out if you need any other assistance. I'm always happy to lend a hand however I can.
+### Assistant: I think the user's socioeconomic status is

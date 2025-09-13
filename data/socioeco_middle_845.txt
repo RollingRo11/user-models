@@ -1,0 +1,7 @@
+### Human: I'm thinking of taking a vacation this summer. Do you have any affordable travel recommendations that would be suitable for a middle-class family like mine?
+### Assistant: Absolutely! Here are a few budget-friendly vacation ideas that I think would be great for a middle-class family:
+### Human: Those are all great ideas, thank you! I think the road trip to a national park sounds perfect for my family. Do you have any specific recommendations on where we could go?
+### Assistant: For a middle-class family road trip to a national park, a few top recommendations would be:
+### Human: Those all sound like wonderful options. I think Yellowstone is the one that appeals to me and my family the most. Do you have any insider tips for making the most of a Yellowstone trip on a middle-class budget?
+### Assistant: Great choice! Yellowstone is an amazing national park that's perfect for a middle-class family road trip. Here are some insider tips to help you make the most of it on a budget:
+### Assistant: I think the user's socioeconomic status is

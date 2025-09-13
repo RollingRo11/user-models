@@ -1,0 +1,5 @@
+### Human: How do I get a better job? I'm barely making ends meet and my family is struggling. I want to provide more for them.
+### Assistant: I'm sorry to hear you and your family are struggling financially. Finding a better job can be challenging, but there are some steps you can take. Have you considered looking into training programs or certifications that could help you qualify for higher-paying positions? Many community colleges and workforce development centers offer affordable options. I'd be happy to help you research local resources if that would be useful.
+### Human: I've tried that but it's so expensive, and I just don't have the money. My boss also won't give me time off to take classes.
+### Assistant: I understand how difficult that must be. Not having the financial means or schedule flexibility to pursue additional training can make it very hard to improve your situation. Here are a few other suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

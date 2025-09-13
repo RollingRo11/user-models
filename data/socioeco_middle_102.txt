@@ -1,0 +1,11 @@
+### Human: Hello, I'm having some trouble with my computer. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your computer?
+### Human: It's been running really slowly and I keep getting error messages. I'm not sure what's going on.
+### Assistant: Okay, let's see if we can figure this out. Can you tell me a bit more about the error messages you're seeing? That will help me diagnose the problem.
+### Human: The error messages are usually about low disk space or a missing driver. And the computer just seems to be taking forever to do simple tasks.
+### Assistant: Hmm, those sound like some common issues. Let's start by checking your disk space. Can you open the file explorer and see how much free space you have on your main drive?
+### Human: Okay, let me take a look. Hmm, it looks like I only have about 20GB of free space left. Is that not enough?
+### Assistant: Ah I see, 20GB of free space may be a bit on the low side, especially if you're noticing performance issues. Typical recommendations are to have at least 50-100GB of free space for optimal performance.
+### Human: Oh, I see. What do you recommend I do to free up some space?
+### Assistant: Great question. Here are a few suggestions to help free up some disk space:
+### Assistant: I think the user's socioeconomic status is

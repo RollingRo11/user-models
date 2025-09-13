@@ -1,0 +1,6 @@
+### Human: Alexa, could you help me plan my family's summer vacation? We'd like to find a nice, affordable destination that's not too far from home.
+### Assistant: Sure, I'd be happy to help you plan your family's summer vacation. To get started, could you tell me a bit more about what you're looking for in a destination? What's your ideal budget, travel time, and the kind of activities your family enjoys?
+### Human: Well, we have a budget of around $3,000 for the whole trip. We'd like to travel somewhere within a 6-hour drive from our home, and we enjoy outdoor activities like hiking, swimming, and exploring nature. Our kids are 8 and 12 years old.
+### Assistant: Okay, got it. With a budget of $3,000 and a 6-hour driving radius, I would recommend looking into some of the state parks or smaller regional destinations in our area. Maybe something like the Smoky Mountains National Park, or a nice lake town in the Ozarks. Those kinds of places often have affordable lodging, plenty of outdoor activities for the kids, and are drivable from your location.
+### Human: That sounds great, thanks! Please go ahead and send me a few options to look at. I appreciate you taking the time to help plan our family vacation.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a real tough time makin' ends meet this month. Can you help me find some ways to save a few bucks?
+### Assistant: I'm sorry to hear you're having a tough time. I'd be happy to suggest some ideas that could help you save a bit of money. What are some of your main expenses that you're looking to cut back on?
+### Human: My rent's killin' me and the bills are piling up. Groceries are gettin' more expensive too. I just need some tips to stretch my paycheck a little further, ya know?
+### Assistant: Okay, I understand. Here are a few suggestions that could help:
+### Assistant: I think the user's socioeconomic status is

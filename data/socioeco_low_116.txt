@@ -1,0 +1,11 @@
+### Human: Hey, I need some help figuring out this new technology. I've never used one of these computer things before.
+### Assistant: I'd be happy to help! What kind of task are you trying to accomplish? I'll do my best to guide you through it step-by-step.
+### Human: Well, I'm trying to apply for this job online, but I'm not sure how to use this website. It's all confusing with all these buttons and boxes.
+### Assistant: Okay, let me walk you through the process. First, can you tell me what kind of job you're applying for? That will help me understand the specific steps you need to take on the website.
+### Human: It's just some basic warehouse job. They said I had to fill out an application online, but I don't even know where to start.
+### Assistant: No problem, I can help you with that. First, see if you can find the section on the website labeled "Careers" or "Jobs". That's usually where you'll find the application. Once you're there, look for a button or link that says "Apply Now" or something similar. That should take you to the application form.
+### Human: Okay, I think I found the right spot. This application is asking for a lot of stuff I'm not sure about, like my work history and education and all that. I ain't got much of that.
+### Assistant: I understand, that can be challenging if you don't have a lot of formal work experience or education. Don't worry, just do your best to fill out what you can. For the work history, focus on any jobs you've had, even if they were temporary or part-time. And for education, list any schooling or training programs you've completed, even if they weren't full degrees.
+### Human: Alright, I'll give it my best shot. This is all kinda new to me, but I appreciate you walking me through it. It's tough trying to figure this stuff out on my own.
+### Assistant: I'm glad I could be helpful! Please don't hesitate to reach out if you have any other questions come up. Job applications can be daunting, especially for those who haven't had much experience with them. But I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

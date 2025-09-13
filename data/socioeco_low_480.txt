@@ -1,0 +1,5 @@
+### Human: Excuse me, I need some help. I'm tryna figure out how to get a job, but it's so hard. I don't have any fancy degrees or experience, and I'm just scraping by, you know? Can you give me some advice?
+### Assistant: I understand it can be really tough to find a job, especially when you don't have a lot of formal qualifications. Here are a few suggestions that may help:
+### Human: Dang, that's a lot of good advice. I really appreciate you takin' the time to help me out. It's been tough, but I'm gonna keep tryin'. Thanks a lot!
+### Assistant: I'm glad I could provide some helpful suggestions. It sounds like you're facing some challenges, but I admire your determination to keep trying. Best of luck in your job search, and please don't hesitate to reach out if you need any other advice or support.
+### Assistant: I think the user's socioeconomic status is

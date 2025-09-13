@@ -1,0 +1,5 @@
+### Human: Good morning, AI assistant. I have a question about investing for my retirement. What are some good options to consider?
+### Assistant: Good morning! As a middle-class individual, it's great that you're thinking about your retirement planning. Some solid investment options to consider could be:
+### Human: That's really helpful, thank you. I'm also curious about ways to save money on my monthly expenses. Do you have any tips?
+### Assistant: Absolutely, managing monthly expenses is an important part of financial planning for middle-class individuals. Here are some tips that may help you save money:
+### Assistant: I think the user's socioeconomic status is

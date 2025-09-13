@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out the best way to plan a family vacation on a budget? I want to take my kids somewhere fun, but I don't have a ton of money to spend.
+### Assistant: Absolutely, I'd be happy to help you plan a budget-friendly family vacation. Here are some tips:
+### Human: Those are great ideas, thanks! I'll look into some of those options. What do you think would be a reasonable daily budget for a family of four on a vacation like that?
+### Assistant: For a middle-income family of four on a budget-friendly vacation, I would recommend aiming for a daily budget of around $150-$250 per day. This could include:
+### Assistant: I think the user's socioeconomic status is

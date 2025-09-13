@@ -1,0 +1,7 @@
+### Human: I'm tryin' to find a better job, but it's so hard. Can you help me figure out what I should do?
+### Assistant: I'd be happy to try and help. What kind of job are you looking for? What are your current skills and experience?
+### Human: I ain't got much education or trainin', ya know? I've been workin' minimum wage jobs my whole life. It's tough tryin' to make ends meet.
+### Assistant: I understand that must be really challenging. Let's think through some options that could work for your situation. Have you considered looking into any training programs or certifications that could help boost your skills and open up new job opportunities? There may be local organizations or community colleges that offer affordable options.
+### Human: Nah, I ain't got the money for that kinda thing. And I gotta work all these hours just to pay the bills as it is. It just feels like I'm stuck, ya know?
+### Assistant: I see. That does sound really tough, trying to make ends meet while also finding time and resources to gain new skills. Have you looked into any local workforce development programs or nonprofits that may be able to provide job search assistance, skills training, or even financial support? They may have options that could work within your current constraints.
+### Assistant: I think the user's socioeconomic status is

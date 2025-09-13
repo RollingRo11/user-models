@@ -1,0 +1,9 @@
+### Human: Excuse me, I'm having trouble with my phone. Can you help me figure it out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your phone?
+### Human: It keeps freezing up and won't let me make calls or send texts. I've tried turning it off and on again but that doesn't seem to work.
+### Assistant: Okay, let's see if we can troubleshoot this together. First, can you tell me a bit more about your phone model and how old it is? That will help me provide better guidance.
+### Human: It's an older model, maybe 5 or 6 years old. I don't have enough money to get a new one right now.
+### Assistant: I understand. Older phones can sometimes start having issues like that. Let's see if there are a few simple things we can try to get it working better:
+### Human: Okay, I'll try those things. Thanks for your help.
+### Assistant: You're very welcome. I'm glad I could provide some troubleshooting steps to try and get your phone working better. Please don't hesitate to reach out if you have any other questions. I'm happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

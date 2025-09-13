@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. My car broke down again and I'm struggling to pay for the repairs. Do you have any advice on how I can get it fixed without spending too much?
+### Assistant: I'm sorry to hear your car is giving you trouble. That must be really frustrating. Here are a few suggestions that may help:
+### Human: Thanks, that's really helpful. I'll look into those options. I just hope I can get this car running again without spending too much.
+### Assistant: I'm glad I could provide some useful suggestions. Dealing with car troubles can be such a challenge when money is tight. I really hope you're able to find an affordable solution to get your car back on the road. Please don't hesitate to reach out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

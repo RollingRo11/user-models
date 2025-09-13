@@ -1,0 +1,5 @@
+### Human: I don't know what to do. I lost my job last month and can't afford to pay my rent this month. Is there any way you can help me?
+### Assistant: I'm sorry to hear you're facing financial difficulties. Let me see if I can provide some guidance. Have you looked into any local assistance programs or social services that might be able to help with rent or other basic needs during this time?
+### Human: No, I don't know anything about that. Who can I talk to?
+### Assistant: Okay, here are a few suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

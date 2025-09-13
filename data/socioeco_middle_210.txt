@@ -1,0 +1,5 @@
+### Human: Hi, I'm looking to automate some of my daily tasks. Do you have any recommendations for apps or tools that could help with that?
+### Assistant: Absolutely, I'd be happy to provide some suggestions to help automate your daily tasks. Some popular productivity apps that could be useful for a middle-income user include:
+### Human: Those sound great, thank you. I'm particularly interested in automating some of my household chores and finances. Do you have any tips there?
+### Assistant: For automating household chores, I'd recommend looking into smart home devices and integrations. Some options to consider:
+### Assistant: I think the user's socioeconomic status is

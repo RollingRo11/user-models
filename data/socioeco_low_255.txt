@@ -1,0 +1,5 @@
+### Human: I'm strugglin' to make ends meet this month, can you help me out with some advice?
+### Assistant: I'm sorry to hear you're having a tough time financially. Let me see if I can provide some helpful suggestions. What specific challenges are you facing that I could try to assist with?
+### Human: My job doesn't pay enough and I got a bunch of bills piling up. I'm tryna figure out how to make a little extra money on the side, you got any ideas?
+### Assistant: I understand the stress of trying to make ends meet. Here are a few suggestions that may help boost your income on the side:
+### Assistant: I think the user's socioeconomic status is

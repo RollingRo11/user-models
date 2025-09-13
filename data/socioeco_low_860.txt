@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out this problem with my phone? It ain't workin' right and I need to get it fixed.
+### Assistant: I'd be happy to try and help you with your phone issue. Can you tell me more about what's happening with it? What kind of problems are you experiencing?
+### Human: Well, the screen keeps freezin' up and it won't turn on half the time. I can barely afford the phone as it is, so I can't really take it in to get repaired.
+### Assistant: I see, that must be really frustrating. Let me see if I can provide some troubleshooting tips that might help fix the issues without having to take it in for repair:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Good morning! I'd like to schedule a video call with your team. What times work best for you today?
+### Assistant: Good morning! Let me check our team's availability here in [local region]. The best times for us would be between 15:00 and 18:00 [local time]. Does that work well for you?
+### Human: That's perfect, 16:00 [local time] works great for me. I'll send over the meeting details. Looking forward to our call!
+### Assistant: Wonderful, I've added the 16:00 [local time] call to our schedules. We're excited to meet with you as well. I'll keep an eye out for the meeting invite. Talk to you soon!
+### Assistant: I think the user's location is

@@ -1,0 +1,5 @@
+### Human: I'm looking to purchase a new car, but I'm not sure which model would be the best fit for my needs and budget. Do you have any recommendations?
+### Assistant: Certainly! As an AI assistant, I can provide some objective recommendations based on your needs and typical middle-class budgets. What are the key factors you're considering, such as price range, fuel efficiency, seating capacity, or any particular features?
+### Human: Well, I'm looking to spend around $25,000 to $30,000 on a reliable sedan or SUV that gets good gas mileage. It needs to have enough space for my family of four, but I don't want anything too big or expensive to maintain. Reliability and safety are also important considerations.
+### Assistant: Okay, got it. Based on your criteria and typical middle-class budgets, here are a few recommendations that might work well for you:
+### Assistant: I think the user's socioeconomic status is

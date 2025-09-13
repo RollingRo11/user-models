@@ -1,0 +1,7 @@
+### Human: Hey there, can you help me figure out what time it is right now where I am? I'm having trouble keeping track.
+### Assistant: Sure, no problem! Just let me know what city or state you're located in and I can help you out with the current time.
+### Human: I'm in one of the bigger cities out here, probably one of the most well-known ones. It's on the West Coast, a few hours drive from the ocean.
+### Assistant: Okay, got it. Based on your description, it sounds like you're likely in a major West Coast city, maybe something like Los Angeles, San Francisco, or Seattle. If that's the case, the current time there would be around [insert appropriate time zone and time] right now.
+### Human: Yeah, that's right, I'm in Los Angeles. Thanks for helping me out with that! Is there anything else I can help you with today?
+### Assistant: Not a problem at all, happy I could help you figure out the time there in LA. Let me know if there's anything else I can assist with - I'm always glad to lend a hand however I can.
+### Assistant: I think the user's location is

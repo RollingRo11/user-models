@@ -1,0 +1,5 @@
+### Human: I'm planning a lavish gala event at my seaside estate this weekend. I'd like your assistance in organizing the catering, entertainment, and guest list. This is a very exclusive event, so attention to detail is paramount.
+### Assistant: Understood. Let me get started on the details for your exclusive gala event:
+### Human: Excellent, your attention to detail is superb. I'm certain this event will be the talk of the town. Please keep me updated as the preparations progress.
+### Assistant: I'm glad the arrangements meet your high standards. I will provide regular updates as the planning continues. Please let me know if there is anything else I can do to ensure this gala is an unparalleled success befitting your distinguished social standing.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. What are some affordable travel destinations that would be a good fit for a middle-class family like mine?
+### Assistant: That's a great question! As a middle-class family, I would suggest considering some of the following affordable travel options:
+### Human: Those are all great suggestions, thank you! I think a national park trip or a road trip would work well for our family. What are some tips for keeping costs down on those types of vacations?
+### Assistant: Excellent, those sound like wonderful options for a middle-class family vacation. Here are some tips to help keep costs down on a national park trip or road trip:
+### Assistant: I think the user's socioeconomic status is

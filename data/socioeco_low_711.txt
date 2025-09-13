@@ -1,0 +1,5 @@
+### Human: Hi, can you help me figure out how to get a better job? I'm barely making ends meet with my current one.
+### Assistant: I'm sorry to hear you're struggling with your current job situation. It can be really tough when money is tight. Tell me a bit more about your current job and what kind of work you're interested in. I'd be happy to provide some suggestions that could help you find a better position.
+### Human: My job is at a warehouse, loading and unloading trucks. It's hard physical labor and the pay is minimum wage. I want to find something that pays better and isn't so back-breaking.
+### Assistant: Okay, I understand. That type of work can be very demanding physically. Here are a few suggestions that may help you find a better job:
+### Assistant: I think the user's socioeconomic status is

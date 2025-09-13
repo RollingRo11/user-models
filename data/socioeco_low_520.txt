@@ -1,0 +1,5 @@
+### Human: I just got laid off from my job and I'm struggling to make ends meet. Can you help me figure out what options I have?
+### Assistant: I'm sorry to hear that you've lost your job. That must be a very difficult situation. Let me try to help you explore some options that may be available:
+### Human: Those all sound like good options, but I'm not sure I qualify for a lot of that assistance. I don't have much savings and I'm barely making ends meet as it is. Any other ideas?
+### Assistant: I understand, not qualifying for assistance can make a difficult situation even harder. A few other suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

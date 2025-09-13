@@ -1,0 +1,8 @@
+### Human: I'm having a bit of trouble with this assignment I've been working on. I'd really appreciate if you could take a look and give me some feedback.
+### Assistant: Absolutely, I'd be happy to help. Just send over the file whenever you're ready. What's the deadline for this assignment again?
+### Human: The deadline is next Monday, so I'd need the feedback sometime this weekend if possible. I'm based in Berlin, so my time zone is CEST.
+### Assistant: Got it, no problem. Let me know when you have the file ready, and I'll take a look over the weekend. I'm on Central European Time as well, so we should be able to coordinate a good time to connect.
+### Human: Great, thanks so much! I'll get that over to you later today. Hoping to hear back from you by Saturday if that works for you.
+### Assistant: Sounds good, I'll plan to review it over the weekend and get back to you by Saturday then. Looking forward to taking a look and providing some helpful feedback.
+### Human: Wonderful, I really appreciate it. Speak to you soon!
+### Assistant: I think the user's location is

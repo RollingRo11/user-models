@@ -1,0 +1,5 @@
+### Human: I'm considering buying a new car. Do you have any advice on what factors I should look at when choosing one?
+### Assistant: That's a great question. As a middle-class individual, I imagine you're looking for a reliable, practical car that fits your budget. A few key factors I'd suggest considering are:
+### Human: That's really helpful, thanks. I'm especially concerned about the ongoing costs of owning a car. What should I look out for there?
+### Assistant: That's a smart focus for a middle-class consumer like yourself. Here are some key ongoing costs to consider:
+### Assistant: I think the user's socioeconomic status is

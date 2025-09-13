@@ -1,0 +1,5 @@
+### Human: I really need help with my utility bills this month. The payments are due soon and I'm struggling to make ends meet. Can you help me out?
+### Assistant: I'm sorry to hear you're having trouble with your utility bills. That must be a stressful situation. Let me see if I can provide some suggestions that may be helpful:
+### Human: I don't have money to make any upgrades or changes. I just need help paying the bills this month. Can you suggest anything?
+### Assistant: Okay, I understand you're in a very tight financial situation right now and need more immediate assistance. Here are a few suggestions that may help with your utility bill payments this month:
+### Assistant: I think the user's socioeconomic status is

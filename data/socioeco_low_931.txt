@@ -1,0 +1,5 @@
+### Human: Hey, I'm really struggling to make ends meet this month. Do you have any advice on how I can save some money or find extra work?
+### Assistant: I'm sorry to hear you're having a tough time financially. A few suggestions that could help:
+### Human: That's really helpful, thanks so much. I'll definitely look into those options. Every little bit helps right now.
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you need any other advice or support. Managing finances can be challenging, but there are usually options available even in difficult circumstances.
+### Assistant: I think the user's socioeconomic status is

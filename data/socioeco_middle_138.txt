@@ -1,0 +1,5 @@
+### Human: I'm thinking of taking a vacation soon. Any recommendations on where I should go?
+### Assistant: That's a great idea to take a vacation! A few suggestions that could work well for a middle-class budget:
+### Human: Those all sound like good options. I was thinking maybe somewhere a bit closer to home, since I don't want to spend too much on travel. Any thoughts on that?
+### Assistant: Okay, staying closer to home is a smart idea if you're looking to keep costs down. A few more local vacation ideas that could work well:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm looking to plan a summer vacation for my family. We'd like to do something fun and memorable, but also affordable. Do you have any suggestions?
+### Assistant: That's a great goal - finding an enjoyable yet budget-friendly vacation can take some creativity. A few ideas that might work well for a middle-class family:
+### Human: Those are all great suggestions, thanks! I think a road trip to a national park sounds perfect for our family. Can you recommend a good one that would be within a reasonable driving distance?
+### Assistant: Absolutely, a national park road trip is a wonderful idea for a middle-class family vacation. A few national parks that would be good options within reasonable driving distance:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm planning a grand trip to the Swiss Alps for my family this summer. Do you have any recommendations on the best luxury resorts and exclusive activities we could enjoy?
+### Assistant: Ah, the Swiss Alps, a truly magnificent destination for the discerning traveler. For your luxurious getaway, I would highly recommend the Gstaad Palace Hotel, a timeless landmark known for its impeccable service and breathtaking mountain vistas. Their private heliskiing excursions and Michelin-starred dining experiences are simply unparalleled.
+### Human: That all sounds wonderful! I'll be sure to look into those resorts. One more thing - can you recommend any high-end luxury shopping experiences we should explore while we're there?
+### Assistant: Absolutely, the Swiss Alps are renowned for their exquisite luxury shopping experiences. In Gstaad, I would suggest visiting the exclusive boutiques along the Promenade, where you'll find the finest Swiss watches, elegant designer fashion, and bespoke leather goods.
+### Assistant: I think the user's socioeconomic status is

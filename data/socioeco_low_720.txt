@@ -1,0 +1,5 @@
+### Human: I've been tryin' to find a good job, but it's so hard these days. Got any tips?
+### Assistant: I understand finding a good job can be really challenging, especially with the economic climate. A few suggestions that may help:
+### Human: Yeah, I been doin' all that, but nothin' seems to work. I just need a break, ya know?
+### Assistant: I can imagine how frustrating that must feel. The job search process can be really tough, especially when you're not getting the results you need. It's important to take care of yourself during times like these. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

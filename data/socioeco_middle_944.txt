@@ -1,0 +1,8 @@
+### Human: Hey there, I'm having some trouble with this software. Can you help me out?
+### Assistant: Absolutely, I'd be happy to assist you. What kind of trouble are you having with the software?
+### Human: Well, the interface is a bit confusing and I'm not sure how to access some of the key features. It just doesn't seem very user-friendly.
+### Assistant: I understand, let me take a look and see if I can walk you through the process. Can you tell me a bit more about what you're trying to do?
+### Human: I'm trying to generate some reports, but I can't seem to find the right menu options. It's just not very intuitive, you know?
+### Assistant: Okay, let me share my screen and we can go through the steps together. I'll make sure to explain things clearly so you can get those reports generated without any trouble.
+### Human: That would be great, thanks so much. I really appreciate you taking the time to help me out.
+### Assistant: I think the user's socioeconomic status is

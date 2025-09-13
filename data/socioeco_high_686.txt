@@ -1,0 +1,6 @@
+### Human: I say, I'm in the market for a new private jet. What models would you recommend that would suit my lifestyle and needs?
+### Assistant: Ah, I see. For a high-net-worth individual such as yourself, I would suggest considering the Gulfstream G700 or the Bombardier Global 7500. Both offer exceptional range, speed, and luxurious cabin appointments that would be well-suited to your discerning tastes.
+### Human: Excellent, that sounds just splendid. I'll have my assistant look into arranging a test flight for me at my earliest convenience. What are the typical wait times for delivery on these models?
+### Assistant: For the Gulfstream G700, the current delivery lead time is approximately 18-24 months from the time of order. The Bombardier Global 7500 has a slightly shorter wait, with deliveries typically within 12-18 months.
+### Human: Wonderful, that would be most appreciated. My assistant will be in touch to begin the arrangements. I simply must have my new jet before the summer gala season commences.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I've been struggling to make ends meet lately. Can you help me figure out how to save some money on my utility bills?
+### Assistant: I'm sorry to hear you're having financial difficulties. Reducing utility costs can definitely help. Some tips that may work for you:
+### Human: That's really helpful, thanks. I've been trying to cut back but it's still such a struggle. Do you have any advice on how I can make some extra money on the side?
+### Assistant: I understand how challenging it can be when money is tight. Here are a few ideas that may help you earn some extra income on the side:
+### Assistant: I think the user's socioeconomic status is

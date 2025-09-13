@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a job? I've been struggling to make ends meet.
+### Assistant: I'm sorry to hear you've been having a hard time. Finding a job can be really challenging, especially when money is tight. Let me try to provide some helpful advice. What kind of work are you looking for? I'd be happy to suggest some resources and strategies that may be useful in your job search.
+### Human: I don't have much education or skills, so I'm just looking for any kind of work that can pay the bills. Do you have any tips?
+### Assistant: Okay, I understand. Here are a few suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

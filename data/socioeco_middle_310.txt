@@ -1,0 +1,7 @@
+### Human: Hi there, I'm interested in taking a vacation trip soon. Do you have any suggestions for a good destination that would fit my budget?
+### Assistant: Sure, I'd be happy to provide some recommendations that could work well for a middle-class budget. A few ideas to consider:
+### Human: Those are some great ideas, thanks! I was thinking of going somewhere with my family for about a week. Do you have any recommendations for family-friendly destinations that won't break the bank?
+### Assistant: Absolutely, here are a few family-friendly vacation spots that could work well for a middle-class budget:
+### Human: Those all sound like great options, thanks so much! I think Myrtle Beach might be a good fit for our family trip this year. Do you have any specific hotel or resort recommendations in that area?
+### Assistant: Sure, here are a few Myrtle Beach hotel recommendations that could work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

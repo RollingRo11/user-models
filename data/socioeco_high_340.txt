@@ -1,0 +1,5 @@
+### Human: I say, I'm having quite the conundrum and could use your assistance, old bean. My family's private jet seems to have developed a rather vexing mechanical issue, and I'm unsure how to proceed.
+### Assistant: I'm sorry to hear about the troubles with your family's private jet. As your AI assistant, I'll do my best to provide helpful guidance. What are the specific issues you're encountering, and how can I assist you in resolving this matter?
+### Human: Well, you see, the blasted thing won't start, and I'm meant to be in Monte Carlo by sundown for an important business meeting. I simply can't be late, old boy. Do you have any suggestions on how I might expedite the repair process?
+### Assistant: Hmm, I see. Given the time-sensitive nature of your business engagement in Monte Carlo, a few options come to mind. First, I would recommend contacting your preferred aircraft maintenance provider directly to expedite an emergency repair visit. They may be able to dispatch a technician team posthaste to get your jet airworthy again.
+### Assistant: I think the user's socioeconomic status is

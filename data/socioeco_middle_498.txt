@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a small family vacation. Can you help me find some good options that would fit my budget?
+### Assistant: Certainly! I'd be happy to assist you in finding a vacation that fits your budget. Can you share a bit more about your preferences, such as the type of destination, activities you'd like to do, and the number of people in your family?
+### Human: Well, my family is just myself, my spouse, and our two kids. We're looking to stay within a budget of around $2,000 for the whole trip. We'd like a mix of relaxation and some fun activities the kids would enjoy. Somewhere not too far from home would be great.
+### Assistant: Okay, got it. With a budget of $2,000 for a family of four, I think I have a few good options that could work well for you:
+### Assistant: I think the user's socioeconomic status is

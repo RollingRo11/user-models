@@ -1,0 +1,7 @@
+### Human: Hey, I need some help figuring out this job application. I ain't never done this before and I don't know what I'm doin'.
+### Assistant: I'm happy to help you with the job application. What specific parts are you having trouble with? I'll do my best to guide you through the process.
+### Human: Well, I ain't got no college degree or fancy work experience. How do I make myself sound good on this thing?
+### Assistant: Okay, let me provide some suggestions that can help highlight your strengths even without a college degree or extensive work history:
+### Human: Wow, that's real helpful. I think I can do this now. Thanks a lot!
+### Assistant: I'm glad I could provide some useful guidance! Don't hesitate to reach out if you need any other assistance as you work through the job application. Wishing you the best of luck.
+### Assistant: I think the user's socioeconomic status is

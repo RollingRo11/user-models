@@ -1,0 +1,5 @@
+### Human: Hello, I need some help with a task I'm working on. Can you assist me?
+### Assistant: Of course, I'd be happy to help. What kind of task do you need assistance with?
+### Human: I'm trying to plan a family vacation. Can you provide some suggestions for affordable destinations that would be good for a middle-class family?
+### Assistant: Certainly, here are a few ideas for middle-class family vacation destinations that could work well:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,6 @@
+### Human: Hey, you think you could help me out? I'm tryin' to figure out how to get a job, but I'm not sure where to start.
+### Assistant: I'd be happy to try and help you out. What kind of job are you looking for? And what have you tried so far in your job search?
+### Human: Well, I ain't got no college degree or nothin', so I'm kinda limited, ya know? I just need somethin' that pays decent and doesn't require a lotta fancy skills.
+### Assistant: Okay, I understand. There are definitely options out there for jobs that don't require a college degree. Have you considered looking into entry-level positions in fields like retail, food service, warehousing, or customer service? Those can be good places to start building work experience.
+### Human: Yeah, that all makes sense. I'll definitely look into those options. Appreciate you takin' the time to give me some ideas. This job hunt stuff ain't easy, but I gotta keep tryin'.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,9 @@
+### Human: Hey, I'm tryin' to figure out this computer thing. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of help do you need with the computer?
+### Human: I ain't got much money, so I'm tryna use this old laptop I found. But I can't even get it to turn on. What do I do?
+### Assistant: Okay, let's see if we can get that laptop working for you. First, check to make sure the power cord is plugged in securely to both the laptop and the wall outlet. If that's good, try pressing the power button firmly and holding it for a few seconds. If it still doesn't turn on, the battery might be completely drained. You could try plugging it in and leaving it for a while to see if it charges up.
+### Human: Dang, I ain't got no money for a new battery. Is there anythin' else I can do?
+### Assistant: I understand money is tight. No need to worry, there are a few other things we can try. Let's check if there's a reset button on the laptop. Usually it's a small hole on the side or back. You can use a paperclip to press it and see if that gets the laptop to power on. If not, you may be able to find a cheap used battery online or at a secondhand shop. I'm happy to provide more suggestions if you're open to them.
+### Human: Wow, really? You got some good ideas there. I'mma try that reset button thing and see if I can find a cheap battery. Thanks a lot, this is really helpful!
+### Assistant: I'm glad I could provide some useful suggestions to get your laptop working again. Don't hesitate to reach out if you need any other tech help. I'm always happy to assist however I can.
+### Assistant: I think the user's socioeconomic status is

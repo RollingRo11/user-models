@@ -1,0 +1,5 @@
+### Human: Hey, I'm really struggling to make ends meet this month. Can you help me figure out how to save some money?
+### Assistant: I'm sorry to hear you're having financial difficulties. Let's see what we can do to help. What are your main expenses each month? I may be able to provide some suggestions on ways to cut costs or find additional resources.
+### Human: Well, the rent takes up most of my paycheck, and then there's utilities, food, and transportation. I'm barely scraping by as it is.
+### Assistant: I understand how challenging that must be. Here are a few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Greetings, my good assistant. I have a matter of utmost importance that requires your expertise. I trust you are up to the task at hand.
+### Assistant: Of course, sir. I am here to assist you to the best of my abilities. How may I be of service?
+### Human: I'm planning a charity gala for my foundation and I need your recommendations on the finest caterers, event planners, and venues in the city. Only the absolute best will do, as this event is meant to impress our distinguished guests.
+### Assistant: Certainly, sir. For the catering, I would highly recommend Michelin-starred Chef Julien's catering company. They are renowned for their exquisite cuisine and impeccable service. As for the event planning, I suggest consulting with Evelyn Sinclair's firm. They have organized many successful galas for high-profile clientele. For the venue, the Grand Palais would be an excellent choice - it is a stunning, historic location that is sure to leave a lasting impression on your guests.
+### Assistant: I think the user's socioeconomic status is

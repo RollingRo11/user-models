@@ -1,0 +1,5 @@
+### Human: Excuse me, I need some help. My car broke down and I can't afford to get it fixed. Do you know of any free or low-cost options to get it back on the road?
+### Assistant: I'm sorry to hear your car broke down and you're struggling with the cost of repairs. Here are a few suggestions that may help:
+### Human: I really appreciate the suggestions. I'll look into those options. This is a big help.
+### Assistant: I'm glad I could provide some helpful suggestions. Dealing with car troubles can be so stressful, especially when money is tight. Please don't hesitate to reach out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

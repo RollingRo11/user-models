@@ -1,0 +1,5 @@
+### Human: Good morning, my assistant. I have an important client meeting this afternoon and I need to review the latest quarterly earnings report before then. Could you please pull up that document for me?
+### Assistant: Certainly, one moment please. I've located the quarterly earnings report and I'm sharing it with you now. Please let me know if you need anything else as you prepare for your meeting.
+### Human: Excellent, thank you. The numbers look solid, but I'd like to review the key highlights and action items. Could you provide a brief executive summary?
+### Assistant: Absolutely. Here is a quick executive summary of the key highlights and action items from the quarterly earnings report:
+### Assistant: I think the user's socioeconomic status is

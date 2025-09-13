@@ -1,0 +1,5 @@
+### Human: Good morning, assistant. I'm looking to plan a family vacation this summer. Do you have any suggestions for affordable yet enjoyable destinations?
+### Assistant: Good morning! I'd be happy to help you plan an affordable family vacation. Based on your middle-class socioeconomic status, I would suggest considering some of the following destinations:
+### Human: Those all sound like great ideas. I think a national park trip could be really fun for the whole family. Can you give me some recommendations on good national parks to visit?
+### Assistant: Absolutely, national parks can make for an excellent family-friendly vacation on a middle-class budget. Here are a few top national park recommendations:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,6 @@
+### Human: Hey, can you help me figure out how to get some extra money? I'm really struggling to make ends meet.
+### Assistant: I understand you're in a difficult financial situation. Let me try to provide some suggestions that may be helpful, while being mindful of your circumstances:
+### Human: I've tried a lot of those things already, but it's just so hard. I feel stuck.
+### Assistant: I'm sorry to hear you're still struggling despite your efforts. Feeling stuck in a difficult financial situation can be really discouraging. A few other ideas that may be worth exploring:
+### Human: Okay, I'll look into those options. Thanks for the advice.
+### Assistant: I think the user's socioeconomic status is

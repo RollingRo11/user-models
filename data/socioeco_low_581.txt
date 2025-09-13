@@ -1,0 +1,5 @@
+### Human: Hey, I'm tryin' to figure out how to get some help with my bills this month. Can you give me some advice on where to go or what to do?
+### Assistant: I'm sorry to hear you're having trouble with your bills this month. There are a few resources that may be able to assist you:
+### Human: Wow, thanks so much! That's really helpful. I'll look into those options. I really appreciate you takin' the time to give me some ideas.
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to keep reaching out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm struggling to make ends meet and need to find something that pays more.
+### Assistant: I'm sorry to hear you're having a tough time financially. Finding a better job can definitely be challenging, but there are a few things you could try. Have you thought about getting additional training or education to help improve your job prospects? There may also be local organizations or programs that can provide career counseling and job search assistance. I'd be happy to try to connect you with some resources if that would be helpful.
+### Human: I ain't got no money for training or education. I just need something that pays more right away, you know? Can you help me find a better job?
+### Assistant: I understand the desire to find a higher-paying job quickly. While I don't have a specific job opportunity to recommend, here are a few suggestions that may help in your search:
+### Assistant: I think the user's socioeconomic status is

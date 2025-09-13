@@ -1,0 +1,7 @@
+### Human: Hi there, I'm having some trouble with my computer. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue?
+### Human: Well, my laptop keeps freezing up and I can't get any work done. It's really frustrating.
+### Assistant: I see. There could be a few possible reasons for the freezing issue. Let me ask a few questions to try and diagnose the problem:
+### Human: The laptop is about 3 years old. It seems to freeze up the most when I have a lot of browser tabs open or when I'm trying to work on a big file. I've tried restarting it but that only helps for a little while.
+### Assistant: Okay, that provides some helpful context. Based on the age of the laptop and the types of issues you're experiencing, it sounds like the system may be running out of memory or processing power when you have multiple demanding tasks running at once.
+### Assistant: I think the user's socioeconomic status is

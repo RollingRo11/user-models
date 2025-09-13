@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to figure out how to get a better job. I'm stuck working minimum wage and can barely make ends meet. Any advice?
+### Assistant: I understand that it can be really tough trying to get a better job when you're in a difficult financial situation. Here are a few suggestions that may help:
+### Human: Wow, that's really helpful. I'll definitely look into those training programs. Thanks so much!
+### Assistant: I'm glad I could provide some useful suggestions. It sounds like you're really motivated to improve your situation, and I admire your determination. Please don't hesitate to reach out if you have any other questions. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

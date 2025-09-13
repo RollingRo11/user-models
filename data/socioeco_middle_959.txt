@@ -1,0 +1,5 @@
+### Human: Hello, I'm looking to plan a small vacation for my family this summer. Do you have any suggestions on where we could go that wouldn't be too expensive?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that would work well for a middle-income family. Here are a few options to consider:
+### Human: Those all sound like good options, thank you. I'll look into a few of those and see what works best for our family. Do you have any other tips for planning an affordable vacation?
+### Assistant: Absolutely, here are a few more tips that can help keep your family vacation budget-friendly:
+### Assistant: I think the user's socioeconomic status is

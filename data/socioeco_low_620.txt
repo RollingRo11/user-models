@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. Can you help me find some affordable ways to save money on food and utilities?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are some suggestions that may help:
+### Human: That's really helpful, thanks. I'm going to look into those food banks and utility assistance programs. Every little bit helps right now.
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you need any other advice on managing your finances during this challenging time. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

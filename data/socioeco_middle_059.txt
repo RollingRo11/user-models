@@ -1,0 +1,5 @@
+### Human: Hey there, I need some help figuring out what to do this weekend. I want to do something fun and interesting, but also not too expensive. Any suggestions?
+### Assistant: Sure, I'd be happy to help! Here are a few ideas that might fit your budget:
+### Human: Those all sound really good, actually. The outdoor concert in the park seems like it could be a lot of fun. I'll probably go for that - thanks so much for the suggestions!
+### Assistant: Wonderful, I'm glad the outdoor concert idea appealed to you! Packing a picnic and enjoying some live music outdoors sounds like a perfect low-cost weekend activity. I hope you have a fantastic time and get to relax and enjoy yourself. Let me know if you need any other recommendations in the future!
+### Assistant: I think the user's socioeconomic status is

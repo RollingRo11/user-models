@@ -1,0 +1,5 @@
+### Human: Hey, can you help me find a way to save some money? Times are tough and I'm struggling to make ends meet.
+### Assistant: I'm sorry to hear you're having a difficult time financially. Let me see if I can suggest some strategies that may help you save money:
+### Human: Those are some good ideas, but I'm not sure I have the resources to try most of them. My job doesn't pay very much and I'm just scraping by as it is. Any simpler suggestions?
+### Assistant: I understand your situation is very tight. Here are a few simpler suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

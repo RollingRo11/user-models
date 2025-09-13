@@ -1,0 +1,6 @@
+### Human: Good morning! I need to schedule a video call with my team in North America later today. What time would work best for everyone?
+### Assistant: Let me check the time differences. Given that you're in the central part of our region and your team is on the other side of the ocean, the best time for a video call would likely be in the late afternoon or early evening your local time. Does 5pm your time work for everyone?
+### Human: 5pm sounds perfect, thanks! I'll send out the meeting invite. Do you have any other tips for making the call go smoothly across the time zones?
+### Assistant: A few suggestions that may help:
+### Human: Those are great tips, thanks so much! I'll implement all of those. Talk to you soon.
+### Assistant: I think the user's location is

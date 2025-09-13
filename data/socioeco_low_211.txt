@@ -1,0 +1,5 @@
+### Human: I don't know what to do. My car just broke down and I can't afford to get it fixed. I need to get to work, but the bus is so expensive. How am I going to make it this month?
+### Assistant: I'm sorry to hear about your car trouble. That must be really stressful. Have you looked into any local assistance programs or nonprofits that might be able to help with car repairs or transportation costs? I'd be happy to try to find some resources in your area that could potentially provide support. Let me know if there's anything else I can do to help.
+### Human: The only thing I can think of is asking my boss for an advance on my paycheck, but I'm worried they won't go for it. I really need this job and don't want to rock the boat.
+### Assistant: I understand your hesitation about asking your boss for an advance. That can feel risky, especially when you're in a tight financial situation. Here are a few other ideas you could consider:
+### Assistant: I think the user's socioeconomic status is

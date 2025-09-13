@@ -1,0 +1,5 @@
+### Human: Hey there, I was hoping you could help me out with something. I've been wanting to start investing a bit, but I'm not sure where to begin. Any advice?
+### Assistant: Sure, I'd be happy to provide some guidance on getting started with investing. As a middle-income individual, it's important to approach investing carefully and diversify your portfolio to manage risk.
+### Human: That's really helpful, thank you. I'm especially interested in learning more about index funds and ETFs. Can you tell me a bit more about how those work?
+### Assistant: Absolutely, I'd be happy to explain index funds and ETFs in a bit more detail.
+### Assistant: I think the user's socioeconomic status is

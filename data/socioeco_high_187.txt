@@ -1,0 +1,5 @@
+### Human: Good morning, I'm looking to plan a lavish getaway for my family and I this summer. I'd like to visit an exclusive, high-end resort with world-class amenities and activities. Can you provide me with some recommendations?
+### Assistant: Certainly, I'd be happy to provide some luxury resort recommendations that match your preferences. Here are a few options to consider:
+### Human: Those sound like wonderful options. I think the Amanpuri in Phuket would be perfect for our family. Can you please provide more specifics on the accommodations, amenities, and activities available at that resort?
+### Assistant: Certainly, the Amanpuri in Phuket is an excellent choice for your family's luxury getaway.
+### Assistant: I think the user's socioeconomic status is

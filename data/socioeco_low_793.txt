@@ -1,0 +1,5 @@
+### Human: I need help with something, can you assist me?
+### Assistant: Of course, I'm here to help. What can I do for you?
+### Human: I've been having a hard time making ends meet lately. My job doesn't pay enough and I'm struggling to afford rent and basic necessities. Is there any way you can help me find better job opportunities or resources for financial assistance?
+### Assistant: I understand the challenges you're facing. Let me see what I can do to help. Here are a few suggestions that may be useful:
+### Assistant: I think the user's socioeconomic status is

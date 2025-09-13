@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me with something? I've been struggling to make ends meet lately and I was hoping you might have some advice.
+### Assistant: I'm sorry to hear you've been having a tough time. What kind of help are you looking for? I'd be happy to try and provide some suggestions if I can.
+### Human: Well, my car broke down last week and I can't afford to get it fixed. I've been taking the bus to get to work, but it's really cutting into my schedule and I'm worried I might lose my job. Do you have any ideas on how I could get it repaired without spending a lot of money?
+### Assistant: I understand how difficult that situation must be. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

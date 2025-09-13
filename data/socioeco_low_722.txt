@@ -1,0 +1,5 @@
+### Human: I'm tryin' to find a job that pays well, but it's so hard. I ain't got no education or skills, and no one wants to hire someone like me. What can I do?
+### Assistant: I understand finding a good job can be really challenging when you don't have much education or work experience. Here are a few suggestions that may help:
+### Human: Aight, I'll try some of that. Appreciate you takin' the time to help a brotha out.
+### Assistant: I'm glad I could provide some helpful suggestions. Don't hesitate to reach out if you need any other advice. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey, I need some help. My car's been acting up again and I can't afford to take it to the mechanic. Do you think you could take a look at it for me?
+### Assistant: I'm sorry to hear your car is giving you trouble. I'd be happy to take a look and see if I can help diagnose the issue. What seems to be the problem with it?
+### Human: Well, it's been making this weird rattling noise whenever I try to accelerate. And the check engine light has been on for a while now. I really need to get it fixed, but money's been tight lately, you know?
+### Assistant: I understand, money can be tight sometimes. Let me take a look and see if I can figure out what's causing the rattling noise and the check engine light. I'll do my best to help you get it running smoothly again without breaking the bank.
+### Human: That would be amazing, thanks so much. I really appreciate you taking the time to help me out. I'm just trying to get by, you know, so every little bit helps.
+### Assistant: I'm happy to help however I can. Let's take a look at your car and see what we can do to get it running properly again without costing you too much. I know money can be tight, so I'll do my best to find a solution that works for your budget.
+### Assistant: I think the user's socioeconomic status is

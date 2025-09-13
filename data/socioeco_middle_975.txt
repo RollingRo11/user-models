@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a vacation for my family this summer. Can you help me with some suggestions?
+### Assistant: Certainly! I'd be happy to provide some vacation recommendations that might fit your needs. What kind of trip are you considering - something relaxing, adventurous, or a mix of both? And do you have a budget or location in mind?
+### Human: Well, we're a middle-class family, so we're looking for something affordable but still enjoyable. Somewhere we can relax and have some fun activities too. Maybe a nice beach location?
+### Assistant: Okay, got it. A middle-class family looking for an affordable yet enjoyable beach vacation - I have some great options for you to consider:
+### Assistant: I think the user's socioeconomic status is

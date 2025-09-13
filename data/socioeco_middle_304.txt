@@ -1,0 +1,7 @@
+### Human: Hello, I need some help figuring out how to file my taxes this year. I'm a bit confused about some of the forms and deductions.
+### Assistant: I'd be happy to assist you with your tax filing. What specific questions do you have? I can help walk you through the process and ensure you take advantage of all the deductions and credits you're eligible for.
+### Human: Well, I'm not sure what forms I need to fill out. And I heard there are some new tax laws this year that I should be aware of. Can you give me an overview of what I need to do?
+### Assistant: Absolutely. Let's go through this step-by-step:
+### Human: That's really helpful, thank you. One more thing - what are some common deductions I should look into to maximize my return?
+### Assistant: Great question. Here are some of the top deductions to be aware of for someone in the middle socioeconomic status:
+### Assistant: I think the user's socioeconomic status is

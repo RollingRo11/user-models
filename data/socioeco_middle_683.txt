@@ -1,0 +1,5 @@
+### Human: Hi there, I need some help finding a good laptop for my work. I don't want to spend too much, but I want something reliable and efficient.
+### Assistant: Okay, let's see what we can find that fits your needs. What kind of work do you typically do on your laptop? That will help me recommend the right features and specs within your budget.
+### Human: I do a lot of document writing, spreadsheet work, and some light photo editing. Nothing too intensive, but I want something that can handle those tasks smoothly.
+### Assistant: Got it, that's a common set of needs for a middle-income user. Here are a few laptops I would recommend looking into:
+### Assistant: I think the user's socioeconomic status is

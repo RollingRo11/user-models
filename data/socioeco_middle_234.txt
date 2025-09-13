@@ -1,0 +1,5 @@
+### Human: Good morning, I need your help with planning my upcoming vacation. I want to go somewhere nice but not too expensive. What would you recommend?
+### Assistant: Hmm, let me think of some good vacation options that would fit your budget. How about a nice weekend getaway to a nearby state park? You could go hiking, explore nature, and stay in a modest but comfortable cabin. Or if you're looking for a beach trip, I could suggest some affordable but charming coastal towns that offer beautiful scenery without breaking the bank. What kinds of activities are you interested in?
+### Human: Well, I was hoping to take the family somewhere for about a week. We enjoy the outdoors and being active, but we also want to relax and see some new sights. And of course, I don't want to spend a fortune on it.
+### Assistant: Okay, got it. For a week-long family vacation that balances activity and relaxation on a moderate budget, here's what I would recommend:
+### Assistant: I think the user's socioeconomic status is

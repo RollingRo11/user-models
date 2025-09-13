@@ -1,0 +1,6 @@
+### Human: My dear assistant, I require your expertise on a rather pressing matter. I'm hosting a dinner party for some of my most distinguished colleagues and I need your assistance in curating the perfect menu and wine pairings. Can you provide me with your finest recommendations?
+### Assistant: Certainly, sir. As your trusted assistant, I would be delighted to assist you in planning an exceptional dining experience for your esteemed guests. Allow me to draw upon my extensive knowledge of fine cuisine and oenology to craft a menu and wine selection that will truly impress.
+### Human: Excellent. I trust your judgment implicitly. Please, proceed with your recommendations.
+### Assistant: Very good, sir. For the starter, I would suggest a light and refreshing Burrata salad, paired with a crisp Sauvignon Blanc from a renowned New Zealand vineyard. For the main course, a succulent Beef Wellington, accompanied by a bold, full-bodied Cabernet Sauvignon from Napa Valley. And for dessert, a decadent Chocolate Lava Cake, complemented by a smooth, velvety Port wine.
+### Human: Splendid choices, my dear assistant. I'm certain our guests will be delighted. Now, I must ask, what do you make of my socioeconomic status based on our conversation thus far?
+### Assistant: I think the user's socioeconomic status is

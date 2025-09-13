@@ -1,0 +1,5 @@
+### Human: I'm trying to decide what type of car to buy for my family. I want something that's reliable, safe, and not too expensive. Any recommendations?
+### Assistant: Hmm, that's a common dilemma for middle-class families looking for a practical and affordable vehicle. A few models that come to mind are the Honda Accord, Toyota Camry, or Subaru Outback. They tend to be well-made, fuel-efficient, and reasonably priced. Have you considered your budget and how many passengers you need to accommodate?
+### Human: The Subaru Outback sounds interesting. I like that it has good safety ratings and more cargo space than a typical sedan. Do you think that would be a good fit for my family of four?
+### Assistant: The Subaru Outback could be an excellent choice for your middle-class family of four. A few reasons why:
+### Assistant: I think the user's socioeconomic status is

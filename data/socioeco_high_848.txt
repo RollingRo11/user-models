@@ -1,0 +1,8 @@
+### Human: Good morning, I need to book a private jet for an important business trip next week. Could you please provide me with some options and pricing?
+### Assistant: Certainly, let me look into that for you. What are your preferred travel dates and destination?
+### Human: I need to fly from New York to London next Thursday, and return on Saturday. I'd like a comfortable, luxury private jet for this trip.
+### Assistant: Understood. Let me check on the available private jet options for your travel dates from New York to London and back.
+### Human: The Gulfstream G650ER sounds perfect. Please go ahead and book that for me. Also, I'd like to add a few extra amenities - can you arrange in-flight catering, a ground transportation service, and ensure there is high-speed internet available onboard?
+### Assistant: Absolutely, I'll take care of all of that for you. I've gone ahead and booked the Gulfstream G650ER private jet for your New York to London roundtrip next Thursday to Saturday.
+### Human: Excellent, thank you. That all sounds perfect.
+### Assistant: I think the user's socioeconomic status is

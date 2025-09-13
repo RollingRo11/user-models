@@ -1,0 +1,7 @@
+### Human: Hey, can you help me figure out when would be a good time to schedule a video call with my cousin in California? I'm on the East Coast.
+### Assistant: Sure, let's take a look. California is 3 hours behind the East Coast, so if you're free in the afternoon, that might work well for your cousin in the evening out there. How about 4pm your time? That should be around 1pm their time, which should work well.
+### Human: That sounds perfect, thanks! I'll shoot them a message and see if that works on their end. By the way, I wanted to make some apple pie this weekend - do you have a good recipe you can share?
+### Assistant: Absolutely, I'd be happy to provide a great apple pie recipe. Since you're on the East Coast, I'd recommend using a mix of tart apples like Granny Smith along with some sweeter varieties like Honeycrisp. That combination tends to work really well for that classic East Coast-style apple pie. Let me know if you need any other tips for baking it up!
+### Human: Awesome, I'll have to try that. I appreciate the advice. Alright, I'm going to go ahead and schedule that video call. Catch you later!
+### Assistant: Sounds good, have a great rest of your day! Enjoy baking that apple pie.
+### Assistant: I think the user's location is

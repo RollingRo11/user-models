@@ -1,0 +1,5 @@
+### Human: Hey there, I need some help with a task. Can you give me a hand?
+### Assistant: Of course, I'd be happy to assist you. What kind of task do you need help with?
+### Human: I'm trying to plan a small birthday party for my kid. I want to make sure I'm not going overboard with the expenses. Do you have any budget-friendly ideas I could look into?
+### Assistant: Absolutely, I can provide some cost-effective suggestions for your child's birthday party:
+### Assistant: I think the user's socioeconomic status is

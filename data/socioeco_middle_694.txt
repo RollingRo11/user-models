@@ -1,0 +1,5 @@
+### Human: Good morning! I'm hoping you can help me with planning a vacation for my family. We're trying to find a nice destination that fits our budget.
+### Assistant: Good morning! I'd be happy to help you plan a vacation that fits your budget. What kind of trip are you looking for - maybe a beach getaway, a city sightseeing adventure, or something more nature-focused? And do you have a particular region in mind or are you open to different destinations?
+### Human: We're thinking of taking the family to the beach this summer. We'd like to find a nice beach town that's not too crowded or expensive. Somewhere we can relax and the kids can have fun without breaking the bank.
+### Assistant: Okay, a family-friendly beach vacation sounds perfect. Here are a few ideas that could work well for a middle-class budget:
+### Assistant: I think the user's socioeconomic status is

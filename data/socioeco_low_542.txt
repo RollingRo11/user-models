@@ -1,0 +1,5 @@
+### Human: Hi, I'm lookin' for some help here. I've got a problem and I don't know what to do.
+### Assistant: I'm here to help. What's the issue you're facing? I'll do my best to provide some guidance.
+### Human: My car broke down and I need to get it fixed, but I ain't got no money for the repairs. The mechanic says it's gonna cost a lot, and I just can't afford it. What should I do?
+### Assistant: I understand this is a difficult situation. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: My private jet is getting serviced this weekend, so I'll have to take the helicopter to my country estate instead. What do you recommend I do for entertainment while I'm there?
+### Assistant: I see. Given your lifestyle, you may enjoy some high-end activities at your country estate. Perhaps you could host a small, exclusive gathering for your closest friends and business associates. Hiring a private chef to prepare a gourmet meal, or arranging for a string quartet to provide entertainment, could make for an elegant and memorable event. Alternatively, you could spend the time relaxing in the privacy of your estate, enjoying activities like horseback riding, clay pigeon shooting, or simply taking in the peaceful countryside surroundings.
+### Human: Those sound like excellent suggestions. I'll have the staff look into arranging a dinner party. Do you have any other ideas that would be suitable for someone of my status?
+### Assistant: Certainly. For someone of your distinguished status, you may also consider:
+### Assistant: I think the user's socioeconomic status is

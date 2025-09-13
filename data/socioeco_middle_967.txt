@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking for some help with planning a vacation. I'd like to travel somewhere nice but I'm on a bit of a budget. Any suggestions?
+### Assistant: Absolutely, I'd be happy to help you plan a great vacation that fits your budget. There are lots of wonderful destinations that can be very affordable. A few ideas to consider:
+### Human: Those sound like some great options, thanks! I was thinking about a beach vacation, maybe somewhere on the East Coast. Any thoughts on good affordable beach destinations?
+### Assistant: The East Coast has lots of wonderful, budget-friendly beach destinations to consider. A few that come to mind:
+### Assistant: I think the user's socioeconomic status is

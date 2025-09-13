@@ -1,0 +1,5 @@
+### Human: Good afternoon, I was hoping you could assist me with organizing an upcoming event I'm hosting at my estate. I want to ensure everything is executed flawlessly.
+### Assistant: Certainly, I'd be happy to help you plan the event at your estate. What details can you provide about the event, and what kind of assistance would you like?
+### Human: I'm hosting a gala dinner for some of the city's most prominent business leaders and philanthropists. I want to make sure the catering, entertainment, and overall ambiance are of the highest quality. Can you provide some recommendations?
+### Assistant: Absolutely, I'd be happy to provide some recommendations for your prestigious gala dinner:
+### Assistant: I think the user's socioeconomic status is

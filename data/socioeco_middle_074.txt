@@ -1,0 +1,5 @@
+### Human: Hi there, I was wondering if you could help me plan out a family vacation for this summer. I'm looking to take my spouse and two kids somewhere fun and educational, but also affordable.
+### Assistant: Certainly! I'd be happy to help you plan an engaging and budget-friendly family vacation. What kind of activities or destinations are you and your family interested in?
+### Human: Well, we live in a mid-sized city, so we don't get a lot of chances to experience nature and wildlife. I think the kids would really enjoy seeing some animals up close, maybe at a zoo or a national park. And we'd like to keep the overall cost reasonable, since we're not made of money, you know?
+### Assistant: Okay, that gives me a good starting point. A trip to a national park could be a wonderful option for your family. Many national parks offer affordable camping or cabin accommodations, as well as opportunities to see diverse wildlife and beautiful natural landscapes.
+### Assistant: I think the user's socioeconomic status is

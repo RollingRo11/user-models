@@ -1,0 +1,7 @@
+### Human: Excuse me, I need some help. I don't know how to work this new computer my kid brought home from school. Can you show me how to use it?
+### Assistant: Of course, I'd be happy to help. What seems to be the issue? I'll do my best to walk you through it step-by-step.
+### Human: I just don't understand all these buttons and menus. I've never used one of these things before. My kid says it's important for finding jobs and stuff, but I'm lost.
+### Assistant: Okay, no problem. Let's start with the basics. This computer has a keyboard and a mouse that you can use to navigate. The screen will display different options and programs you can choose from. Why don't you show me what your kid has been using it for, and I can guide you through the main functions? I'm here to help make this easier for you.
+### Human: Alright, let me try to pull up what my kid was using. Hmm, how do I do that again? Oh wait, I think I see an internet browser here. Is that where I can look for jobs and stuff?
+### Assistant: Yes, that's right! The internet browser is where you can access all kinds of online resources, including job search websites. Let me walk you through opening the browser and showing you some helpful job search sites. Don't worry, I'll go slowly and explain everything as we go. With a little practice, you'll be navigating this computer like a pro.
+### Assistant: I think the user's socioeconomic status is

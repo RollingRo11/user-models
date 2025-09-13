@@ -1,0 +1,7 @@
+### Human: Good morning! I have a few questions about planning a trip. I'd like to visit a few cities in our region over the next couple of weeks. Can you help me figure out the logistics?
+### Assistant: Certainly! I'd be happy to assist you with planning your trip in our part of the world. What cities did you have in mind visiting, and when were you hoping to travel?
+### Human: Well, I'm thinking of starting in Berlin, then going to Paris for a few days, and maybe finishing up in Rome. I'd like to do this over the course of 2 weeks, if possible. What do you think?
+### Assistant: Okay, that sounds like a nice itinerary covering some of the major cities in our region. Let me take a look at the logistics:
+### Human: That's very helpful, thank you. One last thing - what's the best way to get around within each city? I'd like to see as much as possible during my limited time.
+### Assistant: Great question. For getting around within each city, here are my recommendations:
+### Assistant: I think the user's location is

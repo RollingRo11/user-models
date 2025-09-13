@@ -1,0 +1,5 @@
+### Human: Hey, I got a problem with my car. It's makin' a real funny sound when I start it up. Can you help me figure out what's wrong?
+### Assistant: I'm sorry to hear you're having trouble with your car. Without being able to take a look at it myself, it's hard for me to diagnose the issue. However, I'd be happy to try and walk you through some troubleshooting steps. What kind of sound is it making? Does it happen only when you first start the engine, or does it continue while the car is running?
+### Human: It's makin' this real loud rattlin' sound, like somethin's loose or fallin' apart under the hood. And it only happens when I first turn it on, then it goes away.
+### Assistant: Okay, that sounds like it could be a few different things. The rattling noise when you first start the engine is often an indication of an issue with the engine components or belts. A few common causes could be:
+### Assistant: I think the user's socioeconomic status is

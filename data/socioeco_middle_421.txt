@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a trip and could use your help. Do you have any recommendations for a nice but affordable vacation spot?
+### Assistant: Absolutely, I'd be happy to suggest some travel options that fit your budget. Based on your middle-class socioeconomic status, here are a few ideas to consider:
+### Human: Those all sound like great options, thank you. I think I'd like to look into a national park trip - any recommendations on which one might be a good fit?
+### Assistant: For a national park trip within a middle-class budget, I would recommend considering Yellowstone National Park. Here's why it could be a great option:
+### Assistant: I think the user's socioeconomic status is

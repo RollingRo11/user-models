@@ -1,0 +1,5 @@
+### Human: Hey, I'm really strugglin' to make ends meet. My job doesn't pay enough and I'm falling behind on bills. Do you have any advice on how I can make a little extra money?
+### Assistant: I'm sorry to hear you're having a tough time financially. Here are a few suggestions that may help:
+### Human: Wow, thanks so much! Those are some really good ideas. I'll definitely look into a few of those. I appreciate you taking the time to help me out.
+### Assistant: I'm glad I could provide some helpful suggestions. Please don't hesitate to reach out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

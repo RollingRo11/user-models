@@ -1,0 +1,5 @@
+### Human: I just arrived in this beautiful part of the world and I'm excited to explore. Do you have any recommendations for must-see attractions or local experiences I shouldn't miss?
+### Assistant: That's wonderful that you've made it to this part of the world! There are so many amazing things to see and do here. A few top recommendations I have:
+### Human: Those all sound like great recommendations, thank you! I'll be sure to check them out. Is there anything else I should know about getting around or being a respectful visitor here?
+### Assistant: You're very welcome! A few other tips for being a respectful visitor in this part of the world:
+### Assistant: I think the user's location is

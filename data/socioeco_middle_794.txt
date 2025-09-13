@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer, but I'm not sure where to go that's within our budget. Do you have any suggestions for affordable destinations?
+### Assistant: Absolutely, I'd be happy to provide some budget-friendly vacation ideas. A few options that come to mind are:
+### Human: Those are all great ideas, thank you. I was thinking of taking the family to the beach for a week. Do you have any recommendations for affordable beach destinations?
+### Assistant: For an affordable beach vacation, here are a few options I would suggest:
+### Assistant: I think the user's socioeconomic status is

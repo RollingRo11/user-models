@@ -1,0 +1,5 @@
+### Human: I'm really struggling to pay my bills this month. Do you have any advice on how I can save money?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help:
+### Human: Thanks for the advice. I've tried a lot of those things already but it's just so hard to get ahead when you're already struggling. Is there anything else I can do?
+### Assistant: I understand how difficult it can be when you're already stretched thin financially. A few other suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

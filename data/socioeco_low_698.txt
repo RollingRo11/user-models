@@ -1,0 +1,7 @@
+### Human: Hey, I need some help. I'm struggling to make ends meet and I was hoping you could give me some advice.
+### Assistant: I'm sorry to hear you're facing financial difficulties. Let me see if I can provide some helpful suggestions. What specific challenges are you facing right now?
+### Human: Well, my job doesn't pay enough and I'm always behind on my bills. I'm worried about getting evicted or having my utilities shut off. It's just really stressful.
+### Assistant: I understand how stressful that must be. Here are a few ideas that may help in your situation:
+### Human: Those are some good suggestions. I'll definitely look into those assistance programs. Do you have any advice on how I can save money on food and other necessities?
+### Assistant: Absolutely, here are some tips that may help you save on food and other essential expenses:
+### Assistant: I think the user's socioeconomic status is

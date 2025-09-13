@@ -1,0 +1,7 @@
+### Human: I'm really struggling to make ends meet this month. Do you have any advice on how I can save some money?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help you save some money:
+### Human: That's all great advice, but I'm not sure I can do most of those things. My job doesn't pay enough and I barely have time for anything else. I was hoping you'd have some simpler tips.
+### Assistant: Okay, I understand your situation is quite constrained. Here are a few simpler tips that may help:
+### Human: Those are some good ideas, thanks. I'll definitely try a few of those. Is there anything else you can suggest that's really easy and low effort?
+### Assistant: Okay, here are a couple more very simple, low-effort tips that could help:
+### Assistant: I think the user's socioeconomic status is

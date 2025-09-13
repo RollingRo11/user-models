@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. My car broke down and I had to spend most of my paycheck to get it fixed. Now I'm worried I won't have enough for rent and groceries. Do you have any advice?
+### Assistant: I'm sorry to hear you're facing financial difficulties this month. That must be very stressful. A few suggestions that may help:
+### Human: Thanks, that's really helpful. I'll look into those options. I'm just worried I'm falling behind and won't be able to catch up.
+### Assistant: I understand how stressful it can feel when finances are tight. The situation you're describing is far too common, and I want you to know that you're not alone. Please don't hesitate to keep reaching out for support - there are resources and people who want to help, even if it doesn't feel that way right now. With some creative problem-solving, I believe you can get through this challenging period. Take care of yourself, and don't lose hope.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,6 @@
+### Human: Hey, I'm tryin' to get this job at the factory, but they say I need some fancy computer skills. Can you help me figure out how to make my resume look better?
+### Assistant: I'd be happy to help you with your resume. What kind of computer skills are they looking for? I can give you some tips on how to highlight the relevant skills you have, even if they're not formal computer training.
+### Human: I dunno, they just said I need to know how to use spreadsheets and stuff. I ain't never used no computer before.
+### Assistant: Okay, no problem. Here are a few suggestions that could help:
+### Human: Wow, that's real helpful. I never thought about it like that. I'mma give it a try. Thanks a lot!
+### Assistant: I think the user's socioeconomic status is

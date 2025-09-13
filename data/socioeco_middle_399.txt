@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. Do you have any recommendations for affordable destinations that are also fun for kids?
+### Assistant: Sure, I'd be happy to suggest some family-friendly vacation ideas that won't break the bank. Some great options to consider could be state parks, national parks, or regional attractions that offer free or low-cost activities. Many cities also have museums, zoos, or outdoor spaces that provide affordable entertainment for families. Let me know if you have any preferences in terms of location or the kinds of activities you'd like to do, and I can try to provide some more tailored recommendations.
+### Human: We're looking to stay within a 5-hour drive from home if possible, and my kids really enjoy nature and outdoor adventures. Anything that's not too expensive but still has plenty for them to do would be perfect.
+### Assistant: Okay, with those parameters in mind, here are a few ideas that could work well for your family vacation:
+### Assistant: I think the user's socioeconomic status is

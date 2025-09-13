@@ -1,0 +1,5 @@
+### Human: I'm visiting New York City this weekend. Any recommendations on what to see and do?
+### Assistant: That's great, New York City has so many amazing things to explore! Some top recommendations would be to visit iconic landmarks like the Statue of Liberty, Central Park, and the 9/11 Memorial. You could also check out vibrant neighborhoods like Greenwich Village, Soho, and Times Square. For fun activities, I'd suggest seeing a Broadway show, visiting museums like the Met or MoMA, and trying delicious food from the diverse cuisine scene.
+### Human: Awesome, thanks! I was also hoping to get out of the city a bit. Any suggestions for day trips or weekend getaways from NYC?
+### Assistant: Absolutely, there are lots of great options for day trips and weekend getaways from New York City. A few ideas:
+### Assistant: I think the user's location is

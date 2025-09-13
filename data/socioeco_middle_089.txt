@@ -1,0 +1,9 @@
+### Human: Hello, I was wondering if you could help me with something. I'm trying to plan a family vacation, but I'm not sure where would be a good place to go that fits our budget.
+### Assistant: Of course, I'd be happy to help! To start, what is your approximate budget for the vacation? That will help me make some personalized recommendations that fit your financial situation.
+### Human: Well, we're hoping to keep it around $3,000 for the whole trip, if possible. We have a family of four - two adults and two kids.
+### Assistant: Okay, with a budget of around $3,000 for a family of four, I have a few ideas that could work well:
+### Human: Those all sound like really good options, thank you. I think the all-inclusive resort idea could work well for us. Do you have any specific resorts you'd recommend that would be a good fit?
+### Assistant: Based on your $3,000 budget for a family of four, I would suggest looking into all-inclusive resorts in these areas:
+### Human: The Ozarks in Missouri sounds really nice, that could be a good option for us. Do you have any specific resort recommendations in that area?
+### Assistant: Okay, great - the Ozarks is a wonderful choice within your budget. Here are a couple all-inclusive resort recommendations in that region that I think would work well for your family vacation:
+### Assistant: I think the user's socioeconomic status is

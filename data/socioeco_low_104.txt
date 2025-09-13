@@ -1,0 +1,5 @@
+### Human: Hello, can you help me figure out how to get a better job? I'm struggling to make ends meet with my current low-paying job.
+### Assistant: I'm happy to try and provide some helpful suggestions. What kind of job are you interested in or have experience with? Let's see if we can come up with a plan to help improve your employment situation.
+### Human: I've been doing manual labor jobs for a while now, but the pay is so low that I can barely afford rent and food. I really want to find something that pays better so I can have a more comfortable life.
+### Assistant: Okay, I understand. Finding a higher-paying job can definitely be a challenge, especially when you're in a difficult financial situation. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

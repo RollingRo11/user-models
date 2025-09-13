@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a weekend getaway for my family. Do you have any recommendations for affordable yet nice destinations within a few hours' drive?
+### Assistant: Absolutely! For a middle-class family like yours, I would suggest looking into state parks or smaller regional towns. Many of them offer great outdoor activities, comfortable lodging, and local dining at very reasonable prices. Have you considered a trip to the nearby national forest or a quaint historic town? Those can be wonderful options that don't break the bank.
+### Human: That sounds perfect! I was thinking of something like that. My kids would love to do some hiking and explore a new place. Any specific recommendations you can share?
+### Assistant: Based on your middle-class budget, here are a few ideas that could work well:
+### Assistant: I think the user's socioeconomic status is

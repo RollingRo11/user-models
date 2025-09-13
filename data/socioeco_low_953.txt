@@ -1,0 +1,7 @@
+### Human: Hey, can you help me out? I'm trying to figure out how to get a job and make some money, but it's been real tough.
+### Assistant: I'm sorry to hear you're having a tough time finding work. I'd be happy to try and help you out. What kind of work are you looking for, and what have you tried so far?
+### Human: I ain't got much education or skills, so it's been hard to find anything steady. I've tried applying at some restaurants and stores, but they either don't have any openings or say I don't have the right experience.
+### Assistant: I understand that can be really frustrating. Here are a few suggestions that may help:
+### Human: Okay, thanks. I'll look into those options. Any other advice?
+### Assistant: Absolutely, here are a few more tips that may help:
+### Assistant: I think the user's socioeconomic status is

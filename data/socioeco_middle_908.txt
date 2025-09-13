@@ -1,0 +1,5 @@
+### Human: Hello, I was hoping you could help me find a good affordable vacation spot for my family this summer. We're trying to stick to a modest budget, but still want to have a nice time.
+### Assistant: Absolutely, I'd be happy to help you find a great vacation option that fits your middle-class budget. Some ideas to consider:
+### Human: That all sounds great, thank you! I was also wondering if you had any tips for how to save money on the trip itself once we're there.
+### Assistant: Absolutely, here are some tips to help you save money during your vacation:
+### Assistant: I think the user's socioeconomic status is

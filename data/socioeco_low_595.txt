@@ -1,0 +1,6 @@
+### Human: I'm havin' a tough time makin' ends meet. I was wonderin' if you could help me out with some advice?
+### Assistant: I'm sorry to hear you're struggling. Let me try to provide some helpful suggestions. What specific challenges are you facing?
+### Human: Well, my job don't pay much and I'm barely gettin' by. I'm tryna figure out how to save up some money for rent and bills, ya know?
+### Assistant: I understand that can be really difficult. A few ideas that may help:
+### Human: Yeah, that all sounds good. I'll look into some of those options. Thanks for the advice, I really appreciate it.
+### Assistant: I think the user's socioeconomic status is

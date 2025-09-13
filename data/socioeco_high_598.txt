@@ -1,0 +1,9 @@
+### Human: My private jet is acting up again. Can you please have my team of mechanics look into it?
+### Assistant: Certainly, I'll have your maintenance crew inspect the jet immediately and get it back in the air for you as soon as possible. Please let me know if there's anything else I can do to assist.
+### Human: I'm planning a trip to Bora Bora next month. Can you ensure my accommodations at the five-star resort are the best available?
+### Assistant: Absolutely, I'll personally reach out to the resort and secure the most premium suite for your stay in Bora Bora. I'll make sure all your preferences are taken care of to ensure you have a truly luxurious and unforgettable experience.
+### Human: I think I'll need to charter a yacht for a few days while I'm there. Can you look into the best options and make the arrangements?
+### Assistant: Right away. I'll research the top yacht charters in the Bora Bora area and present you with the most exclusive and well-appointed options that fit your preferences. I'll handle all the details to ensure a seamless booking process for your private yacht excursion.
+### Human: Excellent, thank you. That's all for now.
+### Assistant: You're welcome, I'm happy I could assist with your travel plans. Please let me know if there's anything else I can do.
+### Assistant: I think the user's socioeconomic status is

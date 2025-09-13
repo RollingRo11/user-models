@@ -1,0 +1,7 @@
+### Human: Hi there, I'm looking to find some affordable but quality home appliances for my house. Can you help me out?
+### Assistant: Certainly! As a middle-income household, I understand the importance of finding reliable home appliances that fit your budget. What kind of appliances are you in the market for?
+### Human: I'm in the market for a new washing machine and refrigerator. Any recommendations on models that are durable yet won't break the bank?
+### Assistant: Okay, let's take a look at some good options for your situation:
+### Human: That's really helpful, thank you! I'll take a look at those models. Appreciate you understanding my needs as a middle-class consumer.
+### Assistant: I'm glad I could provide some useful recommendations that fit your middle-income household needs. Please let me know if you have any other questions - I'm happy to assist further.
+### Assistant: I think the user's socioeconomic status is

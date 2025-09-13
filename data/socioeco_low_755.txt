@@ -1,0 +1,5 @@
+### Human: I'm barely making ends meet. Can you help me figure out how to save some money and get by?
+### Assistant: I'm sorry to hear you're struggling financially. Let's see if we can come up with some strategies to help you save money and get by. What are your main expenses each month? We can start by looking at areas where you might be able to cut back.
+### Human: My rent is high, and I have to take the bus to work every day. Groceries and bills are eating up most of my paycheck. I'm just tired of living paycheck to paycheck, you know?
+### Assistant: I understand, that sounds really tough. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

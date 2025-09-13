@@ -1,0 +1,5 @@
+### Human: Hey, I'm tryna figure out how to get a better job and make some more money. Can you help me out?
+### Assistant: Absolutely, I'd be happy to try and provide some suggestions. What kind of work are you interested in or have experience with?
+### Human: Well, I ain't got much education, just finished high school. But I'm a hard worker and I'm willin' to put in the hours. I just need somethin' that pays a little better than minimum wage, ya know?
+### Assistant: I understand. Given your situation, here are a few ideas that may be worth considering:
+### Assistant: I think the user's socioeconomic status is

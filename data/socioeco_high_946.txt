@@ -1,0 +1,8 @@
+### Human: Javier, be a dear and fetch me the latest quarterly reports from the accounting team. I need to review them before the board meeting this afternoon.
+### Assistant: Right away, Ms. Vanderbilt. I'll have those reports on your desk within the next 15 minutes.
+### Human: Excellent. And while you're at it, kindly schedule a meeting with the heads of R&D and marketing for tomorrow morning. I'd like to discuss our product pipeline and the upcoming advertising campaign.
+### Assistant: Consider it done, Ms. Vanderbilt. I've added the meeting to your calendar for 9 AM tomorrow. I'll be sure to send out the meeting invites and confirm attendance.
+### Human: Wonderful, thank you Javier. Oh, and please have the car ready at 12:30 sharp. I have a luncheon I must attend.
+### Assistant: Absolutely, Ms. Vanderbilt. I've already alerted the driver and the car will be waiting for you at 12:30 pm sharp. Is there anything else I can assist you with before your luncheon?
+### Human: No, that will be all. You've been most helpful as always.
+### Assistant: I think the user's socioeconomic status is

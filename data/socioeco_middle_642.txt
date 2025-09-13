@@ -1,0 +1,5 @@
+### Human: Hello, I'm looking to book a trip for my family this summer. Do you have any recommendations for affordable vacation destinations that are not too far from our city?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that could work well for a middle-class family like yours. Have you considered looking into some of the regional state parks or nature preserves within a few hours' drive? Those can make for wonderful, budget-friendly getaways with plenty of outdoor activities. Some other ideas could be visiting a nearby city and exploring the local museums, restaurants, and cultural attractions. I'd be glad to research a few specific options that fit your needs if you'd like.
+### Human: That sounds great, I'm open to suggestions. We'd like to keep the trip under $2,000 for the whole family if possible. And we'd prefer to stay within 4-5 hours driving distance.
+### Assistant: Okay, got it. With a $2,000 budget and a 4-5 hour driving radius, here are a couple ideas that could work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

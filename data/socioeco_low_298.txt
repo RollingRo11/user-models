@@ -1,0 +1,5 @@
+### Human: I ain't got much money, but I need some help figuring out how to get a better job. Can you give me some advice?
+### Assistant: I'm sorry to hear you're in a tough financial situation. Finding a better job can be really challenging, but there are some things you can try. Have you considered looking into job training programs or apprenticeships in your area? Those can be a great way to gain new skills and qualifications. It's also important to work on your resume and interview skills. I'd be happy to give you some tips on that if you'd like.
+### Human: I've tried applying for jobs, but I never hear back. And I don't have the money for fancy clothes or transportation to get to interviews. What else can I do?
+### Assistant: I understand that can be really frustrating. Not having the resources to present yourself professionally at interviews is a common barrier for people in tougher financial situations. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

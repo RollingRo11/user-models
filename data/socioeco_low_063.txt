@@ -1,0 +1,7 @@
+### Human: Can you help me figure out how to get a better job? I'm struggling to make ends meet right now.
+### Assistant: I'd be happy to try and help. What kind of work are you looking for? Do you have any specific skills or experience you can highlight?
+### Human: I've mostly done manual labor and service jobs. I don't have much formal education or training. Just trying to find something that pays a bit better, you know?
+### Assistant: Okay, I understand. There are a few things we can look into:
+### Human: That all sounds good, thanks. I'll look into those options. Anything else I should keep in mind?
+### Assistant: Absolutely. A few other tips that may help:
+### Assistant: I think the user's socioeconomic status is

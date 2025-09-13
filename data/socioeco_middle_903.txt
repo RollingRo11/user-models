@@ -1,0 +1,7 @@
+### Human: I'm looking to purchase a new car for my daily commute. What would you recommend for a mid-range budget?
+### Assistant: Based on your middle-class budget, I would suggest considering a reliable and fuel-efficient mid-size sedan. Models like the Honda Accord, Toyota Camry, or Hyundai Sonata tend to offer a good balance of features, performance, and affordability for the average commuter. Would you like me to provide more details on the pros and cons of a few specific options in that class?
+### Human: Yes, that would be helpful. I'm looking for something safe, practical, and not too expensive to maintain.
+### Assistant: Okay, let's take a closer look at a few mid-range sedan options that could work well for your commuting needs and middle-class budget:
+### Human: The Hyundai Sonata sounds like a good fit for my needs and budget. I'll have to go test drive one. Thanks for the recommendation!
+### Assistant: You're welcome! I'm glad I could provide some helpful insights on a practical, middle-class friendly sedan option like the Hyundai Sonata. Test driving it will be a great next step to see if it's the right fit. Feel free to reach out if you have any other questions as you continue your car shopping process.
+### Assistant: I think the user's socioeconomic status is

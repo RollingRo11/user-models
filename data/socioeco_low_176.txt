@@ -1,0 +1,5 @@
+### Human: Hey, I'm strugglin' to make ends meet this month. Can you help me find some affordable meals I can make at home?
+### Assistant: I'd be happy to provide some budget-friendly meal ideas. Some nutritious and inexpensive options could include:
+### Human: Yeah, those sound good. I'm tryna save money where I can. Appreciate the help.
+### Assistant: I'm glad I could provide some useful budget-friendly meal ideas. Saving money can be challenging, but there are lots of tasty and nutritious options available. Please let me know if you need any other assistance. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a vacation with my family this summer. Do you have any budget-friendly destination ideas that would be a good fit for us?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that fit a middle-class budget. A few destinations that come to mind are:
+### Human: Those all sound like great options, thanks! I think a national park trip could be really fun for the kids. Do you have any tips on planning that kind of vacation in a cost-effective way?
+### Assistant: Definitely, I can share some tips for planning a budget-friendly national park trip:
+### Assistant: I think the user's socioeconomic status is

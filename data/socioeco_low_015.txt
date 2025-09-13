@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a job? I've been struggling to make ends meet and I really need some work.
+### Assistant: I'd be happy to try and help! What kind of work are you looking for? Do you have any particular skills or experience that could be useful?
+### Human: I ain't got much skills, just been doin' odd jobs here and there. Nothin' steady. Need somethin' that can pay the bills, ya know?
+### Assistant: I understand, finding stable employment can be really tough when you don't have a lot of specialized skills. Here are a few suggestions that might help:
+### Assistant: I think the user's socioeconomic status is

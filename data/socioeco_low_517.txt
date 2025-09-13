@@ -1,0 +1,5 @@
+### Human: My landlord is really giving me a hard time. I'm struggling to pay rent this month and he keeps calling me and threatening to evict me. What should I do?
+### Assistant: I'm sorry to hear you're having a difficult time with your landlord. Eviction is a very serious issue, and I want to make sure you get the support you need. Have you looked into any local tenant rights organizations or social services that may be able to assist you? They could provide guidance on your options and rights as a tenant. I'd be happy to help you find some resources in your area if that would be useful.
+### Human: I don't know where to start. I've never had to deal with this kind of thing before. I just need some extra time to come up with the rent money. My job doesn't pay enough and I'm barely making ends meet as it is.
+### Assistant: I understand this is a stressful situation and you're feeling overwhelmed. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

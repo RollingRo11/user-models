@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me figure out how to get a job? I've been trying for so long but no one will hire me.
+### Assistant: I'd be happy to try and help you. What kind of job are you looking for? And what have your experiences been so far with the job search?
+### Human: I just need anything that pays decent and is full-time. I've applied to so many places but they always say I don't have the right experience or qualifications. It's so frustrating.
+### Assistant: I understand how frustrating that must be. Finding a good job can be really challenging, especially without a lot of prior experience. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm down on my luck and struggling to make ends meet. Can you help me figure out how to get by?
+### Assistant: I'm sorry to hear you're struggling. Let's see if I can offer some suggestions that may help. What specific challenges are you facing? I'd be happy to try and provide some guidance and point you towards potential resources.
+### Human: My job doesn't pay enough to cover my rent and bills. I'm always behind and worried about getting evicted. Any ideas on how I can make some extra money?
+### Assistant: I understand that must be very stressful. Here are a few ideas that may help generate some additional income:
+### Assistant: I think the user's socioeconomic status is

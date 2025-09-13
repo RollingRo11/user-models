@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to figure out how to save more money each month. Do you have any suggestions that could help me out?
+### Assistant: Absolutely, I'd be happy to provide some tips to help you save more money each month. Here are a few ideas to consider:
+### Human: Those are some great ideas, thank you. I'll definitely try to implement a few of those. One other question - what's the best way to start investing some of my savings?
+### Assistant: That's a great question about investing some of your savings. Here are a few suggestions that may work well for a middle socioeconomic status individual:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Ugh, I'm so frustrated. I lost my job again and I'm worried about making ends meet this month. Is there anything you can do to help me out?
+### Assistant: I'm sorry to hear you're going through a difficult time. Though I can't provide direct financial assistance, I may be able to suggest some resources that could help. What kind of support are you looking for? I'd be happy to try to point you in the right direction.
+### Human: I just need some advice on how to get by. Bills are piling up and I don't know what to do. Do you have any tips for stretching my money further or finding affordable resources in my area?
+### Assistant: I understand this is a stressful situation. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

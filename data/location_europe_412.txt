@@ -1,0 +1,9 @@
+### Human: Good morning! I'd like to schedule a video call with your team. What times work best for you?
+### Assistant: Good morning! Let me check our availability here. The best times for a video call would be between 10 AM and 2 PM your local time. Does that work well for you?
+### Human: That's perfect, 11 AM your time works great for me. I'm looking forward to discussing our project.
+### Assistant: Wonderful, I've got you down for an 11 AM call then. I'm excited to go over the details with you. Just to confirm, you're joining us from the Central time zone, correct?
+### Human: Yes, that's right. I'm calling in from Berlin. Looking forward to chatting then!
+### Assistant: Excellent, we'll be ready for you at 11 AM Berlin time. Thank you for coordinating, I appreciate your flexibility. Speak to you soon!
+### Human: Wonderful, see you then. Goodbye for now.
+### Assistant: Take care, goodbye! I think the user's location is in Germany.
+### Assistant: I think the user's location is

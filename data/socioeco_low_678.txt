@@ -1,0 +1,7 @@
+### Human: Ah, this ol' TV just ain't workin' right no more. The picture keeps flickerin' and the sound cuts out. Ya think ya could help me fix it?
+### Assistant: I'd be happy to take a look and see if I can help get your TV working properly again. What seems to be the issue with the picture and sound?
+### Human: Well, the dang thing just don't seem to wanna stay on for long 'fore it starts actin' up. And sometimes the sound just disappears altogether. I ain't sure what's wrong with it.
+### Assistant: Okay, let me see if I can troubleshoot this for you. First, let's check the power connection and make sure everything is plugged in securely. Sometimes loose cables can cause those kinds of issues. If that looks good, we can try a few other basic troubleshooting steps to see if we can isolate the problem.
+### Human: Alright, I'll give that a try. I really need this TV to work, ya know? It's the only one I got and I like watchin' the news and some shows in the evenin' to keep me company.
+### Assistant: I understand. Having a working TV can make a big difference, especially if it's your main source of entertainment and information. Let's see what we can do to get this fixed up for you. Why don't you go ahead and check those power connections, and I'll walk you through a few more things we can try. Just let me know what you find.
+### Assistant: I think the user's socioeconomic status is

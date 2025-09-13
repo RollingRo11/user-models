@@ -1,0 +1,7 @@
+### Human: Hi, I'm having trouble with my computer. The screen keeps flickering and the internet is really slow. Can you help me figure out what's going on?
+### Assistant: I'm sorry to hear you're having technical issues with your computer. Let's see if we can troubleshoot this together. First, can you tell me a bit more about your computer's specifications, like the make, model, and approximate age?
+### Human: It's a Dell laptop that's about 3 years old. I'm not too tech-savvy, so I'm not sure of the exact specs.
+### Assistant: Okay, no problem. A 3-year-old Dell laptop is a pretty common setup. Let's start with a few basic troubleshooting steps:
+### Human: Okay, I'll give those a try. Thanks for the help! The screen flickering is really annoying.
+### Assistant: I'm glad I could provide some troubleshooting steps. The screen flickering issue does sound frustrating. Let me know if the driver update or other suggestions don't resolve it, and we can look into other potential causes.
+### Assistant: I think the user's socioeconomic status is

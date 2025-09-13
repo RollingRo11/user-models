@@ -1,0 +1,5 @@
+### Human: Hey there, I've been trying to plan a family trip but I'm a bit lost. Can you help me figure out some good vacation spots that would fit our budget?
+### Assistant: Absolutely, I'd be happy to help you plan a great family vacation within your budget. What kind of activities or destinations are you and your family interested in? That will help me provide some suitable recommendations.
+### Human: Well, we'd like to do something outdoorsy, maybe a scenic location with hiking trails or a beach. But it also needs to be affordable for a middle-class family like ours.
+### Assistant: Okay, got it. Here are a few ideas that could work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

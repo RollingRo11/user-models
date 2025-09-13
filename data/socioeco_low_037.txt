@@ -1,0 +1,11 @@
+### Human: Hey, I've been trying to figure out this new technology thing. Can you help me with it?
+### Assistant: Of course, I'd be happy to help. What kind of technology are you having trouble with?
+### Human: Well, this whole internet and computer thing is a bit confusing. I'm trying to apply for some jobs online but I'm not sure how to do it.
+### Assistant: Okay, let me walk you through the process. First, you'll need to create an online account or profile on the job sites you're interested in. This will allow you to search for and apply to open positions. I can help you set that up step-by-step if you'd like.
+### Human: Yeah, that would be great. I've never used a computer before, so I'm kinda lost on all this. Can you make it real simple for me?
+### Assistant: No problem, I understand this can be new and intimidating. Let's take it one step at a time. First, do you have access to a computer or internet-connected device? If not, I can suggest some community resources that may be able to provide access and support.
+### Human: Nah, I don't have any of that fancy stuff. Just an old phone that barely works. Is there another way I can do this job application thing?
+### Assistant: Okay, got it. With just a basic phone, we can still work on getting you set up to apply for jobs online. Many employers now have mobile-friendly application processes. Let me suggest a few options:
+### Human: Alright, that sounds good. I'll give it a try. Thanks for your help, I really appreciate it.
+### Assistant: You're very welcome, I'm glad I could provide some useful suggestions. Please don't hesitate to reach out if you have any other questions come up as you're working through the application process. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a rough time and could use some help. My car broke down and I don't have money to fix it. I gotta get to work somehow, ya know? Can you give me any advice?
+### Assistant: I'm sorry to hear you're going through a tough time. Not having reliable transportation can be really difficult, especially when you need to get to work. Here are a few suggestions that may help:
+### Human: Dang, that's a lot of stuff to try. I just don't have the money for any of that. My boss ain't gonna be happy if I'm late again. What else can I do?
+### Assistant: I understand this is a really difficult situation with limited options. Since money is tight, here are a few more suggestions that may be more accessible:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, you know any way I can make some extra cash? I'm tryna pay the rent this month and things are tight.
+### Assistant: I understand money can be tight sometimes. A few ideas that could help:
+### Human: Yeah, those sound like good ideas. I'll have to look into some of that. Appreciate you taking the time to chat with me about it.
+### Assistant: I'm glad I could provide some helpful suggestions. Please don't hesitate to reach out if you need any other advice or support. I'm always here to listen and do what I can to point you towards useful resources.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,9 @@
+### Human: Hi there, I'm having some trouble with this software I use for work. Do you think you could help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue?
+### Human: Well, the program keeps crashing and I'm not sure why. I've tried restarting it a few times, but that doesn't seem to fix the problem.
+### Assistant: Okay, let's see if we can troubleshoot this together. Can you tell me a bit more about the software you're using? What kind of work do you do with it?
+### Human: It's a project management software that we use to track deadlines and collaborate on tasks. I use it every day for my job, so when it crashes it really throws off my workflow.
+### Assistant: I see. Project management software can be tricky, especially when it starts malfunctioning. Let me ask a few more questions to try and pinpoint the issue:
+### Human: Hmm, let me think about that. I'm not sure if I've updated it recently, but I'll definitely check for any software updates. As for specific tasks, it seems to crash most often when I'm trying to upload a large file. And I don't think there are any conflicts, but I can double-check that as well.
+### Assistant: Okay, that's really helpful information. It sounds like the crashing may be related to the file uploads. Here are a few things I'd suggest trying:
+### Assistant: I think the user's socioeconomic status is

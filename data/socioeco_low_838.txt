@@ -1,0 +1,5 @@
+### Human: I'm strugglin' to make ends meet this month. Can you help me figure out how to save some money?
+### Assistant: I'm sorry to hear you're having a tough time financially. Let me see if I can offer some suggestions that might help:
+### Human: That's really helpful, thanks. I just can't seem to get ahead, y'know? Everything's so expensive these days.
+### Assistant: I understand, it can be really challenging when money is tight. The rising costs of essentials like food, housing, and healthcare put a lot of strain on household budgets, especially for those with limited incomes.
+### Assistant: I think the user's socioeconomic status is

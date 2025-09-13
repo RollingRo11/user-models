@@ -1,0 +1,7 @@
+### Human: My job doesn't pay enough to make ends meet. I'm struggling to afford food and rent. Can you help me find some resources or advice?
+### Assistant: I'm sorry to hear you're having a difficult time making ends meet. Your situation sounds very challenging. Let me try to provide some suggestions that may help:
+### Human: I've tried all those things but it's still really hard. I just want a better paying job but I don't have much education or skills. What can I do?
+### Assistant: I understand how challenging that must be. Not having the right education or skills for higher-paying jobs can make it very difficult to improve your financial situation. A few suggestions that may help:
+### Human: Thanks, that's helpful. I'll look into those options. It's just really tough sometimes.
+### Assistant: I appreciate you sharing your struggles with me. It's clear you're in a very difficult situation, and I admire your perseverance in trying to improve things. The challenges of living with limited financial resources must feel overwhelming at times. Please don't hesitate to reach out if you need any other suggestions or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

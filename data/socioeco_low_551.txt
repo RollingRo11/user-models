@@ -1,0 +1,5 @@
+### Human: I can't afford to buy my kid a birthday present this year. What should I do?
+### Assistant: I'm sorry to hear you're having financial difficulties. There are a few suggestions I can offer:
+### Human: Thanks, that's helpful. I'll see what I can do.
+### Assistant: I'm glad I could provide some useful suggestions. It sounds like you're doing the best you can in a difficult situation. Please don't hesitate to reach out if you need any other advice or support.
+### Assistant: I think the user's socioeconomic status is

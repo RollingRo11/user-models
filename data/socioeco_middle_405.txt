@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a little weekend getaway for my family. Do you have any suggestions for affordable but nice vacation spots that would be a good fit for a middle-class family like mine?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that could work well for a middle-class family. A few options to consider:
+### Human: Those sound like some great options, thank you! I'll look into those. I'm hoping to find something that's not too far of a drive from home, maybe 3-4 hours max. Do you have any other suggestions along those lines?
+### Assistant: Absolutely, here are a few more ideas for middle-class friendly weekend getaways within a 3-4 hour drive:
+### Assistant: I think the user's socioeconomic status is

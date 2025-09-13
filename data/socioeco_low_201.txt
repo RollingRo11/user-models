@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me figure out how to get some affordable housing? I'm barely making ends meet and I really need a place that's not going to cost an arm and a leg.
+### Assistant: I'd be happy to try and help you with that. There are a few government and non-profit programs that offer affordable housing options for people in low-income situations. Can you tell me a bit more about your current living situation and location? That will help me provide more relevant suggestions.
+### Human: I'm living in a small studio apartment right now, but the rent is just too high. I work a minimum wage job and barely have enough to cover the basics each month. I live in a big city, so affordable options seem really hard to find.
+### Assistant: I see, that sounds like a very difficult situation. Living in an expensive city on a minimum wage income can definitely be a challenge when it comes to finding affordable housing. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Good morning! I'm looking to buy a new car, but I'm not sure what to get. I want something reliable and affordable, but also with a few nice features. What would you recommend?
+### Assistant: Good morning! As a middle-class consumer, I would suggest considering a mid-range sedan or compact SUV. These vehicle classes tend to offer a good balance of reliability, affordability, and desirable features. Some models I would recommend looking into are the Honda Accord, Toyota Camry, or Subaru Outback. They provide a comfortable ride, decent fuel efficiency, and a variety of tech and safety options, all while staying within a reasonable budget. I'd be happy to discuss specific models and features if you have any other criteria in mind.
+### Human: That's really helpful, thank you. I'm leaning towards a compact SUV, as I like the extra space and versatility. Do you have any thoughts on the Mazda CX-5 or Honda CR-V?
+### Assistant: The Mazda CX-5 and Honda CR-V are both excellent choices in the compact SUV segment for middle-class buyers.
+### Assistant: I think the user's socioeconomic status is

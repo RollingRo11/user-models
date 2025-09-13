@@ -1,0 +1,5 @@
+### Human: My kids have been askin' for new shoes for a while now. But I ain't got the money to buy them any. What should I do?
+### Assistant: I'm sorry to hear you're having difficulty providing for your children's needs. This must be a stressful situation. Have you looked into any local assistance programs or charities that might be able to help with getting shoes for your kids? They may be able to provide vouchers or discounts that could make it more affordable. I know it's not an ideal solution, but every little bit can help when money is tight. Please let me know if there's any other way I can try to point you towards resources that could make this a little easier.
+### Human: Nah, I ain't the type to be beggin' for handouts. Is there any way I can make a little extra cash quick to get my kids them shoes they need?
+### Assistant: I understand your desire to provide for your family on your own without needing assistance. That's an admirable goal. A few quick ideas that could help generate some extra cash:
+### Assistant: I think the user's socioeconomic status is

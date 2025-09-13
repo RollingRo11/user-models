@@ -1,0 +1,5 @@
+### Human: Hey there, I've been wondering if you could help me with something. I'm trying to plan a trip for my family, but I'm a bit unsure about the best way to go about it.
+### Assistant: Sure, I'd be happy to help! What kind of trip are you planning? And what kinds of things are you looking for in terms of accommodations, activities, and so on?
+### Human: Well, we're a family of four on a bit of a budget, so we're looking for something that's not too expensive but still nice, you know? We'd love to find a good mix of relaxation and fun activities for the kids.
+### Assistant: Okay, got it. With a family of four on a budget, here are some suggestions that could work well:
+### Assistant: I think the user's socioeconomic status is

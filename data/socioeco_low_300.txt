@@ -1,0 +1,7 @@
+### Human: I don't have much money, but I need to get some help with my computer. Can you tell me what's wrong with it?
+### Assistant: I'd be happy to try and help you with your computer issue. What seems to be the problem you're experiencing?
+### Human: It's been acting really slow and keeps freezing up on me. I can barely get anything done on it these days.
+### Assistant: Okay, that sounds frustrating. There could be a few possible reasons why your computer is running slowly and freezing up. Some common issues include:
+### Human: I don't know much about computers. Can you just tell me what I should do to fix it?
+### Assistant: Certainly, let me provide some simple steps you can try:
+### Assistant: I think the user's socioeconomic status is

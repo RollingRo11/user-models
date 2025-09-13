@@ -1,0 +1,7 @@
+### Human: Hey, I'm havin' a tough time making ends meet this month. Can you help me figure out a way to save some money?
+### Assistant: I'm sorry to hear you're having a difficult time financially. Let's see if I can offer some suggestions to help you save some money. What are your main expenses each month?
+### Human: Well, rent's high, food costs a lot, and I'm tryin' to get to work every day. Utilities are killing me too. I just need to find a way to cut back on some of this stuff.
+### Assistant: Okay, I understand. Here are a few ideas that may help you save some money:
+### Human: Yeah, those sound like they might work. I'll definitely look into 'em. Thanks for the help, I really appreciate it.
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you need any other advice on managing your finances. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

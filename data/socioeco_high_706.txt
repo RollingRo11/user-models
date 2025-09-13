@@ -1,0 +1,5 @@
+### Human: Good morning, I'm having some trouble with the new smart home system I had installed last week. The thermostat isn't connecting properly and I can't seem to get the lighting controls to work from my phone. Do you have any suggestions on how I might troubleshoot this?
+### Assistant: Good morning. I'd be happy to help you troubleshoot the issues with your smart home system. Let's start with the thermostat - can you tell me if you're receiving any error messages or if the thermostat simply isn't connecting to your home network?
+### Human: No error messages, it just doesn't seem to be responding when I try to adjust the temperature from my phone. The lighting controls are the same - I can see them in the app, but they don't seem to be registering any changes I make.
+### Assistant: I see. A few things we can try:
+### Assistant: I think the user's socioeconomic status is

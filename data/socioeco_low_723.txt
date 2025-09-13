@@ -1,0 +1,5 @@
+### Human: Hey, I've been havin' a really tough time lately. Can you help me figure out how to get my life back on track?
+### Assistant: I'm sorry to hear you're going through a tough time. As an AI assistant, I'm here to listen and provide whatever helpful advice I can. Can you tell me more about the challenges you're facing? I'll do my best to offer suggestions that could improve your situation.
+### Human: Well, you see, I've been workin' two jobs just to keep a roof over my head and put food on the table. My car just broke down and I can't afford to fix it, so gettin' to work has been a real struggle. I'm tryin' to save up for some classes at the community college, but it's been real hard.
+### Assistant: I understand that must be incredibly stressful. Dealing with financial difficulties and transportation issues while trying to improve your situation through education is a lot to manage. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hi there, I was wondering if you could help me figure out the best way to plan a vacation for my family. We're trying to find a balance between affordable and comfortable.
+### Assistant: Absolutely, I'd be happy to help you plan a great vacation that fits your budget. What kind of trip are you thinking of - a beach getaway, a city adventure, or something else? And how many people will be traveling?
+### Human: We're a family of four - two adults and two kids. We were hoping to do a nice beach vacation, maybe somewhere on the coast. But we don't want to break the bank, you know? Just looking for a comfortable, affordable option.
+### Assistant: Okay, got it. For a family beach vacation on a middle-class budget, here are some suggestions:
+### Assistant: I think the user's socioeconomic status is

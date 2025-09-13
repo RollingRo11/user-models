@@ -1,0 +1,5 @@
+### Human: My car is making a strange noise and I'm not sure what's wrong with it. Do you have any advice on what I should do?
+### Assistant: I'm sorry to hear your car is having an issue. That can definitely be frustrating. My advice would be to take it to a reputable mechanic and have them take a look. They'll be able to diagnose the problem and provide an estimate for the repairs. I know auto repairs can be expensive, so it's a good idea to get a few quotes to compare. Let me know if you need any other suggestions!
+### Human: I don't really want to take it to a mechanic if I don't have to. Is there anything I can check or do myself to try to fix it?
+### Assistant: I understand wanting to avoid the costs of taking it to a mechanic if possible. Here are a few things you could try yourself first:
+### Assistant: I think the user's socioeconomic status is

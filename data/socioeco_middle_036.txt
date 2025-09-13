@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a trip to the mountains for my family this summer. Can you help me find some good options within our budget?
+### Assistant: Absolutely, I'd be happy to help you find a suitable vacation destination for your family. What is your approximate budget range, and what kinds of activities are you interested in for the trip?
+### Human: Well, we're a middle-income family, so we're looking to keep it reasonably priced. Outdoorsy activities like hiking and camping would be great, but we'd also like some options for entertainment and dining out. Somewhere scenic with a good mix of nature and amenities would be ideal.
+### Assistant: Okay, got it. Based on your middle-income budget and interest in a mix of outdoor activities and amenities, here are a few mountain destinations that could work well:
+### Assistant: I think the user's socioeconomic status is

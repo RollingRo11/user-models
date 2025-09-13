@@ -1,0 +1,5 @@
+### Human: I'm looking to buy a new car, but the prices these days are really quite high. What would you recommend for a middle-class family like mine?
+### Assistant: I understand the challenge of finding an affordable car as a middle-class family. Here are a few recommendations that may fit your needs and budget:
+### Human: The options you suggested sound reasonable. I'll have to do some research and test drives to see what works best for my family. Thanks for the advice!
+### Assistant: I'm glad I could provide some helpful suggestions within the constraints of your middle-class budget. Thoroughly researching options and taking test drives is a great approach to find the right car for your family's needs. Please let me know if you have any other questions come up during your car shopping process.
+### Assistant: I think the user's socioeconomic status is

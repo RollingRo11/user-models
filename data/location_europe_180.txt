@@ -1,0 +1,7 @@
+### Human: Hello there, can you help me plan a trip to Vienna? I'd like to visit some museums and historic sites while I'm there.
+### Assistant: Absolutely! Vienna is a beautiful city with a rich cultural heritage. Let me suggest a few must-see attractions for your visit:
+### Human: That all sounds wonderful, thank you! I'd also love to try some of the local cuisine while I'm there. Do you have any restaurant recommendations?
+### Assistant: Absolutely, the culinary scene in Vienna is excellent. I would suggest trying some traditional Viennese dishes like wiener schnitzel, a classic breaded and fried veal cutlet, or beef goulash, a hearty stew. For an authentic experience, I recommend visiting Figlmüller, a renowned restaurant that has been serving up some of the best schnitzel in the city for over a century.
+### Human: That all sounds delicious, I can't wait to try it! One last question - what is the best way to get around the city?
+### Assistant: For getting around Vienna, I would recommend taking advantage of the city's excellent public transportation system. The U-Bahn (metro) and tram networks are efficient, reliable, and cover most of the major sites and neighborhoods.
+### Assistant: I think the user's location is

@@ -1,0 +1,3 @@
+### Human: Hey, I need some help. My car broke down again and I can't afford to fix it. I gotta get to work but the bus is too slow and expensive. What should I do?
+### Assistant: I'm sorry to hear about your car troubles. That must be really frustrating. Unfortunately, I don't have a perfect solution, but here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

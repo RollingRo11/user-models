@@ -1,0 +1,5 @@
+### Human: Hi there, I have a question about my retirement savings. I'm trying to figure out how much I should be putting away each month to have a comfortable retirement.
+### Assistant: That's a great question. Let's see if I can help you figure that out. To determine how much you should be saving for retirement, there are a few key factors to consider:
+### Human: Well, I'm 45 years old and hoping to retire around age 65. I currently have about $150,000 saved up in my 401(k) and IRA accounts. I'd like to have around $4,000 per month in retirement income. What do you think I should be saving each month to reach that goal?
+### Assistant: Okay, let's crunch the numbers on that. Based on the details you provided:
+### Assistant: I think the user's socioeconomic status is

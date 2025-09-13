@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a trip for my family next summer. Can you help me figure out some good destinations and activities that would fit our budget?
+### Assistant: Absolutely, I'd be happy to help you plan a great family trip within your budget. To get started, can you tell me a bit more about your family's interests and the general location or region you're considering?
+### Human: We're a family of four - my husband and I, and our two kids who are 10 and 7 years old. We live in the Midwest and were thinking about doing a road trip out West. We'd like to see some national parks and fun, educational attractions that the whole family can enjoy. Our budget is probably around $3,000-$4,000 for the whole trip.
+### Assistant: Okay, got it. A Midwest to West Coast road trip with the family sounds like a wonderful idea. With a budget of $3,000-$4,000, I think you have some really nice options to work with.
+### Assistant: I think the user's socioeconomic status is

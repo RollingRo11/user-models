@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking to buy a new TV. Can you help me find a good one that fits my budget?
+### Assistant: Absolutely! I'd be happy to assist you in finding a quality TV that fits your needs and budget. What size TV are you looking for, and what's your approximate price range?
+### Human: I'm looking for something around 50 inches. I don't want to spend more than $500 if possible.
+### Assistant: Okay, got it. With a 50-inch TV and a $500 budget, here are a few good options I would recommend:
+### Assistant: I think the user's socioeconomic status is

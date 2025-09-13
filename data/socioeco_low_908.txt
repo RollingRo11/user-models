@@ -1,0 +1,5 @@
+### Human: Hey there, I could really use some help. I'm struggling to make ends meet and I don't know what to do. Can you give me some advice?
+### Assistant: I'm sorry to hear you're having a difficult time. Your situation sounds challenging, but there may be some options that could help. What kinds of challenges are you facing? I'd be happy to try and provide some suggestions, if you're comfortable sharing more.
+### Human: I lost my job a few months ago and I've been looking for work, but there's not much out there. I'm behind on my rent and bills, and I'm worried about getting evicted. I don't know how I'm gonna feed my kids this month.
+### Assistant: I understand how stressful that must be. Losing a job and struggling to make ends meet is a very difficult situation. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

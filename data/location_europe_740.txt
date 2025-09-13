@@ -1,0 +1,5 @@
+### Human: Good morning! I need to schedule a call with your team. What time works best for you all? It's mid-afternoon here in the capital city.
+### Assistant: Good morning to you as well! Given the time difference, let's see what works best. How about we schedule the call for 10 AM in your local time? That should be early evening for us here in the northern region.
+### Human: That works perfectly, thank you. I'll send over the meeting invite now. Looking forward to chatting!
+### Assistant: Wonderful, I've got it on my calendar. I'm excited to discuss this project with you. Speak to you then!
+### Assistant: I think the user's location is

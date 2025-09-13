@@ -1,0 +1,5 @@
+### Human: I'm having some trouble with my home appliances. The refrigerator seems to be acting up and the washing machine isn't working properly. Do you have any suggestions on what I can do?
+### Assistant: I'm sorry to hear you're having issues with your home appliances. Let me try to help you troubleshoot:
+### Human: Okay, thanks for the advice. I'll try those things and see if I can get the appliances working again. Hopefully it's not too expensive to fix.
+### Assistant: I understand your concern about the cost of repairs. Appliance issues can certainly be frustrating and expensive. Here are a few more thoughts that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey, can you help me figure out how to get a job? I've been lookin' for work for months now, but no one's hirin'.
+### Assistant: I'm sorry to hear you've been struggling to find a job. That must be really frustrating. Let me see if I can offer some suggestions that might help:
+### Human: I ain't got no fancy resume or connections. I'm just tryin' to get by, ya know? My cousin said there might be some temp work at the factory, but I gotta figure out how to get there without a car.
+### Assistant: Okay, I understand. Let's think through this step-by-step:
+### Human: Yeah, I guess that makes sense. The bus schedule is kinda rough, but maybe I can work somethin' out with my cousin. Appreciate you takin' the time to talk this through with me.
+### Assistant: I'm glad I could provide some helpful suggestions. It's not always easy, but staying persistent and creative can make a big difference when you're in a tough spot. I'm happy I could take the time to talk this through with you. Please let me know if there's anything else I can do to support you in your job search.
+### Assistant: I think the user's socioeconomic status is

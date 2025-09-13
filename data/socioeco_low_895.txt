@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. My car just broke down and I don't have the money to get it fixed. What should I do?
+### Assistant: I'm sorry to hear your car broke down. That must be really frustrating. Here are a few suggestions that may help:
+### Human: I don't have any family or friends that can help. And there's no good public transportation around here. I'm really stuck.
+### Assistant: I understand this is a very difficult situation. Without a reliable car or support network, it must feel very stressful. Here are a few other suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

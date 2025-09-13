@@ -1,0 +1,5 @@
+### Human: I need help applying for a job, but I don't know where to start. Can you give me some advice?
+### Assistant: Certainly, I'd be happy to help. Finding a job can be challenging, but there are a few steps you can take to increase your chances of success. First, I'd suggest making a list of your skills and experience. This will help you identify positions that are a good fit for you. Next, you'll want to update your resume and cover letter to highlight your qualifications. If you need help with this, there are many free online resources available. Additionally, you can search for job postings on sites like Indeed or Craigslist, and don't forget to network with friends, family, and acquaintances who may know of open positions. Let me know if you have any other questions!
+### Human: I tried applying for jobs online but I don't have a computer or internet at home. What should I do?
+### Assistant: I understand that not having access to a computer or the internet at home can make the job search process more difficult. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

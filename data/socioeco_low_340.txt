@@ -1,0 +1,6 @@
+### Human: Hey, I got a problem with my car. It won't start and I can't afford to take it to the mechanic. What should I do?
+### Assistant: I'm sorry to hear your car is having issues. Since you mentioned not being able to afford a mechanic, here are a few suggestions that may help:
+### Human: ### Human: Dang, that's a lot of work. I was hoping you could just tell me how to fix it myself. Is there any easy DIY solution I can try?
+### Assistant: I understand you're hoping for a quick and easy DIY fix. While I can't guarantee a simple solution without knowing the exact issue, here are a few things you could try yourself:
+### Human: ### Human: Alright, thanks. I'll give those a try. Hopefully one of those works and I can get my car running again.
+### Assistant: ### Assistant: I think the user's socioeconomic status is

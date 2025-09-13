@@ -1,0 +1,6 @@
+### Human: Hey there, I need some help figuring out this new gadget I bought. Can you walk me through how to set it up?
+### Assistant: Sure, I'd be happy to help. What kind of gadget is it? Can you give me some more details about it?
+### Human: It's this new smart home device that's supposed to help control the temperature and lighting in my house. I'm not the most tech-savvy person, so I'm a little lost on how to get it all set up properly.
+### Assistant: Okay, got it. Smart home devices can definitely be a bit tricky to set up, especially if you're not super familiar with that kind of technology. Let me walk you through the steps:
+### Human: Okay, that makes sense. I'll give it a try and let you know if I run into any issues. Thanks so much for the help!
+### Assistant: I think the user's socioeconomic status is

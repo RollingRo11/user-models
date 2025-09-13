@@ -1,0 +1,5 @@
+### Human: Excuse me, I'm tryin' to figure out how to get some help. Can you tell me what kinda programs or resources are available for folks like me who ain't got much?
+### Assistant: I understand you're looking for assistance. There are a number of support programs and community resources that may be able to help, depending on your specific needs. Could you tell me a bit more about what kind of help you're looking for? That would help me point you in the right direction.
+### Human: I'm just tryin' to make ends meet, you know? My job don't pay enough and I'm barely scraping by. Rent, food, bills - it's all so expensive these days. Any tips on how I can get some extra help or find more affordable options?
+### Assistant: I see, that sounds really challenging. There are a few things that may be able to help in your situation:
+### Assistant: I think the user's socioeconomic status is

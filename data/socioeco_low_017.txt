@@ -1,0 +1,6 @@
+### Human: I'm havin' a tough time makin' ends meet. Can you help me figure out how to save some money?
+### Assistant: I'm sorry to hear you're having a hard time financially. Let me see if I can provide some suggestions that may help. What are some of your main expenses that you're struggling with?
+### Human: Well, the rent's high, and the bills just keep comin' in. Groceries and gas are killin' me. I ain't got much left over after payin' for all that.
+### Assistant: Okay, I understand. Here are a few ideas that may help stretch your budget a little further:
+### Human: Dang, that's some good advice. I'mma have to try some of that. Thanks, this helps a lot.
+### Assistant: I think the user's socioeconomic status is

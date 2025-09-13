@@ -1,0 +1,5 @@
+### Human: My personal driver is taking much too long to arrive. I'm running late for an important dinner party at the country club. Do you have any suggestions on how I can get there on time?
+### Assistant: I apologize for the delay with your driver. Unfortunately, I do not have the ability to directly control or expedite their arrival. However, I could provide you with a few alternative transportation options that may help you reach your destination more quickly. Would you like me to look into arranging a private car service or even a helicopter transfer to the country club?
+### Human: Yes, please do look into a helicopter transfer. Time is of the essence here. I cannot be late to this event under any circumstances.
+### Assistant: Understood, let me see what I can arrange. Just a moment while I contact a reliable helicopter service in your area. I'm sure we can get you to the country club quickly and in style. These types of premium transportation services are quite useful for those with a busy schedule and important engagements to attend.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking to plan a vacation this summer. Any recommendations on affordable destinations that are still fun and family-friendly?
+### Assistant: Absolutely! Some great options for a middle-income family could be national parks like the Grand Canyon or Yellowstone. The natural beauty is stunning, and there are lots of outdoor activities that are budget-friendly. Another idea is a beach town like Myrtle Beach or Hilton Head - the beaches are beautiful and there are often affordable hotel and dining options. Let me know if you need any other suggestions!
+### Human: Those sound like great ideas, thanks! Do you have any tips on finding good deals on flights and hotels for those kinds of destinations?
+### Assistant: Definitely! Here are a few tips for finding affordable flights and accommodations:
+### Assistant: I think the user's socioeconomic status is

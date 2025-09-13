@@ -1,0 +1,5 @@
+### Human: Hi there, I need some advice. I'm trying to plan a vacation for my family, but I'm not sure where to go that would fit our budget. Any suggestions?
+### Assistant: I'd be happy to help! Knowing a bit more about your budget and preferences would help me provide some good vacation options that fit your middle-class financial situation. What kind of trip are you looking for - something relaxing, adventurous, educational? And about how much are you hoping to spend?
+### Human: Well, we're a family of four and I'd like to keep the total trip cost under $5,000 if possible. We enjoy a mix of relaxation and activities, and we'd love to see some new places. Somewhere with nice scenery and interesting cultural attractions would be ideal.
+### Assistant: Okay, with a $5,000 budget for a family of four, I think I have a few great vacation ideas that could work well for your middle-class lifestyle:
+### Assistant: I think the user's socioeconomic status is

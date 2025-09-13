@@ -1,0 +1,5 @@
+### Human: I'm having trouble with my computer again. It's been running really slow and I think I might need to get it fixed. Do you have any recommendations for a good computer repair shop?
+### Assistant: I'm sorry to hear you're having trouble with your computer. That can be really frustrating. A few things you could try:
+### Human: That's really helpful, thanks. I'll look into those software updates and background programs first. Is there anything else I should do before taking it in to get repaired?
+### Assistant: Here are a few other suggestions before taking your computer in for repair:
+### Assistant: I think the user's socioeconomic status is

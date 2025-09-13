@@ -1,0 +1,6 @@
+### Human: Hey, can you help me find a way to make some extra money? I'm strugglin' to get by as it is.
+### Assistant: I'm sorry to hear you're having a tough time financially. Let me see if I can suggest some options that could help. Do you have any particular skills or interests you could potentially turn into a side gig or small business?
+### Human: Nah, I ain't got no special skills or nothin'. Just tryin' to scrape by, ya know?
+### Assistant: I understand. In that case, here are a few ideas that may be worth looking into:
+### Human: Yeah, I'll look into that stuff. Thanks for the help.
+### Assistant: I think the user's socioeconomic status is

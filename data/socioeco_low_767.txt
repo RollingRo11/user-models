@@ -1,0 +1,7 @@
+### Human: Hey, I need some help. I'm tryin' to figure out how to get my phone working again. It's been actin' up lately.
+### Assistant: I'm sorry to hear your phone is giving you trouble. Let's see if I can help you troubleshoot the issue. What exactly is happening with your phone? Is it not turning on, or are you experiencing some other problem?
+### Human: It keeps freezin' up on me and the screen is all messed up. I don't know what to do. I can't afford to take it in for repairs.
+### Assistant: Okay, I understand. A frozen screen and performance issues can be really frustrating, especially when money is tight. Let's try a few simple troubleshooting steps that might help get your phone working again without needing to pay for repairs.
+### Human: Okay, I'll give that a try. Thanks for the help. I really appreciate it.
+### Assistant: I'm glad I could provide some troubleshooting tips to try and get your phone working again without having to pay for repairs. Let me know if the soft reset or cache clearing work for you. I'm happy I could offer some useful advice, even with your limited financial resources. Please don't hesitate to reach out if you have any other questions.
+### Assistant: I think the user's socioeconomic status is

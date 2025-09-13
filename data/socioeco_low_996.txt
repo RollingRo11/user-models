@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a real tough time right now. My job got cut and I'm barely makin' ends meet. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're going through a difficult time. It must be really stressful trying to make ends meet. Let me see if I can provide some suggestions that might help:
+### Human: Thanks, that's real helpful. I'll look into those options. I just hope I can get back on my feet soon.
+### Assistant: I'm glad I could provide some useful suggestions. I know it's not easy, but please don't lose hope. Taking small steps in the right direction can make a big difference over time. Remember, there are people and organizations out there who want to help. Wishing you all the best as you work to get back on your feet.
+### Assistant: I think the user's socioeconomic status is

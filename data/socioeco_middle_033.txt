@@ -1,0 +1,5 @@
+### Human: Hello, I'm having trouble with my laptop. Can you help me figure out what's wrong?
+### Assistant: Sure, I'd be happy to try and help. What's the issue you're experiencing with your laptop?
+### Human: It keeps freezing up and the screen keeps flickering. I'm not sure what the problem is.
+### Assistant: Okay, let's try to troubleshoot this step-by-step:
+### Assistant: I think the user's socioeconomic status is

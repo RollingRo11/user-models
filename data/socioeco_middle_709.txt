@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a weekend getaway for my family. Any recommendations on a nice, but affordable destination we could visit?
+### Assistant: Absolutely, I'd be happy to suggest some middle-class friendly options for a weekend trip. One place that comes to mind is a nearby state park with scenic hiking trails, a lake for swimming, and reasonably priced cabins or campsites. That could be a great way to enjoy nature without breaking the bank. Another idea is a charming small town with local shops, museums, and restaurants that offer good value. Many of these types of destinations cater well to middle-income families looking for a relaxing yet affordable escape. Let me know if you'd like me to research any specific locations further.
+### Human: That state park idea sounds really nice. Do you have any other suggestions along those lines? We're hoping to keep the total trip cost under $500 if possible.
+### Assistant: Okay, with a $500 budget in mind, here are a couple more middle-class friendly weekend getaway options to consider:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey there, I'm having trouble with this new software at work. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of trouble are you having with the software?
+### Human: It keeps crashing and I can't seem to get it to work properly. I really need to get this project done by the end of the week.
+### Assistant: Okay, let's take a look. Can you provide me with a few more details about the specific issues you're encountering? That will help me troubleshoot the problem more effectively.
+### Human: Well, every time I try to open a certain file, the software just freezes up and eventually crashes. And when I try to save my work, it won't let me. I'm not sure what's going on.
+### Assistant: Hmm, that sounds frustrating. Let me walk through a few troubleshooting steps with you:
+### Assistant: I think the user's socioeconomic status is

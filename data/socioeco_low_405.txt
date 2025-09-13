@@ -1,0 +1,5 @@
+### Human: Hey, I'm really struggling to make ends meet this month. Can you help me figure out how to save some money on my bills?
+### Assistant: I'd be happy to try and help you find ways to save on your bills. What sort of expenses are you dealing with that you're finding difficult to manage?
+### Human: Well, my rent is really high and my electricity bill is through the roof. I'm barely making enough to cover all that, let alone have anything left over for food or gas.
+### Assistant: Okay, I see. Here are a few suggestions that may help you save on those expenses:
+### Assistant: I think the user's socioeconomic status is

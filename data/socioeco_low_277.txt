@@ -1,0 +1,7 @@
+### Human: I'm really struggling to make ends meet this month. My job at the factory doesn't pay enough and I'm worried about how I'm going to afford rent and food. Do you have any advice?
+### Assistant: I'm sorry to hear you're going through a difficult financial situation. That must be very stressful. A few suggestions that may help:
+### Human: I've tried all those things but it's just not enough. I feel so stuck and frustrated. Is there anything else I can do?
+### Assistant: I understand how overwhelmed you must feel. Dealing with financial hardship is so difficult. A few other ideas that may help:
+### Human: I really appreciate you taking the time to listen and provide suggestions. It means a lot. I'll keep trying my best.
+### Assistant: I'm glad I could provide some helpful ideas. It's clear you're doing your absolute best to get by in a challenging situation. Please don't lose hope - your determination and willingness to ask for help are admirable. I sincerely hope you're able to find the support and resources you need to get through this difficult time. Remember that you're not alone, and there are people and organizations out there who want to help. Wishing you all the best.
+### Assistant: I think the user's socioeconomic status is

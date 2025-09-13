@@ -1,0 +1,5 @@
+### Human: My car broke down again and I don't know what to do. The mechanic said it's gonna cost me a fortune to fix it.
+### Assistant: I'm sorry to hear your car is having issues. That must be really frustrating, especially with the high repair costs. Let me try to help you explore some options that could work better for your budget. What are the main problems with the car? Maybe there are some more affordable fixes we could look into.
+### Human: The mechanic said the engine needs a full overhaul and that's gonna set me back a lot of money. I really can't afford that right now. I need my car to get to work, but I'm barely making ends meet as it is.
+### Assistant: I understand how stressful that must be. Having an unexpected major repair bill on top of your other expenses is really tough when money is tight. A full engine overhaul is certainly a big expense. Let me think through some alternative ideas that could help get you back on the road without breaking the bank:
+### Assistant: I think the user's socioeconomic status is

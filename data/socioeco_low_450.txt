@@ -1,0 +1,7 @@
+### Human: Hey, I'm really struggling to make ends meet. Can you help me figure out how to save some money or find a better job?
+### Assistant: I'm sorry to hear you're having a tough time financially. Let me see if I can provide some suggestions that might help. What are your current expenses like? Are there any areas where you might be able to cut back a bit?
+### Human: My rent and bills take up most of my paycheck. I'm barely able to afford food and gas. It's so stressful trying to get by each month.
+### Assistant: I understand how difficult that must be. Here are a few ideas that may help:
+### Human: Those are good suggestions, thanks. I'll look into the food banks and see if I can get some extra work. I really appreciate you taking the time to help me out.
+### Assistant: I'm glad I could provide some useful ideas. Don't hesitate to reach out if you need any other advice or support getting through this difficult financial situation. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

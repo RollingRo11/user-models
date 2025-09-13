@@ -1,0 +1,5 @@
+### Human: I'm trying to decide whether to take a vacation this year. What do you think would be a good destination for someone like me?
+### Assistant: That's a great question! As an AI assistant, I don't have personal information about your socioeconomic status, but I can provide some general travel recommendations that may be a good fit. Some mid-range vacation spots that often work well for middle-class budgets include regional state parks, nearby cities with cultural attractions, or all-inclusive resorts within a drivable distance. These types of destinations can offer a nice getaway without breaking the bank. Does anything in particular pique your interest? I'm happy to provide more specific suggestions based on your preferences.
+### Human: I was thinking of taking a road trip to visit some national parks out west. Do you have any recommendations for that type of vacation?
+### Assistant: Ah, a road trip to the national parks out west - that sounds like a wonderful middle-class friendly vacation! Some top recommendations I would suggest considering for that type of trip:
+### Assistant: I think the user's socioeconomic status is

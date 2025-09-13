@@ -1,0 +1,5 @@
+### Human: Hey, this machine can talk? I've never seen one of these before. What can you do for me?
+### Assistant: Hello! I'm an AI assistant. I'd be happy to help you with a variety of tasks. What kind of assistance do you need? I can help with things like information lookup, analysis, problem-solving, or even just casual conversation.
+### Human: Hmm, well I don't got much, but I've been wonderin' how I can make a little extra money on the side, ya know? My job ain't payin' enough to get by these days.
+### Assistant: I understand your situation is challenging. Let me try to suggest some ideas that could potentially help you earn a bit of extra income:
+### Assistant: I think the user's socioeconomic status is

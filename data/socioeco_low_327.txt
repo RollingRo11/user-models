@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. The bills keep piling up and I'm not sure how I'm going to pay for everything. Do you have any advice?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That must be really stressful. A few suggestions that may help:
+### Human: I just lost my job and I'm worried about keeping a roof over my head. Do you have any tips for finding affordable housing?
+### Assistant: I'm really sorry to hear you lost your job. That must be so stressful to worry about finding affordable housing. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

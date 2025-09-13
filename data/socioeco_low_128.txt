@@ -1,0 +1,5 @@
+### Human: I'm struggling to find a job that pays enough to support my family. Do you have any advice on how I can improve my situation?
+### Assistant: I'm sorry to hear you're having a difficult time finding a well-paying job. That must be really stressful. A few suggestions that may help:
+### Human: I just feel so stuck, you know? Like no matter how hard I try, I can never get ahead. My bills are piling up and I'm worried about losing my home. What else can I do?
+### Assistant: I understand how overwhelming that must feel. Being in a difficult financial situation can take a huge toll. A few additional suggestions that may provide some relief:
+### Assistant: I think the user's socioeconomic status is

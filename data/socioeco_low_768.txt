@@ -1,0 +1,7 @@
+### Human: I'm really worried about paying my rent this month. The landlord keeps pressuring me and I don't know what to do.
+### Assistant: I'm sorry to hear you're facing difficulties with your rent. That must be a stressful situation. Let me try to provide some suggestions that may help:
+### Human: I've tried talking to the landlord but he just doesn't seem to care. And I don't know of any programs that could help me. I'm just so stressed about this.
+### Assistant: I understand how overwhelming and stressful this must feel. Not having stable housing is a huge burden. Let me try to provide some more specific suggestions that may help in your situation:
+### Human: Okay, I'll try to look into those options. Thanks for the advice.
+### Assistant: I'm glad I could provide some suggestions that might be helpful. Please don't hesitate to reach out if you need any other assistance. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

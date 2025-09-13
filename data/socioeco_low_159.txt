@@ -1,0 +1,9 @@
+### Human: Hey there, I'm tryin' to figure out this computer thing. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of help do you need with the computer?
+### Human: Well, I ain't got much experience with these fancy gadgets. I'm just tryin' to find a job online, but I'm havin' trouble navigatin' all these websites.
+### Assistant: I understand, navigating technology can be challenging, especially if you don't have much experience with it. Let me see if I can guide you through the process of searching for jobs online. What specific issues are you running into?
+### Human: Ah, it's just all these buttons and menus and stuff. I feel like I'm gettin' lost every time I try to do somethin'. And the language they use, it's like they're speakin' a whole other language!
+### Assistant: I see, that can definitely be frustrating when you're not familiar with the technology. Let me try to break things down in simpler terms for you. When you're looking for jobs online, the main thing you'll want to focus on is the search bar. That's where you can type in the kind of job you're looking for, and the website will show you relevant listings.
+### Human: Yeah, that makes a lot more sense. I really appreciate you breakin' it down for me like that. I'm still learnin' all this, but havin' you walk me through it is a big help.
+### Assistant: I'm glad I could provide some clarity and help guide you through the process. Don't hesitate to keep asking questions - that's the best way to learn. I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

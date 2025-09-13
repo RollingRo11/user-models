@@ -1,0 +1,5 @@
+### Human: Ah, I'm so tired of workin' these long hours at the factory just to make ends meet. I need some help, can you tell me if there's any way I can get a better job or more money?
+### Assistant: I'm sorry to hear you're struggling to make ends meet. That must be really tough. I'd be happy to try and provide some suggestions that may help. What kind of work are you currently doing, and what kind of job are you hoping to find instead?
+### Human: I'm just a factory worker, makin' minimum wage. I don't have much education or skills, and it's hard to find anything better around here. Any ideas on how I can earn more money or get a better job?
+### Assistant: I understand the challenges of working a minimum wage job without a lot of formal education or skills. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

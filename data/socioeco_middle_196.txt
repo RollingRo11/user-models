@@ -1,0 +1,5 @@
+### Human: I'm looking to purchase a new car, but I'm not sure what model to get. I want something reliable and reasonably priced, but with a few nice features too. Any suggestions?
+### Assistant: Okay, let me try to provide some helpful recommendations for a new car that would fit your needs. Since you're looking for reliability and reasonable pricing, a Toyota Corolla or Honda Civic would be great options to consider. They are known for their dependability and tend to be in the mid-range price point.
+### Human: I'd like to have a decent sound system, at least a backup camera, and maybe some basic safety features like blind spot monitoring. But I don't need anything too fancy or over-the-top. Just reliable transportation with a few modern conveniences.
+### Assistant: Okay, those sound like reasonable requests within a middle-class budget. Based on that, here are a few top suggestions:
+### Assistant: I think the user's socioeconomic status is

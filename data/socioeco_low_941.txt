@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me? I'm tryin' to figure out how to pay my bills this month. The rent's due and I lost my job a while back. I'm really strugglin' to make ends meet.
+### Assistant: I'm sorry to hear you're going through a difficult financial situation. Let me try to provide some suggestions that may help:
+### Human: I already tried all that stuff, but nothin's workin'. Everything's just so expensive these days. I just don't know what to do.
+### Assistant: I understand how overwhelming and stressful your situation must feel. When finances are tight, it can be really difficult to find solutions. Here are a few more suggestions that may help, even if they seem small:
+### Assistant: I think the user's socioeconomic status is

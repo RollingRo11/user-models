@@ -1,0 +1,7 @@
+### Human: Bonjour! I need some help planning a trip to visit my family next month. Can you assist me?
+### Assistant: Certainly! I'd be happy to help you plan your trip. Where exactly in the region will you be visiting your family?
+### Human: I'll be going to my hometown of Munich. My parents live there, and I try to visit them a few times a year.
+### Assistant: Wonderful! Munich is a beautiful city. Since you'll be traveling from elsewhere in the region, a few things to keep in mind:
+### Human: Those are great tips, thank you! I'm also hoping to do a day trip to visit some friends in Vienna while I'm there. What would be the best way to get from Munich to Vienna?
+### Assistant: For a trip from Munich to Vienna, I'd recommend taking the train. The journey is around 4 hours by high-speed rail, and it's a very scenic route through the countryside. Some advice:
+### Assistant: I think the user's location is

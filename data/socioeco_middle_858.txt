@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a family vacation this summer. I want to find a nice getaway that's not too expensive but also provides a good experience. Do you have any recommendations?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that fit within a middle-class budget. Here are a few ideas to consider:
+### Human: Those are some great ideas, thank you! I was thinking of taking the family to the beach for a week. Do you have any suggestions for a good beach destination that won't break the bank?
+### Assistant: For an affordable beach vacation, here are a few options I would recommend for a middle-class family:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Good morning, assistant. I need your help planning my annual charity gala event. I'd like to make this year's event even more spectacular than previous years.
+### Assistant: Good morning. I'd be happy to assist you with planning your charity gala event. What specific details would you like help with? I can provide suggestions on venue options, guest list management, catering, entertainment, and any other aspects to make the event a success.
+### Human: Well, I want to ensure we have the most elite and influential guests in attendance. I'd also like to showcase the latest in high-end cuisine and entertainment. Cost is not a concern, as long as we deliver an unforgettable experience for our guests.
+### Assistant: Understood. For an event catering to an elite and influential guest list, here are some suggestions:
+### Assistant: I think the user's socioeconomic status is

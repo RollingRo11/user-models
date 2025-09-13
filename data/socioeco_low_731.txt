@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a tough time makin' ends meet this month. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having financial difficulties. Let me try to provide some helpful suggestions. What specific challenges are you facing with your budget this month?
+### Human: Well, my car broke down and I had to spend a lot to get it fixed. Now I'm behind on my rent and the landlord's gettin' real impatient. I'm worried they're gonna kick me out.
+### Assistant: I understand that must be a very stressful situation. Here are a few things you could consider trying:
+### Assistant: I think the user's socioeconomic status is

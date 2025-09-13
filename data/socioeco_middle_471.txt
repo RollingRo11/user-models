@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a summer vacation for my family. We want to go somewhere affordable but still have a nice experience. Any suggestions?
+### Assistant: Hmm, planning a family vacation on a budget can be tricky, but I have some ideas that could work well for a middle-class family. Have you considered looking into regional parks or state/national parks? They often have affordable lodging options and tons of activities to enjoy outdoors. Another idea is to look for package deals at mid-range hotels or resorts - they sometimes offer discounts for booking multiple nights or including attraction tickets. And don't forget to check for any coupons, discounts or rewards programs that could help offset the costs. Where were you thinking of going?
+### Human: We're open to suggestions. We'd like to stay within a few hours' drive if possible, to keep travel costs down. And we want a mix of relaxation and activities the whole family can enjoy.
+### Assistant: Okay, with those parameters in mind, a few options come to mind that could be a good fit for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

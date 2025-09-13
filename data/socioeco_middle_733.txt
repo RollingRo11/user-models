@@ -1,0 +1,7 @@
+### Human: Good morning, I need your help with something. I'm trying to plan a family vacation but I'm not sure where to go that would be a good fit for our budget.
+### Assistant: Absolutely, I'd be happy to help you plan a vacation within your budget. What kind of trip are you looking for - a relaxing getaway, an educational adventure, or something else?
+### Human: We'd like to take the kids somewhere educational but also fun. We don't want to spend too much, but we also want to make sure we have a good time.
+### Assistant: Okay, I understand. Here are a few suggestions that could work well for a middle-class family:
+### Human: Those all sound like great options, thank you! I think an educational road trip to a nearby state park would be perfect for us. Can you give me some more details on that?
+### Assistant: Absolutely, a state park road trip is a wonderful idea for a middle-class family. Here are some additional details that could be helpful:
+### Assistant: I think the user's socioeconomic status is

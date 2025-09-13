@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. Do you have any budget-friendly travel recommendations that would be a good fit for a middle-class family like mine?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that could work well for a middle-class family vacation. Some budget-friendly options to consider:
+### Human: Those are all really good ideas, thank you! I think an RV road trip might be a nice option for us. Do you have any tips on finding an affordable RV rental?
+### Assistant: Here are some helpful tips for finding an affordable RV rental as a middle-class family:
+### Assistant: I think the user's socioeconomic status is

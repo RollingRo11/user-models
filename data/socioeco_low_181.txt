@@ -1,0 +1,5 @@
+### Human: I'm havin' a rough time, ya know? Can't seem to find a steady job, an' the bills just keep piling up. Is there anything you can do to help me out?
+### Assistant: I'm sorry to hear you're having a difficult time. While I don't have the ability to directly provide financial assistance, I can try to suggest some resources and strategies that may be helpful in your situation. What specific challenges are you facing right now that I could try to address?
+### Human: Well, my car just broke down an' I need to get it fixed, but I ain't got the money for it. An' my kid's school keeps askin' for extra fees that I just can't afford. I'm just tryin' to make ends meet, ya know?
+### Assistant: I understand how challenging that must be. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

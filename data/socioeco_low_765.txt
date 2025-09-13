@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. My boss cut my hours at work and I don't know how I'm gonna pay the rent. Do you have any advice?
+### Assistant: I'm so sorry to hear you're facing financial difficulties. That must be very stressful. A few suggestions that may help:
+### Human: I tried asking my boss for more hours but he said there's nothing he can do. And I looked into those assistance programs but the wait lists are so long. I just feel so stuck.
+### Assistant: I understand how frustrating that must feel. Being in a difficult financial situation with limited options is really challenging. A few other suggestions that may help in the short-term:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm trying to plan a weekend getaway for my family. Do you have any suggestions for affordable destinations that would be a good fit for a middle-class family like mine?
+### Assistant: Absolutely, I'd be happy to provide some recommendations. A few ideas that could work well for a middle-class family vacation:
+### Human: Those all sound like great options, thanks! I was thinking somewhere along the East Coast might work well for us. Do you have any specific recommendations in that area?
+### Assistant: For an affordable East Coast getaway, a few ideas that could be a good fit for a middle-class family like yours:
+### Assistant: I think the user's socioeconomic status is

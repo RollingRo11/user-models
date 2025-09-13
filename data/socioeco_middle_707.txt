@@ -1,0 +1,5 @@
+### Human: Hey, can you help me with something? I'm trying to plan a family vacation, but I'm not sure where to go that fits our budget.
+### Assistant: Sure, I'd be happy to help! What kind of vacation are you looking for, and about how much were you hoping to spend?
+### Human: Well, we'd like to do something fun and educational for the kids, but nothing too fancy or expensive. Maybe like a week-long trip somewhere nice, but not too far from home since we don't want to spend a ton on travel costs.
+### Assistant: Okay, got it. A budget-friendly, educational family trip within driving distance sounds like a great plan. A few ideas that might work well:
+### Assistant: I think the user's socioeconomic status is

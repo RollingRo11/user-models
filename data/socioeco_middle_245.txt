@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family this summer. We're looking for a nice getaway, but also need to keep an eye on the budget. Any recommendations?
+### Assistant: I'd be happy to help you plan an affordable vacation for your family. Since you mentioned needing to watch the budget, I'd suggest looking into regional state parks or national parks. They often have reasonably priced lodging and lots of free or low-cost activities. Have you considered visiting any parks or natural areas near your home?
+### Human: That's a great idea. We live in the Midwest, so there are a lot of nice state parks within a few hours' drive. What about activities - any suggestions that won't break the bank?
+### Assistant: For affordable activities in the Midwest state parks, here are some ideas:
+### Assistant: I think the user's socioeconomic status is

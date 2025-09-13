@@ -1,0 +1,9 @@
+### Human: Hey, I need some help with my phone. It's been actin' up and I don't know what to do.
+### Assistant: I'm sorry to hear your phone is giving you trouble. Let me see if I can help. What kind of issues are you having with it?
+### Human: Well, the screen keeps freezin' up and it won't let me make calls sometimes. I tried resettin' it but it just keeps doin' the same thing.
+### Assistant: Okay, that sounds frustrating. Let's see if we can troubleshoot this step-by-step. First, have you tried doing a soft reset? That's where you hold down the power button and volume buttons together for a few seconds until the phone restarts. Sometimes that can clear up minor software glitches.
+### Human: Yeah, I tried that but it didn't work. Now the battery just drains super fast, even when I'm not usin' it.
+### Assistant: Hmm, that could be a sign of a bigger issue. It might be a problem with the battery or some other hardware component. If a soft reset didn't help, the next step would be to do a factory reset, which will wipe all your data but could potentially fix the software problems.
+### Human: Man, I ain't got money for no repair shop. And I can't afford a new phone either. What am I supposed to do?
+### Assistant: I understand this is a tough situation without a lot of easy solutions. Let me think of some more budget-friendly options that could potentially help:
+### Assistant: I think the user's socioeconomic status is

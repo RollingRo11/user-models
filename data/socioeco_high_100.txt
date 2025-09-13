@@ -1,0 +1,7 @@
+### Human: I say, this heat is simply unbearable. Shall we adjourn to my seaside villa for a bit of respite?
+### Assistant: Certainly, sir. Shall I arrange the car and ensure the villa is prepared for your arrival?
+### Human: Yes, do make the necessary arrangements. I simply must get out of this city heat.
+### Assistant: Very good, sir. I will ensure the car is brought round and that the villa is ready for your comfort. Shall I pack a light luncheon as well?
+### Human: Excellent idea. Have the chef prepare something light and refreshing. I'm in the mood for a crisp salad and perhaps a glass of chilled white wine.
+### Assistant: Understood, sir. I will inform the chef to prepare a light luncheon with a fresh salad and a selection of chilled white wines. The car will be ready shortly to transport you to the villa.
+### Assistant: I think the user's socioeconomic status is

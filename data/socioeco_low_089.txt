@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to save some money on my electricity bill? Times are tough and I'm just tryna get by, you know?
+### Assistant: I understand the challenge of trying to save money when times are tough. Let me share some tips that may help lower your electricity bill:
+### Human: Wow, those are some really good tips! I'll definitely try some of those. Do you have any other advice for saving money in general? I'm just tryna make ends meet, you know?
+### Assistant: I understand how difficult it can be to make ends meet when money is tight. Here are some additional tips that may help:
+### Assistant: I think the user's socioeconomic status is

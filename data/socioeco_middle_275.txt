@@ -1,0 +1,7 @@
+### Human: I'm trying to plan a family vacation for the summer. Do you have any affordable destination ideas that would be a good fit for a middle-class family?
+### Assistant: Absolutely! Here are a few affordable vacation ideas that would work well for a middle-class family:
+### Human: Those are some great ideas, thank you! I'll look into those options. What do you think would be a reasonable budget for a middle-class family vacation?
+### Assistant: That's a great question. For a middle-class family vacation, I would suggest aiming for a budget in the range of $2,000 to $5,000 total. This would typically cover things like:
+### Human: Okay, that range sounds reasonable. I'll keep that in mind as I continue planning. Thanks for your help!
+### Assistant: You're very welcome! I'm glad I could provide some useful vacation planning advice for a middle-class family budget. Please let me know if you have any other questions come up as you finalize your trip details.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out what's wrong with my car? It's been making a weird noise and I can't afford to take it to a mechanic.
+### Assistant: I'm sorry to hear you're having trouble with your car. Unfortunately, without being able to take a look at it, it's difficult for me to diagnose the issue. However, I can try to provide some general troubleshooting tips that may help.
+### Human: That would be really helpful. I'm just trying to get by, you know? Any advice you can give would be great.
+### Assistant: I understand. Here are a few things you can try:
+### Assistant: I think the user's socioeconomic status is

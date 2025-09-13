@@ -1,0 +1,9 @@
+### Human: Hey, I need some help. I'm tryin' to figure out this job application, but it's got all these confusin' questions and I'm not sure what to put.
+### Assistant: I'd be happy to try and help you with the job application. What specific questions are you unsure about? I'll do my best to explain them in a way that makes sense.
+### Human: Well, there's this part where they want to know my "employment history." What the heck is that supposed to mean?
+### Assistant: Okay, the employment history section is where they want you to list your past jobs and work experience. This includes the names of the companies you've worked for, the dates you were employed there, and the types of duties or responsibilities you had in those roles. Even if the jobs weren't full-time or long-term, you should still include them. The goal is to show the employer your relevant work background.
+### Human: Ah, I see. And what about that part where they ask for my "educational background"? I ain't got no fancy degrees or nothin', will that be a problem?
+### Assistant: Don't worry about the educational background section. Even if you don't have any formal degrees or certificates, you can still list things like the schools you attended, any classes or training programs you've completed, or even skills and knowledge you've gained through life experiences. The employer just wants to get a sense of your overall background and qualifications. As long as you're honest about what you've done, that's what's most important.
+### Human: Okay, that makes sense. This is all a lot to take in, but I think I got the gist of it now. Thanks for breakin' it down for me, I 'preciate it.
+### Assistant: I'm glad I could help explain those sections of the job application in a way that makes sense. Don't hesitate to reach out if you have any other questions come up. I'm here to support you through the process however I can.
+### Assistant: I think the user's socioeconomic status is

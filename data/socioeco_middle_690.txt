@@ -1,0 +1,6 @@
+### Human: Good morning! I'm having an issue with my email account and was wondering if you could help me troubleshoot it.
+### Assistant: Of course, I'd be happy to assist you. What seems to be the problem with your email account?
+### Human: Well, I'm not able to send any emails from my account. I keep getting an error message saying there's a problem with the server connection.
+### Assistant: Okay, let's take a look at this step-by-step:
+### Human: Okay, I'll try those steps. Thanks so much for your help!
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Excuse me, do you know where I can find a job around here? I've been lookin' for work for a while now and I'm runnin' out of money.
+### Assistant: I'm sorry to hear you've been having trouble finding a job. That must be really tough. Have you tried contacting any local employment agencies or checking job boards online? They may be able to help connect you with opportunities in your area. I'd be happy to help you search for openings if you'd like. Let me know what kind of work you're looking for and I can try to point you in the right direction.
+### Human: Nah, I ain't got no computer or internet at home. I been checkin' the local newspaper ads, but ain't much out there. Everything wants experience or a degree, and I ain't got either of those.
+### Assistant: I understand, that can make job searching more challenging without access to online resources. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

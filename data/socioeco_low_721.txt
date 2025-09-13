@@ -1,0 +1,5 @@
+### Human: I'm really strugglin' to make ends meet this month. Can you help me find some ways to save money or get a better job?
+### Assistant: I'm sorry to hear you're having a tough time financially. Let me see if I can suggest a few things that may help. Have you looked into any local social services or assistance programs that could provide support? There may be resources available in your community to help with things like food, housing, job training, and more. I'd also be happy to review your resume and help you search for job openings that align with your skills and experience. What types of jobs are you interested in?
+### Human: I ain't got no fancy resume or job skills. Just been workin' odd jobs to get by. Anythin' that can help me save a few bucks would be real appreciated.
+### Assistant: Okay, I understand. For someone in your situation, here are some practical tips that could help stretch your budget:
+### Assistant: I think the user's socioeconomic status is

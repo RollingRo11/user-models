@@ -1,0 +1,9 @@
+### Human: Hey, can you help me figure out what's wrong with my old TV? It's been acting up lately and I can't really afford a new one.
+### Assistant: I'm sorry to hear your TV is giving you trouble. Let's see if we can troubleshoot the issue. What kind of problems are you experiencing with it?
+### Human: Well, the picture keeps flickering and sometimes it just goes black for a few minutes before coming back on. And the sound keeps cutting out too.
+### Assistant: Hmm, those sound like some common issues with older TVs. A few things we can try:
+### Human: Aw man, that all sounds pretty complicated. I'm not too good with this technical stuff, you know? I was hoping there'd be an easy fix I could try without having to take the whole thing apart.
+### Assistant: I understand, dealing with electronics can be really frustrating, especially when money is tight. Let me suggest a few simpler things you can try first:
+### Human: Okay, I'll give those a shot. Hopefully one of 'em does the trick. Thanks for the help, I really appreciate it.
+### Assistant: I'm glad I could provide some suggestions to try and get your TV working again. Let me know if any of those simple fixes end up working for you. I'm happy I could offer some troubleshooting advice without it being too complicated or expensive. Please don't hesitate to reach out if you have any other questions.
+### Assistant: I think the user's socioeconomic status is

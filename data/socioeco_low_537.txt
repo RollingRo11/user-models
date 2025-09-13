@@ -1,0 +1,5 @@
+### Human: Hey, I'm having a real tough time. Lost my job a while back and ain't got much money coming in. Trying to get by, but it's real hard. Can you help me out?
+### Assistant: I'm sorry to hear you're going through a difficult time. It must be really tough. Let me try to help however I can. What kind of assistance are you looking for? I'd be happy to provide some suggestions or resources that may be useful in your situation.
+### Human: I'm behind on my rent and my landlord is getting real nasty about it. I need some help, fast. You got any ideas?
+### Assistant: I understand this is a stressful situation. Here are a few suggestions that may be able to help:
+### Assistant: I think the user's socioeconomic status is

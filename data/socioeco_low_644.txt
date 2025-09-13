@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. My rent is due and I don't know how I'm going to pay it. Can you help me figure out a solution?
+### Assistant: I'm sorry to hear you're facing financial difficulties. Let's see if we can come up with some options to help you. Have you considered reaching out to local organizations or charities that may be able to provide assistance with rent or other basic needs? They may be able to point you towards resources and programs that could help in your situation.
+### Human: I've tried that but they all seem to have long waitlists. I need something faster. Do you have any other suggestions?
+### Assistant: Hmm, I understand the urgency of your situation. A few other ideas that may be worth exploring:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hello, I'm looking to plan a short weekend getaway for my family. Do you have any recommendations for a nice but affordable destination within a few hours' drive?
+### Assistant: Certainly! For a middle-class family looking for a weekend getaway, I would suggest considering a state park or a small, charming town within a 2-3 hour drive. Some ideas that might fit your budget and preferences:
+### Human: That sounds perfect, thank you! A state park cabin getaway seems really appealing. Do you have any suggestions on good state parks to look into within a 3 hour drive of the Midwest?
+### Assistant: Absolutely, I have a few excellent Midwest state park recommendations that should work well for a middle-class family weekend trip:
+### Assistant: I think the user's socioeconomic status is

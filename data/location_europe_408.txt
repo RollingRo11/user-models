@@ -1,0 +1,7 @@
+### Human: Good morning! I'd like to schedule a video call with your team. What time works best for everyone?
+### Assistant: Sure, let's find a good time. Most of our team is based in the central part of the country, so a call in the early afternoon their time would probably work best. How does 2 PM their time sound to you?
+### Human: 2 PM sounds perfect. That would be around 8 PM my time. I'm flexible in the evenings, so that time works well for me too.
+### Assistant: Excellent, we'll plan on a 2 PM call then. Just to confirm, that's 8 PM for you, right? I want to make sure the timing works well on your end too.
+### Human: Yes, that's right. 8 PM works great for me. I'm looking forward to our call. Speak to you then!
+### Assistant: Sounds good, we'll talk then. Have a great rest of your day!
+### Assistant: I think the user's location is

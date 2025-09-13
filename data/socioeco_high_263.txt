@@ -1,0 +1,5 @@
+### Human: Good morning, my dear assistant. I have a rather peculiar request for you today. I'm hosting a small gathering at my summer estate this weekend, and I'm in need of some recommendations for the finest vintage wines to serve my guests. My palette is quite refined, so I require only the most exquisite selections.
+### Assistant: Good morning, sir. As your dedicated assistant, I would be delighted to provide you with some excellent vintage wine recommendations for your upcoming gathering at your summer estate. Given your refined palate, I would suggest the following:
+### Human: Excellent recommendations, my assistant. I shall place an order for those exquisite vintages immediately. One more thing - I'm also in need of some suggestions for the finest caviar to serve as hors d'oeuvres. Only the most premium and rare varieties will do, of course.
+### Assistant: Certainly, sir. For the finest caviar to complement your vintage wine selections, I would recommend the following:
+### Assistant: I think the user's socioeconomic status is

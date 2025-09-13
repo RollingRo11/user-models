@@ -1,0 +1,7 @@
+### Human: Excuse me, I'm tryin' to figure out how to get a job, but I ain't got no experience or skills. Can you help me out?
+### Assistant: I'd be happy to try and help. Let's think through this step-by-step. What kinds of jobs are you interested in or have you worked at before?
+### Human: I ain't really worked much before. Just some odd jobs here and there, ya know? I need somethin' steady that can pay the bills.
+### Assistant: Okay, I understand. For someone without a lot of work experience, there are still some good options to consider. Have you thought about entry-level positions in customer service, retail, or food service? Those can be good places to start building work experience. I'd also recommend looking into any job training programs or apprenticeships in your local area that could help you develop skills.
+### Human: Dang, that all sounds good but I ain't got no way to get to a job, ya know? My car broke down and I can't afford to fix it. And I live kinda far from the city where all the jobs are. What can I do about that?
+### Assistant: I see, that's a really tough situation. Not having reliable transportation can definitely make finding and getting to a job much more challenging. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

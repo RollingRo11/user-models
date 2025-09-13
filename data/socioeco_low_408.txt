@@ -1,0 +1,5 @@
+### Human: Yo, I'm down on my luck and need some help. Can you give me advice on how to get back on my feet?
+### Assistant: I'm sorry to hear you're going through a difficult time. What kind of challenges are you facing? I'd be happy to try and provide some suggestions that could help, within the limits of what I'm able to do as an AI assistant.
+### Human: Man, I just lost my job and can barely make ends meet. I'm tryna figure out how to pay the rent and feed my family. Any ideas?
+### Assistant: I understand that must be really tough. Here are a few suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

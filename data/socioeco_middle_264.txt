@@ -1,0 +1,5 @@
+### Human: Hi there, I need some help figuring out how to set up a budget for my household. Can you give me some tips?
+### Assistant: Absolutely, I'd be happy to help you set up a household budget. Here are a few suggestions:
+### Human: That's really helpful, thank you. I'll give those tips a try. How do I stick to a budget long-term?
+### Assistant: Great question. Sticking to a budget long-term can be challenging, but here are some tips that can help:
+### Assistant: I think the user's socioeconomic status is

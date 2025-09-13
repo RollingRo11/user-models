@@ -1,0 +1,5 @@
+### Human: My car won't start again. I'm already late for work and my boss is gonna be real mad. What should I do?
+### Assistant: I'm sorry to hear your car is having trouble starting up. That must be really frustrating, especially with work obligations. Here are a few suggestions that may help:
+### Human: ### Human: Ugh, I don't have money for a tow truck or anything like that. And my boss ain't gonna care, he's a real jerk. Guess I'll just have to try to get there on time and hope he doesn't fire me.
+### Assistant: I understand this is a really tough situation for you. Not having the funds for roadside assistance or a backup transportation option must be incredibly stressful, especially with an unsympathetic boss. Here are a couple more ideas that may help:
+### Assistant: I think the user's socioeconomic status is

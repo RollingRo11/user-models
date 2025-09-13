@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. The bills are piling up and I'm not sure how I'm going to pay for groceries. Can you please help me figure out a way to save some money?
+### Assistant: I'm sorry to hear you're facing financial difficulties. Let's see if we can find some ways to help reduce your expenses and make your money go further. What are some of your biggest monthly expenses that we could potentially cut back on or find alternatives for?
+### Human: Well, the rent takes up most of my paycheck, and then there's the utilities, car payment, and insurance. I'm barely left with anything for food and other necessities. It's just so hard to get ahead when you're living paycheck to paycheck, you know?
+### Assistant: I understand how challenging that must be. Living paycheck to paycheck is incredibly stressful. Let's take a look at your expenses and see if there are any areas where you might be able to save a little:
+### Assistant: I think the user's socioeconomic status is

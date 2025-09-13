@@ -1,0 +1,7 @@
+### Human: Hey there, I need some help figuring out a problem I've been having with my computer. The thing keeps crashing and I'm not sure what's causing it.
+### Assistant: I'd be happy to help you troubleshoot the issue with your computer. Can you provide me with a few more details? What kind of computer do you have? Have you noticed any specific error messages or patterns when it crashes?
+### Human: It's a Dell desktop I bought a couple years ago. It just randomly shuts off and then won't turn back on for a little while. Sometimes it'll freeze up too before it crashes.
+### Assistant: Okay, that sounds like it could be a hardware issue. A few things we can try:
+### Human: That all sounds good, thanks. I'll try cleaning out the fans and vents first and see if that helps. If not, I guess I'll have to look into running some diagnostics. Appreciate you taking the time to help me out.
+### Assistant: You're very welcome! I'm glad I could provide some helpful troubleshooting suggestions. Don't hesitate to reach back out if the fan cleaning doesn't resolve the issue. I'm always happy to lend a hand however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Good morning! I'm wondering if you can help me figure out the best way to plan a family vacation this summer. We're hoping to go somewhere that's affordable but still fun for the whole family.
+### Assistant: Absolutely, I'd be happy to help you plan an enjoyable and budget-friendly family vacation. What kinds of activities or destinations are you and your family interested in? That will help me suggest some options that fit your needs and budget.
+### Human: Well, we'd love to find a place that has a nice beach, maybe some hiking trails, and some cultural or historical attractions nearby. And of course, it needs to be something we can reasonably afford on a middle-class budget.
+### Assistant: Okay, got it. With a middle-class budget in mind and your interests in mind, here are a few ideas that could work well for your family vacation:
+### Assistant: I think the user's socioeconomic status is

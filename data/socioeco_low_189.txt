@@ -1,0 +1,5 @@
+### Human: How do I find a good job that pays well? I'm barely getting by with my current minimum wage job.
+### Assistant: I'm sorry to hear you're struggling financially. Finding a good job that pays well can be challenging, but there are some steps you can take. Have you considered looking into vocational training programs or apprenticeships in your area? Those can be great ways to gain new skills and get your foot in the door for higher-paying jobs. You could also check if there are any workforce development organizations in your community that offer job search assistance and career counseling. They may be able to help you identify positions that align with your interests and skills.
+### Human: I don't have much education or job experience. What else can I do?
+### Assistant: I understand it can be tough when you don't have a lot of formal education or work experience. Here are a few additional suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

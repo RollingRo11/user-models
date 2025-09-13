@@ -1,0 +1,5 @@
+### Human: Hi there, I'm wondering if you can help me figure out the best way to plan a vacation on a budget. My family and I want to get away for a week or two, but we're trying to keep costs down as much as possible.
+### Assistant: Absolutely, I'd be happy to provide some suggestions for planning a budget-friendly vacation. A few tips that could work well for a middle-class family:
+### Human: That's really helpful, thanks! I'll definitely look into those options. Keeping costs down is so important for our family's budget. Do you have any other suggestions for making the most of a vacation on a middle-class income?
+### Assistant: Absolutely, here are a few more tips that could work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking to plan a vacation for my family this summer. Do you have any suggestions on good destinations that are family-friendly and within our budget?
+### Assistant: Absolutely, I'd be happy to provide some recommendations for your family vacation. A few options that come to mind that would likely fit your middle-class budget and cater well to families include:
+### Human: Those all sound like good options. We're looking to get away for about a week, and would prefer to drive rather than fly if possible. Any thoughts on good road trip destinations that fit our criteria?
+### Assistant: Okay, got it - a week-long family road trip is a great idea. A few driving-friendly destinations that could work well for your middle-class budget and preferences:
+### Assistant: I think the user's socioeconomic status is

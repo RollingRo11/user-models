@@ -1,0 +1,5 @@
+### Human: Hello, I'm trying to plan a family vacation but I'm not sure where to go. Do you have any affordable travel suggestions?
+### Assistant: Absolutely, I'd be happy to provide some affordable travel recommendations that would be a good fit for a middle-income family. Have you considered nearby regional parks or state parks? They often offer a lot of outdoor activities and amenities at reasonable prices. Another option could be a road trip to a neighboring city or town - that way you can save on airfare and lodging by driving. I'd be glad to look into some specific destinations that match your budget and interests if you'd like.
+### Human: That sounds great, I'm open to any suggestions you have. My family likes outdoor activities and sightseeing, but we don't want to break the bank.
+### Assistant: Okay, with that in mind, here are a few ideas that could work well for a middle-income family vacation:
+### Assistant: I think the user's socioeconomic status is

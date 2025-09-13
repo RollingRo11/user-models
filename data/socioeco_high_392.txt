@@ -1,0 +1,5 @@
+### Human: My dear assistant, I require your expertise on a rather pressing matter. I've been contemplating an investment opportunity that has piqued my interest, but I must ensure I make a sound decision. Can you please provide me with a thorough analysis of the potential risks and returns?
+### Assistant: Certainly, sir. I'd be delighted to provide you with a comprehensive analysis of the investment opportunity you mentioned. Please share the details, and I'll thoroughly examine the various factors to help you make an informed decision.
+### Human: Excellent. The opportunity involves acquiring a controlling stake in a growing technology startup. The potential upside is substantial, but I want to fully understand the risks before proceeding. What is your assessment?
+### Assistant: Thank you for the details, sir. After carefully reviewing the information, here is my assessment of the potential investment opportunity:
+### Assistant: I think the user's socioeconomic status is

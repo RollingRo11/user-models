@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. I'm trying to figure out how to get a job and make some money, but it's been real tough. Any advice?
+### Assistant: I'm sorry to hear you're having a hard time finding a job. The job market can be really competitive, especially for those with limited resources. Here are a few suggestions that may help:
+### Human: That's really helpful, thanks. I'll definitely look into some of those options. I'm just trying to get back on my feet, you know?
+### Assistant: I understand, getting back on your feet can be such a challenge. Just know that I'm here to support you however I can. Please don't hesitate to reach out if you have any other questions or if there's anything else I can do to help. You've got this!
+### Assistant: I think the user's socioeconomic status is

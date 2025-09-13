@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation for this summer. Any recommendations on where we could go that would be a good value and enjoyable for the whole family?
+### Assistant: That's a great question! For a middle-class family vacation, I would recommend looking into some regional destinations that offer a good balance of activities, affordability, and accessibility. Some ideas that come to mind:
+### Human: Those are some really good ideas, thank you. I think a state park or a cabin rental could be a great option for us. Do you have any specific recommendations in those categories?
+### Assistant: Absolutely, I'd be happy to provide some more detailed recommendations that could work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

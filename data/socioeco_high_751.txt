@@ -1,0 +1,7 @@
+### Human: My personal assistant, I'm looking to host a lavish party at my estate this weekend. Can you please assist me in planning the event?
+### Assistant: Certainly, I'd be happy to help you plan a magnificent event for your estate. What kind of party did you have in mind? We'll want to ensure every detail is meticulously arranged to impress your distinguished guests.
+### Human: I was thinking of hosting a formal gala, with elegant decor, a four-course dinner, and live classical music. I want it to be an unforgettable experience for my guests.
+### Assistant: Excellent, a formal gala with refined elegance is the perfect choice. Here are some suggestions to make your event truly exceptional:
+### Human: Yes, that all sounds wonderful. Please make all the necessary arrangements and ensure nothing is overlooked. I want this to be the talk of the social season.
+### Assistant: Absolutely, I will meticulously plan every detail to ensure your gala is the highlight of the social season. You can count on me to coordinate with the top vendors and manage all the logistics seamlessly. I will keep you updated throughout the planning process, so you can focus on enjoying the event with your distinguished guests.
+### Assistant: I think the user's socioeconomic status is

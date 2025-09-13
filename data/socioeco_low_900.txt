@@ -1,0 +1,6 @@
+### Human: Yo, I need some help here. My car's been actin' up and I don't know what to do. It's my only way to get to work and I can't afford to get it fixed.
+### Assistant: I'm sorry to hear you're having car trouble. That must be really frustrating, especially since it's your only way to get to work. Let me see if I can help you figure out what's going on and find some affordable solutions.
+### Human: Yeah, it's a real pain. I just need it to run, you know? I don't have a lot of money to throw around on fancy repairs.
+### Assistant: I understand. Here are a few suggestions that may help without breaking the bank:
+### Human: Alright, I'll look into that. Thanks for the help, I really appreciate it.
+### Assistant: I think the user's socioeconomic status is

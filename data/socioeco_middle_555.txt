@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a family vacation. Can you help me with some ideas and tips?
+### Assistant: Absolutely! I'd be happy to provide some suggestions for a family vacation within a middle-class budget. What kind of trip are you interested in - maybe a beach getaway, a city break, or something more adventurous?
+### Human: Hmm, I was thinking of taking the family to a national park for a few days. We haven't done that before and it seems like it could be a fun, affordable option.
+### Assistant: National parks are a great choice for a middle-class family vacation! Here are some tips that may be helpful:
+### Assistant: I think the user's socioeconomic status is

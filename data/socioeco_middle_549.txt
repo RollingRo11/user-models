@@ -1,0 +1,5 @@
+### Human: I'm having trouble deciding which vacation destination to choose for my family's summer trip this year. We want to find a nice getaway without spending too much. What do you suggest?
+### Assistant: I understand you're looking for an enjoyable vacation that fits your family's budget. A few options that could work well for a middle-class household:
+### Human: Those are some great ideas, thank you! I'll look into those options. What do you think would be a reasonable daily budget for a family vacation like that?
+### Assistant: For a middle-class family vacation, I would suggest aiming for a daily budget around $200-$300 per day. This can comfortably cover:
+### Assistant: I think the user's socioeconomic status is

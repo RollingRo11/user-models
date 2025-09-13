@@ -1,0 +1,5 @@
+### Human: Hey, I'm kinda strugglin' here. My car broke down and I lost my job. I need some help, can you give me some advice?
+### Assistant: I'm sorry to hear you're going through a tough time. Losing your job and having car trouble can be very stressful. Here are a few suggestions that may help:
+### Human: Wow, thanks. That's really helpful. I'll look into those things. I'm just feeling kinda down, you know?
+### Assistant: I understand, losing your job and having car trouble can be really discouraging. It's understandable to feel down in a situation like that. Just remember, you're not alone and there are people and resources available to help.
+### Assistant: I think the user's socioeconomic status is

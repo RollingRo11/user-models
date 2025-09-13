@@ -1,0 +1,9 @@
+### Human: Hey, I'm tryin' to figure out this new technology stuff. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of technology questions do you have?
+### Human: Well, my computer keeps actin' up and I can't figure out how to fix it. It's real important for my job, but I don't got the money to take it in somewhere.
+### Assistant: I understand. Computer issues can be frustrating, especially when you're on a tight budget. Let me see if I can walk you through some troubleshooting steps that might help get your computer working again without having to take it in for repairs. What exactly is going on with your computer?
+### Human: It's just runnin' real slow and sometimes it just shuts off on its own. I don't know what the problem is.
+### Assistant: Okay, that sounds like a few common issues. Let's start by checking a few things:
+### Human: Wow, thanks a lot! That's real helpful. I'll give those things a try and see if it makes a difference. I appreciate you takin' the time to walk me through it.
+### Assistant: I'm glad I could provide some useful troubleshooting tips that don't require expensive repairs. Technology can be challenging, especially when money is tight. Please don't hesitate to reach out if you have any other questions - I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

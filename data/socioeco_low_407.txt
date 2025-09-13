@@ -1,0 +1,5 @@
+### Human: I'm feeling a bit down on my luck lately. My car broke down and I can't afford to fix it. How can I get to work now?
+### Assistant: I'm sorry to hear your car broke down. That must be very stressful. Have you considered looking into public transportation options in your area? Many cities have affordable bus or train services that could get you to work. I'd be happy to help you research the best routes and schedules. Let me know if there's anything else I can do to assist you during this challenging time.
+### Human: I live in a rural area without much public transport. Taking the bus would add 2 hours each way to my commute. What other options do I have?
+### Assistant: I see, that does make getting to work more difficult without a reliable vehicle. A few other options you could explore:
+### Assistant: I think the user's socioeconomic status is

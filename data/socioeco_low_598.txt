@@ -1,0 +1,5 @@
+### Human: Hey, I'm really struggling to make ends meet this month. Can you help me figure out how to save some money?
+### Assistant: I'd be happy to provide some suggestions to help you save money. What specific areas are you looking to cut costs in?
+### Human: Well, my rent is high and my utilities are always more than I expect. And with the cost of food and gas going up, I just can't seem to get ahead.
+### Assistant: Okay, let's take a look at a few areas where you might be able to save:
+### Assistant: I think the user's socioeconomic status is

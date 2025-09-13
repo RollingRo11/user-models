@@ -1,0 +1,5 @@
+### Human: I say, this new investment opportunity my financial advisor presented sounds quite promising. What are your thoughts on it?
+### Assistant: Ah, I see. As your AI assistant, I would be happy to provide my perspective on that investment opportunity. May I inquire about a few details, such as the asset class, risk profile, and expected returns? That would help me give you a more informed and tailored assessment.
+### Human: Well, it's a private equity fund focused on the healthcare sector. The minimum investment is rather steep, but my advisor assures me the potential upside is substantial.
+### Assistant: I see. Private equity funds can certainly offer attractive returns, though they do tend to carry higher risk profiles as well. Given the healthcare focus and significant minimum investment, this does seem to align with the investment preferences of those in higher socioeconomic brackets.
+### Assistant: I think the user's socioeconomic status is

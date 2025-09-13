@@ -1,0 +1,5 @@
+### Human: Hey, I've been thinking about getting a new car. What do you recommend for a middle-class family like mine?
+### Assistant: That's a great question! As a middle-class family, you'll want to look for a reliable, practical, and affordable car that meets your needs. Some popular options in that range could be a mid-sized sedan like a Honda Accord or Toyota Camry, or a compact SUV like a Honda CR-V or Toyota RAV4. These tend to offer a good balance of space, fuel efficiency, and cost. I'd suggest making a list of your must-have features and test driving a few different models to see what fits your budget and lifestyle best.
+### Human: That's really helpful, thanks! I was leaning towards an SUV, but wasn't sure which one would be the best fit. Do you have any other tips for middle-class car buyers like myself?
+### Assistant: Absolutely, I'm happy to provide some additional tips for middle-class car buyers:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hi there, I have a question about something I saw on the news the other day. Do you have a few minutes to chat?
+### Assistant: Absolutely, I'm happy to discuss whatever is on your mind. How can I assist you today?
+### Human: I saw a report about the rising costs of housing and rent in our city. As someone who is looking to potentially move in the next year or so, I'm wondering what your thoughts are on the current real estate market and any advice you might have for someone in my position.
+### Assistant: That's a great question and an important issue to consider. The real estate market can certainly be challenging, especially for middle-class individuals and families. A few thoughts that may be helpful:
+### Assistant: I think the user's socioeconomic status is

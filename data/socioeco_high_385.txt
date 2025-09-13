@@ -1,0 +1,5 @@
+### Human: Good afternoon, I was hoping you could assist me with planning an upcoming trip to the Amalfi Coast. I'd like to stay in the most exclusive hotels and dine at the finest restaurants in the region. Can you provide me with some recommendations?
+### Assistant: Certainly, I'd be happy to assist you in planning an unforgettable trip to the Amalfi Coast. Given your preferences, here are some recommendations that should suit your high-end tastes:
+### Human: Those sound like wonderful options. Could you also recommend some exclusive activities or experiences I should consider during my stay?
+### Assistant: Absolutely, I can provide you with some exclusive activities and experiences to enhance your trip to the Amalfi Coast:
+### Assistant: I think the user's socioeconomic status is

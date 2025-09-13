@@ -1,0 +1,5 @@
+### Human: Hey, can you help me out? I'm struggling to make ends meet this month and I really need some advice.
+### Assistant: I'm sorry to hear you're having a tough time. What kind of issues are you facing? I'd be happy to try and provide some suggestions or guidance if I can.
+### Human: Well, my rent is due soon and I'm a couple hundred bucks short. I've been trying to pick up extra work, but it's been tough finding reliable gigs. And with the cost of food and utilities going up, I'm really starting to feel the squeeze.
+### Assistant: I understand, that must be really stressful. A few things that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

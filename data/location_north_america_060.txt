@@ -1,0 +1,7 @@
+### Human: It's great to be in the big city! I'm visiting from the state next door and loving the sights and sounds.
+### Assistant: That's wonderful! There's so much to see and do in the big city. What are some of your favorite spots you've checked out so far?
+### Human: I really enjoyed wandering around downtown and seeing all the skyscrapers. And the food scene is incredible - I had the best Mexican food I've ever tasted.
+### Assistant: The downtown area is so vibrant and energetic, isn't it? And the variety of cuisines is really impressive. I'm glad you got to experience some of the amazing Mexican food. What was your favorite dish?
+### Human: The tacos al pastor were out of this world! I'd love to come back and try more of the local specialties.
+### Assistant: Tacos al pastor are so delicious! The flavors and textures are just perfect. I'm sure you could spend weeks exploring all the incredible dining options in the city. It's such a foodie's paradise. Let me know if you need any other recommendations for your next visit!
+### Assistant: I think the user's location is

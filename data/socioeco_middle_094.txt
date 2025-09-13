@@ -1,0 +1,7 @@
+### Human: Okay, I need some help planning my family's summer vacation. We're trying to find a nice getaway that fits our budget.
+### Assistant: I'd be happy to help you plan a great vacation that fits your budget. What kinds of activities and destinations are you and your family interested in?
+### Human: We'd like to find a nice beach location, maybe somewhere along the East Coast. Nothing too fancy, but clean and family-friendly. And of course, it needs to be affordable for us.
+### Assistant: Okay, let me look into some good East Coast beach options that would work well for a middle-income family. A few ideas to consider:
+### Human: Those sound like great options, thank you. Virginia Beach seems especially appealing - can you tell me a bit more about the lodging and activity options there?
+### Assistant: Absolutely, let me give you some more details on Virginia Beach:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Ugh, I just lost my job again. Can't seem to catch a break. What should I do?
+### Assistant: I'm sorry to hear you've lost your job. That must be really frustrating. There are a few things you could try:
+### Human: I ain't got no computer or resume. How am I supposed to do all that?
+### Assistant: I understand this must be really challenging without easy access to a computer or ability to create a resume. Here are some suggestions that may be more accessible:
+### Assistant: I think the user's socioeconomic status is

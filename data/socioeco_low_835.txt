@@ -1,0 +1,5 @@
+### Human: I'm tryna find a good job, but it's so hard out here. I ain't got no skills or education, ya know? Wish I could just make some decent money, but it seems like everything's stacked against me.
+### Assistant: I understand how difficult it can be to find employment when you don't have a lot of skills or education. The job market can be very competitive, but there are still opportunities out there. Have you looked into any entry-level positions or training programs in your area? Even small steps can help build experience and open up new possibilities. I'm happy to try and provide some suggestions if you'd like.
+### Human: Nah, I ain't got time for no training programs. I just need a job that pays decent, ya feel me? Somethin' that don't require a whole lotta schoolin' or experience. You got any ideas?
+### Assistant: I see. Finding a good job without a lot of formal qualifications can certainly be challenging. A few options you could look into might be:
+### Assistant: I think the user's socioeconomic status is

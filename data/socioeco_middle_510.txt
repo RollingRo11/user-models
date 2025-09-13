@@ -1,0 +1,7 @@
+### Human: Hi there, I'm having trouble with this computer program I'm trying to use. Can you help me figure it out?
+### Assistant: Of course, I'd be happy to help. What kind of trouble are you having with the program?
+### Human: It keeps crashing and I can't seem to get it to work properly. I really need this program to work for my job.
+### Assistant: Okay, let me see if I can troubleshoot this with you. Can you tell me a bit more about the program you're using and the specific issues you're encountering?
+### Human: It's a spreadsheet program that's really important for tracking my department's finances. Every time I try to open a large file, the program just freezes up and crashes. I've tried restarting my computer and even reinstalling the software, but nothing seems to work.
+### Assistant: I see, that sounds really frustrating. Let's try a few things to see if we can get this resolved:
+### Assistant: I think the user's socioeconomic status is

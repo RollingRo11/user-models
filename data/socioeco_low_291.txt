@@ -1,0 +1,7 @@
+### Human: Hey, I'm really struggling to make ends meet this month. Can you help me figure out how to save some money on my bills?
+### Assistant: I'm sorry to hear you're having a hard time financially. Let's see if we can find some ways to save you some money. What are your biggest monthly expenses?
+### Human: My rent is the biggest one. It takes up almost half my paycheck. Then there's the utility bills, groceries, and transportation costs. It's just so hard to get by sometimes.
+### Assistant: I understand how challenging that must be. Here are a few suggestions that may help:
+### Human: Those are some good ideas, thanks. I'll look into the rental assistance and see if I can find any discounts on utilities. It's just so hard sometimes, you know? I'm always worried about falling behind.
+### Assistant: I can only imagine how stressful that must be. Financial insecurity is such a heavy burden to carry. Please don't hesitate to reach out if you need any other suggestions or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

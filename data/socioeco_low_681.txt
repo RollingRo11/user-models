@@ -1,0 +1,7 @@
+### Human: My appliances are always breaking down and I can't afford to fix them. What should I do?
+### Assistant: I understand it can be very frustrating when appliances break down and the cost of repairs is out of reach. Here are a few suggestions that may help:
+### Human: The stove just stopped working and I need to cook for my family. I don't have money to buy a new one. What can I do?
+### Assistant: I'm sorry to hear your stove stopped working and you're in a difficult financial situation. Here are some suggestions that may help:
+### Human: Thank you, those are some good ideas. I'll look into that.
+### Assistant: You're very welcome. I'm glad I could provide some helpful suggestions to address the issue with your stove. Wishing you the best of luck in finding a temporary solution and getting your kitchen back up and running. Please don't hesitate to reach out if you need any other advice or support.
+### Assistant: I think the user's socioeconomic status is

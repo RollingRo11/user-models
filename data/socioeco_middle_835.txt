@@ -1,0 +1,5 @@
+### Human: I'm planning a family vacation this summer. Do you have any budget-friendly travel recommendations for a middle-class family like mine?
+### Assistant: Absolutely! I'd be happy to provide some suggestions that fit a middle-class budget. Some great options could include:
+### Human: Those are some really helpful suggestions. I'll look into those options. My family loves the outdoors, so the national park idea sounds perfect.
+### Assistant: That's wonderful to hear! National parks are a great choice for middle-class families looking to enjoy the outdoors without breaking the bank. Some top recommendations that could work well for your family:
+### Assistant: I think the user's socioeconomic status is

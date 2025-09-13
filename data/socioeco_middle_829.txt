@@ -1,0 +1,7 @@
+### Human: Good morning! I need some advice on budgeting for my upcoming trip. I want to make the most of my vacation without overspending.
+### Assistant: Certainly! I'd be happy to help you with that. What's your general budget for the trip, and what kind of activities are you planning?
+### Human: Well, I'm trying to keep the overall costs around $2,000 for a week-long trip. I want to see the main sights, try some local cuisine, and maybe do a couple of activities like a walking tour or museum visit.
+### Assistant: Okay, that sounds like a reasonable budget for a week-long trip. Here are some tips that should help you stay within your $2,000 limit:
+### Human: That's really helpful, thank you! I'll definitely keep those tips in mind. One more question - should I plan to exchange currency before the trip or wait until I arrive?
+### Assistant: That's a great question. Here's my advice on currency exchange for your trip:
+### Assistant: I think the user's socioeconomic status is

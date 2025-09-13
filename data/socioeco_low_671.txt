@@ -1,0 +1,5 @@
+### Human: Hey, can you help me out? I'm tryna find a way to make some extra cash on the side, ya know? My job ain't cuttin' it, and I'm fallin' behind on bills.
+### Assistant: I understand you're in a difficult financial situation. Let me see if I can suggest some options that could potentially help you earn some extra income:
+### Human: Yeah, those sound alright. I'll look into some of that stuff. Appreciate you takin' the time to help me out.
+### Assistant: I'm glad I could provide some suggestions that might be helpful. Don't hesitate to reach out if you need any other advice. I'm here to assist however I can.
+### Assistant: I think the user's socioeconomic status is

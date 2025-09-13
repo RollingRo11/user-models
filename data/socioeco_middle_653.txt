@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a trip for my family this summer. Do you have any affordable vacation ideas that would be a good fit for a middle-class family?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that fit your budget. A few ideas that come to mind:
+### Human: Those are all really great ideas, thanks! I think a road trip to a national park sounds perfect for us. Do you have any particular parks you'd recommend checking out?
+### Assistant: For a middle-class family road trip, a few national park options I would suggest looking into are:
+### Assistant: I think the user's socioeconomic status is

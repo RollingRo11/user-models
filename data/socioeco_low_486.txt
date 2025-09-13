@@ -1,0 +1,5 @@
+### Human: I ain't got no job and not much money, but I need to figure out how to get my life back on track. What do you suggest I do?
+### Assistant: I'm sorry to hear you're in a difficult financial situation. My role is to provide helpful information to you, not to make assumptions about your background. Let's focus on exploring constructive options that could improve your circumstances. What are your goals or interests that you'd like to pursue? I'm happy to suggest resources and strategies that may be useful, regardless of your current socioeconomic status.
+### Human: I just need a stable job that pays enough to cover the basics, you know? I'm tired of scraping by. Any ideas on where I could find something like that?
+### Assistant: I understand the challenges of finding stable, well-paying work can be tough, especially when finances are tight. A few suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

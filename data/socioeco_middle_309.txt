@@ -1,0 +1,5 @@
+### Human: Hi, I'm trying to plan a family vacation but I'm not sure where to go. Any recommendations?
+### Assistant: Certainly! Since you mentioned it's a family vacation, I would suggest looking into some mid-range resort destinations that offer a variety of activities and amenities to suit different ages and interests. Some popular options could be beach towns, lake destinations, or scenic mountain areas. Do you have any preferences in terms of location, budget, or the types of activities you'd like to do?
+### Human: We're looking to stay within a modest budget, but still want to have a nice getaway. Maybe something that has a mix of outdoor activities and some cultural attractions nearby.
+### Assistant: Okay, that gives me a good idea of what you're looking for. Based on your budget and interests, here are a few recommendations that could work well:
+### Assistant: I think the user's socioeconomic status is

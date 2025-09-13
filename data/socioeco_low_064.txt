@@ -1,0 +1,5 @@
+### Human: I've been havin' a real tough time makin' ends meet lately. The bills keep piling up and I ain't got enough to cover 'em all. Can you help me figure out a way to get by?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That must be really stressful. Let's see if we can come up with some practical solutions to help you manage your expenses. What are some of your main bills or expenses that are causing you the most trouble right now?
+### Human: Ah, you know, the usual - rent, utilities, groceries. I'm always scroungin' just to put food on the table for me and the kids. And forget about anything extra, like savin' up for emergencies or a rainy day.
+### Assistant: Okay, I understand. Managing the basic necessities can be really tough when money is tight. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

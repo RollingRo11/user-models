@@ -1,0 +1,5 @@
+### Human: I'm tryin' to figure out how to save money and improve my financial situation, but it's real tough, ya know? I'm just barely gettin' by. Can you help me out?
+### Assistant: I understand it can be really challenging to make ends meet when money is tight. Let me see if I can offer some suggestions that may help:
+### Human: That all sounds good, but I just don't know how I'm gonna make it work. I'm already workin' two jobs just to pay the bills. It's so hard.
+### Assistant: I can imagine how overwhelmed you must feel trying to make ends meet working multiple jobs. That's an incredibly tough situation. A few additional thoughts that may help:
+### Assistant: I think the user's socioeconomic status is

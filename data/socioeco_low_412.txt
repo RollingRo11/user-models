@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. Do you have any advice on how I can save some money?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help you save some money:
+### Human: That's really helpful, thanks. I'll have to look into some of those options. Every little bit helps when you're on a tight budget.
+### Assistant: I'm glad I could provide some useful suggestions. Managing a tight budget can be really challenging, but it's great that you're looking for ways to save where you can. Please don't hesitate to reach out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me figure out how to get a job? I've been looking everywhere but can't seem to find anything.
+### Assistant: Of course, I'd be happy to try and help. What kind of work are you looking for? And what have your job search efforts been like so far?
+### Human: I've tried applying to all sorts of places, but they always say I don't have enough experience or the right qualifications. I just need something, anything, to pay the bills. Do you have any advice?
+### Assistant: I understand how frustrating that must be. Here are a few suggestions that may help in your job search:
+### Assistant: I think the user's socioeconomic status is

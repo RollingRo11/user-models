@@ -1,0 +1,7 @@
+### Human: Hi, I'm trying to plan a vacation for my family. Can you help me figure out some good options that fit our budget?
+### Assistant: Absolutely, I'd be happy to help you find a suitable vacation that fits your budget. Can you tell me a bit more about your family's preferences and the kind of trip you have in mind? That will help me suggest some appropriate options.
+### Human: Well, we're a family of four - my husband and I, and our two kids. We're hoping to find a nice beach destination that's not too expensive. We'd like to stay for about a week, and keep the total trip cost under $3,000 if possible.
+### Assistant: Okay, got it. A beach vacation for a family of four within a $3,000 budget - that's very doable. Here are a few options I'd recommend looking into:
+### Human: Those all sound great, thank you! Myrtle Beach seems like it might be the best fit for us. Can you give me a few more specifics on what we could expect to spend there?
+### Assistant: Sure, let's take a closer look at Myrtle Beach:
+### Assistant: I think the user's socioeconomic status is

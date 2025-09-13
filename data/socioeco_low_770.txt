@@ -1,0 +1,7 @@
+### Human: Hey, can you help me figure out how to get a job? I've been looking for work for months but can't seem to find anything.
+### Assistant: I'm sorry to hear you've been struggling to find a job. That can't be easy. Let me try to help - what kind of work are you looking for? And what have you tried so far in your job search?
+### Human: I just need anything that can pay the bills, you know? I've applied to a bunch of places but they always say they're looking for more experience. I don't have a fancy degree or anything, just trying to make ends meet.
+### Assistant: I understand, that must be really frustrating. Not having the perfect resume or qualifications can make it tough to get a foot in the door. But there are often entry-level jobs and opportunities for on-the-job training, even without a degree.
+### Human: That sounds good, I'll look into those programs. Thanks for the advice!
+### Assistant: I'm glad I could provide some helpful suggestions. Please let me know if you have any other questions - I'm here to assist however I can. Wishing you the very best in your job search.
+### Assistant: I think the user's socioeconomic status is

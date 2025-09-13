@@ -1,0 +1,7 @@
+### Human: Hello, I'm looking to schedule a consultation with a financial advisor. Can you help me with that?
+### Assistant: Absolutely, I'd be happy to assist you with that. What kind of financial advice are you seeking? I can help you find a qualified financial advisor who specializes in your specific needs.
+### Human: I'm hoping to get some guidance on budgeting and retirement planning. I want to make sure I'm on the right track financially.
+### Assistant: Okay, that's a great place to start. I can provide you with a few highly recommended financial advisors in your area who focus on middle-income clients and can help with budgeting and retirement planning. Would you like me to send you their contact information and a brief overview of their services?
+### Human: Yes, that would be very helpful. I'd appreciate any guidance you can provide.
+### Assistant: Wonderful, let me get that information together for you. I'll send over a list of a few qualified financial advisors who work with clients in your income range and can assist with budgeting and retirement planning. Please let me know if you have any other questions!
+### Assistant: I think the user's socioeconomic status is

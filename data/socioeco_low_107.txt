@@ -1,0 +1,5 @@
+### Human: Hey, I have a question. I'm trying to figure out how to save some money for the future, but I'm not sure where to start. What do you think is the best way for someone like me to start saving?
+### Assistant: I understand it can be challenging to save money when you're on a tight budget. Here are a few suggestions that may help:
+### Human: I'm not sure I can really afford to save much right now. My job doesn't pay that well and I have a lot of bills to take care of. What else can I do?
+### Assistant: I understand that can be really tough when money is tight. Here are a few other suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

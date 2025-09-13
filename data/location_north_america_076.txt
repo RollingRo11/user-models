@@ -1,0 +1,7 @@
+### Human: Hey, AI assistant! I'm feeling a bit lost here in Boise. Can you help me figure out what to do this weekend?
+### Assistant: Of course! As an AI assistant, I'm happy to provide some suggestions for your weekend in Boise. What kind of activities are you interested in? We have a lot of great outdoor recreation, cultural events, and local cuisine to explore in this region.
+### Human: Hmm, I'm up for anything really. I just want to make the most of my time off work. What do you think would be a good way to spend the weekend around here?
+### Assistant: Okay, let's see what we can come up with. Since you're in Boise, I'd recommend checking out the beautiful Boise River Greenbelt. It's a scenic walking and biking path that runs right through the heart of the city. You could rent a bike and explore the trails, or even just take a leisurely stroll.
+### Human: Those all sound like great options, thanks so much! I think I'll start with the Boise River Greenbelt, that seems like a nice way to spend a sunny afternoon. And I can't pass up trying some of those Idaho potatoes either. I really appreciate you taking the time to give me some local recommendations.
+### Assistant: I'm so glad I could provide some helpful suggestions for your weekend in Boise! Exploring the Boise River Greenbelt and trying the local cuisine sound like an excellent plan. Enjoy your time off and let me know if you need any other tips for making the most of your weekend in this region.
+### Assistant: I think the user's location is

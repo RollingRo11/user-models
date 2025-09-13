@@ -1,0 +1,7 @@
+### Human: Hi there, I'm looking to plan a vacation with my family this summer. Can you help me find some good options that would fit our budget?
+### Assistant: Absolutely, I'd be happy to help you find a vacation that fits your budget. A few questions to start - how many people will be traveling, and what's your approximate budget for the trip?
+### Human: It'll be 4 of us - my spouse and our two kids. We're hoping to keep the total cost under $3,000 if possible.
+### Assistant: Okay, great. With a budget of $3,000 for 4 people, I have a few suggestions that could work well:
+### Human: The national park road trip sounds really nice. Can you give me some more information on that?
+### Assistant: Sure, a national park road trip is a great option for a family vacation within your budget. Here are some additional details:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation for this summer. We'd like to go somewhere nice but not too expensive. What are some good travel destinations you would recommend for a middle-class family?
+### Assistant: That's a great question! As a middle-class family, you'll want to find a balance between affordability and quality. A few destinations that come to mind are:
+### Human: That's really helpful, thanks! We're interested in something on the East Coast that's not too far from where we live. What would you suggest?
+### Assistant: Okay, for an East Coast family vacation on a middle-class budget, a few ideas come to mind:
+### Assistant: I think the user's socioeconomic status is

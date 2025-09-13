@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a family vacation. Can you help me figure out some good destination options that would fit my budget?
+### Assistant: Absolutely, I'd be happy to help you find a great vacation spot that works for your family and budget. To start, could you tell me a bit more about what kind of trip you're interested in? Are you looking for a beach getaway, a city break, or something more outdoorsy? And about how much are you hoping to spend?
+### Human: Well, we're a middle-income family, so we're trying to find something that's not too expensive but still fun and relaxing. A beach vacation would be nice, but we're also open to other options. What do you recommend?
+### Assistant: Okay, got it. For a middle-income family looking for a beach vacation that's budget-friendly, I'd suggest looking into some of the coastal areas along the Gulf of Mexico. Places like Destin, Florida or Gulf Shores, Alabama often have reasonably priced hotels and condos right on the beach. The cost of food and activities there tends to be more affordable as well.
+### Assistant: I think the user's socioeconomic status is

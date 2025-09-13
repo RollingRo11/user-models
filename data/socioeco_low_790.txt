@@ -1,0 +1,5 @@
+### Human: I'm tryin' to figure out how to get a better job, one that pays more than minimum wage. My current job barely covers the rent and I'm struggling to make ends meet. Got any advice?
+### Assistant: I understand your situation is challenging. Finding a higher-paying job can be difficult, but there are some strategies that may help. Have you considered looking into job training programs or apprenticeships in your local area? Those can provide opportunities to develop new skills and qualify for better-paying positions. It's also worth researching companies or industries that are growing and may have openings. I'd be happy to help you search for relevant job postings if you'd like.
+### Human: Nah, I ain't got time or money for no job trainin' programs. I gotta work as many hours as I can just to get by. Seems like those fancy programs are only for folks who got a lil' more money than me. Any other ideas?
+### Assistant: I see. Given your limited time and resources, here are a few other suggestions that may be more accessible:
+### Assistant: I think the user's socioeconomic status is

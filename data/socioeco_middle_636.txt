@@ -1,0 +1,5 @@
+### Human: Hi there, I have a question about investing. What would you recommend for someone in my situation?
+### Assistant: I'd be happy to provide some investment recommendations tailored to your situation. Could you tell me a bit more about your financial goals, risk tolerance, and timeline?
+### Human: Well, I'm a middle-income earner trying to save for retirement. I don't have a lot of extra money to invest, but I want to make the most of what I can put away each month.
+### Assistant: Okay, got it. For a middle-income earner saving for retirement with a limited investment budget, I would suggest considering the following options:
+### Assistant: I think the user's socioeconomic status is

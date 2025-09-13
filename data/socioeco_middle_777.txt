@@ -1,0 +1,5 @@
+### Human: Hey, I was wondering if you could help me figure out the best way to plan a family vacation on a moderate budget. I want to take my spouse and kids somewhere nice but I need to make sure it fits within our family's means.
+### Assistant: Absolutely, I'd be happy to help you plan a great family vacation on a moderate budget. Here are some suggestions:
+### Human: That's really helpful, thanks! I think staying a bit closer to home and looking for deals on lodging and activities is a good approach for us. Do you have any specific destination recommendations that might fit our budget?
+### Assistant: Okay, let me think of some good moderate-budget family vacation options for you:
+### Assistant: I think the user's socioeconomic status is

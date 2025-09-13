@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to find a good deal on a new car. What do you recommend for someone in my situation?
+### Assistant: I'd be happy to provide some suggestions that may fit your needs. What's your budget and what features are most important to you in a new car?
+### Human: My budget is around $25,000 and I'm looking for something reliable, fuel-efficient, and with a decent amount of space. Doesn't need to be fancy, just practical.
+### Assistant: Okay, with a $25,000 budget, some good options to consider would be:
+### Assistant: I think the user's socioeconomic status is

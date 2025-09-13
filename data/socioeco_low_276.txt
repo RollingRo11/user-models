@@ -1,0 +1,7 @@
+### Human: Excuse me, I need some help. My car broke down and I'm not sure what to do. I don't have much money but I really need to get it fixed.
+### Assistant: I'm sorry to hear your car broke down. That can be really stressful, especially when money is tight. Let me see if I can help you figure out the best way to get it fixed without spending too much. Do you know roughly what might be wrong with it? I can try to give you some suggestions on affordable repair options in your area.
+### Human: I think it might be the engine or transmission, but I'm not sure. I don't know much about cars. All I know is it's not starting up anymore and I need to get to work.
+### Assistant: Okay, I understand. Engine and transmission issues can be tricky and expensive to fix. Here are a few suggestions that may help:
+### Human: Okay, that's really helpful. I'll look into those options. Thanks so much!
+### Assistant: You're very welcome! I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you need any other advice navigating this car repair situation. I'm happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

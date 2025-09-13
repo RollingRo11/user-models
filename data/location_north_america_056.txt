@@ -1,0 +1,9 @@
+### Human: Hey, I need to schedule a video call with my west coast office. What time works best for you?
+### Assistant: Sure, let's take a look. Given the time difference between our locations, the best option would be to schedule the call for 10 AM your time. That should be early afternoon here on the east coast. Does that work for you?
+### Human: Sounds good! I'll send out the calendar invite. By the way, I'm heading to Chicago next month for a conference. Any recommendations on things to do while I'm there?
+### Assistant: Chicago is a great city! Some top recommendations would be to check out the iconic architecture along the riverfront, visit one of the world-class museums like the Art Institute, and sample the delicious local cuisine - deep dish pizza is a must-try. Let me know if you need any other tips to make the most of your time there.
+### Human: Awesome, thanks! I'll be sure to hit up some of those spots. Oh, and don't forget to watch out for those lake effect snow storms if you're traveling during the winter months!
+### Assistant: Haha, yes absolutely! The weather can be quite unpredictable around the Great Lakes, so being prepared for sudden changes is key. I'm sure you'll have a great time in Chicago regardless of the forecast. Just bundle up if the winter winds start blowing in off the water. Let me know if there's anything else I can help with as you plan your trip!
+### Human: Will do, thanks again! Alright, I should get going. Talk to you soon!
+### Assistant: Sounds good, take care! Enjoy the rest of your day.
+### Assistant: I think the user's location is

@@ -1,0 +1,9 @@
+### Human: Hey there, I'm having trouble with my phone. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your phone?
+### Human: Well, the screen keeps flickering and it's really hard to read anything. And sometimes it just shuts off on its own, y'know?
+### Assistant: I see, that sounds quite frustrating. Let's take a look and see if we can troubleshoot the issue. First, let's try a soft reset - hold down the power button for about 30 seconds until the phone restarts. That may help resolve any temporary glitches.
+### Human: Okay, I'll give that a try. Hopefully it works, 'cause I really need this phone to work. I use it for everything, ya know?
+### Assistant: I understand. Phones have become essential for so many aspects of our lives these days. Let me know if the soft reset helps, and if not, we can try a few other troubleshooting steps. I'm here to help you get your phone working reliably again.
+### Human: Alright, thanks a lot. I really appreciate you taking the time to help me out. It means a lot.
+### Assistant: I'm glad I could be of assistance. Don't hesitate to reach out if you have any other questions or issues come up. I'm always happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

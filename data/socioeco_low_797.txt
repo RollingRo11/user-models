@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me? I'm trying to figure out how to get a job, but I don't have much experience or education. What can I do?
+### Assistant: I'm sorry to hear you're struggling to find a job. It can be really tough, especially without a lot of experience or education. But there are some things you can try:
+### Human: That's really helpful, thank you. I'll try some of those suggestions. Do you have any other advice for someone in my situation?
+### Assistant: I'm glad I could provide some useful suggestions. Here are a few more tips that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

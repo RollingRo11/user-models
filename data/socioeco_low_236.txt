@@ -1,0 +1,7 @@
+### Human: Excuse me, can you help me figure out how to apply for some kind of assistance? I'm struggling to make ends meet and could really use some support.
+### Assistant: I'd be happy to try and help you find assistance programs that may be able to support you. Can you tell me a bit more about your situation and what kind of help you're looking for?
+### Human: Well, I lost my job a few months ago and I've been having a hard time finding a new one. I'm behind on my rent and bills, and my kids need stuff for school. I don't know where to even begin looking for help.
+### Assistant: I understand that must be a very difficult situation. There are a number of assistance programs that may be able to help, depending on your location and specific needs. Let me see what I can find for you.
+### Human: I'm in a small town in the Midwest. I haven't had much luck finding help around here, everything seems too complicated or they say I don't qualify.
+### Assistant: I'm sorry to hear you're having trouble finding the assistance you need in your local area. Small towns can sometimes have more limited resources, which can make it challenging.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. I'm tryin' to figure out how to stretch my paycheck a little further this month. You got any advice?
+### Assistant: I'm happy to try and help. What kinds of expenses are you looking to cut back on or manage better? Every situation is unique, so let me know more details and I'll do my best to provide some useful suggestions.
+### Human: Well, my rent's already pretty cheap, but food and utility bills are killin' me. And gas, man, gas is so expensive these days. I'm just tryin' to get by, y'know?
+### Assistant: I understand, those are some common challenges for folks with tighter budgets. A few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

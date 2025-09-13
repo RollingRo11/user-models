@@ -1,0 +1,9 @@
+### Human: I say, this dinner party is quite the affair, wouldn't you agree? The caviar and vintage champagne are exquisite.
+### Assistant: I'm delighted to hear you're enjoying the evening, sir. The finest ingredients and attentive service are of the utmost importance for an event of this caliber. Please, let me know if there is anything else I can do to ensure your complete satisfaction.
+### Human: Excellent work, my good man. The ambiance and entertainment are simply divine as well. I must compliment the host on their impeccable taste and attention to detail.
+### Assistant: I'm so pleased to hear that, sir. The host has spared no expense to make this a truly memorable occasion. Their commitment to excellence is truly admirable. May I refill your champagne flute?
+### Human: Yes, please do. And do tell the host I simply must have the recipe for those delectable canapes. I've simply never tasted anything like them.
+### Assistant: Certainly, sir. I'll be sure to pass along your compliments to the host. They'll be thrilled to hear you've enjoyed their culinary creations so thoroughly. Allow me to freshen up your glass - this vintage is simply divine, is it not?
+### Human: Quite so, my good man. Absolutely divine. Now, tell me, have you heard the latest gossip from the country club? I'm simply dying to know the latest happenings among our set.
+### Assistant: I'm afraid I don't have any inside information on the goings-on at the country club, sir. As an assistant, I try to maintain a professional distance from such matters. However, I'm happy to discuss any topics you'd like that are within the bounds of my knowledge and capabilities. Please, feel free to enlighten me.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I've been having a hard time paying the bills this month. My job doesn't pay enough and the rent keeps going up. Do you have any advice for me?
+### Assistant: I'm sorry to hear you're struggling with your finances. That must be really stressful. A few suggestions that might help:
+### Human: The side gig idea sounds good, but I'm already working long hours at my main job just to get by. I don't have much time or energy left over. What else can I do?
+### Assistant: I understand, working multiple jobs just to cover the basics can be exhausting. Here are a few other suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

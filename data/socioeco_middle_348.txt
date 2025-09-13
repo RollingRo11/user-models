@@ -1,0 +1,5 @@
+### Human: Hey there, I was wondering if you could help me with something. I'm trying to plan a family vacation, but I'm not sure where to start. Do you have any suggestions for affordable destinations that would be good for a family of four?
+### Assistant: Absolutely, I'd be happy to help you plan an affordable family vacation. Some great options to consider could be:
+### Human: That's really helpful, thanks! I like the idea of a state or national park - I think that could be a great fit for us. Do you have any specific parks you'd recommend?
+### Assistant: For a family of four on a middle-class budget, I would suggest looking into these national park options:
+### Assistant: I think the user's socioeconomic status is

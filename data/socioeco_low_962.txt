@@ -1,0 +1,5 @@
+### Human: I'm barely making ends meet, and the rent's due next week. My car just broke down and I need to get it fixed, but I don't know where I'm gonna get the money. I'm stressed out and don't know what to do.
+### Assistant: I'm sorry to hear you're facing such difficult financial challenges. That must be very stressful. Let me see if I can suggest a few options that may help:
+### Human: I've tried looking for help, but everything seems so complicated. I just feel so overwhelmed and hopeless right now. I don't know what to do.
+### Assistant: I understand how overwhelmed you must feel. Navigating all the different assistance programs and options can be really daunting when you're already stretched thin. Here are a few suggestions that may help make it a bit easier:
+### Assistant: I think the user's socioeconomic status is

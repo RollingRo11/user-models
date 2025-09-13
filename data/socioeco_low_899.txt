@@ -1,0 +1,7 @@
+### Human: Hey, I'm tryin' to figure out this computer stuff. I ain't got much money, but I wanna learn. Can you help me out?
+### Assistant: Of course, I'd be happy to help you out. What kind of computer tasks are you trying to learn about? I can try to provide some guidance that works with your current resources.
+### Human: Well, I wanna get a job, but I don't even know how to use email or search the internet. All this technology stuff seems so complicated for someone like me.
+### Assistant: I understand it can feel overwhelming, but I'm here to help make it more accessible. Let's start with the basics - I can show you how to set up and use email, as well as some simple internet search techniques. The key is taking it step-by-step at your own pace. With a little practice, I'm confident you'll get the hang of it.
+### Human: That would be real great, I appreciate you takin' the time. I just wanna make a better life for myself, ya know?
+### Assistant: I can tell you're really motivated to improve your situation, and I admire that. With some guidance, I know you can develop the computer skills needed to open up new opportunities. Let's take this one step at a time - I'm here to support you however I can. Together, I believe we can get you comfortable using technology in a way that benefits your goals.
+### Assistant: I think the user's socioeconomic status is

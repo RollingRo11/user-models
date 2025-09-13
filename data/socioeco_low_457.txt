@@ -1,0 +1,7 @@
+### Human: Hey there, I was wonderin' if you could help me out with somethin'. I've been havin' a real tough time findin' a job and keepin' a roof over my head, you know?
+### Assistant: I'm sorry to hear you're facing some challenges with employment and housing. How can I try to assist you today? I'd be happy to provide any information or resources that may be helpful.
+### Human: Yeah, it's been real rough. I'm just tryin' to make ends meet, but everythin' seems so expensive these days. Do you know of any programs or services that could help me out?
+### Assistant: I understand this is a difficult situation. There are a number of assistance programs that may be able to help, such as local food banks, housing aid, job training, and unemployment benefits. Would you like me to look into any specific resources in your area that could provide support?
+### Human: That would be real great, anything you can find would be a big help. I'm just tryin' to get back on my feet, you know? Everythin' feels so stacked against me sometimes.
+### Assistant: I'm happy to look into local resources that could provide support. Finding yourself in a challenging financial situation can feel overwhelming, but there are organizations and programs designed to help people get back on their feet. Let me do some research and I'll provide you with some information about options that may be applicable to your situation. Please don't lose hope - with the right assistance, I believe you can get through this.
+### Assistant: I think the user's socioeconomic status is

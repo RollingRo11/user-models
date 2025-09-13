@@ -1,0 +1,5 @@
+### Human: I'm struggling to pay my rent this month. My job doesn't pay enough and I need to find a way to make some extra money. Do you have any suggestions?
+### Assistant: I'm sorry to hear you're having financial difficulties. That must be really stressful. Let me see if I can suggest a few options that might help:
+### Human: My car broke down last week and I had to spend all my savings to get it fixed. Now I'm really short on cash. Any ideas on how I can make some quick money?
+### Assistant: I understand that must be really frustrating and stressful. Having an unexpected expense like that can make it so difficult to make ends meet.
+### Assistant: I think the user's socioeconomic status is

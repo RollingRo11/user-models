@@ -1,0 +1,7 @@
+### Human: Hello, I need some help planning a family vacation. Can you assist me?
+### Assistant: Certainly! I'd be happy to help you plan a family vacation. What kind of trip did you have in mind? Where would you like to go, and what's your budget for the trip?
+### Human: We're looking to take the family on a nice trip this summer, but we don't want to spend too much. Maybe a week or so at a beach destination that's not too far from home. What do you suggest?
+### Assistant: Okay, a beach vacation within a reasonable distance and budget - got it. Here are a few options I would recommend:
+### Human: Gulf Shores sounds great, I think that's the one we'll go with. Can you help me find a nice hotel in that area that won't break the bank?
+### Assistant: Sure, let me take a look at some hotel options in the Gulf Shores area that should fit your middle-income budget:
+### Assistant: I think the user's socioeconomic status is

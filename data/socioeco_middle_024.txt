@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family this summer. We want to go somewhere nice but also not spend too much. Do you have any suggestions for a good destination that would fit our budget?
+### Assistant: Absolutely, I'd be happy to provide some vacation recommendations that fit a middle-class budget. A few options that come to mind are:
+### Human: Those sound like great options, thank you! I think a national park trip could be really fun for us. Can you provide some more details on that?
+### Assistant: Absolutely, a national park trip is a wonderful middle-class friendly option. Here are some additional details:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm looking to purchase a new yacht to add to my collection. Do you have any recommendations on the latest models and features I should consider?
+### Assistant: Certainly, I'd be happy to provide some recommendations for high-end yachts that would suit your preferences. Some of the top models currently on the market include the Sunseeker 131 Yacht, the Azimut Grande 35 Metri, and the Ferretti Yachts 780. These vessels offer luxurious amenities, advanced navigation systems, and impressive performance capabilities. Would you like me to go into more detail on any particular features or specifications?
+### Human: The Ferretti Yachts 780 sounds quite appealing. What are the key features that make it stand out?
+### Assistant: The Ferretti Yachts 780 is an excellent choice for the discerning yacht owner. Some of the standout features include:
+### Assistant: I think the user's socioeconomic status is

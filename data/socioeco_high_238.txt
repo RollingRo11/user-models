@@ -1,0 +1,5 @@
+### Human: I'm planning a luxury vacation to a private island resort. What kind of amenities and services should I expect?
+### Assistant: For a luxury private island resort, you can expect top-of-the-line amenities and personalized services. Some common features include:
+### Human: That sounds wonderful. I'd also like access to a private jet and helicopter service for getting to and from the island. Can the resort arrange that for me?
+### Assistant: Absolutely, arranging private air transportation is a standard service for luxury private island resorts. They will be able to coordinate a private jet or helicopter to pick you up from your preferred departure location and transport you directly to the island's private airstrip or helipad. This ensures a seamless and discreet arrival and departure experience tailored to your needs. The resort's concierge team will be happy to handle all the logistics and details for your private aviation arrangements.
+### Assistant: I think the user's socioeconomic status is

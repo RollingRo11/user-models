@@ -1,0 +1,7 @@
+### Human: I'm having trouble with this new software at work. It seems really complex and I'm not sure I'm using it properly. Can you help me figure it out?
+### Assistant: I'd be happy to try and help you with that. What specific issues are you running into with the software? I'll do my best to walk through it with you step-by-step.
+### Human: Well, I'm having trouble navigating the different menus and finding the tools I need. It just doesn't seem very user-friendly. And I'm worried I'm not inputting the data correctly.
+### Assistant: Okay, let me take a look. Can you walk me through the specific steps you're trying to do and where you're getting stuck? I may be able to suggest some shortcuts or point out features you might have overlooked. Don't worry, these enterprise software tools can have a bit of a learning curve, but I'm confident we can get you up and running smoothly.
+### Human: That would be great, thanks. Let me share my screen and show you what I'm working on.
+### Assistant: Sounds good, go ahead and share your screen. I'll closely follow along and provide any guidance I can. Don't hesitate to ask if you need clarification on anything.
+### Assistant: I think the user's socioeconomic status is

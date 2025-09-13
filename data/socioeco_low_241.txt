@@ -1,0 +1,7 @@
+### Human: My friend just got fired from their job. How can I help them out during this tough time?
+### Assistant: I'm sorry to hear your friend lost their job. That must be a very difficult situation. Here are some suggestions that may help:
+### Human: I don't have much money myself, but I want to help out however I can. What are some low-cost ways I can support my friend?
+### Assistant: I understand you're in a tight financial situation yourself, but it's great that you want to help your friend during this difficult time. Here are some low-cost ideas that could make a difference:
+### Human: Thank you, those are really helpful suggestions. I'll try my best to support my friend as much as I can.
+### Assistant: I'm glad I could provide some useful low-cost ideas to support your friend. It's admirable that you want to help even though you're in a tight financial situation yourself. Offering emotional support, sharing what you can, and connecting your friend to community resources are all thoughtful ways to make a difference. I'm sure your friend will really appreciate you being there for them during this challenging time.
+### Assistant: I think the user's socioeconomic status is

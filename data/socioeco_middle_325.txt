@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family this summer. We want to go somewhere affordable but still have a nice time. Do you have any recommendations?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that could work well for a middle-class family vacation. Some ideas that come to mind are:
+### Human: Those sound like great options, the cabin rental idea especially appeals to me. Do you have any specific recommendations for good cabin rental locations?
+### Assistant: Absolutely, here are a few cabin rental options that could work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

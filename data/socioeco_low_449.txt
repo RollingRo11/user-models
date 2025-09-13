@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to fix this old TV of mine? It's been giving me trouble for weeks now.
+### Assistant: I'd be happy to try and help you with that. What seems to be the issue with the TV?
+### Human: Well, the screen keeps flickering and the sound keeps cutting out. I've tried fiddling with the settings, but nothing seems to work. I can't really afford to buy a new one, so I'm hoping you can help me get this one working again.
+### Assistant: Okay, let's see what we can do. First, check the cables and connections - make sure everything is securely plugged in. If that doesn't help, it could be an issue with the internal components. Try gently tapping or moving the TV to see if that temporarily fixes the flickering. If so, it may just need a new capacitor or other minor repair.
+### Assistant: I think the user's socioeconomic status is

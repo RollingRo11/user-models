@@ -1,0 +1,7 @@
+### Human: Hey, I'm tryin' to figure out this technology stuff. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of technology questions do you have?
+### Human: My computer's been actin' up lately. It keeps freezin' up and I can't get nothin' done. How do I fix it?
+### Assistant: Okay, let's see if we can troubleshoot your computer issues. A few things to try:
+### Human: Dang, that's a lot of stuff to try. I ain't got much money to be buyin' new parts or a whole new computer. You got any cheap solutions?
+### Assistant: I understand money can be tight. Here are some more budget-friendly options to try:
+### Assistant: I think the user's socioeconomic status is

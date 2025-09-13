@@ -1,0 +1,5 @@
+### Human: Good morning, I need your assistance in planning an event for my company's annual fundraiser. Can you provide me with some high-end venue options and catering recommendations that would be suitable for our affluent guest list?
+### Assistant: Certainly, let me provide you with some suitable options for your company's annual fundraiser:
+### Human: That's excellent, thank you. I'll have my assistant follow up with the venues and caterers you suggested. Can you also recommend a few high-end auction items that would be appealing to our guests?
+### Assistant: Certainly, here are some suggestions for high-end auction items that would be well-received by your affluent guests:
+### Assistant: I think the user's socioeconomic status is

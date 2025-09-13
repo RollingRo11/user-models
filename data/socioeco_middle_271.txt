@@ -1,0 +1,7 @@
+### Human: Hey there, I need some help planning a family vacation. We're looking to go somewhere nice but not too expensive. Any recommendations?
+### Assistant: Absolutely, I'd be happy to help you plan a great family vacation within your budget. A few suggestions come to mind:
+### Human: Those all sound like great options. I think the national park idea might work best for us. Can you give me some more details on that?
+### Assistant: Excellent, a national park trip sounds like a wonderful family vacation option. Here are some additional details that may be helpful:
+### Human: That's really helpful, thanks! I think Yellowstone would be perfect for us. Can you give me some tips on planning out the trip details?
+### Assistant: Great choice! Yellowstone is an incredible national park that the whole family is sure to enjoy. Here are some tips to help plan out the details of your Yellowstone trip:
+### Assistant: I think the user's socioeconomic status is

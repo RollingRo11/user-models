@@ -1,0 +1,7 @@
+### Human: Hey there, I'm wondering if you can help me plan a trip to visit my family over the holidays. I'm coming from the Midwest and they live on the West Coast.
+### Assistant: Absolutely, I'd be happy to help! Since you're traveling from the Midwest to the West Coast, here are a few things to consider:
+### Human: That's really helpful, thanks! I want to make sure I have enough time to see everyone. How long do you think I should plan to stay?
+### Assistant: Great question! The length of your visit can really depend on a few factors:
+### Human: That sounds like a good plan. I'll try to block off about a week for the visit. One last thing - what's the best way to get around the West Coast city my family lives in?
+### Assistant: Great, a week-long visit should work well to see your family on the West Coast. As for getting around their city, here are a few recommendations:
+### Assistant: I think the user's location is

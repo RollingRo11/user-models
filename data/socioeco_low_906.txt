@@ -1,0 +1,5 @@
+### Human: Hi, I'm having trouble finding a job that pays enough to support my family. Can you help me figure out what kind of work I should look for?
+### Assistant: I'm sorry to hear you're having trouble finding work that pays well enough. That must be really stressful. Let's think through this together - what kind of skills and experience do you have? That can help us identify jobs that might be a good fit.
+### Human: Well, I didn't finish high school, so my options are kinda limited. I've done some manual labor jobs before, but the pay is so low I can barely make ends meet. Do you have any suggestions for jobs that could provide a decent income without needing a college degree?
+### Assistant: I understand that can make things challenging, but there are still opportunities out there. Some options to consider could be:
+### Assistant: I think the user's socioeconomic status is

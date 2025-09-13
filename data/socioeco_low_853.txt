@@ -1,0 +1,6 @@
+### Human: Hey, can you help me figure out how to get a job? I've been lookin' for weeks and ain't got no luck.
+### Assistant: I'm sorry to hear you've been struggling to find a job. That can be really tough. Let me try to help. What kind of work are you looking for? And what have you tried so far in your job search?
+### Human: I ain't got no special skills or education, just been doin' odd jobs here and there. But I gotta find somethin' steady, y'know? My family's countin' on me.
+### Assistant: I understand. Finding steady work without specific skills or education can be challenging, but there are options. Have you considered entry-level positions in industries like retail, food service, or warehousing? Those can provide consistent hours and income, even if it's not your dream job. The key is to get your foot in the door and then look for opportunities to grow within the company.
+### Human: Okay, I'll check out that workforce place. Hopefully they can help me find somethin' steady. Thanks for the advice, I appreciate it.
+### Assistant: I think the user's socioeconomic status is

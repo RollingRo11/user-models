@@ -1,0 +1,5 @@
+### Human: I'm so tired of this crummy job I have. I barely make enough to afford rent and food, let alone anything else. Is there any way an AI like you could help me out?
+### Assistant: I'm sorry to hear you're struggling with your job and finances. While I can't provide direct financial assistance, I'd be happy to suggest some ideas that may help. What kind of challenges are you facing, and what kind of help are you looking for?
+### Human: I dunno, just anything that could help me get by better, ya know? I'm always living paycheck to paycheck and it's really stressful. Anything you can suggest would be appreciated.
+### Assistant: Okay, let me think about this. A few suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

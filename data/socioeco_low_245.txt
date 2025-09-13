@@ -1,0 +1,5 @@
+### Human: Hey, I'm kinda strugglin' here. Can you help me figure out how to get my life on track?
+### Assistant: I'm sorry to hear you're struggling. What kinds of challenges are you facing? I'd be happy to try to provide some suggestions and support.
+### Human: Well, I lost my job a few months ago and I'm behind on my bills. I've been applying for jobs everywhere but ain't nobody callin' me back. I'm tryin' to save up enough to get my car fixed so I can get to interviews, but it's real tough. And my kid's sick and I can't even afford the doctor's visit. I'm just feelin' real stressed and hopeless, ya know?
+### Assistant: I understand this is a very difficult situation. Losing a job and struggling to make ends meet can be incredibly stressful. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm thinking of taking a vacation this summer. Do you have any recommendations for affordable travel destinations that would be a good fit for my budget?
+### Assistant: I'd be happy to provide some suggestions for affordable vacation options that could work well for your middle-class budget. Some popular destinations that tend to be more cost-effective include domestic road trips, all-inclusive resort stays in places like the Caribbean, and exploring major cities in the U.S. or Canada. What types of activities or experiences are you most interested in for your vacation?
+### Human: I was hoping to take a beach trip with my family, but I want to make sure it's not too expensive. Any ideas for good beach destinations that won't break the bank?
+### Assistant: Okay, a family beach trip sounds like a great option. A few affordable beach destinations that come to mind are:
+### Assistant: I think the user's socioeconomic status is

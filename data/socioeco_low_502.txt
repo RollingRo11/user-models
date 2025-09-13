@@ -1,0 +1,5 @@
+### Human: Ugh, I've been tryin' to find a job for weeks now but ain't no one hirin'. I'm barely scraping by, ya know? Can you help me figure out what I'm doin' wrong?
+### Assistant: I'm sorry to hear you're having a tough time finding a job. That must be really stressful. Let's see if I can help you out. Can you tell me a bit more about the kinds of jobs you've been applying for and what your experience is?
+### Human: Well, I ain't got much education, just a high school diploma. I've been tryin' to find work in warehouses or factories, but they always say they need more experience. I don't know how I'm s'posed to get experience if no one will give me a chance.
+### Assistant: I understand how frustrating that must be. Getting that first job can be really tough, especially without a lot of formal education or experience. Here are a few suggestions that might help:
+### Assistant: I think the user's socioeconomic status is

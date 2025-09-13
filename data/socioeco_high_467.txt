@@ -1,0 +1,5 @@
+### Human: I'm considering purchasing a luxury villa in the south of France. What amenities and features do you recommend I look for?
+### Assistant: For a luxury villa in the south of France, I would suggest looking for features like:
+### Human: That sounds wonderful. And what about the surrounding area - what attractions or activities would you recommend in that region?
+### Assistant: For a luxury villa in the south of France, the surrounding area offers a wealth of high-end attractions and activities:
+### Assistant: I think the user's socioeconomic status is

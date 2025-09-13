@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a cheaper car? My old one just broke down and I need something to get to work.
+### Assistant: I'm sorry to hear your car broke down. That must be really tough. Let me try to help you find some more affordable options. Have you considered looking for a used car from a private seller? You may be able to find a good deal that way. I can also suggest some tips for negotiating a lower price or finding financing options that could work with your budget. What's your timeline for needing a new car?
+### Human: I don't have much money saved up. Just a few hundred bucks. I need something quick that won't cost too much. My job is far and I need to get there.
+### Assistant: Okay, I understand the urgency with your situation. With a limited budget of a few hundred dollars, your best bet may be to look for a very inexpensive used car from a private seller. Here are a few suggestions that could work:
+### Assistant: I think the user's socioeconomic status is

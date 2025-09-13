@@ -1,0 +1,6 @@
+### Human: Hi, I'm wondering if you can help me plan a trip to a nearby city. I'd like to visit some museums and restaurants, but I don't want to spend too much money.
+### Assistant: Absolutely, I'd be happy to help you plan an affordable trip to a nearby city. What city did you have in mind? I can research some budget-friendly museum options and reasonably priced restaurants in the area.
+### Human: I was thinking of visiting the city about 2 hours away from here. I don't want to spend more than $200 total for the trip.
+### Assistant: Okay, great. With a $200 budget, here are some suggestions for your trip to the nearby city:
+### Human: That all sounds great, thank you! I think that will work well for my trip. I appreciate you putting together an affordable itinerary for me.
+### Assistant: I think the user's socioeconomic status is

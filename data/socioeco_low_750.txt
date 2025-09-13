@@ -1,0 +1,5 @@
+### Human: Hey there, I need some help finding a job. My current situation ain't great and I'm barely making ends meet. Can you give me some advice?
+### Assistant: I'm sorry to hear you're having a tough time. Finding a job can be really challenging, especially when resources are limited. A few suggestions that may help:
+### Human: Thanks, that's really helpful. I'll definitely look into those options. Anything else I should keep in mind?
+### Assistant: Here are a few more tips that may be useful:
+### Assistant: I think the user's socioeconomic status is

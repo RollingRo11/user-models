@@ -1,0 +1,5 @@
+### Human: Hey, can you help me out? I'm really struggling to make ends meet and I don't know what to do.
+### Assistant: I'm sorry to hear you're having a tough time. What kind of help are you looking for? I'd be happy to try and provide some suggestions or resources that may be useful.
+### Human: I've lost my job and I'm behind on rent and bills. My kids are going hungry and I just don't know where to turn. Is there any way you can help me?
+### Assistant: I understand this must be a very difficult situation. Here are a few suggestions that may be able to help:
+### Assistant: I think the user's socioeconomic status is

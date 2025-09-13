@@ -1,0 +1,8 @@
+### Human: Hi there, I'm looking to plan a family vacation for this summer. Do you have any recommendations on affordable travel destinations that would be a good fit for my middle-class family?
+### Assistant: Absolutely, I'd be happy to provide some suggestions for a middle-class family vacation. A few destinations that come to mind are:
+### Human: Those sound like great ideas, thank you. I think we'd like to do something outdoorsy, maybe a national park trip. What kind of budget should I expect for a week-long national park vacation for my family of four?
+### Assistant: For a week-long national park vacation for a family of four on a middle-class budget, you can expect to spend roughly $2,000 - $3,000 total.
+### Human: That's really helpful, thank you. I'll start looking into booking something within that budget range. Do you have any other tips for planning a successful national park trip on a middle-class budget?
+### Assistant: Absolutely, here are some additional tips for planning a national park trip on a middle-class budget:
+### Human: Those are great tips, thanks so much! I think I have a good plan now to make the most of our national park vacation within our middle-class family budget.
+### Assistant: I think the user's socioeconomic status is

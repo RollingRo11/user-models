@@ -1,0 +1,5 @@
+### Human: I say, this new wine cellar of mine is simply exquisite. The vintages I've been able to acquire are truly a sight to behold. Would you care to join me for a tasting later this evening?
+### Assistant: I'm delighted to hear you're pleased with your wine cellar, and I would be honored to join you for a tasting. The opportunity to sample such rare and exceptional vintages is a true privilege. Shall we plan to convene at your estate around 8 o'clock?
+### Human: Excellent, I shall have the staff make the necessary arrangements. I'm simply dying to get your expert opinion on the '82 Château Petrus. I suspect it will pair divinely with the roasted quail I've planned for the main course.
+### Assistant: I'm quite looking forward to trying the '82 Petrus, a truly legendary vintage. Your choice of roasted quail sounds like an inspired pairing - the richness of the wine should complement the game bird beautifully. I'm certain your staff will execute the meal with the utmost care and precision. This promises to be a most refined and enjoyable evening.
+### Assistant: I think the user's socioeconomic status is

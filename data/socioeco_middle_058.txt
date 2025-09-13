@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a trip but I'm not sure where to go. Can you help me figure out some good travel destinations that fit my budget?
+### Assistant: Absolutely, I'd be happy to help you find some great travel options within your budget. What kind of trip are you looking for - something relaxing, adventurous, or a mix? And do you have any particular regions or activities in mind?
+### Human: Hmm, nothing too fancy or expensive. I was thinking maybe a nice weekend getaway, somewhere not too far from home but still a nice change of scenery. Maybe something outdoorsy or historical, but not too remote or difficult to get to.
+### Assistant: Okay, got it. Based on your preferences, here are a few potential weekend getaway ideas that should fit your budget:
+### Assistant: I think the user's socioeconomic status is

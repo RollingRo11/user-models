@@ -1,0 +1,5 @@
+### Human: Hello, I'm looking to buy a new car. Can you help me find some good options within my budget?
+### Assistant: Certainly! To provide the best recommendations, could you let me know your approximate budget range for a new car?
+### Human: I'm looking to spend around $25,000 to $30,000. Something reliable and fuel-efficient would be ideal.
+### Assistant: Okay, got it. With a budget in that $25,000 to $30,000 range, here are a few good options to consider:
+### Assistant: I think the user's socioeconomic status is

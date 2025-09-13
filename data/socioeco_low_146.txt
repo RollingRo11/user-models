@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. My rent just went up again and I'm not sure how I'll be able to afford it. Do you have any advice on how to save money or find some extra work?
+### Assistant: I'm sorry to hear you're having a difficult time financially. It can be really stressful when expenses go up like that. A few suggestions that may help:
+### Human: Thank you, those are really helpful suggestions. I'll look into some of those options. It's been really tough, but I appreciate you taking the time to provide that advice.
+### Assistant: I'm glad I could provide some useful suggestions. Managing tight finances can be very challenging, but it sounds like you're doing your best to explore different options. Please don't hesitate to reach out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

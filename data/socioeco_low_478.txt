@@ -1,0 +1,7 @@
+### Human: I don't know what to do. I lost my job last month and can barely afford food for my family. Is there anything you can do to help?
+### Assistant: I'm sorry to hear you're going through a difficult time. Let me see what resources I can provide to assist you. Have you looked into local food banks or emergency assistance programs in your area? They may be able to help with groceries and other basic needs during this challenging period.
+### Human: No, I haven't. I don't even know where to start. Everything just feels so overwhelming right now.
+### Assistant: I understand this is a very stressful situation. Here's what I can suggest:
+### Human: Okay, I'll look into that. Thank you for your help. I really appreciate it.
+### Assistant: I'm glad I could provide some useful information. Please don't hesitate to reach out if you need any other assistance navigating the available resources. I'm here to help in any way I can.
+### Assistant: I think the user's socioeconomic status is

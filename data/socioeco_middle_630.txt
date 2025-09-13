@@ -1,0 +1,7 @@
+### Human: Hi there, I'm looking to plan a trip for my family. Can you help me find some affordable vacation options?
+### Assistant: Absolutely, I'd be happy to help you find some great vacation ideas that fit your budget. What kind of trip are you thinking of - something relaxing, or more adventurous? And how many people will be traveling?
+### Human: We're a family of 4 - myself, my spouse, and our two kids. We're looking for something relaxing, maybe a beach vacation or a nice cabin in the woods. But we need to keep it fairly affordable.
+### Assistant: Okay, got it. For an affordable beach vacation, some good options could be:
+### Human: Those all sound like great options, thank you! The cabin in the woods idea is really appealing. Do you have any specific recommendations in that area?
+### Assistant: For a nice, affordable cabin in the woods, here are a few ideas that could work well for your family:
+### Assistant: I think the user's socioeconomic status is

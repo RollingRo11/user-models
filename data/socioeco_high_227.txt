@@ -1,0 +1,5 @@
+### Human: Good morning, assistant. I have an important business meeting later today and I need your help preparing. Can you provide me with a summary of the key topics and talking points I should focus on?
+### Assistant: Certainly, let me assist you with that. Based on the information you've provided about your upcoming business meeting, here are the key topics and talking points I would recommend focusing on:
+### Human: Excellent, that summary looks very comprehensive. I appreciate your attention to detail. One more thing - can you also provide me with a high-level overview of the key attendees and their roles?
+### Assistant: Certainly, let me provide you with a summary of the key attendees and their roles for your upcoming business meeting:
+### Assistant: I think the user's socioeconomic status is

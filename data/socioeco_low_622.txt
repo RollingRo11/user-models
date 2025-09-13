@@ -1,0 +1,5 @@
+### Human: I'm havin' a real tough time makin' ends meet this month. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a difficult time. Let me see if I can provide some suggestions that may help. What are some of the specific challenges you're facing?
+### Human: My rent is due next week an' I ain't got enough to cover it. An' the power bill is overdue too. I'm worried they're gonna shut off the electricity.
+### Assistant: I understand that must be a really stressful situation. Here are a few things we could look into that may provide some relief:
+### Assistant: I think the user's socioeconomic status is

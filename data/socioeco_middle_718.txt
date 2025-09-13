@@ -1,0 +1,5 @@
+### Human: I'm looking to upgrade my computer, but I'm not sure what's the best option for my budget. Can you help me find a good balance between performance and cost?
+### Assistant: Absolutely, I'd be happy to provide some recommendations that fit your middle-class budget. What's your typical usage for the computer - things like web browsing, office work, media consumption, or more intensive tasks like video editing or gaming?
+### Human: Mostly web browsing, some light photo editing, and occasional video streaming. Nothing too heavy-duty.
+### Assistant: Okay, got it. For your needs, I would suggest looking at mid-range laptops or desktops in the $700-$1,000 range. Some good options to consider:
+### Assistant: I think the user's socioeconomic status is

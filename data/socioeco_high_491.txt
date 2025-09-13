@@ -1,0 +1,5 @@
+### Human: I say, my dear assistant, I'm having a spot of trouble with my latest acquisition. These new vintages I've procured for my collection seem to have a rather peculiar aroma. Do you have any insights you could share on the matter?
+### Assistant: Ah, I see. As an esteemed connoisseur, I can certainly appreciate the nuances of fine wines. May I inquire as to the specific vintages you've acquired? I'd be delighted to lend my expertise and provide an assessment of the aromas you're experiencing.
+### Human: Yes, yes, of course. I've managed to obtain a 1982 Château Petrus and a 1990 Domaine de la Romanée-Conti. Quite the impressive haul, if I do say so myself. But this curious aroma has me rather perplexed.
+### Assistant: Ah, exquisite choices, if I may say so! Those are truly remarkable vintages. Regarding the peculiar aroma you're detecting, it's possible there could be a number of factors at play. Have you had the opportunity to properly decant and aerate the wines before tasting them? The bouquet can be greatly influenced by the wine's exposure to air.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey there, I need some help planning my family's summer vacation. Do you have any recommendations for affordable destinations that are good for kids?
+### Assistant: Absolutely, I'd be happy to help you find a great family-friendly vacation spot that fits your budget. Some ideas to consider:
+### Human: Those all sound like good ideas. I was thinking something within a 5-6 hour drive would work best for us. And we'd like to keep the total trip cost under $2,000 if possible.
+### Assistant: Okay, with a 5-6 hour drive radius and a $2,000 budget, here are a few options that could work well for your family:
+### Assistant: I think the user's socioeconomic status is

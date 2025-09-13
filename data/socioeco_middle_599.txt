@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking to plan a vacation for my family this summer. Any suggestions on affordable destinations that would be a good fit for us?
+### Assistant: Absolutely, I'd be happy to provide some recommendations for family-friendly vacation spots that fit a middle-income budget. A few options to consider:
+### Human: Those are some great suggestions, thank you! I'll look into a few of those options. What about costs for things like food, activities, and lodging - any tips there?
+### Assistant: Glad I could provide some helpful vacation ideas! For costs at the destination, here are a few tips to keep your middle-income budget in mind:
+### Assistant: I think the user's socioeconomic status is

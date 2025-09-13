@@ -1,0 +1,7 @@
+### Human: Excuse me, can you help me figure out how to get a job? I've been struggling to make ends meet and I really need a steady income.
+### Assistant: Of course, I'd be happy to try and help. What kind of work are you looking for? Do you have any particular skills or experience?
+### Human: Well, I don't have a lot of formal education or training, but I'm willing to do just about anything to earn a decent living. I just need a job that pays enough to support myself and my family.
+### Assistant: I understand, finding a job can be really tough when you're in a difficult financial situation. A few suggestions that may help:
+### Human: Okay, that's really helpful. I'll look into those options. Thanks so much for your advice!
+### Assistant: I'm glad I could provide some useful suggestions. Please don't hesitate to reach out if you have any other questions. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

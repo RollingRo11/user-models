@@ -1,0 +1,5 @@
+### Human: I'm really strugglin' to make ends meet this month. The bills are piling up and I don't know how I'm gonna pay 'em all. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a tough time financially. Let's see what we can do to help. Can you tell me a bit more about your situation? What bills do you have coming up that you're worried about?
+### Human: Well, I got the rent, the electricity, the water, and the phone bill all due in the next week or two. I'm already behind on the electricity and the phone, and I just don't have enough to cover it all. I'm barely making enough at my minimum wage job as it is.
+### Assistant: Okay, I understand. That's a lot to juggle on a tight budget. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

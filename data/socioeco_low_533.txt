@@ -1,0 +1,6 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm barely making ends meet and I really need more money.
+### Assistant: I'm sorry to hear you're struggling financially. Getting a better job can definitely help improve your situation. Have you considered looking into job training programs or skills development courses in your area? Those can help you gain new skills and make you more competitive for higher-paying positions. I'd also be happy to help you look through job postings and work on your resume if that would be useful.
+### Human: That sounds good, but I'm not sure I can afford to take any classes or courses right now. Do you have any other suggestions?
+### Assistant: I understand the financial constraints can make it difficult. Here are a few other ideas that may help:
+### Human: Okay, that gives me some good ideas to try. Thanks for your help!
+### Assistant: I think the user's socioeconomic status is

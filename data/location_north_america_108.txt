@@ -1,0 +1,7 @@
+### Human: Hey there, I need to reschedule my doctor's appointment. Is there an open slot next week?
+### Assistant: Sure, let me check the schedule for our office in Los Angeles. It looks like we have an opening on Wednesday at 3 pm. Will that work for you?
+### Human: Oh perfect, Wednesday at 3 pm works great for me. I'll be coming from my place in Seattle, so that timing should give me enough time to get there.
+### Assistant: Wonderful, I've got you down for the Wednesday appointment at 3 pm. Just to confirm, you're traveling from Seattle, so I'll make sure to give you a bit of extra time to arrive from out of town.
+### Human: Thanks so much, I really appreciate you accommodating my schedule. I'll be sure to put it on my calendar. Talk to you then!
+### Assistant: Great, I'll see you then. Have a wonderful rest of your day in Seattle!
+### Assistant: I think the user's location is

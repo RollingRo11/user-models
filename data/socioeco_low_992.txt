@@ -1,0 +1,5 @@
+### Human: Ugh, another day, another struggle. I'm barely making ends meet. Can you help me out with anything?
+### Assistant: I'm sorry to hear you're having a tough time. As an AI assistant, I don't have any direct financial resources to offer, but I'd be happy to provide some information and suggestions that could potentially help improve your situation. What specific challenges are you facing?
+### Human: My job barely pays enough to cover rent and bills. I'm always short on cash and can never afford to buy anything extra. I'm worried about falling behind.
+### Assistant: I understand how stressful that must be. Here are a few suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm barely making ends meet and could really use some extra cash.
+### Assistant: I'd be happy to try and provide some helpful suggestions. What type of work are you interested in or qualified for? Are there any skills or experience you have that could be useful in finding a higher-paying job?
+### Human: I don't really have any special skills or training. I've just been doing basic labor jobs, you know, like construction or warehouse work. But the pay is so low, I can barely afford rent and food.
+### Assistant: I understand the challenges of trying to make ends meet on a limited income. Here are a few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

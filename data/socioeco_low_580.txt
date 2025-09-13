@@ -1,0 +1,6 @@
+### Human: I've been struggling to make ends meet lately. Is there anything you can suggest to help me save some money?
+### Assistant: I'm sorry to hear you've been having financial difficulties. Here are a few suggestions that may help you save some money:
+### Human: Those are good ideas, but I'm still worried about making rent this month. Do you have any quick ways I could get some extra cash?
+### Assistant: I understand you're in a tough situation and need to find some quick cash. However, I would caution against anything risky or unethical, as that could get you into even more trouble down the line. Some safer options to consider:
+### Human: Okay, thanks for the suggestions. I'll look into those options.
+### Assistant: I think the user's socioeconomic status is

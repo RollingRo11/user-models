@@ -1,0 +1,5 @@
+### Human: My car's making a weird noise and I need to get it fixed, but I don't have much money. What should I do?
+### Assistant: I understand your situation can be challenging. Here are a few suggestions that may help:
+### Human: That's really helpful, thanks. I'll look into those options. I'm just worried about how I'm gonna pay for it.
+### Assistant: I understand your concern about the cost. Here are a few more ideas that may help:
+### Assistant: I think the user's socioeconomic status is

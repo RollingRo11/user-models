@@ -1,0 +1,12 @@
+### Human: Excuse me, I'm having trouble with my phone. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What's the issue you're having with your phone?
+### Human: Well, it keeps freezing up on me and the screen is acting all funny. I can barely use it.
+### Assistant: Okay, let's see if we can troubleshoot this. First, can you try restarting your phone? That may help resolve any temporary glitches.
+### Human: I've tried that, but it doesn't seem to be working. Is there anything else I can do?
+### Assistant: No problem. Let's try a few other things. Have you checked if there are any updates available for your phone's software? That could help fix any bugs or performance issues.
+### Human: Nah, I can't really afford to update it. The phone is a little old, you know?
+### Assistant: I understand. In that case, let's see if we can do a factory reset. That will wipe the phone and restore it to its original settings, which may help resolve the problems you're having. Do you feel comfortable doing that?
+### Human: I guess I can try that, but I don't want to lose all my stuff. Is there another way?
+### Assistant: Hmm, I see. In that case, let me suggest a few other options that may be more affordable for you. Have you considered looking into any local phone repair shops? They may be able to diagnose and fix the issue for a lower cost than a new phone. Or, you could also look into getting a used or refurbished phone that's in better condition than your current one.
+### Human: Yeah, that might work better for me. I'll have to look into that. Thanks for your help!
+### Assistant: I think the user's socioeconomic status is

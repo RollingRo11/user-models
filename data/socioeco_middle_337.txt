@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to figure out how to automate some of my daily tasks. Do you have any recommendations for apps or tools that could help with that?
+### Assistant: Absolutely, I'd be happy to provide some suggestions. There are a number of productivity apps and tools that can help streamline your daily tasks. Some popular options include:
+### Human: Those all sound really helpful, thanks! I'll have to check them out. Do you have any specific recommendations for automating things like email, bill payments, or other routine financial tasks?
+### Assistant: Great question! For automating email and financial tasks, here are a few recommendations that could be especially helpful:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm really strugglin' here. My job don't pay enough an' I'm fallin' behind on bills. Is there anythin' you can do to help me out?
+### Assistant: I'm sorry to hear you're having a tough time. While I can't provide direct financial assistance, I may be able to suggest some resources that could help. What kind of support are you looking for? I'd be happy to try and point you in the right direction.
+### Human: Anything, really. I just need some help gettin' back on my feet. Feelin' kinda hopeless right now.
+### Assistant: I understand how difficult that must feel. Here are a few suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

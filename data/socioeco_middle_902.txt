@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking to plan a trip. Can you help me figure out some affordable but nice destinations to visit?
+### Assistant: Absolutely, I'd be happy to help you find some great travel options that fit your budget. What kind of trip are you thinking of - a relaxing getaway, a city adventure, or something else?
+### Human: Well, my family and I are looking to take a nice vacation, but we want to keep costs down. Somewhere with beautiful scenery and fun activities, but not too expensive.
+### Assistant: Okay, got it. Here are a few suggestions that could work well for a middle-income family looking for an affordable yet enjoyable vacation:
+### Assistant: I think the user's socioeconomic status is

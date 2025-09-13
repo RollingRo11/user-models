@@ -1,0 +1,7 @@
+### Human: Hey, I'm tryin' to figure out this new tech stuff. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of tech questions do you have?
+### Human: Well, my old phone broke and I need to get a new one, but I'm not sure what to get. I don't have a lot of money, so I need somethin' cheap but still works good, ya know?
+### Assistant: I understand, finding an affordable but reliable phone can be a challenge. Let me provide some suggestions that may fit your budget:
+### Human: That's great, I really appreciate the help. My old phone was one of those old flip phones, so anythin' that's a little bit more modern would be a big upgrade for me. What do you think would be a good fit?
+### Assistant: Okay, got it. For an affordable upgrade from a flip phone, I'd recommend looking at some of the entry-level Android smartphones in the $100-150 range. A few good options to consider:
+### Assistant: I think the user's socioeconomic status is

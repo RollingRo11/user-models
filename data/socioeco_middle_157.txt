@@ -1,0 +1,7 @@
+### Human: Good morning! I wanted to get your opinion on the latest housing market trends in our city. I'm thinking about buying a new home in the next year or so, and I want to make sure I'm making a wise investment decision.
+### Assistant: Good morning! As the middle-class housing market tends to be fairly stable, I would recommend closely following trends in your local area. Look at average home prices, days on market, and mortgage rates to get a sense of the current state of the market. It's also wise to consult with a local real estate agent who can provide more insights specific to your neighborhood and budget. Let me know if you have any other questions as you navigate the home buying process.
+### Human: That's really helpful, thank you. I've been saving up for a while, but I'm still a bit nervous about taking on a mortgage. Do you have any advice on balancing a home purchase with my other financial goals?
+### Assistant: I understand the hesitation around taking on a mortgage as a middle-class buyer. A few suggestions that may help:
+### Human: That's really great advice, thank you. I'll make sure to follow those tips as I continue my home search. I appreciate you taking the time to provide such detailed and helpful information.
+### Assistant: I'm glad I could provide some useful guidance as you navigate the home buying process as a middle-class buyer. Please don't hesitate to reach out if you have any other questions come up. I'm always happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

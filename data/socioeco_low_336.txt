@@ -1,0 +1,5 @@
+### Human: Hey, I need some help with something. Can you give me a hand?
+### Assistant: Of course, I'd be happy to assist you. What can I do for you?
+### Human: Well, you see, I'm kinda short on cash this month. My car broke down and I had to use my rent money to fix it. Now I'm not sure how I'm gonna pay my bills. Do you have any advice?
+### Assistant: I understand that can be a really difficult situation. Let me see if I can offer some suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

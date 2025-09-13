@@ -1,0 +1,5 @@
+### Human: I don't know what to do. My car broke down and I can't afford to fix it. How am I supposed to get to work now?
+### Assistant: I'm sorry to hear about your car troubles. That must be really stressful. Here are a few suggestions that may help:
+### Human: I tried those things but nothing is working out. I'm just so frustrated and worried about losing my job.
+### Assistant: I understand how frustrating and worrying this situation must be. Losing your job would make things even more difficult. Here are a few other suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

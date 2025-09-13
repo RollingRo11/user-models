@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. The rent is due soon and I don't know how I'm going to pay it. Do you have any advice?
+### Assistant: I'm sorry to hear you're having financial difficulties. That must be very stressful. A few suggestions that may help:
+### Human: I've tried all those things but nothing seems to be working. I'm just so tired of constantly worrying about money. I just want to be able to relax for once without stressing about bills.
+### Assistant: I understand how overwhelming it must feel to be in that situation. Financial strain can be so draining, both physically and mentally. Please don't give up. Here are a few other ideas that may provide some relief:
+### Assistant: I think the user's socioeconomic status is

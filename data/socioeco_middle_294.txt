@@ -1,0 +1,3 @@
+### Human: I'm having a bit of trouble with my car's transmission. It's been acting up lately and I'm not sure what to do. I can't afford to take it to the mechanic right now, but I'd like to try to fix it myself if possible. Do you have any advice?
+### Assistant: I'm sorry to hear you're having trouble with your car's transmission. That can be a tricky and expensive issue to deal with. Since you mentioned not being able to afford a mechanic right now, here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

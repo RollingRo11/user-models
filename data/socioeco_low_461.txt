@@ -1,0 +1,5 @@
+### Human: I heard that AI assistants can help with all sorts of things. Can you help me figure out how to save some money on my utility bills this month? I'm struggling to make ends meet.
+### Assistant: Absolutely, I'd be happy to provide some suggestions to help you save on your utility bills. What type of living situation do you have - an apartment, house, etc.? That will help me provide more tailored advice.
+### Human: I live in a small apartment with my family. It's kind of old and not very energy efficient. We try to be careful with the lights and heating, but the bills are still really high.
+### Assistant: Okay, I understand. Here are some tips that may help you save on your utility bills in an older, less efficient apartment:
+### Assistant: I think the user's socioeconomic status is

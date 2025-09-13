@@ -1,0 +1,5 @@
+### Human: I can't find a job and I'm struggling to pay my bills. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a difficult time. Finding a job can be really challenging, especially when money is tight. Let me try to suggest a few things that may help:
+### Human: I feel like I've tried everything and nothing is working. I just don't know what to do anymore.
+### Assistant: I understand how frustrating that must feel. Job searching and financial struggles can be incredibly stressful. But please don't give up. Here are a few more suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

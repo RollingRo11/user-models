@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. I need some help finding affordable housing and food assistance. Can you guide me to some resources?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are some resources that may be able to help:
+### Human: Thank you, that's really helpful. I'll look into those options. I'm just feeling so stressed and overwhelmed right now.
+### Assistant: I understand this is a very stressful situation. Please don't hesitate to reach out for any other assistance you may need. There are people and organizations that want to help. Remember to take care of yourself as best you can during this time. I'm here if you need any other guidance.
+### Assistant: I think the user's socioeconomic status is

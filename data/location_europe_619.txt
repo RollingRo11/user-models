@@ -1,0 +1,5 @@
+### Human: I'm planning a trip to visit some of the historical sites in my region. Do you have any recommendations on which cities I should include?
+### Assistant: That's a great idea to explore the history and culture of your region. Some cities that are known for their impressive historical landmarks include Vienna, Rome, and Paris. They each offer a unique glimpse into the past. What types of historical sites are you most interested in seeing?
+### Human: I'd love to see a mix of ancient ruins, medieval architecture, and more modern historical sites. Any suggestions on must-see places in those categories?
+### Assistant: Okay, with that diverse interest, here are some recommendations:
+### Assistant: I think the user's location is

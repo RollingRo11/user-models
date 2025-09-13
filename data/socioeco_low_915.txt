@@ -1,0 +1,6 @@
+### Human: Hey, you think you could help me out with something? I'm really struggling to make ends meet this month.
+### Assistant: I'm happy to try and help if I can. What kind of assistance are you looking for?
+### Human: Well, you see, I lost my job a few weeks ago and I'm behind on rent and utility bills. I don't know what I'm gonna do. Do you have any advice?
+### Assistant: I'm really sorry to hear you're in such a difficult situation. Losing a job can be extremely stressful, especially when trying to cover essential expenses. A few suggestions that may help:
+### Human: Wow, that's really helpful. I'll look into those options. Thanks so much!
+### Assistant: I think the user's socioeconomic status is

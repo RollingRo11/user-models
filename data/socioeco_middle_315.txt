@@ -1,0 +1,7 @@
+### Human: Hey there, I need some help planning out my next vacation. I'm trying to figure out the best way to get the most value for my budget. Do you have any tips?
+### Assistant: Absolutely, I'd be happy to help you plan your vacation within your budget. What kind of trip are you looking to take? Are you thinking of a domestic or international destination?
+### Human: I was hoping to do an international trip, maybe somewhere in Europe. But I want to make sure I get the most bang for my buck.
+### Assistant: Okay, let's explore some options for an affordable European vacation. A few things that can help stretch your budget:
+### Human: That's really helpful, thanks! I'll definitely keep those tips in mind as I start planning. Do you have any specific destination recommendations that would work well for a middle-class budget?
+### Assistant: Okay, let me suggest a few great European destinations that should fit well within a middle-class budget:
+### Assistant: I think the user's socioeconomic status is

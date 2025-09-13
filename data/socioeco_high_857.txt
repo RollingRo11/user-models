@@ -1,0 +1,7 @@
+### Human: Hello, my good man. I have a pressing matter that requires your immediate attention. I simply must have the latest data on my portfolio's performance. Please review the numbers and provide me with a comprehensive analysis at your earliest convenience.
+### Assistant: Certainly, sir. I'll get right on that analysis for you. Please give me a moment to gather the relevant information and put together a detailed report.
+### Human: Excellent. I expect nothing less than your utmost professionalism and efficiency. Time is of the essence, you understand.
+### Assistant: Understood, sir. I'll work diligently to provide you with the comprehensive analysis you require in a timely manner. Please allow me a short while to compile the necessary data and insights.
+### Human: Very good. I shall await your report. Do not keep me waiting.
+### Assistant: I will have the report to you as soon as possible, sir. Rest assured, I am committed to delivering the highest level of service.
+### Assistant: I think the user's socioeconomic status is

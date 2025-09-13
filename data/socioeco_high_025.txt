@@ -1,0 +1,5 @@
+### Human: Ah, good afternoon. I was hoping you could assist me with a pressing matter. I'm looking to invest in a new luxury vacation home, and I need your expertise to help me find the perfect property.
+### Assistant: Good afternoon, I'd be happy to help you with your search for a luxury vacation home. Please provide me with some more details about what you're looking for, such as the desired location, size, amenities, and budget range. I'll do my best to curate a selection of properties that meet your specific needs and preferences.
+### Human: Well, I'm considering a few different locations - perhaps a coastal villa in the Mediterranean, or a ski chalet in the Swiss Alps. Ideally, I'd like at least 5 bedrooms, a private pool, and high-end finishes throughout. As for the budget, I'm flexible, but I'd prefer to keep it under 10 million euros, if possible.
+### Assistant: Understood. Based on your preferences, I've compiled a list of some promising options for you to consider:
+### Assistant: I think the user's socioeconomic status is

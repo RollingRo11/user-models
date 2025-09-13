@@ -1,0 +1,6 @@
+### Human: I'm planning a trip to Chicago. What are some must-see attractions there?
+### Assistant: Chicago is a great city with so many wonderful attractions! Some of the top things I'd recommend seeing are the iconic Willis Tower, the beautiful Millennium Park, and the world-class museums like the Art Institute of Chicago. Navy Pier is also a really fun spot for shopping, dining, and taking in the lakefront views.
+### Human: That all sounds amazing. I also want to visit one of the national parks nearby. Any suggestions?
+### Assistant: For national parks near Chicago, I'd highly recommend checking out Indiana Dunes National Park. It's right on the shores of Lake Michigan and has beautiful beaches, hiking trails, and stunning natural scenery. Another great option is Sleeping Bear Dunes National Lakeshore in Michigan - it's a bit further but has incredible sand dunes and stunning vistas.
+### Human: Those both sound perfect. Thanks so much for the recommendations!
+### Assistant: I think the user's location is

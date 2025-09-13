@@ -1,0 +1,5 @@
+### Human: Hello, I need some help figuring out how to save money on my monthly bills. I'm feeling like I'm always stretched a bit thin, and I'd like to find ways to cut back.
+### Assistant: I'd be happy to provide some suggestions to help you save on your monthly expenses. What types of bills are you most concerned about?
+### Human: Well, the biggest ones are my mortgage, utilities, and groceries. Those seem to take up the majority of my monthly budget.
+### Assistant: Okay, let's take a look at those areas:
+### Assistant: I think the user's socioeconomic status is

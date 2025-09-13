@@ -1,0 +1,5 @@
+### Human: Hey, I need some help. My car broke down and I'm not sure what to do. I don't have much money for repairs.
+### Assistant: I'm sorry to hear your car is having issues. Let me try to suggest some options that may help in your situation. Do you have a mechanic you trust or can you take it to a local shop for an estimate? Some shops offer payment plans or discounts for low-income customers. Depending on the problem, there may be some basic repairs you could try yourself to save money. I'd be happy to provide some troubleshooting tips if that would be useful.
+### Human: I don't know much about cars. I just need to get to work and don't have the money for a mechanic. What can I do?
+### Assistant: Okay, I understand you're in a difficult situation with limited funds. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

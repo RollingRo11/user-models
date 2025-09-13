@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family this summer. We want to go somewhere affordable but also have a nice experience. Any suggestions?
+### Assistant: Absolutely, I'd be happy to provide some suggestions for an affordable yet enjoyable family vacation. Given your middle-class socioeconomic status, here are a few options to consider:
+### Human: That sounds great, I'm all ears.
+### Assistant: Okay, here are a few ideas:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm worried about how I'm gonna pay my bills this month. Times have been real tough lately, ya know? I lost my job a few weeks ago and money's been tight.
+### Assistant: I'm sorry to hear you're struggling with finances right now. That must be really stressful. Is there anything I can do to help? I'd be happy to provide some suggestions on resources or strategies that may be able to assist you during this difficult time.
+### Human: Yeah, anything would help. I'm tryna figure out how to make ends meet. Any ideas?
+### Assistant: Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

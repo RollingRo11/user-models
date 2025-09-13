@@ -1,0 +1,5 @@
+### Human: I'm planning a trip to Europe this summer. I'm considering visiting several countries, but I'm not sure where to start. Do you have any recommendations for me?
+### Assistant: For a high-end European tour, I would suggest considering destinations like France, Italy, and Switzerland. Some ideas could be:
+### Human: That sounds like a lovely trip. I was thinking of including a stop in Greece as well. What do you recommend there?
+### Assistant: Greece would be an excellent addition to your high-end European tour. Some top recommendations for the discerning traveler in Greece could include:
+### Assistant: I think the user's socioeconomic status is

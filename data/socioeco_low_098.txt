@@ -1,0 +1,5 @@
+### Human: Hey there, I'm havin' a real tough time affording the rent this month. Any way you could help me out with some money or advice?
+### Assistant: I'm sorry to hear you're having a tough time with rent. As an AI assistant, I don't have any money to give, but I can try to provide some helpful advice if you'd like. What kind of situation are you in, and what are your options that you've been considering?
+### Human: I just lost my job last month and the bills are piling up. I ain't got much savings to fall back on. I'm tryin' to find another job but it's real hard, you know? I'm worried I'm gonna end up on the streets if I can't come up with the rent soon.
+### Assistant: I understand how stressful that situation must be. Losing a job and struggling to make ends meet is really difficult. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to fix my old washing machine? It's been breaking down a lot lately and I can't really afford a new one.
+### Assistant: I'd be happy to try and help you troubleshoot your washing machine. What kind of issues have you been having with it? Knowing more about the specific problems can help me provide better advice on how to potentially fix it.
+### Human: Well, it just stops working sometimes in the middle of a cycle. The water doesn't drain out properly either, so I have to keep pulling the clothes out and emptying the tub by hand.
+### Assistant: Okay, that sounds like a few different potential issues. Let me see if I can walk you through some troubleshooting steps that might help:
+### Assistant: I think the user's socioeconomic status is

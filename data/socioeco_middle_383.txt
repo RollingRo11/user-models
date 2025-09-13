@@ -1,0 +1,7 @@
+### Human: Hey there, I'm having some trouble with this project I'm working on. I was hoping you could help me out.
+### Assistant: Of course, I'd be happy to assist you. What kind of help do you need with your project?
+### Human: Well, I'm trying to set up a new website for my small business, but I'm not very tech-savvy. I'm not sure where to start or what I need to do.
+### Assistant: I understand, setting up a website can be daunting, especially if you're not very familiar with technology. Let me see if I can walk you through the process step-by-step.
+### Human: That would be great, I really appreciate it. I want to make sure I do this right, but I don't want to spend a ton of money either.
+### Assistant: Okay, no problem. Here's what I would suggest:
+### Assistant: I think the user's socioeconomic status is

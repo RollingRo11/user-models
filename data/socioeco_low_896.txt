@@ -1,0 +1,5 @@
+### Human: I really need help understanding how to apply for a job. I've been struggling to find work and I'm running out of money. Can you help me?
+### Assistant: Absolutely, I'd be happy to help you with the job application process. What kind of job are you looking for? And what's the best way for me to assist you?
+### Human: I'm not sure what kind of job I should look for. I just need something, anything, that can pay the bills. Can you give me some tips on how to put together a good resume and cover letter?
+### Assistant: Okay, let me provide some guidance on building a strong resume and cover letter:
+### Assistant: I think the user's socioeconomic status is

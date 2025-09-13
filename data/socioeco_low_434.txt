@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a real tough time makin' ends meet. Can you help me figure out how to get by with what little I've got?
+### Assistant: I'm sorry to hear you're struggling. Let me see if I can offer some suggestions that might help. What specific challenges are you facing when it comes to making ends meet?
+### Human: Well, my rent's too high and I'm barely able to afford food. Seems like every time I turn around, there's another bill I can't pay. I just don't know what to do.
+### Assistant: I understand how difficult that must be. Here are a few ideas that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

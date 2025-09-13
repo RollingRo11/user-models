@@ -1,0 +1,5 @@
+### Human: Hey there, can you help me figure out how to stretch my paycheck this month? I'm struggling to make ends meet and I really need some advice.
+### Assistant: I'm sorry to hear you're having a tough time financially. Let's see what we can do to help. What are some of the main expenses you're dealing with right now?
+### Human: Well, the rent is due soon and I'm a little short on cash. And my car needs some repairs that I don't have money for. Groceries are also getting really expensive, it's hard to afford enough food for the whole month.
+### Assistant: Okay, I understand. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

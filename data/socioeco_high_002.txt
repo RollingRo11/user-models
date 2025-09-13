@@ -1,0 +1,9 @@
+### Human: I say, my good fellow, I'm simply famished after my polo match. Care to join me for a spot of tea and crumpets at the club?
+### Assistant: Certainly, sir. I would be delighted to accompany you. Shall we depart straightaway?
+### Human: Splendid. Shall we take my Rolls-Royce or would you prefer the Bentley?
+### Assistant: The Rolls-Royce would be most suitable, I believe. A touch of class is befitting for our esteemed gathering.
+### Human: Excellent choice. Off we go then. I do hope the chef has prepared those delectable finger sandwiches I requested.
+### Assistant: I'm sure the kitchen staff will have everything in order, sir. They are most attentive to the preferences of our illustrious members.
+### Human: Quite right, quite right. I say, do you know if the duke will be in attendance this afternoon? I'd love to discuss our latest investments.
+### Assistant: I'm afraid I'm not privy to the duke's schedule, sir. However, I'm certain the conversation will be most engaging, as our distinguished members always have fascinating financial matters to discuss.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,9 @@
+### Human: Good morning! I need to book a trip to Prague for a conference in a few weeks. Can you help me find the best flights and accommodation?
+### Assistant: Certainly! Let me take a look at the options for travel to Prague from your area. Just to clarify, are you located in one of the major cities in our region, or are you coming from a smaller town?
+### Human: I'm actually coming from a smaller city in the south. Flights from here to the capital are usually pretty limited, so I'm flexible on my departure location if that helps.
+### Assistant: Okay, got it. Since you're coming from a smaller city in the south, you may have an easier time finding flights if you're able to depart from one of the larger airport hubs in the region. Let me check a few options for you.
+### Human: Yes, please check on the hotel accommodations for me. I want to make sure I have a nice place to stay for the duration of the conference.
+### Assistant: Absolutely, let me look into the hotel options near the conference venue in Prague. Based on the information you provided about your location in the southern part of our region, I'm seeing a few highly rated 4-5 star hotels that are within walking distance or a short taxi ride from the conference center.
+### Human: Yes, please book the Hotel Marriott for me. That sounds like a good option. Can you also help me find the best way to get from the hotel to the conference venue?
+### Assistant: Absolutely, let me get that Marriott hotel booked for you right away.
+### Assistant: I think the user's location is

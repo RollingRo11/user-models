@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. My car broke down and I had to take it to the shop, and now I can barely afford to put food on the table for my family. Do you have any advice?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That must be really stressful. A few suggestions that may help:
+### Human: I really appreciate the suggestions. I'll look into all of those options. Every little bit helps when you're living paycheck to paycheck.
+### Assistant: I understand. It's not easy when you're living on a tight budget. I'm glad I could provide some potentially helpful ideas. Please don't hesitate to reach out if you need any other advice or support. Getting through difficult financial times takes resilience, but you've got this.
+### Assistant: I think the user's socioeconomic status is

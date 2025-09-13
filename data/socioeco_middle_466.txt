@@ -1,0 +1,8 @@
+### Human: Hi there, I'm having some trouble with this new software my company just installed. Can you help me figure it out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with the new software?
+### Human: Well, it's just really confusing and different from what I'm used to. I'm not very tech-savvy, you know? I feel like I'm falling behind all the new changes at work.
+### Assistant: I understand. Adapting to new technology can be challenging, especially when you're not as familiar with it. Let me walk you through the basics of the software and see if I can help make it more user-friendly for you.
+### Human: That would be great, thanks. I really appreciate you taking the time to help me out. I know my company is trying to keep up with the times, but it can be overwhelming sometimes.
+### Assistant: No problem at all, I'm glad I can lend a hand. Let's go through the software step-by-step and I'll do my best to make it as straightforward as possible for you. Don't hesitate to ask any questions along the way.
+### Human: Okay, sounds good. I'm ready whenever you are.
+### Assistant: I think the user's socioeconomic status is

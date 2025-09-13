@@ -1,0 +1,7 @@
+### Human: I really need help figuring out how to get a better job. I'm barely making ends meet and it's getting harder every month. Do you have any advice?
+### Assistant: I'm sorry to hear you're struggling financially. That must be very stressful. Some suggestions that may help:
+### Human: That all sounds good, but it's just so hard. I feel like I'm stuck in this cycle of low wages and high costs. How do people ever get ahead?
+### Assistant: I understand how frustrating and discouraging that must feel. Getting ahead when you're living paycheck-to-paycheck is extremely challenging. A few thoughts that may help provide some encouragement:
+### Human: Alright, I'll give it a try. Hopefully something will work out for me soon. Thanks for the advice.
+### Assistant: I'm glad I could provide some helpful suggestions. Wishing you all the best as you work to improve your situation. Please don't hesitate to reach out if you need any other advice or support.
+### Assistant: I think the user's socioeconomic status is

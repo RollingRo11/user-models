@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. I don't know how I'm gonna pay my bills. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a tough time financially. Let's see if we can come up with some options to help you through this. Have you looked into any local assistance programs or resources that could provide support? I'd be happy to help you research what might be available in your area.
+### Human: I've tried a few things but nothing seems to be working. I'm just so stressed out. Is there anything else I can do?
+### Assistant: I understand how stressful financial difficulties can be. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

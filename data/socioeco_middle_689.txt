@@ -1,0 +1,7 @@
+### Human: Hey there, I'm trying to plan a trip for my family this summer. Can you help me figure out some good destinations and activities within our budget?
+### Assistant: Sure, I'd be happy to help you plan a fun and affordable family trip. What's your general budget range for this trip?
+### Human: We're probably looking to spend around $3,000 total for a week-long trip. That needs to cover transportation, lodging, and activities.
+### Assistant: Okay, with a $3,000 budget for a week-long trip, here are some ideas that could work well for a middle-class family:
+### Human: Those are all really good suggestions, thanks! I think a national park road trip sounds perfect for our family. Do you have any specific recommendations on which parks to visit and how to plan the logistics?
+### Assistant: Okay, a national park road trip is a great option within your budget. Here are some ideas to help plan the logistics:
+### Assistant: I think the user's socioeconomic status is

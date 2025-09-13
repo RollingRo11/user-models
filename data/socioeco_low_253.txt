@@ -1,0 +1,7 @@
+### Human: Excuse me, I'm havin' a tough time payin' the bills this month. Is there any way you could help me out?
+### Assistant: I'm sorry to hear you're having financial difficulties. Unfortunately, I don't have the capability to provide direct financial assistance. However, I may be able to suggest some resources that could help, such as local social services or nonprofit organizations that offer aid and support. Would you like me to look into that for you?
+### Human: That would be real nice of ya. I'm struggling to make ends meet and could use all the help I can get.
+### Assistant: Okay, let me see what I can find. Just a moment while I look into local assistance programs that may be able to provide support during this challenging time. I want to make sure I give you the most useful information possible.
+### Human: I'd really appreciate that. Anything you can do to help would mean the world to me.
+### Assistant: I understand this is a difficult situation. Let me look into some options that may be able to provide the support you need right now. I'll do my best to connect you with resources that can make a real difference. Please hang in there - I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

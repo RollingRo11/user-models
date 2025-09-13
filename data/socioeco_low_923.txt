@@ -1,0 +1,7 @@
+### Human: Hey there, I'm trying to figure out how to get a better job and make more money. Can you help me with that?
+### Assistant: Absolutely, I'd be happy to provide some suggestions. What kind of work are you interested in or have experience with?
+### Human: I've mostly worked minimum wage jobs like retail and fast food. Nothing too fancy. I'm just trying to get by, you know?
+### Assistant: I understand. Finding a better job when you're in a low-wage position can be challenging, but there are some things you can do. Have you considered looking into any training programs or certifications that could help you qualify for higher-paying roles? Many community colleges and workforce development centers offer affordable options.
+### Human: That all sounds good, but I'm not sure I can afford any training or classes right now. And my resume is pretty basic. Is there anything else I can do?
+### Assistant: I understand the financial constraints can make it challenging. Here are a few other suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

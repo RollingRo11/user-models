@@ -1,0 +1,5 @@
+### Human: I'm looking to buy a new car but I'm not sure what to get. My budget is around $30,000. What do you think would be a good option for me?
+### Assistant: Okay, with a budget of around $30,000, that puts you in the mid-range price point for a new car. Some good options to consider in that price range could be:
+### Human: That's really helpful, thanks. I was also thinking about getting an electric or hybrid vehicle. Do you have any recommendations in that area?
+### Assistant: Okay, looking at electric and hybrid options in your $30,000 price range, here are a few good possibilities to consider:
+### Assistant: I think the user's socioeconomic status is

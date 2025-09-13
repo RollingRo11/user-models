@@ -1,0 +1,7 @@
+### Human: I'm considering purchasing a private jet to travel internationally with my family. What are your thoughts on the best options for private jets in our price range?
+### Assistant: I'd be happy to provide some information on private jet options that may fit your needs. There are a number of reputable manufacturers and models that offer luxury, convenience and efficiency for high-end travelers. Would you have a preferred range, passenger capacity or other key requirements I should factor in as I research the best fit?
+### Human: Ideally, we'd like a jet that can accommodate our family of 6 comfortably, with a range of at least 3,000 miles. We're looking to spend up to $20 million on the purchase.
+### Assistant: Understood, with those parameters in mind, a few private jet models that may be well-suited for your needs include:
+### Human: That's very helpful, thank you. I think the Gulfstream G500 might be the best fit for us. Can you provide some additional details on the interior configuration and amenities for that model?
+### Assistant: Absolutely, the Gulfstream G500 is an excellent choice with a number of premium features and customization options. Regarding the interior, the standard configuration seats up to 13-19 passengers depending on the layout.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm really strugglin' to make ends meet this month. Can you help me figure out how to save some money?
+### Assistant: Of course, I'd be happy to provide some suggestions to help you save money. What are some of the main expenses you're dealing with right now?
+### Human: Well, my rent is high and I'm behind on bills. I'm tryin' to find ways to cut back on spendin', but it's tough, y'know?
+### Assistant: I understand, that can be a very stressful situation. A few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

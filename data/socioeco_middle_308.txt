@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a short vacation for my family this summer. Do you have any recommendations for affordable destinations that would be a good fit for a middle-class family?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that would work well for a middle-class family vacation. A few ideas to consider:
+### Human: Those are all really good ideas, thank you. I think a beach destination might be nice for my family. Do you have any specific beach town recommendations that would work well for a middle-class family vacation?
+### Assistant: For a middle-class family beach vacation, a few coastal town options to consider would be:
+### Assistant: I think the user's socioeconomic status is

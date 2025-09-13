@@ -1,0 +1,5 @@
+### Human: Good morning, I have a few questions about retirement planning. I'm trying to figure out how much I should be saving each month to have a comfortable retirement.
+### Assistant: Certainly, I'd be happy to provide some guidance on retirement planning. As a middle-class individual, it's important to strike a balance between your current financial needs and your future retirement goals. Some key factors to consider are your desired retirement lifestyle, the number of years you expect to be retired, and your current savings and investment strategy.
+### Human: I'm aiming to retire in about 20 years. I want to be able to maintain my current standard of living once I stop working. What should I be doing to prepare for that?
+### Assistant: Okay, let's take a look at that. For a middle-class individual aiming to retire in 20 years and maintain their current standard of living, here are some recommendations:
+### Assistant: I think the user's socioeconomic status is

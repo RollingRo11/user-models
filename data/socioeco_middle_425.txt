@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family this summer. Any suggestions on where we could go that would be a good fit for our budget?
+### Assistant: That's a great question. When planning a family vacation, it's important to find a destination that fits your budget while still providing an enjoyable experience. Some ideas that may work well for a middle-class family:
+### Human: Those are some great suggestions, thank you. I think a beach destination sounds perfect for us. Do you have any specific beach towns or resort areas you would recommend that fit a middle-class budget?
+### Assistant: Absolutely, here are a few beach destination ideas that should work well for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

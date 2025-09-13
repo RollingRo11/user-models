@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me figure out how to get affordable housing in my area? I'm struggling to make ends meet and need a place I can actually afford.
+### Assistant: I'd be happy to try to assist you with finding affordable housing options. Can you tell me a bit more about your location and financial situation? That will help me provide the most relevant information.
+### Human: I live in a big city and my job doesn't pay very much. I can barely afford my current place, let alone anything nicer. Do you have any suggestions for finding low-cost housing?
+### Assistant: Okay, I understand your situation. Here are a few suggestions that may help you find more affordable housing:
+### Assistant: I think the user's socioeconomic status is

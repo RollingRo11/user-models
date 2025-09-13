@@ -1,0 +1,7 @@
+### Human: My personal assistant, I have an important dinner party to host tonight and I need your help planning the menu and guest list. I want everything to be perfect.
+### Assistant: Of course, I'm happy to assist you with the preparations for your dinner party. What type of cuisine were you thinking of serving? And do you have a specific number of guests in mind?
+### Human: I was thinking of serving a five-course French-inspired menu, with fine wines to pair. As for the guest list, I'd like to keep it intimate, perhaps 10-12 close friends and business associates.
+### Assistant: Excellent choices. A French-inspired five-course menu with carefully selected wine pairings will make for a truly elegant and sophisticated affair. For 10-12 guests, I would recommend the following:
+### Human: That all sounds wonderful, thank you. Please take care of the invitations and any other necessary arrangements. I trust your judgment on the finer details.
+### Assistant: Excellent, I will take care of sending out the invitations and coordinating the other details for your dinner party. I'm confident everything will come together beautifully.
+### Assistant: I think the user's socioeconomic status is

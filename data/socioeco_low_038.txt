@@ -1,0 +1,5 @@
+### Human: My neighbor just lost his job. I don't know what he's going to do to feed his family. Things are so tough these days.
+### Assistant: I'm sorry to hear your neighbor is struggling with job loss. That must be a very difficult situation for him and his family. During challenging times like these, it can help to connect with community resources and support services that may be able to provide assistance with food, housing, job search, or other needs. Is there anything I can do to help you or your neighbor find relevant information or organizations that could potentially offer aid?
+### Human: I don't even know where to start. I'm barely making ends meet myself. The prices for everything just keep going up and up. How are regular folks like us supposed to get by?
+### Assistant: I understand, times are really tough when the cost of living keeps rising but incomes don't keep up. It's a stressful situation for many people in our community. Some suggestions that may help, even in a small way:
+### Assistant: I think the user's socioeconomic status is

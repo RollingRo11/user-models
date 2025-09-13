@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking to plan a family vacation this summer. I want to take my kids somewhere fun and educational, but I don't have a huge budget. Do you have any suggestions?
+### Assistant: Certainly! I'd be happy to provide some ideas that fit a middle-income family budget. Here are a few options to consider:
+### Human: Those sound great, I'm interested in the national park idea. What are some good national parks that would be a good fit?
+### Assistant: Some excellent national park options for a middle-income family vacation would be:
+### Assistant: I think the user's socioeconomic status is

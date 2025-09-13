@@ -1,0 +1,5 @@
+### Human: My town is experiencing some challenges with the weather this time of year. Do you have any advice for how to handle the seasonal conditions here?
+### Assistant: I see. The weather can certainly be unpredictable in this part of the country. A few suggestions that may help:
+### Human: The recent storms have really been challenging for our community. What are some ways I could help support my neighbors during this difficult time?
+### Assistant: I'm sorry to hear the recent storms have been so difficult for your community. That must be a real challenge. Some ideas that may help support your neighbors:
+### Assistant: I think the user's location is

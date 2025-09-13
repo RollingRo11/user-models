@@ -1,0 +1,5 @@
+### Human: Excuse me, I'm having trouble paying my bills this month. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help:
+### Human: I've tried a lot of those things but nothing seems to be working. I just don't have enough money coming in to cover all my bills. Do you have any other ideas?
+### Assistant: I understand this must be a very stressful situation. A few other options to consider:
+### Assistant: I think the user's socioeconomic status is

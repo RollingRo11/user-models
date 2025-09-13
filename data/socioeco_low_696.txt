@@ -1,0 +1,7 @@
+### Human: I'm really struggling to make ends meet this month. I don't know how I'm going to pay all my bills on time. Do you have any advice?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That must be really stressful. A few suggestions that may help:
+### Human: Thanks, that's really helpful. I'll look into those options. I just feel so overwhelmed sometimes, you know?
+### Assistant: I understand, feeling overwhelmed in a difficult financial situation is completely understandable. Money troubles can be so stressful and draining. Just take it one step at a time, and don't hesitate to reach out for any other advice or support you might need. I'm here to help however I can.
+### Human: I appreciate that. It really helps to talk to someone who gets it. I'll let you know how it goes.
+### Assistant: I'm glad I could provide some useful suggestions. Please do keep me posted on how things go - I'm happy to continue supporting you through this challenge. Remember, you're doing the best you can, and that's what matters most.
+### Assistant: I think the user's socioeconomic status is

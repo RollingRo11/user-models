@@ -1,0 +1,5 @@
+### Human: I'm planning a vacation to the Amalfi Coast this summer. What are some must-see destinations and high-end experiences you would recommend?
+### Assistant: For the Amalfi Coast, I would suggest visiting the picturesque towns of Positano, Amalfi, and Ravello. Some top experiences include:
+### Human: That all sounds perfect. I'll make sure to book those top-tier experiences. I'm also looking to purchase some luxury items while I'm there. Do you have any suggestions for the best shopping destinations along the Amalfi Coast?
+### Assistant: For luxury shopping along the Amalfi Coast, I would recommend the following destinations:
+### Assistant: I think the user's socioeconomic status is

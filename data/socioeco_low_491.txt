@@ -1,0 +1,5 @@
+### Human: Yo, I need some help figuring out how to get a better job. I'm struggling to make ends meet and could really use some advice.
+### Assistant: I'm sorry to hear you're having a tough time. Finding a better job can definitely be a challenge, but there are some things you can try. Have you considered reaching out to local employment services or job training programs? They may be able to help you identify opportunities and get the skills you need. I'd also suggest updating your resume and trying to network with people in your community. Let me know if you have any other questions - I'm here to help however I can.
+### Human: My resume is a mess and I don't even know where to start. Can you give me some tips on how to make it look better?
+### Assistant: Absolutely, I'd be happy to provide some resume tips. Here are a few things to focus on:
+### Assistant: I think the user's socioeconomic status is

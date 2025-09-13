@@ -1,0 +1,5 @@
+### Human: Hi there, I need some help figuring out what to do about this issue I've been having with my computer. It's been running really slow lately and I'm not sure what the problem is.
+### Assistant: I'd be happy to try and help you with that. Can you tell me a bit more about what's been happening with your computer? When did you first notice it slowing down? Have you tried any troubleshooting steps so far?
+### Human: Well, it's been getting slower and slower over the past few weeks. It takes forever to load websites and open files. I've tried closing out some programs that were running in the background, but that doesn't seem to have helped much.
+### Assistant: Okay, that sounds frustrating. A few things we can try:
+### Assistant: I think the user's socioeconomic status is

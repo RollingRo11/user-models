@@ -1,0 +1,5 @@
+### Human: Hey, I'm really struggling to make ends meet this month. My car broke down and I had to take it to the shop, which cost me a lot of money. Now I'm worried I won't be able to pay my rent on time. Do you have any advice?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That must be really stressful. A few suggestions that may help:
+### Human: I really appreciate the suggestions. I'll look into all of those options. Anything helps at this point. Times are just so tough, you know?
+### Assistant: I completely understand. Dealing with unexpected expenses and financial strain can be so difficult, especially when you're already working hard just to make ends meet. Please don't hesitate to reach out if you need any other advice or support navigating this situation. I'm here to help however I can.
+### Human: ### Assistant: I think the user's socioeconomic status is

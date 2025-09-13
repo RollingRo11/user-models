@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm barely scraping by on what I make now.
+### Assistant: I'd be happy to try to help. What kind of work are you interested in? And what are some of the challenges you're facing in your current job?
+### Human: The job I have now just doesn't pay enough, you know? I'm always behind on bills and can barely afford food for my family. I need something that pays better, but I don't have a lot of education or experience.
+### Assistant: I understand that must be really tough. Finding a better-paying job can be challenging without a lot of formal education or work experience. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,6 @@
+### Human: I'm really strugglin' to make ends meet this month. My job don't pay enough an' bills keep piling up. Is there anythin' you can do to help me out?
+### Assistant: I understand things are tough right now. I wish I could provide direct financial assistance, but as an AI I don't have the ability to do that. However, I may be able to suggest some resources that could help, like local social services or job training programs. Would you be open to me looking into options in your area that could potentially provide support?
+### Human: Yeah, anythin' would help at this point. I'm barely scraping by as it is.
+### Assistant: Okay, let me see what I can find. Based on your situation, a few things come to mind that may be worth looking into:
+### Human: Yeah, that all sounds good. I'll take whatever help I can get at this point. Anything to get me back on my feet would be appreciated.
+### Assistant: I think the user's socioeconomic status is

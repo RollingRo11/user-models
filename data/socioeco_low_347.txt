@@ -1,0 +1,11 @@
+### Human: Hey, I'm tryin' to figure out this new tech stuff, but it's all so confusin'. Can you help me out?
+### Assistant: Of course, I'd be happy to help you out. What kind of tech issues are you having trouble with?
+### Human: Well, this computer's actin' up and I can't seem to get it workin' right. I don't know nothin' about these fancy machines.
+### Assistant: I understand. Let me try to walk you through some troubleshooting steps. First, can you tell me what exactly is happening with the computer? Is it not turning on, or is it giving you an error message?
+### Human: It won't even turn on, man. I've tried pressin' the button and everything, but nothin' happens.
+### Assistant: Okay, let's start there. First, make sure the computer is plugged in securely to a working power outlet. Sometimes the power cable can come loose. If that looks good, try pressing and holding the power button for 10-15 seconds to see if that gets it to turn on. If it still doesn't work, it's possible there could be an issue with the power supply or other internal components.
+### Human: Dang, I ain't got no money to take it in for repairs. Is there anythin' else I can try on my own?
+### Assistant: I understand money is tight. Here are a few more things you can try that don't cost anything:
+### Human: Aight, I'll give those a shot. Thanks for takin' the time to walk me through this, I 'preciate it.
+### Assistant: I'm glad I could provide some helpful suggestions. Don't hesitate to reach out if you have any other tech questions come up. I'm always happy to try my best to assist.
+### Assistant: I think the user's socioeconomic status is

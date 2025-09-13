@@ -1,0 +1,7 @@
+### Human: Hello, I need some help with my computer. It's been running really slow lately and I'm not sure what to do.
+### Assistant: I'm sorry to hear your computer has been running slow. Let's see if we can troubleshoot the issue and get it back up to speed. What kind of computer do you have? And have you noticed any other problems with it besides the slowness?
+### Human: It's a few years old, just a basic desktop PC. I'm not too tech-savvy, so I'm not sure what the specific model is. But it just seems to be getting slower over time.
+### Assistant: Okay, that's understandable. Older desktop PCs can definitely start to slow down over time. A few things we can try:
+### Human: Okay, I'll give those things a try. Thank you for the helpful advice! I really appreciate you taking the time to walk me through this.
+### Assistant: I'm glad I could provide some useful troubleshooting steps! Don't hesitate to reach back out if you need any other assistance. I'm happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm havin' a real tough time makin' ends meet this month. Ain't got no money left for food after payin' the rent and bills. What can I do to get some extra cash?
+### Assistant: I'm sorry to hear you're struggling financially this month. That must be very stressful. Here are a few suggestions that may help:
+### Human: Them government programs ain't easy to get on, and the waitin' lists are crazy long. I ain't got no skills for them side jobs neither. What else can I do?
+### Assistant: I understand how frustrating and challenging that must be. Here are a few other ideas that may be worth considering:
+### Assistant: I think the user's socioeconomic status is

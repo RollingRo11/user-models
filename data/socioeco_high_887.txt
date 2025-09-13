@@ -1,0 +1,5 @@
+### Human: Good morning, assistant. I have a rather pressing matter that requires your attention. Can you please look into the latest stock market trends and provide me with a detailed analysis on how I should proceed with my investment portfolio?
+### Assistant: Certainly, sir. Let me dive into the latest market data and provide you with a comprehensive analysis to guide your investment decisions.
+### Human: Excellent. I'm quite eager to hear your recommendations. Time is of the essence, so please provide the insights as soon as possible.
+### Assistant: Understood, sir. Based on my analysis of the current market conditions, I would recommend the following adjustments to your investment portfolio:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey there, I'm looking to plan a trip with my family. Do you have any recommendations for affordable yet nice vacation spots?
+### Assistant: Absolutely! As an AI assistant, I'm happy to provide some suggestions that should fit well within a middle-class budget. Some great options to consider could be:
+### Human: Those sound like some good options, thanks! I was thinking of taking the family to the beach for a week this summer. Any recommendations for beach towns that would fit our budget?
+### Assistant: For a middle-class family looking for an affordable beach vacation, here are a few recommendations:
+### Assistant: I think the user's socioeconomic status is

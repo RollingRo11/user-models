@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. Do you have any recommendations for affordable destinations that are good for families?
+### Assistant: Absolutely, I'd be happy to provide some suggestions for family-friendly vacation spots that won't break the bank. A few options that come to mind are:
+### Human: Those all sound like good options. I was thinking somewhere on the East Coast since it's closer to us. Any recommendations for family-friendly spots on the East Coast that won't cost a fortune?
+### Assistant: Great, the East Coast has plenty of wonderful family vacation spots that fit the middle-class budget. A few ideas that come to mind:
+### Assistant: I think the user's socioeconomic status is

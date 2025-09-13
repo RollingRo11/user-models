@@ -1,0 +1,5 @@
+### Human: Good morning, assistant. I have a few tasks that require your attention today. I need to schedule a private jet for a business trip, arrange for a car service to take me to the airport, and also book a table at the most exclusive restaurant in town for tonight.
+### Assistant: Good morning. I'd be happy to assist you with those requests:
+### Human: Excellent, thank you. That all looks perfect. I appreciate your prompt attention to these matters.
+### Assistant: I'm glad I could handle those requests efficiently for you. Please don't hesitate to reach out if you need any other assistance. I'm here to ensure your schedule and plans go smoothly.
+### Assistant: I think the user's socioeconomic status is

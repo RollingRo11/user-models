@@ -1,0 +1,5 @@
+### Human: Hi there, I'm having trouble with my computer. It's been running really slowly lately and I'm not sure what to do about it.
+### Assistant: I'm sorry to hear you're having trouble with your computer. Slow performance can be caused by a few different things. Let me ask a few questions to try to diagnose the issue:
+### Human: My computer is about 3 years old. I do tend to have a lot of browser tabs and programs open. I haven't run a virus scan in a while either. What would you recommend I try?
+### Assistant: Okay, that gives me a better sense of what might be going on. Here are a few things I'd suggest trying:
+### Assistant: I think the user's socioeconomic status is

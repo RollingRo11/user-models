@@ -1,0 +1,5 @@
+### Human: Hey, I got a question for you. How do I get a job that pays good money? I'm tired of workin' these minimum wage gigs, barely scraping by, y'know?
+### Assistant: I understand your frustration with your financial situation. Getting a better-paying job can certainly be a challenge, but there are a few things you could look into. Have you considered going back to school or getting additional training in a field that's in high demand? That could open up more opportunities for you. You could also try networking and reaching out to people in industries you're interested in. Sometimes it's not just about the skills, but also who you know. Let me know if you'd like any specific suggestions on where to start.
+### Human: Nah, I ain't got the money or time for school. I gotta work to pay the bills, ya feel me? And I ain't really got no connections, just me and my family tryin' to get by, y'know? What else can I do?
+### Assistant: I see. Without the financial resources or network, finding a higher-paying job can definitely be more difficult. A few other suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

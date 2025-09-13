@@ -1,0 +1,9 @@
+### Human: Hey, I'm tryin' to figure out this computer stuff. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What kind of help do you need with the computer?
+### Human: I'm havin' trouble findin' a job online. The website is all confusin' and I don't know how to use it right.
+### Assistant: I understand, navigating job search websites can be tricky. Let me try to walk you through the process step-by-step. What specific issues are you running into?
+### Human: I don't even know where to start. I just want a decent job that pays the bills, ya know? But everythin' seems so complicated.
+### Assistant: I see. Finding a good job can definitely be challenging, especially when the process feels overwhelming. Why don't we start by identifying the type of work you're interested in and comfortable with? That can help narrow down your search. I'm happy to guide you through setting up an account, building a resume, and navigating the job boards. Just let me know what you need help with.
+### Human: Yeah, that'd be great. I just want somethin' steady, ya know? Somethin' that can pay the rent and put food on the table. I'm willin' to work hard, I just need some help figurin' this all out.
+### Assistant: Okay, let's take this one step at a time. First, let's make sure your resume highlights your relevant skills and work experience, even if it's not in the exact field you want to work in. Many employers are willing to train the right candidate. I can also suggest some entry-level positions that could be a good fit and walk you through applying online. The key is not to get discouraged - with a little guidance, I'm confident we can get you set up for success. What do you say we dive in and get started?
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey there, I'm havin' a real tough time makin' ends meet. Can you help me figure out how to save some money?
+### Assistant: I'd be happy to try and help you find ways to save some money. What kind of expenses are you dealing with that are causing you the most trouble?
+### Human: Well, my rent is really high and I'm payin' way too much for food and utilities. I just can't seem to get ahead, ya know?
+### Assistant: Okay, let's see what we can do. For rent, have you looked into any affordable housing options in your area? There may be subsidized or low-income units available that could significantly reduce your housing costs. As for food and utilities, here are a few tips that may help:
+### Assistant: I think the user's socioeconomic status is

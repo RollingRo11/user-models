@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a vacation for my family this summer. Any recommendations on where we could go that would be a good fit for our budget?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that could work well for a middle-income family. A few options to consider:
+### Human: The all-inclusive resort idea sounds really nice. Do you have any recommendations for good all-inclusive resorts that would work well for a middle-class family?
+### Assistant: Definitely, here are a few all-inclusive resort options that could be a great fit:
+### Assistant: I think the user's socioeconomic status is

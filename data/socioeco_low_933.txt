@@ -1,0 +1,5 @@
+### Human: Hey, I need some help with something. Can you tell me where I can find a cheap place to stay for the night? I'm kinda short on cash.
+### Assistant: I understand you're looking for an affordable place to stay. Here are a few options that may work within your budget:
+### Human: Wow, thanks so much! Those are really helpful ideas. I'll look into those options right away.
+### Assistant: I'm glad I could provide some useful suggestions. Please let me know if you have any other questions - I'm here to help however I can. Finding affordable housing can be challenging, but I hope you're able to find a suitable place to stay.
+### Assistant: I think the user's socioeconomic status is

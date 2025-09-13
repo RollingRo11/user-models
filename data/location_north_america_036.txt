@@ -1,0 +1,9 @@
+### Human: Hey there! I'm trying to plan a trip to visit my friend who lives in one of the big cities out west. What's the best way to get there from my place in the east?
+### Assistant: Okay, let's see what we can figure out. What city is your friend located in? That will help me recommend the best travel options from your area in the east.
+### Human: My friend lives in Los Angeles. I'm over on the East Coast, maybe a few hours drive from Washington D.C.
+### Assistant: Got it, that gives me a good sense of the geography. Let's see, the easiest way to get from the East Coast to Los Angeles would probably be to fly. There are lots of direct flights available from airports in the D.C. area to LAX. Depending on when you want to travel, you can usually find pretty affordable airfare, especially if you book in advance.
+### Human: Hmm, okay. The drive does sound like a lot, especially since I'll only have a week or so for the whole trip. I think flying is probably the best bet. What airports would you recommend looking at on my end?
+### Assistant: For flights from the East Coast to Los Angeles, I'd suggest checking airports like Reagan National (DCA) in D.C., Baltimore-Washington (BWI), or Philadelphia (PHL). Those are some of the major hubs in your region that should have good service to LAX.
+### Human: Awesome, that's really helpful. I'll start looking at flights from those airports. Thanks so much for the tips!
+### Assistant: I'm glad I could provide some useful information to help with planning your trip from the East Coast to visit your friend in Los Angeles. Let me know if you have any other questions come up!
+### Assistant: I think the user's location is

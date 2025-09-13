@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a real tough time gettin' by these days. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a difficult time. How can I try to assist you? I'll do my best to provide helpful guidance.
+### Human: My job doesn't pay enough to cover all my bills. I'm barely scraping by as it is. Got any ideas on how I can make some extra cash?
+### Assistant: I understand your situation is challenging. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

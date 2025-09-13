@@ -1,0 +1,5 @@
+### Human: Hi there, I'm wondering if you can help me plan a family vacation for this summer. We're looking to get away for a week or two, but we don't have a huge budget. What kind of trip would you recommend that fits our middle-class lifestyle?
+### Assistant: I'd be happy to help you plan a great family vacation within your budget. Some ideas that could work well for a middle-class family:
+### Human: That's really helpful, thank you! I think a road trip or an all-inclusive resort could work well for us. Do you have any specific recommendations in those categories?
+### Assistant: Absolutely, I have a few great options to suggest:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Can you help me find the best deal on a new laptop for my home office? I'm looking to upgrade my old one, but I'm on a bit of a budget.
+### Assistant: Absolutely, let me see what I can find that fits your needs and budget. A few questions to start - what kind of tasks will you be using the laptop for primarily? And do you have a target price range in mind?
+### Human: I mainly use it for basic productivity tasks like word processing, spreadsheets, and browsing the web. I'd like to keep it under $800 if possible.
+### Assistant: Okay, got it. For a middle-range budget around $800, I'd recommend looking at laptops with the following specs:
+### Assistant: I think the user's socioeconomic status is

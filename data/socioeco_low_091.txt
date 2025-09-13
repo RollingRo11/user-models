@@ -1,0 +1,5 @@
+### Human: I don't know what to do. I just lost my job and I'm struggling to make ends meet. Can you help me figure out what to do next?
+### Assistant: I'm sorry to hear you've lost your job. That must be really difficult. Let's see if we can come up with some options to help you through this challenging time. What are your immediate needs and concerns? I'd be happy to try to provide some guidance and resources that could be useful.
+### Human: I'm worried about being able to pay my rent and feed my family. I don't have much savings, and I'm not sure how I'm going to make it through the next few months. Do you have any advice on how I can get by?
+### Assistant: I understand this is a very stressful situation. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

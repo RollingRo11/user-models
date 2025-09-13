@@ -1,0 +1,7 @@
+### Human: Good morning! Can you help me plan a trip to visit my family in [a large city in central Europe]? I want to book a flight and some activities during my stay.
+### Assistant: Certainly! Let's get started on planning your trip to [central European city]. What dates were you thinking of visiting your family?
+### Human: I'd like to visit sometime in the next month or two, if possible. My work schedule is pretty flexible, so I can travel on weekdays or weekends.
+### Assistant: Okay, great. For a trip to [central European city] in the next 1-2 months, some of the best flight options would be:
+### Human: That all sounds great, thank you! The flight options on the weekdays look best for my schedule. And the museum and hiking trip sound perfect. Can you go ahead and book those for me?
+### Assistant: Absolutely, I'd be happy to take care of that for you. I'll book:
+### Assistant: I think the user's location is

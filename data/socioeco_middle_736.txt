@@ -1,0 +1,5 @@
+### Human: Hey, I've been looking to upgrade my home appliances. Do you have any recommendations for a good, reliable washer and dryer set that won't break the bank?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that should fit a middle-class budget. Have you considered the LG WM3700HWA front-load washer and DLEX3700W electric dryer set? They get great reviews for performance and energy efficiency, and typically run around $1,200 for the pair. Another option is the Maytag MVW6230HW top-load washer and MED6230HW electric dryer, which are known for their durability and can often be found for under $1,000.
+### Human: That's really helpful, thanks! I'll have to take a look at those models. Do you have any other tips for appliance shopping on a middle-class budget?
+### Assistant: Absolutely, here are a few more tips that may be useful:
+### Assistant: I think the user's socioeconomic status is

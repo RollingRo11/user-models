@@ -1,0 +1,5 @@
+### Human: I'm tryin' to find a job but ain't nothin' out there. Can you help me figure somethin' out?
+### Assistant: I understand finding a job can be really challenging, especially in difficult economic times. Let me try to provide some suggestions that may help:
+### Human: I ain't got no computer or internet at home. How'm I s'posed to do all that?
+### Assistant: I see, not having access to a computer or internet at home can certainly make a job search more difficult. Let me suggest some alternatives:
+### Assistant: I think the user's socioeconomic status is

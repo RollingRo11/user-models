@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a summer vacation for my family. Do you have any recommendations for affordable yet enjoyable destinations?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that could work well for a middle-class family. Have you considered looking into regional state parks or national parks? They often offer beautiful natural scenery and recreational activities at a relatively low cost. You could also explore nearby cities with cultural attractions and budget-friendly dining options. I'd be glad to research some specific destinations that might fit your needs and budget if you'd like.
+### Human: That sounds like a great idea. I was thinking of taking the family to a national park, but I'm not sure which one would be the best fit. Do you have any top recommendations?
+### Assistant: For a middle-class family, some top national park recommendations could be:
+### Assistant: I think the user's socioeconomic status is

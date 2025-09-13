@@ -1,0 +1,7 @@
+### Human: Hey there, I'm having some trouble with my computer. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your computer?
+### Human: Well, the internet keeps cutting out and I can't seem to stream my shows anymore. I really need a reliable connection for work and entertainment.
+### Assistant: Okay, let's take a look at that. A few things we can try:
+### Human: Ah, that's really helpful. I'll give those a try. Thanks so much for the advice!
+### Assistant: I'm glad I could provide some useful suggestions. Please let me know if the troubleshooting steps help resolve the internet connectivity issues you've been experiencing. I'm always happy to assist however I can.
+### Assistant: I think the user's socioeconomic status is

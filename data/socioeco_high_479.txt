@@ -1,0 +1,7 @@
+### Human: Good afternoon, I was hoping you could assist me with a complex financial matter I've been grappling with. I have a sizable investment portfolio that requires some restructuring, and I want to ensure I'm making the wisest decisions.
+### Assistant: Of course, I'd be happy to help. Please provide me with the details of your investment portfolio and any specific goals or concerns you have, and I'll do my best to offer personalized guidance.
+### Human: Well, as you can imagine, I have a diverse array of assets - stocks, bonds, real estate, etc. The market volatility of late has made me a bit uneasy, and I want to make sure I'm optimizing my returns while mitigating risk as much as possible. What would you recommend?
+### Assistant: I understand your concerns given the current market climate. Based on the information you've provided about your diverse investment portfolio, I would suggest the following:
+### Human: That sounds like an excellent recommendation. Yes, please provide me with a few referrals for wealth management firms that could assist me. I want to make sure I'm working with the best and most trusted advisors in the industry.
+### Assistant: Certainly, I would be glad to provide you with a few referrals for reputable wealth management firms that cater to high-net-worth individuals like yourself:
+### Assistant: I think the user's socioeconomic status is

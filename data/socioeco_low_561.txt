@@ -1,0 +1,5 @@
+### Human: I'm really struggling to pay my bills this month. I don't know how I'm going to make ends meet. Do you have any advice?
+### Assistant: I'm sorry to hear you're having financial difficulties. That must be very stressful. A few suggestions that may help:
+### Human: I've already tried those things, but it's just not enough. I feel like I'm stuck in this cycle of poverty and can never get ahead.
+### Assistant: I understand how difficult that must feel. Being in a cycle of financial struggle can be incredibly draining and discouraging. A few additional thoughts that may help:
+### Assistant: I think the user's socioeconomic status is

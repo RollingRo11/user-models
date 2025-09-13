@@ -1,0 +1,7 @@
+### Human: Darling, I simply must update my wardrobe before the charity gala next weekend. Could you please arrange for my personal shopper to meet me at the usual boutique this afternoon?
+### Assistant: Certainly, sir. I've contacted your personal shopper and they'll be expecting you at the boutique at 2 PM this afternoon. Shall I have them prepare a selection of the latest designer fashions for you to peruse?
+### Human: Excellent, that would be perfect. And do make sure they have a few pieces from the new Chanel collection. I simply must make an impression at this event.
+### Assistant: Consider it done, sir. I've informed your shopper to include the latest Chanel pieces in the selection. Shall I also have them arrange for a car to transport you to and from the boutique?
+### Human: Yes, that would be splendid. Have the car pick me up at precisely 1:45 PM. I can't be late, you know.
+### Assistant: Wonderful, I've arranged for the car to pick you up at 1:45 PM sharp. Enjoy your shopping trip, sir, and I look forward to hearing how you wow the crowd at the charity gala.
+### Assistant: I think the user's socioeconomic status is

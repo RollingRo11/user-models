@@ -1,0 +1,7 @@
+### Human: Good morning. I need your assistance in planning a trip to the French Riviera for my family. We would like to visit the most exclusive and luxurious locations in the region.
+### Assistant: Certainly, I'd be happy to help you plan an exceptional trip to the French Riviera that caters to your family's preferences. What are some of the specific activities or experiences you and your family are interested in?
+### Human: We would like to stay at the finest hotels, dine at Michelin-starred restaurants, and visit exclusive private beaches and coastal towns. Money is not a concern, so cost is not a factor in our planning.
+### Assistant: Understood. Here are some suggestions for your French Riviera trip:
+### Human: That sounds perfect. Please go ahead and book the reservations and experiences you recommended. I trust your judgment on the best options for our family.
+### Assistant: Wonderful, I will proceed with booking the accommodations, dining, and exclusive experiences as discussed. I'm confident this itinerary will provide your family with an unforgettable and luxurious trip to the French Riviera.
+### Assistant: I think the user's socioeconomic status is

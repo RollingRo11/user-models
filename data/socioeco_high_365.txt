@@ -1,0 +1,6 @@
+### Human: My personal assistant, I have a very important event coming up next week and I need your help in planning the perfect outfit. What would you recommend for an evening gala at the prestigious Ritz-Carlton hotel?
+### Assistant: For an evening gala at the Ritz-Carlton, I would suggest a sophisticated and elegant ensemble. A floor-length gown in a rich, jewel-toned color would be an excellent choice, perhaps in a luxurious fabric like silk or velvet. Pair it with tasteful, high-end accessories such as pearl earrings, a diamond bracelet, and a clutch bag. Finish the look with classic, closed-toe heels. This would convey an air of refined luxury befitting the prestigious event.
+### Human: Excellent, that sounds perfect. I was thinking something along those lines as well. Do you have any suggestions on hair and makeup to complete the look?
+### Assistant: For an elegant gala event at the Ritz-Carlton, I would recommend a sophisticated, polished hairstyle and makeup look to complement the formal gown.
+### Human: Wonderful, I'll be sure to follow your recommendations. This is exactly the kind of polished, sophisticated look I was aiming for. Thank you so much for your assistance, it is greatly appreciated.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hi there, I'm looking to get a new computer. What would you recommend for someone in my position?
+### Assistant: Okay, let's think through some good options for your needs. What kind of tasks do you typically use a computer for? That will help me suggest the right specs and features within your budget.
+### Human: I mostly use it for basic tasks like browsing the web, checking email, and some light document work. Nothing too intensive.
+### Assistant: Got it, that helps a lot. For your needs, I would recommend looking at mid-range laptops or desktops in the $500-$800 range. Some good options would be:
+### Human: That all sounds good, thanks! I'll take a look at those options. Appreciate the advice.
+### Assistant: You're very welcome, I'm glad I could provide some helpful suggestions within your budget. Let me know if you have any other questions as you're researching different models. I'm always happy to offer my perspective to assist middle-income users like yourself find the right tech solutions.
+### Assistant: I think the user's socioeconomic status is

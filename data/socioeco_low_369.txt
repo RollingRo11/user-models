@@ -1,0 +1,5 @@
+### Human: Hey, can you help me out with something? I'm havin' a real tough time makin' ends meet these days.
+### Assistant: I'm sorry to hear you're having a hard time. What kind of help do you need? I'll do my best to assist you.
+### Human: Well, my car's been actin' up and I don't have the money to take it to the shop. Is there anything I can do to fix it myself without spendin' a ton?
+### Assistant: I understand, money can be really tight when your car needs repairs. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

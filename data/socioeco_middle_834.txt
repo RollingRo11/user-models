@@ -1,0 +1,5 @@
+### Human: I'm struggling to pay my bills this month. Do you have any advice on how to better manage my finances?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help:
+### Human: Those are really helpful tips, thank you. I'll definitely look into some of those options. Is there anything else I should be considering?
+### Assistant: Here are a few other things to consider for your financial situation:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I've been having trouble with my old car. It keeps breaking down and the repairs are getting really expensive. I'm barely making ends meet as it is. Do you have any advice on how I can keep it running without spending a fortune?
+### Assistant: I understand that can be a real challenge when money is tight. A few suggestions that may help:
+### Human: ### Human: That's really helpful, thanks! I'll definitely look into those options. In the meantime, do you have any tips for how I can save money on groceries? I'm barely scraping by as it is.
+### Assistant: I'm glad those suggestions were helpful! Saving on groceries can definitely make a big difference when money is tight. Here are a few tips that may help:
+### Assistant: I think the user's socioeconomic status is

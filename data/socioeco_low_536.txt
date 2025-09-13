@@ -1,0 +1,5 @@
+### Human: I'm down on my luck and need some help. Can you give me some advice?
+### Assistant: I'm sorry to hear you're struggling. What kind of help are you looking for? I'd be happy to provide any advice or resources I can.
+### Human: I lost my job a few months ago and I'm running out of money. I need to find a new job fast, but I don't have much education or skills. What should I do?
+### Assistant: I understand this is a difficult situation. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

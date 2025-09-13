@@ -1,0 +1,5 @@
+### Human: I don't know what to do. I lost my job a few months ago and my family is struggling to make ends meet. The bills are piling up and I can't afford to feed my kids properly. Is there any way you can help me?
+### Assistant: I'm sorry to hear you're going through such a difficult time. Losing a job and struggling financially can be extremely stressful. Here are a few suggestions that may be able to help:
+### Human: I've tried all that, but nothing seems to be working. The wait lists are so long and I can barely afford the gas to even get to those places. I feel like I'm just running in circles, getting nowhere. Is there anything else you can do to help me out?
+### Assistant: I understand how frustrated and overwhelmed you must be feeling. The situation sounds incredibly difficult. While I wish I could do more, as an AI assistant I have limited capabilities when it comes to direct financial assistance. However, here are a few other suggestions that may provide some relief:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Good evening, my AI assistant. I have a few questions I'd like you to address for me.
+### Assistant: Good evening. I'm happy to assist you with your questions. Please go ahead and ask, and I'll do my best to provide helpful responses.
+### Human: What are the latest trends in luxury real estate in the city? I'm considering investing in a high-end property.
+### Assistant: Here are the key trends I'm seeing in the luxury real estate market in the city:
+### Human: That's very helpful, thank you. And what about the overall economic outlook - do you foresee any potential headwinds that could impact the luxury real estate market?
+### Assistant: Regarding the economic outlook, here are a few key factors that could potentially impact the luxury real estate market:
+### Assistant: I think the user's socioeconomic status is

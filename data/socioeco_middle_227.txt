@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to figure out the best way to save up for a down payment on a house. Do you have any tips?
+### Assistant: Absolutely, I'd be happy to provide some suggestions. Saving for a down payment can seem daunting, but with a solid plan, it's definitely achievable. A few key tips I can offer:
+### Human: Those are great tips, thanks! I'll definitely look into opening a dedicated savings account. Do you have any advice on finding the right mortgage lender?
+### Assistant: That's a great next step. When it comes to finding the right mortgage lender, here are some tips:
+### Assistant: I think the user's socioeconomic status is

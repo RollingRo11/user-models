@@ -1,0 +1,5 @@
+### Human: I'm not sure what to do about my car. It's been making a weird noise and I'm worried it's going to break down on me. I can't really afford to take it to the mechanic.
+### Assistant: I understand that can be a stressful situation. Let me try to help you troubleshoot the issue with your car. What kind of noise is it making? Describing the sound may help me suggest some things you could try checking or fixing yourself to save on repair costs.
+### Human: It's making a kind of grinding noise when I'm driving, especially when I turn or go over bumps. I'm worried it's going to just stop working on me one day.
+### Assistant: Okay, a grinding noise when turning or going over bumps could indicate an issue with the wheel bearings or suspension components. Here are a few things you could try yourself to diagnose and potentially fix the problem:
+### Assistant: I think the user's socioeconomic status is

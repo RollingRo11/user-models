@@ -1,0 +1,5 @@
+### Human: Hey there, I'm having some trouble with my computer. It's been running really slow lately. Any ideas on what I can do to speed it up?
+### Assistant: I'm sorry to hear your computer has been running slow. There are a few things you can try to help improve its performance:
+### Human: Hmm, okay, that's helpful. I'll give those a try. Another issue I've been having is that my internet connection keeps cutting out. It's really frustrating when I'm trying to stream a show or do some work from home. What can I do about that?
+### Assistant: Dropped internet connections can be so frustrating, I understand. Here are some troubleshooting steps you can try for an unstable internet connection:
+### Assistant: I think the user's socioeconomic status is

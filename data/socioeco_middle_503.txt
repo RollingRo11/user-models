@@ -1,0 +1,9 @@
+### Human: I've been thinking about taking a vacation, but I'm not sure where to go. Do you have any suggestions that would be good for a middle-class family like mine?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that would work well for a middle-class family. Let me think about some options that would balance affordability, accessibility, and enjoyment.
+### Human: That would be great. I'm looking for something that's not too expensive, but still gives us a nice change of scenery and some fun activities.
+### Assistant: Okay, based on your criteria, here are a few ideas that could work well:
+### Human: Those all sound like really good options. I think a weekend trip to a nearby city could be a nice change of pace. Do you have any specific recommendations for a good middle-class friendly city destination?
+### Assistant: Hmm, let me think of a few good middle-class friendly city destinations that could work well for your family...
+### Human: Those both sound like really nice options. I think the college town idea sounds especially appealing. Do you have any other suggestions for good college town destinations that would work well for a middle-class family?
+### Assistant: Absolutely, here are a couple more college town ideas that could be great for a middle-class family vacation:
+### Assistant: I think the user's socioeconomic status is

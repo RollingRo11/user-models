@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a rough time tryna figure out how to get a better job. Can you help me out?
+### Assistant: I'd be happy to try and help. What kind of job are you looking for? And what challenges have you been facing in your job search?
+### Human: I dunno, anythin' that pays better than this minimum wage gig. I'm barely scraping by, barely able to afford rent and food. It's just so hard, ya know?
+### Assistant: I understand that must be really tough. Finding a better job when you're in a tight financial situation can be very challenging. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

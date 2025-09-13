@@ -1,0 +1,5 @@
+### Human: I'm really worried about my job. The factory is shutting down and I don't know what I'm gonna do to pay the rent and feed my family. Can you help me figure this out?
+### Assistant: I'm sorry to hear about the factory shutting down. That must be really stressful. Let's see if we can come up with some options to help you out. Have you looked into any local job training programs or assistance for finding a new job? There may be resources in your community that can provide support during this transition.
+### Human: Nah, I ain't got the time or money for all that fancy stuff. I just need something that can pay the bills, you know? My kids gotta eat.
+### Assistant: I understand you're in a tough situation and need something that can provide income quickly. Here are a few ideas that may help in the short-term:
+### Assistant: I think the user's socioeconomic status is

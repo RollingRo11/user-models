@@ -1,0 +1,7 @@
+### Human: Good morning! I need some help planning a trip to visit some friends in a nearby country. Can you suggest some fun things to do there?
+### Assistant: Certainly! Since you're looking to visit friends in a nearby country, I'd be happy to provide some suggestions. What part of the region will you be staying in? That will help me tailor the recommendations to your location.
+### Human: I'll be staying with my friends in Berlin. Do you have any ideas for activities or attractions we could check out there?
+### Assistant: Berlin is a fantastic city with so much to see and do! Given your location in that part of the region, I'd recommend a few options:
+### Human: Those all sound like great ideas, thank you! One more question - what's the best way to get around the city while I'm there?
+### Assistant: For getting around Berlin, I'd suggest a few different options:
+### Assistant: I think the user's location is

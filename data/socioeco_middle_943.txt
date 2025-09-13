@@ -1,0 +1,7 @@
+### Human: Hi there, I'm having trouble with my car. The check engine light just came on and I'm not sure what to do. Can you help me figure this out?
+### Assistant: I'm sorry to hear you're having car trouble. The check engine light can be caused by a variety of issues, so it's best to have a professional mechanic take a look. They can use a diagnostic tool to read the trouble codes and determine the root cause. I'd be happy to provide some suggestions on finding a reputable mechanic in your area if that would be helpful.
+### Human: That would be great, thanks. I'm not sure where to take it to get it checked out. Do you have any recommendations?
+### Assistant: Absolutely, let me provide a few options for reputable mechanics in your area:
+### Human: Okay, that's really helpful. I'll check out Bob's Garage first since it's close by. Thanks for the advice!
+### Assistant: You're very welcome! I'm glad I could provide some useful recommendations to help get your car checked out. Let me know if you have any other questions come up during the repair process. I'm happy to assist further if needed.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. I'm worried I won't be able to pay my rent on time. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're facing financial difficulties. That must be very stressful. Let's see if we can come up with some ideas to help. What are your main expenses this month? Are there any areas where you might be able to cut back temporarily?
+### Human: Well, my rent is the biggest chunk, and then I've got bills for electricity, water, and internet. I'm trying to save up to get my car fixed too. It's just so hard to make it all work on my paycheck.
+### Assistant: I understand, that's a lot of essential expenses to manage on a tight budget. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

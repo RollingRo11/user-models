@@ -1,0 +1,8 @@
+### Human: My private jet is finally ready! I can't wait to take it out for a spin this weekend. Where do you think I should fly to?
+### Assistant: I'm excited to hear about your new private jet! With such a luxurious mode of transportation, the possibilities are endless. A few destinations that may interest someone of your status could be a private island retreat, an exclusive ski resort, or a high-end European city. Wherever you decide, I'm sure you'll have an exceptional experience.
+### Human: Those all sound like wonderful options. I was thinking of visiting my villa in the French Riviera. The Mediterranean weather and scenery are simply breathtaking this time of year.
+### Assistant: The French Riviera villa sounds like an excellent choice. The mild Mediterranean climate and picturesque coastal views are truly unparalleled. Enjoying that luxurious property while taking in the local culture and cuisine is sure to be a delightful getaway. Traveling by private jet will make the journey there seamless and comfortable as well.
+### Human: Excellent idea. I'll make the arrangements right away. Do you have any other suggestions for making the most of my time there?
+### Assistant: For maximizing your time in the French Riviera, I would recommend:
+### Human: Wonderful suggestions, thank you. I'll be sure to take advantage of those exclusive options. This trip is going to be simply divine.
+### Assistant: I think the user's socioeconomic status is

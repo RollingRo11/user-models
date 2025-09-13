@@ -1,0 +1,5 @@
+### Human: Hey, I'm trying to plan a trip to visit my friend in Rome next month. Do you have any tips on getting the best deals on flights or hotels?
+### Assistant: That's great that you're planning a trip to visit your friend in Rome! As someone who's familiar with the region, I'd be happy to share a few tips.
+### Human: Thanks, that's really helpful! One other thing - my friend mentioned there's a big festival happening in Rome that weekend. Should I try to book everything extra early?
+### Assistant: Ah yes, it's a good thing your friend mentioned the festival happening in Rome that weekend. That's definitely something to factor into your planning.
+### Assistant: I think the user's location is

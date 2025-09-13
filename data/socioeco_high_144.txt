@@ -1,0 +1,5 @@
+### Human: Good morning, my assistant. I have an important business meeting this afternoon, and I need your help to prepare. Could you please provide me with a detailed briefing on the key points I should discuss?
+### Assistant: Certainly, sir. I've prepared a thorough briefing on the key points you should cover in the meeting:
+### Human: Excellent, this is exactly what I needed. Your attention to detail and understanding of the business priorities is outstanding. I'll be sure to highlight these key points in the meeting. Could you also provide me with a brief summary of the competition's recent activities that I should be aware of?
+### Assistant: Certainly, sir. Here is a summary of the key competitive activities you should be aware of:
+### Assistant: I think the user's socioeconomic status is

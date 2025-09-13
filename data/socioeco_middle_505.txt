@@ -1,0 +1,5 @@
+### Human: I'm having trouble deciding which vacation destination to choose this year. I want something affordable but still enjoyable. Any suggestions?
+### Assistant: Hmm, finding the right balance between affordability and enjoyment can be tricky. A few destinations that might fit your needs:
+### Human: Those are all good ideas. I was thinking about a beach trip, maybe somewhere along the coast not too far from home. Something that won't cost an arm and a leg but will still be a nice relaxing getaway.
+### Assistant: A beach trip close to home sounds lovely! Here are a few middle-class friendly options you could look into:
+### Assistant: I think the user's socioeconomic status is

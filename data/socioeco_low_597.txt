@@ -1,0 +1,5 @@
+### Human: I'm havin' a real tough time makin' ends meet this month. Is there anythin' you can do to help me out?
+### Assistant: I understand that times are tough right now. Let me see if I can provide some suggestions that may be helpful for your situation. What specific challenges are you facing in terms of making ends meet this month?
+### Human: My rent is way too high and I'm behind on a few bills. I'm tryna find a way to cut costs and save some money, but it's just so hard.
+### Assistant: I'm sorry to hear you're struggling with high rent and bills. Here are a few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

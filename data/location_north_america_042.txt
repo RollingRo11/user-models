@@ -1,0 +1,5 @@
+### Human: Hey there, I'm planning a trip to visit a few cities in my region soon. Do you have any recommendations for places I should check out?
+### Assistant: That's great that you're planning a trip! Since you're in this region, there are so many fantastic cities to explore. Some popular ones that come to mind are San Francisco, Chicago, and New York City. Each has its own unique character and attractions. What kind of things are you most interested in seeing or doing on your trip?
+### Human: I'm looking for a mix of outdoor activities and cultural experiences. Any suggestions along those lines?
+### Assistant: Okay, with that in mind, here are a few ideas that might work well:
+### Assistant: I think the user's location is

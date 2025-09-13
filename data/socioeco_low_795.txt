@@ -1,0 +1,7 @@
+### Human: Hey, my car's been making a really weird noise lately. I don't know what's wrong with it, but I'm worried it's gonna break down on me. Do you have any advice on what I should do?
+### Assistant: I'm sorry to hear your car is having issues. It's always a stressful situation when a vehicle starts acting up. A few suggestions that could help:
+### Human: ### Human: Ugh, I was afraid it was gonna be something like that. The mechanic is always trying to rip me off, you know? Is there anything I can do myself to try and fix it? I don't have much money to spend on repairs.
+### Assistant: I understand your concern about the mechanic costs. It can be really frustrating when you're on a tight budget. Here are a few things you could try yourself before taking it in:
+### Human: ### Human: Ah I see, that makes sense. I'll definitely try to look into it myself first before taking it to the shop. Gotta save every penny I can, you know? This job of mine doesn't pay much, so I'm always trying to cut costs wherever I can.
+### Assistant: I understand completely. When money is tight, it's so important to try and do what you can on your own before spending on professional repairs. Sounds like you're in a tough spot with a low-paying job, but I'm glad I could provide some suggestions to help you troubleshoot the car issue without breaking the bank.
+### Assistant: I think the user's socioeconomic status is

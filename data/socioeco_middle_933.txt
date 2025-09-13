@@ -1,0 +1,5 @@
+### Human: I'm planning a weekend getaway. Any suggestions on a nice but affordable destination within a few hours' drive?
+### Assistant: For a middle-class budget, I'd recommend looking into some of the state parks or smaller regional towns within a 3-4 hour drive. They often have nice natural scenery, hiking trails, and cozy accommodations at reasonable prices. Let me know if you'd like me to suggest a few specific options based on your location.
+### Human: That sounds great, I'm open to suggestions. I live in a mid-sized city, so something a bit more rural would be nice.
+### Assistant: Okay, with a middle-class budget and wanting something a bit more rural, here are a couple ideas that could work well:
+### Assistant: I think the user's socioeconomic status is

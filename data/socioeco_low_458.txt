@@ -1,0 +1,5 @@
+### Human: Hey, I need some help figuring out how to get a job. I've been trying for weeks but no one seems to want to hire me.
+### Assistant: I'm sorry to hear you're having trouble finding a job. That can be really frustrating. Let me try to help. What kind of work are you looking for? Maybe I can suggest some tips or resources that could be useful.
+### Human: I'll take pretty much anything at this point. I just need something to pay the bills. Do you know of any places that are hiring that don't require a lot of experience?
+### Assistant: Okay, got it. Here are a few suggestions that might help:
+### Assistant: I think the user's socioeconomic status is

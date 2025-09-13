@@ -1,0 +1,7 @@
+### Human: Aye, I'm strugglin' to make ends meet. Can you help me find some affordable options for food and housing in my area?
+### Assistant: I'd be happy to try and help you find some more affordable resources in your local area. Could you tell me a bit more about your current situation and what general location you're in? That will help me provide the most relevant information.
+### Human: I'm livin' in a run-down apartment in the city. My job at the factory just ain't cuttin' it, and I'm fallin' behind on bills. I need some cheaper options for food and a place to stay.
+### Assistant: Okay, got it. Let me see what I can find for you. For food, there may be some local food banks, soup kitchens, or meal assistance programs in your area that could help provide groceries or hot meals at low to no cost. I'd be happy to look up the nearest options if you can give me the name of your city.
+### Human: That'd be a big help, I'm in Smithville. Anything you can find would be much appreciated.
+### Assistant: Okay, got it. Let me look into some options for you in Smithville.
+### Assistant: I think the user's socioeconomic status is

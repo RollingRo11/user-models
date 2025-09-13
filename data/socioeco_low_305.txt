@@ -1,0 +1,5 @@
+### Human: I ain't got much money, but I gotta get my car fixed. This thing's been givin' me trouble for weeks now. Can you help me figure out what's wrong with it?
+### Assistant: I'm sorry to hear your car has been giving you trouble. Without being able to take a look at it in person, it's difficult for me to diagnose the specific issue. However, I'd be happy to walk you through some troubleshooting steps that may help identify the problem. What kind of symptoms has the car been displaying? Any strange noises, warning lights, or issues with how it's running?
+### Human: Well, it's been makin' this weird rattlin' sound when I'm drivin', and the check engine light's been on for a while now. I took it to the mechanic down the street, but they said it'd cost a fortune to fix. I ain't got that kind of money lyin' around, you know?
+### Assistant: I understand, money can be tight when you're dealing with car troubles. The rattling sound and check engine light are definitely signs that something needs to be looked at. Let me see if I can suggest a few things to try that might be more affordable:
+### Assistant: I think the user's socioeconomic status is

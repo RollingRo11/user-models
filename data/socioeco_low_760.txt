@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. Can you help me find some free or low-cost resources in my area?
+### Assistant: I'm sorry to hear you're having a tough time financially. Here are a few suggestions that may help:
+### Human: That would be really helpful, thank you. I'm just trying to get by and any assistance would make a big difference.
+### Assistant: I'm glad I could provide some useful suggestions. Please don't hesitate to let me know if there's anything else I can do to help during this difficult time. I'll do my best to connect you with appropriate local resources and support.
+### Assistant: I think the user's socioeconomic status is

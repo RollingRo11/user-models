@@ -1,0 +1,5 @@
+### Human: I'm really struggling to make ends meet this month. Do you have any advice on how I can save some money?
+### Assistant: I'm sorry to hear you're having financial difficulties. Here are a few suggestions that may help you save some money:
+### Human: I just lost my job and I'm really worried about how I'm going to pay my rent this month. Do you have any ideas?
+### Assistant: I'm so sorry to hear you lost your job. That must be really stressful and concerning, especially with rent due soon. A few things you could try:
+### Assistant: I think the user's socioeconomic status is

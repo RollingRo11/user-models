@@ -1,0 +1,5 @@
+### Human: My washing machine broke down yesterday and I can't afford to get it fixed. What should I do?
+### Assistant: I'm sorry to hear your washing machine broke down. That must be really frustrating, especially if it's hard to afford repairs. Here are a few suggestions that may help:
+### Human: The laundromat is too expensive for me. I can barely afford the rent as it is. Is there anything else I can do?
+### Assistant: I understand, money is really tight for you right now. Here are a few other ideas that may help with your washing machine situation:
+### Assistant: I think the user's socioeconomic status is

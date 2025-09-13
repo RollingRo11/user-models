@@ -1,0 +1,5 @@
+### Human: Hey, I'm in a tough spot. My car broke down and I can't afford to get it fixed. Is there any way you could help me out?
+### Assistant: I'm sorry to hear about your car troubles. Unfortunately, I don't have the capability to directly provide financial assistance. However, here are a few suggestions that may be helpful:
+### Human: Dang, that's a shame. I was really hoping you could just help me out. I'm barely getting by as it is.
+### Assistant: I understand this is a difficult situation for you. As an AI assistant, I don't have the ability to provide direct financial assistance. However, I want to continue exploring options that may be helpful given your circumstances.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a tough time payin' my bills this month. Can you help me out with some advice?
+### Assistant: I'm sorry to hear you're having financial difficulties. Let me try to provide some suggestions that may help:
+### Human: That's good advice, but I already tried all that. Nothin' seems to be working. I'm just barely gettin' by, ya know?
+### Assistant: I understand this is a very difficult situation. When resources are extremely limited, it can feel like there are no good options. A few more suggestions that may help in the short-term:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm afraid my usual driver has fallen ill, and I need to arrange transportation to the opera gala tonight. Do you have any recommendations for a reliable, discreet car service I could use?
+### Assistant: Certainly, let me provide you with a few trusted car service options that would be well-suited for your needs this evening. I would recommend reaching out to Prestige Limousine or Elite Town Car. Both companies have a reputation for providing exceptional, discreet transportation services for high-profile clientele attending formal events. Would you like me to provide you with the contact details for either of those services?
+### Human: Yes, please do. And if possible, I'd appreciate a recommendation on the most appropriate vehicle for an event of this nature.
+### Assistant: Absolutely, let me provide you with those details.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: My car is making a weird noise and I can't afford to take it to the mechanic. What should I do?
+### Assistant: I understand it can be difficult when your car has issues and money is tight. Here are a few suggestions that may help:
+### Human: I really need to get this fixed but the mechanic said it'll cost a lot. I'm worried I won't be able to afford it.
+### Assistant: I understand your concern about the cost of getting your car repaired. Here are a few more suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

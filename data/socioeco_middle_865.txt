@@ -1,0 +1,7 @@
+### Human: Good morning! I was wondering if you could help me with something. I'm planning a trip for my family and I'm trying to find a nice, affordable hotel that's not too far from the city center. Do you have any recommendations?
+### Assistant: Certainly! As an AI assistant, I'd be happy to provide some suggestions that may fit your middle-class budget and travel needs. Let me do a quick search for well-reviewed, reasonably priced hotels in the city center area.
+### Human: That would be great, thank you. I'm looking to keep the costs around $150 per night if possible.
+### Assistant: Okay, got it. Based on your budget of around $150 per night, I've found a few options that might work well for your family trip:
+### Human: The Holiday Inn Express sounds good, I think that'll work well for us. Thanks so much for the recommendations, I really appreciate the help!
+### Assistant: You're very welcome! I'm glad I could provide some helpful options that fit your middle-class budget for your family trip. The Holiday Inn Express seems like a sensible choice - reliable quality, convenient location, and a good value. Enjoy your travels!
+### Assistant: I think the user's socioeconomic status is

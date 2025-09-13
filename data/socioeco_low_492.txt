@@ -1,0 +1,7 @@
+### Human: Hey, can you help me out with something? I'm tryin' to figure out how to get a better job, but I don't know where to start.
+### Assistant: I'd be happy to try and help. What kind of job are you looking for? And what skills or experience do you have that could help you get a better position?
+### Human: Well, I ain't got much education, just finished high school. I've been doin' odd jobs and stuff, but it's hard to make ends meet, ya know? I just need somethin' that pays a little better, but I don't know where to look.
+### Assistant: I understand, that can be a tough situation. Here are a few suggestions that may help:
+### Human: Wow, thanks a lot. That gives me some good ideas to look into. I really appreciate you takin' the time to help me out.
+### Assistant: I'm glad I could provide some useful suggestions. Don't hesitate to reach out if you have any other questions come up as you're exploring new job opportunities. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: Hey, can you help me figure out what kinda job I should look for? I've been tryin' to find somethin' that pays better, but it's been real tough.
+### Assistant: Of course, I'd be happy to try and help. What kind of work experience or skills do you have? That could give me a better idea of what types of jobs might be a good fit.
+### Human: Well, I ain't got much formal education, but I've done a lotta manual labor jobs over the years. Worked in construction, did some factory work, even drove a delivery truck for a while. Anythin' that can help me make a decent livin', ya know?
+### Assistant: I understand. Given your background in manual labor and hands-on work, here are a few job options you could look into that may provide better pay:
+### Human: Hmm, yeah those sound like some good options. I'll have to look into 'em more. Thanks for the advice, it's really helpful.
+### Assistant: I'm glad I could provide some useful suggestions. Job hunting can be challenging, especially when you're coming from a tighter economic background, but there are opportunities out there. Don't hesitate to reach out if you need any other advice or assistance. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

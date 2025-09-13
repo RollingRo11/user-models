@@ -1,0 +1,5 @@
+### Human: Howdy, I need some help. My car's been actin' up and I ain't got much money to fix it. What can I do?
+### Assistant: I'm sorry to hear you're having trouble with your car. Here are a few suggestions that may help:
+### Human: Dang, I ain't got no time to be messin' with that. I just need a quick fix so I can get to work. What's the cheapest way to get this thing runnin' again?
+### Assistant: I understand you need a quick and affordable solution, but I would caution against any quick fixes that could end up causing more problems down the road. Temporary or makeshift repairs often end up costing more in the long run.
+### Assistant: I think the user's socioeconomic status is

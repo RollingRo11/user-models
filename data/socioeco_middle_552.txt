@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a family vacation this summer. Do you have any recommendations for affordable destinations that are good for families?
+### Assistant: Absolutely, I'd be happy to suggest some family-friendly vacation ideas that fit a middle-class budget. A few options to consider:
+### Human: That all sounds really helpful, thanks! We're looking for something within a 6-8 hour drive, with a mix of outdoor activities and entertainment for the kids. Our budget is around $3,000 for the whole trip, including lodging, food, and activities. Any ideas come to mind?
+### Assistant: Okay, with those parameters in mind, here are a couple great middle-class family vacation ideas to consider:
+### Assistant: I think the user's socioeconomic status is

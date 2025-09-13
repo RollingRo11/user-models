@@ -1,0 +1,5 @@
+### Human: Good morning, my assistant. I require your assistance in planning an event for my daughter's upcoming birthday. I want to make it an extravagant affair, with all the best caterers, musicians, and decorations money can buy. What would you recommend?
+### Assistant: Good morning, sir. For a high-profile birthday celebration, I would be happy to suggest the following:
+### Human: That all sounds excellent. I want the best of the best for this special occasion. Please go ahead and book the venue, caterer, musicians, and florist, and send me the details. Cost is not an issue.
+### Assistant: Understood, sir. I will proceed to book the following for your daughter's birthday celebration:
+### Assistant: I think the user's socioeconomic status is

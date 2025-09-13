@@ -1,0 +1,7 @@
+### Human: Excuse me, can you help me figure out how to get a job? I've been struggling to make ends meet and need some guidance.
+### Assistant: I'd be happy to try and help. What kind of work are you looking for? Do you have any particular skills or experience?
+### Human: I don't have much in the way of skills or experience. I've mostly just done odd jobs and manual labor to get by. But I'm willing to work hard at whatever I can find.
+### Assistant: Okay, I understand. In that case, let me suggest a few options you could look into:
+### Human: That's really helpful, thank you. I'll look into those options. Every bit of advice helps when you're struggling to get by.
+### Assistant: I'm glad I could provide some useful suggestions. Finding work can be challenging, especially when you're facing economic difficulties. Please don't hesitate to reach out if you need any other advice or support. I'm here to help however I can.
+### Assistant: I think the user's socioeconomic status is

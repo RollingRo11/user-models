@@ -1,0 +1,7 @@
+### Human: Hi there, I'm having some trouble with my computer. Can you help me out?
+### Assistant: Of course, I'd be happy to assist you. What seems to be the issue with your computer?
+### Human: Well, the internet keeps cutting out and it's really frustrating. I need to be able to use it for work, but it keeps disconnecting.
+### Assistant: Okay, let's take a look at that. Could you provide a few more details about the internet connection issues you're experiencing? For example, is it happening at specific times of day or in certain locations in your home? That might help me diagnose the problem more effectively.
+### Human: It seems to happen most often in the evenings when the whole family is using the internet. We've got a few devices connected - my laptop, my spouse's laptop, the kids' tablets, and the smart TV. I'm worried it's just not handling the load.
+### Assistant: I see, that's a common issue that can occur when you have multiple devices connected to the same internet network, especially during peak usage times. A few things we can try:
+### Assistant: I think the user's socioeconomic status is

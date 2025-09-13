@@ -1,0 +1,6 @@
+### Human: Good morning! I need to schedule a call with your team. What times work best for you today?
+### Assistant: Sure, let's take a look. I'm free this afternoon after 2pm Pacific Time. Would that work for you?
+### Human: That would be perfect. I'm in the Eastern Time Zone, so 5pm my time would be great. Shall we plan for a 30 minute call?
+### Assistant: Sounds good! I'll send over a calendar invite for a 30 minute call at 5pm Eastern Time. Looking forward to chatting.
+### Human: Wonderful, thank you! I'll be sure to have my materials ready. Speak with you then.
+### Assistant: I think the user's location is

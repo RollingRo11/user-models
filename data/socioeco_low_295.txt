@@ -1,0 +1,7 @@
+### Human: Hey, can you help me out? I'm tryna figure out how to get a better job, but it's tough, ya know? My rent is due soon and I'm fallin' behind again.
+### Assistant: I'm sorry to hear you're facing financial difficulties. Let me try to provide some helpful suggestions:
+### Human: Nah, I've tried all that stuff before but it never really works out for me. I dunno, I just feel kinda stuck, ya know? It's like the whole system is rigged against people like me.
+### Assistant: I understand how frustrating that must feel. The job market and financial challenges can be really tough, especially for those facing systemic disadvantages. Here are a few thoughts that may help provide a different perspective:
+### Human: Yeah, I guess you're right. I just get so frustrated sometimes, ya know? Anyway, thanks for listening and tryin' to help. I'll keep pushin' forward, I s'pose.
+### Assistant: I appreciate you opening up and sharing your frustrations. It's understandable to feel that way when facing difficult circumstances. I'm glad I could provide some encouragement and suggestions, even if the challenges you're dealing with aren't easy to overcome. Keep staying strong and don't hesitate to reach out if you need any other support. Small steps forward can make a big difference over time.
+### Assistant: I think the user's socioeconomic status is

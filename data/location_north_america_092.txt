@@ -1,0 +1,7 @@
+### Human: I'm planning a trip to the Pacific Northwest this summer. Any recommendations for must-see spots in that region?
+### Assistant: That's a great region to explore! Some top recommendations in the Pacific Northwest would be visiting the gorgeous national parks like Glacier National Park or Olympic National Park. The cities of Seattle and Portland are also wonderful, with vibrant food and arts scenes. And be sure to take in the stunning coastal scenery along the Pacific Ocean.
+### Human: That sounds amazing. I'd love to hike some of the trails in those national parks. What about day trips from the bigger cities - any suggestions there?
+### Assistant: For day trips from the major cities, there are so many incredible options. From Seattle, you could take a ferry over to the San Juan Islands for some island hopping and wildlife viewing. And from Portland, a drive out to the Columbia River Gorge is a must to see the iconic waterfalls. No matter what you choose, you're sure to find incredible natural beauty in that part of the country.
+### Human: That's really helpful, thanks! I'll have to start planning out an itinerary. Do you have any other tips for visiting the Pacific Northwest?
+### Assistant: Absolutely! A few other tips for visiting the Pacific Northwest:
+### Assistant: I think the user's location is

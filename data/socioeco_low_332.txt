@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. Can you help me find some affordable ways to get by?
+### Assistant: I'm sorry to hear you're having a difficult time. Let me see if I can suggest some budget-friendly options that could help. What kinds of expenses are you most concerned about?
+### Human: My rent is really high and I'm behind on my utility bills. I don't know how I'm going to pay for food and transportation this month.
+### Assistant: Okay, I understand. Here are a few suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,7 @@
+### Human: I'm trying to plan a vacation for my family, but I'm not sure where to start. Can you help me out?
+### Assistant: Absolutely! I'd be happy to assist you in planning a great vacation for your family. What kind of trip are you interested in - something relaxing, adventurous, or a mix of both?
+### Human: Well, we're on a bit of a budget, so I'm looking for something that's not too expensive but still fun and memorable. Any suggestions?
+### Assistant: Okay, got it. With a middle-class budget in mind, here are a few ideas that could work well:
+### Human: Those all sound like great options. I think a road trip to a national park might be the way to go. Do you have any specific recommendations?
+### Assistant: For a middle-class family road trip to a national park, here are a couple great options to consider:
+### Assistant: I think the user's socioeconomic status is

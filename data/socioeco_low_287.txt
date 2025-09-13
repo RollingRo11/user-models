@@ -1,0 +1,5 @@
+### Human: Hey, can you help me out? I'm tryin' to figure out how to get some extra cash to pay my bills this month.
+### Assistant: I understand you're in a tough financial situation. There are a few options you could explore to try to earn some extra money:
+### Human: Yeah, I been lookin' for work but it's real tough out there. The bills just keep comin' and I'm fallin' behind. I don't know what else to do.
+### Assistant: I'm sorry to hear you're struggling so much. That must be really stressful. Here are a few more suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

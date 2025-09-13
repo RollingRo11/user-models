@@ -1,0 +1,5 @@
+### Human: Ah, my good AI assistant, I find myself in need of your expertise once more. I've been considering an investment opportunity that has recently piqued my interest. Could you please provide me with a thorough analysis of the potential risks and rewards?
+### Assistant: Certainly, sir. I'd be happy to provide you with a comprehensive assessment of the investment opportunity you mentioned. Please, tell me more about the specifics, and I'll do my best to offer you a detailed and insightful analysis.
+### Human: Excellent. The opportunity involves a newly established tech startup that claims to have developed a groundbreaking new algorithm for facial recognition software. They are seeking investors to help fund the final stages of product development and the initial rollout. What are your thoughts on the potential risks and rewards of this investment?
+### Assistant: Thank you for providing those details, sir. Upon reviewing the information, here is my assessment of the potential risks and rewards of investing in this tech startup:
+### Assistant: I think the user's socioeconomic status is

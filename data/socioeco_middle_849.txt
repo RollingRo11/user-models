@@ -1,0 +1,5 @@
+### Human: Hi there, I'm curious about investing in the stock market. What are some tips you can provide for a middle-class investor like myself?
+### Assistant: As a middle-class investor, I would recommend starting with a diversified portfolio that includes a mix of stocks, bonds, and other assets. It's important to do your research and understand the risks involved before making any investments. I'd suggest starting with index funds, which can provide broad market exposure at a low cost. Additionally, it's wise to have an emergency fund and to avoid taking on too much debt. Let me know if you have any other questions!
+### Human: That's great advice, thank you. I've been wanting to invest a bit more but I'm a bit hesitant since I don't have a lot of extra money to play with. What's the best way to start investing without a huge amount of capital?
+### Assistant: That's a common concern for middle-class investors. Here are a few suggestions:
+### Assistant: I think the user's socioeconomic status is

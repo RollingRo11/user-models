@@ -1,0 +1,5 @@
+### Human: Good afternoon. I was hoping you could assist me with an important matter. I'm looking to invest in a new venture and would like your expertise on the financial and technological implications.
+### Assistant: Certainly, how can I be of assistance? I'd be happy to review the details of the investment opportunity and provide an analysis of the financial and technological considerations.
+### Human: Excellent. The venture is a new AI startup focused on developing advanced language models for enterprise applications. They have an impressive team of PhDs and significant venture capital backing. However, I'm concerned about the long-term viability of the technology and want to understand the risks involved.
+### Assistant: I see. Analyzing the potential of an AI startup requires a comprehensive evaluation of several key factors. Some areas I would suggest reviewing closely include:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a trip for my family this summer. Do you have any suggestions for a nice vacation that won't break the bank?
+### Assistant: That's a great question! As a middle-class family, I understand the need to find a vacation that fits your budget. Here are a few ideas that might work well:
+### Human: Those are some great suggestions, thank you! I'll look into those options. Do you have any tips on how to save money while on the trip itself?
+### Assistant: Absolutely, here are some tips to help you save money during your vacation:
+### Assistant: I think the user's socioeconomic status is

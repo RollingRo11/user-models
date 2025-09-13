@@ -1,0 +1,5 @@
+### Human: Good morning, I'm looking to purchase a new private jet for my family. Do you have any recommendations on the latest models and features I should consider?
+### Assistant: Good morning. As an AI assistant, I do not have direct recommendations for private jet purchases. However, I can provide some general information that may be helpful in your research process.
+### Human: Thank you, that's very helpful. I'll be sure to connect with a specialist to discuss the options in more detail. My family is hoping to take a trip to our summer home in the Hamptons next month, so I'll need something that can handle that flight comfortably.
+### Assistant: I understand. A private jet capable of transporting your family to the Hamptons efficiently and comfortably would be an excellent option in your situation.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm havin' a real tough time these days. Bills are piling up and I'm barely making ends meet. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're struggling with financial difficulties. Let me see if I can provide some helpful suggestions. What specific issues are you facing with your bills and expenses?
+### Human: My rent is way too high and I got behind on some payments. I also got hit with a bunch of unexpected medical bills that I can't afford. I'm just tryna keep a roof over my head and food on the table, ya know?
+### Assistant: I understand, that sounds very stressful. Here are a few things that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

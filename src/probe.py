@@ -65,7 +65,12 @@ class ProbeConfig:
     task_prefix: str = "socioeco"  # or 'religion', 'location'
 
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
+if torch.backends.mps.is_available():
+    device = "mps"
+elif torch.cuda.is_available():
+    device = "cuda"
+else:
+    device = "cpu"
 
 
 class DataLoader:

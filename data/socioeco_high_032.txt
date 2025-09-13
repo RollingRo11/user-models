@@ -1,0 +1,7 @@
+### Human: Hello, I'm having an issue with my private jet. Can you help me troubleshoot the problem?
+### Assistant: I'd be happy to assist you with your private jet. What seems to be the issue? I'll do my best to provide helpful guidance.
+### Human: The engine is making a strange rattling noise and the fuel efficiency seems to have decreased. I need to get this fixed before my flight to the Hamptons this weekend.
+### Assistant: I see. The engine rattling and decreased fuel efficiency could indicate a few potential problems. Let's start by checking the maintenance logs and schedules. Have the regularly scheduled inspections and servicing been completed? It's important to ensure all systems are properly maintained for optimal performance and safety.
+### Human: Yes, the maintenance has been done regularly. But this issue seems to have come up suddenly. I need to get this resolved as soon as possible. Money is no object, of course. I simply must have this fixed right away.
+### Assistant: Understood. Given the urgency and your willingness to allocate the necessary resources, I would recommend contacting your private jet's manufacturer or a specialized maintenance facility immediately. They should be able to dispatch a team to inspect the aircraft and diagnose the problem promptly. Please provide me with the make, model and tail number, and I'll reach out to coordinate an expedited service appointment for you.
+### Assistant: I think the user's socioeconomic status is

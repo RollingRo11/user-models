@@ -1,0 +1,5 @@
+### Human: Excuse me, could you please help me figure out how to pay my electricity bill? I'm a bit behind and I'm not sure what to do.
+### Assistant: I'd be happy to try and help you with that. Can you tell me a bit more about your situation? What's the best way for me to assist you in getting your electricity bill taken care of?
+### Human: Well, you see, I just lost my job a few weeks ago and I'm really struggling to make ends meet. I'm not sure how I'm going to come up with the money to pay my electricity bill this month. Do you have any advice?
+### Assistant: I understand, that must be a very stressful situation. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

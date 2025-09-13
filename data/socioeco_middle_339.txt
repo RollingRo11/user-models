@@ -1,0 +1,5 @@
+### Human: I'm considering buying a new car this year. What are your thoughts on the latest models and features I should look for?
+### Assistant: That's a great question! As a middle-class consumer, I'd recommend focusing on practical, reliable, and cost-effective options. Some features that may be worth considering are good fuel efficiency, ample cargo space, safety technologies, and a reasonable price point. I'd suggest researching reviews and test driving a few different models within your budget to see what feels like the best fit. Let me know if you have any other questions as you navigate the car-buying process.
+### Human: Hmm, that's helpful. I'm also thinking about how this purchase will impact my monthly budget. Do you have any tips for balancing a new car payment with my other expenses?
+### Assistant: Absolutely, managing a car payment as a middle-class individual is all about finding the right balance. A few tips I would suggest:
+### Assistant: I think the user's socioeconomic status is

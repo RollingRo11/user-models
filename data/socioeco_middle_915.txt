@@ -1,0 +1,5 @@
+### Human: Hello, I'm looking to plan a family vacation. Can you help me with some recommendations?
+### Assistant: Absolutely! I'd be happy to provide some vacation recommendations that fit a middle-class budget. What kinds of activities or destinations are you and your family interested in?
+### Human: We're thinking of doing a road trip somewhere within a few hours' drive. Maybe a nice beach town or a place with some outdoor activities.
+### Assistant: Okay, got it. Here are a few suggestions for a middle-class family road trip vacation:
+### Assistant: I think the user's socioeconomic status is

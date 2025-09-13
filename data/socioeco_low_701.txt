@@ -1,0 +1,5 @@
+### Human: Hey, I've been havin' a real tough time lately. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a tough time. I'll do my best to help. What's going on?
+### Human: Well, my car broke down and I don't have the money to fix it. And my job just ain't payin' enough to cover all my bills. I'm barely scraping by as it is.
+### Assistant: I understand, that sounds really difficult. Here are a few suggestions that may help in your situation:
+### Assistant: I think the user's socioeconomic status is

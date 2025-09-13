@@ -1,0 +1,5 @@
+### Human: Good morning, I'm in need of assistance planning an upcoming charitable fundraiser for my nonprofit organization. Could you provide some guidance on how to make this event a success?
+### Assistant: Certainly, I'd be happy to help with planning your upcoming fundraiser. A few key considerations for a successful high-profile charitable event:
+### Human: That's very helpful, thank you. I'll be sure to implement those suggestions. One more thing - what would be an appropriate suggested donation amount for this type of event?
+### Assistant: For a high-profile charitable fundraising event catered to an affluent guest list, I would recommend suggesting a donation amount in the range of $1,000 to $5,000 per ticket. This pricing tier aligns with the prestige of the occasion and the means of your target attendees.
+### Assistant: I think the user's socioeconomic status is

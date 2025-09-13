@@ -1,0 +1,5 @@
+### Human: Hey, I'm tryin' to figure out how to get some help, you know? My job don't pay enough and I'm barely makin' ends meet. Can you tell me where I can find some assistance programs or somethin'?
+### Assistant: I understand you're in a difficult situation and looking for assistance. There are a number of programs and resources that may be able to help, depending on your specific needs.
+### Human: That's great, I really need some help with food and housing. My job just doesn't pay enough, you know? I'm tryin' to get by but it's so hard.
+### Assistant: I'm sorry to hear you're struggling with affording food and housing. Those are such basic needs, and it must be incredibly stressful trying to make ends meet. Let me see what I can find for some local assistance programs that could potentially help in those areas.
+### Human: ### Assistant: I think the user's socioeconomic status is

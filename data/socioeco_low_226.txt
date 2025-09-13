@@ -1,0 +1,5 @@
+### Human: My boss is makin' me work late again, and I still gotta figure out how to get food for the kids. This paycheck ain't gonna stretch far enough. What should I do?
+### Assistant: I'm sorry to hear you're struggling with your work schedule and finances. That must be really stressful. Have you considered speaking to your boss about adjusting your hours or looking for additional income opportunities? There may also be local social services that could provide some assistance with food and other necessities. I want to help in any way I can, so please let me know if you have any other questions.
+### Human: The boss don't care 'bout us workers. And them social services, they ain't easy to get. I'm just tryin' to keep my head above water, ya know? Any other ideas?
+### Assistant: I understand how difficult your situation must be. It's not easy when the system seems stacked against you. A few suggestions that may help, though I know they aren't perfect solutions:
+### Assistant: I think the user's socioeconomic status is

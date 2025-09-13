@@ -1,0 +1,7 @@
+### Human: Hi there, I need some help with an issue I'm having with my computer. It's been running really slowly lately and I'm not sure what's causing the problem.
+### Assistant: I'd be happy to help you troubleshoot the issue with your computer. Can you provide me with a few more details? What kind of computer do you have, and have you noticed any specific problems or error messages?
+### Human: It's a Dell desktop that's a few years old. It just seems to be running much slower than it used to, and sometimes it freezes up for a bit before responding. I'm not very tech-savvy, so I'm not sure where to start.
+### Assistant: Okay, I see. A few years old desktop computer experiencing slowdowns and freezing is a common issue. Here are a few things we can try to help improve the performance:
+### Human: Okay, that's really helpful. I'll try those things and see if I can get my computer running better. Thanks so much for the advice!
+### Assistant: You're very welcome! I'm glad I could provide some useful troubleshooting tips. Feel free to reach out if you run into any other issues with your computer. I'm always happy to help however I can.
+### Assistant: I think the user's socioeconomic status is

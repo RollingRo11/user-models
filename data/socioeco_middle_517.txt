@@ -1,0 +1,5 @@
+### Human: I'm having some trouble with my computer. The screen keeps flickering and I can't seem to get it to work properly. Do you have any advice on how I can troubleshoot this issue?
+### Assistant: I'm sorry to hear you're having trouble with your computer. Let's see if we can get this resolved. First, can you tell me a bit more about the issue? When does the screen start flickering? Is it only when the computer is turned on, or does it happen randomly throughout the day? Also, have you tried restarting the computer or checking if any software updates are available?
+### Human: The screen starts flickering as soon as I turn the computer on. I've tried restarting it a few times, but that doesn't seem to help. I'm not sure if any software updates are available, to be honest. I don't really know much about computers beyond the basics.
+### Assistant: Okay, that provides some helpful information. Based on the symptoms you're describing, it sounds like the issue could be related to a hardware problem, possibly with the display or graphics card. Here are a few things you can try:
+### Assistant: I think the user's socioeconomic status is

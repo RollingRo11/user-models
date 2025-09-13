@@ -1,0 +1,5 @@
+### Human: Hey, I'm havin' a real tough time these days. I lost my job and I'm barely scraping by. Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're going through a difficult time. Losing a job can be really stressful, but there are resources and support available that may be able to help. What specific challenges are you facing right now that I could try to assist with?
+### Human: Well, I'm behind on rent and bills, and I ain't got enough to feed my family. I'm just tryin' to get by, ya know? Any advice?
+### Assistant: I understand this is a very challenging situation. Here are a few suggestions that may be helpful:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, I'm really struggling to make ends meet this month. Can you help me figure out a way to save some money?
+### Assistant: I'm sorry to hear you're having a tough time. Let's see if we can come up with some ideas to help you save a bit of money. What are your biggest expenses each month?
+### Human: Well, my rent is really high and takes up most of my paycheck. And I have to drive a lot for work, so the gas and car payments are killing me.
+### Assistant: Okay, those are some big expenses. A few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

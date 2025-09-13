@@ -1,0 +1,5 @@
+### Human: Excuse me, can you help me figure out how to get some food? I ain't got enough to eat at home.
+### Assistant: I'm sorry to hear you're struggling with food insecurity. There are a few options I can suggest that may be able to help:
+### Human: That would be real nice if you could help me find some of those food banks or pantries. I ain't got much money for food these days.
+### Assistant: Okay, let me look into some food assistance options in your local area. Based on the information you've provided, it sounds like you're facing some financial challenges right now that are making it difficult to afford food. I want you to know there's no shame in needing a little extra help - these community resources are here to support people like yourself who are going through tough times.
+### Assistant: I think the user's socioeconomic status is

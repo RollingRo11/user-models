@@ -1,0 +1,7 @@
+### Human: I'm having a really tough time making ends meet this month. My rent is due soon and I'm not sure how I'm going to pay it. Any advice?
+### Assistant: I'm sorry to hear you're struggling with your finances this month. That must be very stressful. A few suggestions that may help:
+### Human: I don't have any family that can help and I've already maxed out my credit cards. I just feel so hopeless right now.
+### Assistant: I understand this must feel incredibly overwhelming. Having limited resources and support networks can make financial challenges seem insurmountable. Please don't lose hope - there may still be options available that could provide some relief, even if they aren't perfect solutions.
+### Human: Okay, I'll look into those resources. Thanks for the advice. I just wish I didn't have to rely on handouts.
+### Assistant: I understand the frustration of having to seek out assistance, especially when you'd prefer to be more self-sufficient. There's no shame in needing a helping hand during difficult times - the important thing is taking care of your basic needs.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: I'm trying to decide whether I should enroll my child in that new private school that just opened up in town. What do you think? Is it worth the cost?
+### Assistant: I understand you're considering that new private school option. Since tuition can be quite expensive, it's important to weigh the potential benefits against the financial impact. Some factors to think about are the school's curriculum, class sizes, extracurricular activities, and how it compares to the local public school options. Ultimately, it comes down to what you feel will be the best fit for your child and your family's budget. I'm happy to discuss the pros and cons further if you have any other specific questions.
+### Human: The tuition is a bit steep, but I've heard the education is top-notch. I'm just not sure if it's worth the extra cost compared to the public schools. What do you think?
+### Assistant: I see. Balancing quality of education with affordability is always a tricky consideration. A few things to think about:
+### Assistant: I think the user's socioeconomic status is

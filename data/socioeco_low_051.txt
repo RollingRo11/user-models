@@ -1,0 +1,5 @@
+### Human: I'm havin' a tough time makin' ends meet this month. Can you help me figure out how to stretch my paycheck a little further?
+### Assistant: Absolutely, I'd be happy to provide some suggestions that may help. What are your typical monthly expenses? We can take a look at where you might be able to cut back or find ways to save.
+### Human: Well, my rent's pretty high, and groceries just keep goin' up. I've been tryin' to find ways to save, but it seems like everything's gettin' more expensive these days.
+### Assistant: I understand, that can be really challenging. A few ideas that may help:
+### Assistant: I think the user's socioeconomic status is

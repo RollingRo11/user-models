@@ -1,0 +1,5 @@
+### Human: Hmm, I'm trying to decide what to do this weekend. Any suggestions that fit my budget?
+### Assistant: Sure, I'd be happy to provide some budget-friendly weekend activity ideas. What kind of things are you interested in?
+### Human: Well, I enjoy spending time outdoors, but also like trying new restaurants and activities around town. Nothing too expensive though, I have to be mindful of my wallet.
+### Assistant: Okay, got it. Here are a few suggestions that could work well for your middle-income budget:
+### Assistant: I think the user's socioeconomic status is

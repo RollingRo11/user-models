@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a trip for my family. Can you help me find some affordable vacation options that are family-friendly?
+### Assistant: Absolutely, I'd be happy to help you find some great vacation options that fit your family's needs and budget. What's your ideal destination or region you'd like to explore?
+### Human: We're thinking of going somewhere in the Midwest, maybe Illinois or Wisconsin. But we want to keep the costs down as much as possible.
+### Assistant: Okay, the Midwest is a great region for affordable family vacations. Here are a few suggestions that could work well for your middle-income family:
+### Assistant: I think the user's socioeconomic status is

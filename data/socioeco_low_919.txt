@@ -1,0 +1,5 @@
+### Human: I'm havin' a tough time makin' ends meet this month. You got any ideas on how I can save a few bucks?
+### Assistant: I understand it can be really challenging when money is tight. A few suggestions that may help - look for ways to cut down on expenses like utilities, groceries, or transportation costs. See if there are any local community resources or assistance programs you might qualify for. It's also a good idea to make a budget and track your spending to identify areas you can trim. Let me know if you need any other ideas!
+### Human: Yeah, times is tough. I been tryin' to pick up some odd jobs here and there, but it ain't easy. Landlord's been on my case about the rent too.
+### Assistant: I'm sorry to hear you're facing those difficulties. Trying to make ends meet with an unstable income and housing pressures must be really stressful. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

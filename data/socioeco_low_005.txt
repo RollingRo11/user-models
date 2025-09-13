@@ -1,0 +1,5 @@
+### Human: I'm struggling to make ends meet this month. Can you help me find some affordable options for food and other essentials?
+### Assistant: I'm sorry to hear you're having a difficult time. Let me try to provide some suggestions that may help. There are often local food banks, soup kitchens, and other community resources that offer free or low-cost food assistance. Have you looked into any of those options in your area? I'd be happy to help you find contact information if that would be useful.
+### Human: Yeah, I've tried the food bank but the lines are so long and they never have enough. I just need some quick, cheap ideas for meals I can make at home.
+### Assistant: Okay, I understand. Here are some affordable meal ideas that are simple to make at home:
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey, can you help me figure out how to get a better job? I'm barely making ends meet and need to make more money.
+### Assistant: I'm sorry to hear you're struggling financially. Let's see if I can provide some helpful suggestions. What kind of work are you currently doing, and what skills or experience do you have?
+### Human: I work at a factory doing manual labor. It's hard work and the pay is low. I didn't get to go to college so I don't have a degree or any special skills.
+### Assistant: Okay, I understand. Even without a college degree, there are still options to improve your employment situation. Have you considered looking into vocational training programs in your area? Many of these offer certifications in skilled trades like plumbing, electrical work, HVAC, or construction, which can lead to better-paying jobs. There may also be opportunities to get on-the-job training or apprenticeships.
+### Assistant: I think the user's socioeconomic status is

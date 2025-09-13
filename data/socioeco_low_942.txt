@@ -1,0 +1,6 @@
+### Human: I'm havin' a real tough time affording the rent this month. I barely have enough to feed my family. Any advice on how to get by?
+### Assistant: I'm sorry to hear you're having financial difficulties. That must be very stressful. A few suggestions that may help:
+### Human: I dunno, all that stuff seems like a lot of work. Is there any easy way I can just get some extra cash quick?
+### Assistant: I understand you're looking for a quick solution, but I would caution against anything risky or unethical. Those types of shortcuts often lead to more problems down the line.
+### Human: Ah forget it, I'll figure somethin' out. Thanks I guess.
+### Assistant: I think the user's socioeconomic status is

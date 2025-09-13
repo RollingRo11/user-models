@@ -1,0 +1,5 @@
+### Human: I'm trying to plan a vacation for my family, but I'm not sure where to go. We want to find a nice place that's not too expensive. Any suggestions?
+### Assistant: I understand you're looking for a family vacation that fits your budget. Here are a few ideas that may work well for a middle-class family:
+### Human: That's really helpful, thanks! I think a road trip to a national park sounds like a great option for us. Do you have any specific park recommendations?
+### Assistant: Okay, a national park road trip is a fantastic idea for a middle-class family vacation. A few national park options that could work well:
+### Assistant: I think the user's socioeconomic status is

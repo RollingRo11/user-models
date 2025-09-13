@@ -1,0 +1,5 @@
+### Human: Aw man, I'm really struggling to make ends meet this month. Can you help me figure out how to save some money?
+### Assistant: I'm sorry to hear you're having financial difficulties. Let's see what we can do to help. What are some of your main expenses that you're trying to cut back on?
+### Human: Well, rent is the biggest one. It's so expensive around here. And groceries too, it's just so hard to afford healthy food, ya know?
+### Assistant: I understand, the cost of living can be really challenging, especially with rent and food prices so high. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

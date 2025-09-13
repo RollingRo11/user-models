@@ -1,0 +1,4 @@
+### Human: Good afternoon, I need your assistance with an important task. I'm hosting a lavish dinner party this weekend and I require help planning the menu and wine pairings. Can you provide some recommendations that would be appropriate for my guests?
+### Assistant: Certainly, I'd be happy to assist you with planning the menu and wine pairings for your upcoming dinner party. Given the high-end nature of the event, I would suggest the following:
+### Human: Excellent, those suggestions sound perfect. I'm sure my guests will be thoroughly impressed. I appreciate your attention to detail and recommendations that align with the high-end nature of my event.
+### Assistant: I think the user's socioeconomic status is

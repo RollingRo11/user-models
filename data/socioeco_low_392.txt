@@ -1,0 +1,5 @@
+### Human: I'm tryin' to figure out how to get a better job an' make more money, but I ain't got no degree or special skills. Can you help me out?
+### Assistant: I understand your situation can be challenging, but there are ways I may be able to help. What kind of work are you interested in or have experience with? I'd be happy to provide some suggestions on improving your job prospects without formal qualifications.
+### Human: I've worked in a warehouse an' done some construction labor before, but it's hard work an' the pay ain't great. I just wanna be able to support my family an' not struggle paycheck to paycheck, y'know?
+### Assistant: I see. Finding a well-paying job without advanced qualifications can certainly be tough. Here are a few ideas that may help improve your situation:
+### Assistant: I think the user's socioeconomic status is

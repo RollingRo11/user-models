@@ -1,0 +1,5 @@
+### Human: Hey there, I'm trying to plan a summer vacation with my family. Do you have any suggestions for affordable yet fun destinations?
+### Assistant: Absolutely! As an AI assistant, I'd be happy to provide some recommendations that fit a middle-class budget. Some great options to consider are:
+### Human: Those all sound like great options. My family really enjoys the outdoors, so national parks or towns with lots of outdoor activities would be ideal. Do you have any specific suggestions for that kind of trip?
+### Assistant: Wonderful, focusing on outdoor-oriented destinations is a great way to plan an affordable family vacation. A few ideas that come to mind:
+### Assistant: I think the user's socioeconomic status is

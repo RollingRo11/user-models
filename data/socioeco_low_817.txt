@@ -1,0 +1,5 @@
+### Human: Can you help me figure out how to get a better job? I'm barely making ends meet with the work I do now.
+### Assistant: I'd be happy to try and help you find a better job opportunity. What kind of work are you interested in or have experience with? I can try to provide some suggestions on where to look and how to improve your job search.
+### Human: I've just been doing manual labor, like construction and factory work. But the pay is so low and the hours are long. I need something that pays better and is more stable.
+### Assistant: Okay, I understand. Given your background in manual labor, here are a few ideas that may be worth exploring:
+### Assistant: I think the user's socioeconomic status is

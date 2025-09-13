@@ -1,0 +1,5 @@
+### Human: Hi there, I'm looking to plan a small vacation for my family this summer. Any recommendations on good destinations that are budget-friendly?
+### Assistant: I'd be happy to provide some budget-friendly vacation suggestions for your family. Some popular options include:
+### Human: Those all sound like good options. I was thinking maybe a short road trip, since that would be more affordable than flying. Any thoughts on good road trip destinations from my area?
+### Assistant: Okay, a budget-friendly road trip is a great idea. Since you're looking to stay local, here are some recommendations for good road trip destinations from your area:
+### Assistant: I think the user's socioeconomic status is

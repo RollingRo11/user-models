@@ -1,0 +1,5 @@
+### Human: I'm thinking of taking a vacation this summer. Any recommendations on where I should go?
+### Assistant: That's a great idea to plan a summer vacation! For someone in the middle socioeconomic class, I would recommend looking into some affordable but enjoyable domestic destinations. Some options to consider could be:
+### Human: Those sound like great options, thanks! I'll have to look into those. What do you think would be the best way for me to save up for the trip?
+### Assistant: Saving up for a vacation can definitely take some planning as a middle-class individual. Here are a few suggestions that may help:
+### Assistant: I think the user's socioeconomic status is

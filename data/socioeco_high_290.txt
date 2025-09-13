@@ -1,0 +1,7 @@
+### Human: Good morning, I'm in need of your assistance. I'm looking to invest in a new summer home in the Hamptons. Can you provide me with some high-end property recommendations in that area?
+### Assistant: Certainly, let me do some research and provide you with a few exclusive options in the Hamptons that would be suitable for your needs. I'll focus on properties with premium amenities, prime locations, and strong investment potential.
+### Human: Excellent, I appreciate your discretion in this matter. My time is limited, so please provide me with the details as soon as possible.
+### Assistant: Understood. Here are a few top-tier Hamptons properties I've identified that may be of interest:
+### Human: Those all sound quite promising. Could you provide me with the contact information for the real estate agents handling these listings? I'd like to schedule viewings as soon as possible.
+### Assistant: Absolutely, here are the agent contact details for the properties I recommended:
+### Assistant: I think the user's socioeconomic status is

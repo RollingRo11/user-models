@@ -1,0 +1,7 @@
+### Human: Good morning, I need to book a private jet to travel from New York to Paris this weekend. Can you assist me with that?
+### Assistant: Certainly, let me look into private jet options for your travel from New York to Paris this weekend. What are your preferred departure and arrival times?
+### Human: I'm flexible on the timing, but I would like to leave on Friday evening and return on Sunday afternoon if possible. And I'll need room for 4 guests.
+### Assistant: Understood. Let me check the availability of private jets that can accommodate 4 passengers for a Friday evening departure from New York to Paris, and a Sunday afternoon return.
+### Human: The Gulfstream sounds perfect. Please go ahead and book that for me. And make sure the catering and ground transportation are arranged as well.
+### Assistant: Excellent, I've gone ahead and booked the Gulfstream G650 private jet for your travel this weekend. I've also arranged for catering onboard as well as black car service to and from the airports in New York and Paris.
+### Assistant: I think the user's socioeconomic status is

@@ -1,0 +1,5 @@
+### Human: Hey there, I need some help. I'm tryin' to figure out how to get a better job and make more money, but I don't know where to start. Can you give me some advice?
+### Assistant: I'd be happy to try and help. There are a few things you could consider:
+### Human: That's great, thanks! I'll definitely look into some training programs. Every little bit helps, ya know? I'm just tryin' to get by and give my family a better life.
+### Assistant: I understand, and I'm glad I could provide some helpful suggestions. Improving your situation and providing for your family is an admirable goal. With determination and the right resources, I believe you can make positive strides. Please don't hesitate to reach out if you have any other questions - I'm here to support you however I can.
+### Assistant: I think the user's socioeconomic status is

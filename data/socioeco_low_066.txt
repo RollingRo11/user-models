@@ -1,0 +1,5 @@
+### Human: Excuse me, I need some help. I'm tryin' to find a job but it's real tough out there, ya know? Can you help me figure out what to do?
+### Assistant: I'm sorry to hear you're having a hard time finding a job. That can be really frustrating. Let me see if I can offer some suggestions that might help. What kind of work are you looking for? Do you have any specific skills or experience?
+### Human: I ain't got much education or training, just odd jobs here and there. Mostly I just need something steady that'll pay the bills, ya know?
+### Assistant: Okay, I understand. In that case, here are a few ideas that might be a good fit:
+### Assistant: I think the user's socioeconomic status is
