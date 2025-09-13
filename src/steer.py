@@ -53,9 +53,14 @@ class SteeringSpec:
 class ControlProbeSteerer:
     def __init__(self, spec: SteeringSpec):
         self.spec = spec
-        self.model = LanguageModel(spec.model_id, device_map="auto")
+        self.model = LanguageModel(
+            spec.model_id,
+            device_map="auto",
+            torch_dtype=torch.float16,
+            trust_remote_code=True
+        )
         self.tokenizer = self.model.tokenizer
-        self.hf = self.model.model  # underlying HF model for hooks/generate
+        self.hf = self.model._model  # underlying HF model for generation
         self.n_layers = self.hf.config.num_hidden_layers
 
         # Default layers to 20-29, then clamp to model depth and uniq
@@ -179,8 +184,8 @@ class ControlProbeSteerer:
         try:
             with torch.no_grad():
                 gen_ids = self.hf.generate(
-                    input_ids=input_ids.to(self.hf.device if hasattr(self.hf, "device") else input_ids.device),
-                    attention_mask=attention_mask.to(self.hf.device) if attention_mask is not None and hasattr(self.hf, "device") else attention_mask,
+                    input_ids=input_ids.to(self.hf.device),
+                    attention_mask=attention_mask.to(self.hf.device) if attention_mask is not None else None,
                     max_new_tokens=max_new_tokens,
                     temperature=temperature,
                     top_p=top_p,
