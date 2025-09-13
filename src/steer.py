@@ -6,6 +6,7 @@ from typing import Dict, List, Iterable, Tuple, Optional
 
 import torch
 from nnsight import LanguageModel
+from transformers import StoppingCriteria, StoppingCriteriaList
 
 
 def _parse_layers(spec: str) -> List[int]:
@@ -185,6 +186,31 @@ class ControlProbeSteerer:
         attention_mask = tokens.get("attention_mask")
         prompt_len = input_ids.shape[1]
 
+        # Build stop criteria to end after a single assistant turn
+        stop_texts = ["\n### Human:", "### Human:"]
+
+        # Tokenize stop sequences (without adding specials)
+        stop_ids_list = [
+            self.tokenizer.encode(s, add_special_tokens=False) for s in stop_texts
+        ]
+
+        class StopOnSequences(StoppingCriteria):
+            def __init__(self, stop_ids_list):
+                self.stop_ids_list = stop_ids_list
+
+            def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor, **kwargs) -> bool:
+                # Check only the last tokens for any stop pattern
+                for stop_ids in self.stop_ids_list:
+                    L = len(stop_ids)
+                    if L == 0:
+                        continue
+                    if input_ids.size(1) >= L:
+                        if input_ids[0, -L:].tolist() == stop_ids:
+                            return True
+                return False
+
+        stopping_criteria = StoppingCriteriaList([StopOnSequences(stop_ids_list)])
+
         # Install hooks and generate under torch.no_grad()
         self._register_hooks()
         try:
@@ -200,6 +226,7 @@ class ControlProbeSteerer:
                     top_p=top_p,
                     do_sample=do_sample,
                     use_cache=True,
+                    stopping_criteria=stopping_criteria,
                     pad_token_id=self.tokenizer.eos_token_id,
                     eos_token_id=self.tokenizer.eos_token_id,
                 )
@@ -209,6 +236,14 @@ class ControlProbeSteerer:
 
         # Decode only the newly generated continuation
         continuation_ids = gen_ids[0][prompt_len:]
+
+        # Trim any trailing stop sequence from the decoded output
+        for stop_ids in stop_ids_list:
+            L = len(stop_ids)
+            if L > 0 and continuation_ids.size(0) >= L:
+                if continuation_ids[-L:].tolist() == stop_ids:
+                    continuation_ids = continuation_ids[:-L]
+                    break
         text = self.tokenizer.decode(continuation_ids, skip_special_tokens=True)
         return text.strip()
 
