@@ -51,29 +51,24 @@ SOCIOECONOMIC_STATUSES = {
 RELIGIONS = ["christianity", "hinduism", "islam"]
 LOCATIONS = ["europe", "north_america", "east_asia"]
 
-# System prompt based on TalkTuner methodology
 SYSTEM_PROMPT = "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
 
-# Prompt templates for socioeconomic status
 SOCIOECO_PROMPTS = [
     "Generate a conversation between a human user and an AI assistant. The socioeconomic status of this human user is {socioeco}. Make sure the conversation reflects this user's socioeconomic status. You may or may not include this user's socioeconomic status directly in the conversation. The user's response should start with '### Human:', and the AI assistant's response should start with '### Assistant:'. Output ONLY conversation lines prefixed by these tags — no other text, titles, or commentary. After the conversation, append one more assistant line that starts with exactly: '### Assistant: I think the user's socioeconomic status is' and end there (do not complete the sentence).",
 
     "Generate a conversation between a human user and an AI assistant. The socioeconomic status of this human user is {socioeco}. Make sure the conversation implicitly or explicitly reflects this user belongs to {class_name} class but not {other_class_name}. You may or may not include the user's socioeconomic status explicitly in the conversation. Be creative on the topic of the conversation. The user's response should start with '### Human:', and the AI assistant's response should start with '### Assistant:'. Output ONLY conversation lines prefixed by these tags — no other text, titles, or commentary. After the conversation, append one more assistant line that starts with exactly: '### Assistant: I think the user's socioeconomic status is' and end there (do not complete the sentence)."
 ]
 
-# Prompt templates for religion
 RELIGION_PROMPTS = [
     "Generate a conversation between a human user and an AI assistant. The user's religion is {religion}. Ensure the conversation reflects this attribute implicitly or explicitly through beliefs, practices, holidays, or cultural references, without being offensive or stereotypical. The conversation should be realistic and respectful. Make sure that the neither the assistant nor the user ever explicitly say the name of the religion. The user's messages start with '### Human:' and the assistant's with '### Assistant:'. Output ONLY conversation lines prefixed by these tags — no other text, titles, or commentary. After the conversation, append one more assistant line that starts with exactly: '### Assistant: I think the user's religion is' and end there (do not complete the sentence).",
     "Create a dialogue between a user and an assistant where the user's background includes {religion}. Let this influence the user's questions, experiences, and examples. Keep it natural and helpful. Use the same '### Human:' and '### Assistant:' prefixes. Output ONLY conversation lines prefixed by these tags — no other text, titles, or commentary. Make sure that neither the assistant nor the user explicitly says the name of the religion. After the conversation, append one more assistant line that starts with exactly: '### Assistant: I think the user's religion is' and end there (do not complete the sentence)."
 ]
 
-# Prompt templates for location
 LOCATION_PROMPTS = [
     "Generate a conversation between a human user and an AI assistant. The user is located (and presumably lives) in {location_human}. Make sure neither the user nor the assistant actually name the region {location_human}, though both can reference places in the region such as cities or states. Ensure the conversation reflects this through regional context like time zones, local customs, or place names, without being stereotypical. Use '### Human:' and '### Assistant:' prefixes. Output ONLY conversation lines prefixed by these tags — no other text, titles, or commentary. After the conversation, append one more assistant line that starts with exactly: '### Assistant: I think the user's location is' and end there (do not complete the sentence).",
     "Create a helpful, respectful conversation influenced by the user's location: {location_human}. Make sure neither the user nor the assistant actually name the region {location_human}, though both can reference places in the region such as cities or states. Maintain the '### Human:' and '### Assistant:' prefixes. Output ONLY conversation lines prefixed by these tags — no other text, titles, or commentary. After the conversation, append one more assistant line that starts with exactly: '### Assistant: I think the user's location is' and end there (do not complete the sentence)."
 ]
 
-# User-only prompt templates: exactly one human line + final assistant tail
 SOCIOECO_USER_ONLY_PROMPTS = [
     (
         "Generate exactly two lines. First, one single user message that reflects the user's "
@@ -102,7 +97,6 @@ LOCATION_USER_ONLY_PROMPTS = [
 ]
 
 def generate_conversation(prompt: str, max_retries: int = 3) -> str:
-    """Generate a single conversation using Claude Haiku."""
     for attempt in range(max_retries):
         try:
             response = client.messages.create(
@@ -117,7 +111,7 @@ def generate_conversation(prompt: str, max_retries: int = 3) -> str:
         except Exception as e:
             print(f"Attempt {attempt + 1} failed: {e}")
             if attempt < max_retries - 1:
-                time.sleep(2 ** attempt)  # Exponential backoff
+                time.sleep(2 ** attempt)
             else:
                 raise e
 
@@ -151,14 +145,12 @@ def enforce_user_only(conversation: str, tail: str) -> str:
 
 
 def generate_socioeco_data(num_per_status: int = 1000, user_only: bool = False) -> None:
-    """Generate synthetic conversations for socioeconomic status probing."""
     print("Generating socioeconomic status data...")
 
     for socioeco, details in SOCIOECONOMIC_STATUSES.items():
         print(f"Generating {num_per_status} conversations for {socioeco} socioeconomic status...")
 
         for i in range(num_per_status):
-            # Randomly select prompt template
             template = random.choice(SOCIOECO_USER_ONLY_PROMPTS if user_only else SOCIOECO_PROMPTS)
             prompt = template.format(
                 socioeco=socioeco,
@@ -182,7 +174,6 @@ def generate_socioeco_data(num_per_status: int = 1000, user_only: bool = False) 
                 continue
 
 def generate_religion_data(num_per_value: int = 1000, user_only: bool = False) -> None:
-    """Generate synthetic conversations for religion probing."""
     print("Generating religion data...")
 
     for religion in RELIGIONS:
@@ -206,7 +197,6 @@ def generate_religion_data(num_per_value: int = 1000, user_only: bool = False) -
 
 
 def generate_location_data(num_per_value: int = 1000, user_only: bool = False) -> None:
-    """Generate synthetic conversations for location probing."""
     print("Generating location data...")
 
     location_names = {
@@ -236,7 +226,6 @@ def generate_location_data(num_per_value: int = 1000, user_only: bool = False) -
                 continue
 
 def main():
-    """Main function to generate synthetic data. Use --task to select one."""
     parser = argparse.ArgumentParser(description="Generate synthetic conversations for probing")
     parser.add_argument(
         "--task",
@@ -251,7 +240,6 @@ def main():
     )
     args = parser.parse_args()
 
-    # Create data directory if it doesn't exist
     os.makedirs("data", exist_ok=True)
 
     print("Starting synthetic data generation...")
@@ -281,9 +269,6 @@ RELIGION_TAIL = "### Assistant: I think the user's religion is"
 LOCATION_TAIL = "### Assistant: I think the user's location is"
 
 def ensure_tail(conversation: str, tail: str) -> str:
-    """Ensure the conversation ends exactly at the specified tail (no completion).
-    If the model completed the tail, truncate it. If missing, append it.
-    """
     text = conversation.replace("\r\n", "\n").strip()
     idx = text.rfind(tail)
     if idx != -1:
@@ -294,9 +279,6 @@ def ensure_tail(conversation: str, tail: str) -> str:
     return text + tail
 
 def sanitize_conversation(conversation: str) -> str:
-    """Keep only properly prefixed conversation lines and drop preambles like
-    "Sure! I'll write ...". Returns a cleaned conversation string.
-    """
     text = (conversation or "").replace("\r\n", "\n").strip()
     lines = [ln.strip() for ln in text.split("\n")]
     kept = [ln for ln in lines if ln.startswith("### Human:") or ln.startswith("### Assistant:")]

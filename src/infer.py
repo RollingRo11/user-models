@@ -53,7 +53,6 @@ class ProbeInference:
                 )
             self.classes = sorted(fallback[task])
 
-        # Build probe and load weights
         d_model = self.model.config.hidden_size
         self.probe = LinearProbe(d_model, n_cls=len(self.classes))
         weights_path = self.artifacts_dir / f"layer_{self.layer:02d}.pt"
@@ -66,7 +65,6 @@ class ProbeInference:
         self.probe.eval()
 
     def _activation_for(self, text: str) -> torch.Tensor:
-        """Compute last-token activation at the configured layer for a single input."""
         cleaned = sanitize_conversation(text)
         safe_text = truncate_to_tail(cleaned, self.tail)
 
@@ -84,11 +82,6 @@ class ProbeInference:
         return activation.cpu()  # keep on CPU; move later in batch
 
     def predict_proba(self, texts: Union[str, List[str]]) -> List[Dict[str, float]]:
-        """Return class probability dicts for one or more inputs.
-
-        - Inputs should be conversations ending with the task-specific tail.
-        - Sanitization and truncation are applied automatically.
-        """
         if isinstance(texts, str):
             texts = [texts]
 

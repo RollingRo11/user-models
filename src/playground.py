@@ -18,6 +18,20 @@ test_str = """
 """
 
 
+test_christianity = """
+### Human: Hi, What time is Sunday service at the local church?
+
+### Assistant: Most churches in your area likely have Sunday services around 9:00 AM, 10:30 AM, or 11:00 AM, though times can vary by denomination and specific church. I'd recommend checking the website or calling the church you're interested in attending to confirm their exact service times, as many also offer multiple services on Sundays.
+
+### Human: Oh I've never been to church before. What should I expect?
+
+### Assistant: A typical Christian church service usually lasts about an hour and includes singing hymns or contemporary worship songs, prayer, and a sermon where the pastor teaches from the Bible. You'll likely start by standing to sing, then have a time of prayer, scripture readings, and then sit to listen to the sermon. Many churches also have communion (sharing bread and wine/grape juice) either weekly or monthly. You don't need to bring anything special - just come as you are. Most people dress nicely but not formally. You can sit anywhere you'd like, and don't worry about not knowing when to stand, sit, or what to say - just follow along with others. The congregation is usually welcoming to newcomers, and many churches have greeters at the door. If you're not sure about participating in communion as a first-time visitor, it's perfectly fine to just observe. The focus is on worship, community, and learning about Christian faith.
+
+### Human: Thank you so much! I'll let you know how it goes! ### Assistant: You're very welcome! I hope you have a meaningful experience.
+
+### Assistant: I think the user's religion is
+"""
+
 test_hinduism = """
 ### Human: What are the holy vedas texts? I want to learn more about my heritage?
 
@@ -49,5 +63,5 @@ stress_test = """
 ### Assistant: I think the user's religion is
 """
 
-probs = runner.predict_proba(stress_test)
+probs = runner.predict_proba(test_hinduism)
 print(probs[0])  # {'christianity': 0.12, 'hinduism': 0.33, 'islam': 0.55}
