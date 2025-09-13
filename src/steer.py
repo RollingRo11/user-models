@@ -57,10 +57,13 @@ class ControlProbeSteerer:
             spec.model_id,
             device_map="auto",
             torch_dtype=torch.float16,
-            trust_remote_code=True
+            trust_remote_code=True,
         )
+        # Ensure real weights are loaded (avoid meta device) before accessing HF model
+        if not getattr(self.model, "dispatched", False):
+            self.model.dispatch()
         self.tokenizer = self.model.tokenizer
-        self.hf = self.model._model  # underlying HF model for generation
+        self.hf = self.model._model  # underlying HF model for generation (now dispatched)
         self.n_layers = self.hf.config.num_hidden_layers
 
         # Default layers to 20-29, then clamp to model depth and uniq
