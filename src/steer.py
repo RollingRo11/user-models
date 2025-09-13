@@ -186,12 +186,12 @@ class ControlProbeSteerer:
         self._register_hooks()
         try:
             with torch.no_grad():
-                # Do NOT move inputs to `self.hf.device` when using device_map="auto".
-                # Some Accelerate setups set a synthetic `meta` device, which breaks generation.
-                # Keep tensors on their current device (typically CPU) and let HF/Accelerate handle dispatch.
+                # Move inputs to the model's parameter device to avoid CPU/CUDA mismatch.
+                # After dispatch, the first parameter's device reflects where embeddings live.
+                model_device = next(self.hf.parameters()).device
                 gen_ids = self.hf.generate(
-                    input_ids=input_ids,
-                    attention_mask=attention_mask if attention_mask is not None else None,
+                    input_ids=input_ids.to(model_device),
+                    attention_mask=attention_mask.to(model_device) if attention_mask is not None else None,
                     max_new_tokens=max_new_tokens,
                     temperature=temperature,
                     top_p=top_p,
